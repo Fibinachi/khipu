@@ -1,0 +1,50 @@
+1000344	95	deep_sparse_mixed	5		
+1000501	27	deep_hierarchical_grouped	2	"Central Coast, Peru"	"Huaca Perez, Lima (a.k.a Hda. Infantas and Tambo Inca)"
+1000541	24	None	None	None	None
+1000094	18	deep_hierarchical_grouped	6		Nazca
+1000089	17	deep_hierarchical_grouped	6		Pachacamac
+1000115	17	census_format_paired	6		Nazca
+1000116	17	None	None	None	None
+1000510	17	deep_sparse_mixed	6	"Central Coast, Peru"	Pachacamac
+1000539	16	deep_sparse_mixed	6	"South Coast, Peru"	Ica
+1000045	13	None	None	None	None
+1000004	11	None	None	None	None
+1000096	11	deep_hierarchical_grouped	4		Lluta Valley
+1000529	11	None	None	None	None
+1000024	10	None	None	None	None
+1000063	10	deep_hierarchical_grouped	6		Between Ica and Pisco
+1000329	10	deep_hierarchical_grouped	6		Paracas
+1000057	9	large_value_flat	6		Between Ica and Pisco
+1000413	9	None	None	None	None
+1000524	9	deep_hierarchical_grouped	6	"Central Coast, Peru"	Pachacamac
+1000023	8	None	None	None	None
+1000053	7	deep_sparse_mixed	6		Ica
+1000274	7	deep_sparse_mixed	6		Santa
+1000523	7	deep_sparse_mixed	4	"Central Coast, Peru"	Pachacamac
+1000140	6	deep_hierarchical_grouped	6		Ica
+1000292	6	deep_hierarchical_grouped	6		Nazca
+1000293	6	deep_hierarchical_grouped	6		Paracas
+1000336	6	deep_sparse_mixed	4		
+1000345	6	deep_sparse_mixed	6		
+1000119	5	None	None	None	None
+1000164	5	large_value_flat	6		
+1000266	5	deep_sparse_mixed	6		
+1000273	5	deep_sparse_mixed	2		Santa
+1000279	5	deep_hierarchical_grouped	5	"Inka, Playa Miller"	Mollepampa
+1000007	4	None	None	None	None
+1000009	4	None	None	None	None
+1000018	4	None	None	None	None
+1000034	4	deep_sparse_mixed	2		
+1000050	4	None	None	None	None
+1000122	4	None	None	None	None
+1000147	4	deep_hierarchical_grouped	6		Pachacamac
+1000369	4	census_format_paired	6		
+1000415	4	deep_hierarchical_grouped	6		Acari
+1000518	4	None	None	None	None
+1000543	4	deep_sparse_mixed	6	"North-Central Coast, Peru"	Huacho
+1000546	4	deep_hierarchical_grouped	6	unknown	unknown
+1000547	4	deep_sparse_mixed	2	"South Coast, Peru"	Ica
+1000008	3	None	None	None	None
+1000012	3	None	None	None	None
+1000079	3	None	None	None	None
+1000101	3	None	None	None	None

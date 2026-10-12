@@ -1,0 +1,39 @@
+# khipu_id: 1000248
+# provenance: Huaquerones
+# region: Puruchuco
+# museum: Puruchuco Museum 7 Tex 641 Rt 639
+# nickname: 
+# file_format: .flat
+# data_regime: 
+# doc_cluster: 
+# template_id: 
+# segmentation: none
+# n_rows: 26
+# n_cols: 0
+ORDINAL,LEVEL,COLOR1,COLOR2,VALUE,KNOTS
+1,1,MB,AB,,
+2,1,MB,,,
+3,1,MB,CB,,
+4,1,MB,AB,,
+5,1,AB,,,
+6,1,AB,W,,
+7,1,AB,W,,
+8,1,CB,,,
+9,1,AB,W,,
+10,1,MB,AB,,
+11,1,RL,AB,,
+12,1,CB,MB,,
+13,1,AB,,,
+14,1,MB,AB,,
+15,1,MB,CB,,
+16,1,AB,W,,
+17,1,AB,W,,
+18,1,AB,MB,,
+19,1,AB,W,,
+20,1,CB,,,
+21,1,MB,CB,,
+22,1,AB,W,,
+23,1,AB,CB,,
+24,1,RL,AB,,
+25,1,RL,W,,
+26,1,AB,,,

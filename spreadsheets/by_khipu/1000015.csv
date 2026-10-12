@@ -1,0 +1,43 @@
+# khipu_id: 1000015
+# provenance: 
+# region: 
+# museum: "Museum of Culture History, University of California, Los Angeles" None
+# nickname: 
+# file_format: .flat
+# data_regime: 
+# doc_cluster: 
+# template_id: 
+# segmentation: none
+# n_rows: 30
+# n_cols: 0
+ORDINAL,LEVEL,COLOR1,COLOR2,VALUE,KNOTS
+1,1,LB,,24,"L:1,S:2"
+2,1,YB,,,
+3,1,G0,,,
+4,1,YB,,112,"L:1,S:2"
+5,1,YB,,142,"L:1,S:5"
+6,1,LB,YB,,
+7,1,LB,,,S:2
+8,1,YB,,1,E:1
+9,1,G0,,1,E:1
+10,1,YB,,,S:8
+11,1,YB,,,S:1
+12,1,LB,YB,,S:3
+13,1,LB,,,S:2
+14,1,YB,,,
+15,1,G0,,,
+16,1,YB,,,S:1
+17,1,YB,,132,"L:1,S:4"
+18,1,LB,YB,,S:4
+19,1,LB,,,S:3
+20,1,YB,,1,E:1
+21,1,G0,,1,E:1
+22,1,YB,,,S:9
+23,1,YB,,12,"L:1,S:1"
+24,1,LB,YB,,S:4
+25,1,?,,,
+26,1,LB,,,
+27,1,G0,,,
+28,1,YB,,,S:9
+29,1,YB,,112,"L:1,S:2"
+30,1,LB,YB,,S:5

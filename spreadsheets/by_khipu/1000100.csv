@@ -1,0 +1,38 @@
+# khipu_id: 1000100
+# provenance: 
+# region: 
+# museum: "Peabody Museum, Harvard University" 32.30.30/53a
+# nickname: 
+# file_format: .flat
+# data_regime: 
+# doc_cluster: 
+# template_id: 
+# segmentation: none
+# n_rows: 25
+# n_cols: 0
+ORDINAL,LEVEL,COLOR1,COLOR2,VALUE,KNOTS
+1,1,W,,,
+2,1,W,GG,,
+3,1,W,,20,S:4
+4,1,W,,20,S:3
+5,1,MB,,14,"L:1,S:1"
+6,1,AB,W,25,"L:1,S:2"
+7,1,GG,,4,L:1
+8,1,AB,,3,L:1
+9,1,W,,5,L:1
+10,1,W,GG,9,L:1
+11,1,GG,,4,L:1
+12,1,W,,28,"L:1,S:2"
+13,1,AB,,4,L:1
+14,1,AB,W,6,L:1
+15,1,W,,8,L:1
+16,1,AB,,11,"E:1,S:1"
+17,1,MB,W,,
+18,1,W,,22,"L:1,S:2"
+19,1,AB,,2,L:1
+20,1,AB,W,6,L:1
+21,1,W,,8,L:1
+22,1,AB,,2,L:1
+23,1,W,,22,"L:1,S:2"
+24,1,W,,367,"L:1,S:9"
+25,1,W,,,

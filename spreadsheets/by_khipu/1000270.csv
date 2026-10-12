@@ -1,0 +1,17 @@
+# khipu_id: 1000270
+# provenance: Santa
+# region: 
+# museum: Museo Temple Radicati 1
+# nickname: 
+# file_format: .tab
+# data_regime: DC6
+# doc_cluster: deep_sparse_mixed
+# template_id: T080
+# segmentation: white_dividers
+# n_rows: 3
+# n_cols: 24
+ROW_ID,IS_MARKER_ROW,SECTION,LG,LG_2,LG_3,LG_4,LG_5,LG_6,AB,AB_2,AB_3,MB,MB_2,AB_4,YB,YB_2,YB_3,AB_5,AB_6,AB_7,GG,GG_2,GG_3,GG_4,GG_5,GG_6
+,,,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,CONSTANT,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,CONSTANT,VARIABLE,VARIABLE,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT
+1,FALSE,1,9,47,9,157,,19,9,,14,10,19,18,9,57,11,,,,,,,,,
+2,FALSE,2,9,,9,10,15,,9,42,,164,,15,9,44,9,161,14,,13,46,8,184,13,
+3,FALSE,3,,,,,,,,,,,,,,,,,,,,,,,,

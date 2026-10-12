@@ -1,0 +1,114 @@
+khipu_id,feature,detail,count
+1000279,deep-hierarchy,level 6,6
+1000574,deep-hierarchy,level 5,5
+1000624,deep-hierarchy,level 5,5
+1000504,long-knot->9-turns,29 knots,29
+1000514,long-knot->9-turns,8 knots,8
+1000183,many-uncolored-cords,17 cords,17
+1000241,many-uncolored-cords,75 cords,75
+1000279,many-uncolored-cords,7 cords,7
+1000344,many-uncolored-cords,22 cords,22
+1000382,many-uncolored-cords,7 cords,7
+1000574,many-uncolored-cords,6 cords,6
+1000577,many-uncolored-cords,5 cords,5
+1000593,many-uncolored-cords,12 cords,12
+1000615,many-uncolored-cords,5 cords,5
+1000616,many-uncolored-cords,5 cords,5
+1000617,many-uncolored-cords,6 cords,6
+1000618,many-uncolored-cords,7 cords,7
+1000331,rare-fiber,CC,1
+1000533,rare-fiber,CC,58
+1000583,rare-fiber,CC,47
+1000279,rare-knot-BL,3 knots,3
+1000317,rare-knot-BL,1 knots,1
+1000504,rare-knot-BL,8 knots,8
+1000514,rare-knot-BL,2 knots,2
+1000004,rare-knot-EE,3 knots,3
+1000060,rare-knot-EE,8 knots,8
+1000159,rare-knot-EE,14 knots,14
+1000267,rare-knot-EE,1 knots,1
+1000279,rare-knot-EE,13 knots,13
+1000497,rare-knot-EE,1 knots,1
+1000514,rare-knot-EE,5 knots,5
+1000096,rare-knot-LL,13 knots,13
+1000382,rare-knot-LL,1 knots,1
+1000624,rare-knot-LL,1 knots,1
+1000635,rare-knot-LL,2 knots,2
+1000504,rare-knot-SP,133 knots,133
+1000514,rare-knot-SP,49 knots,49
+1000526,rare-knot-SP,28 knots,28
+1000528,rare-knot-SP,6 knots,6
+1000533,rare-knot-SP,1 knots,1
+1000554,rare-knot-SP,1 knots,1
+1000598,rare-knot-SP,1 knots,1
+1000605,rare-knot-SP,9 knots,9
+1000608,rare-knot-SP,10 knots,10
+1000613,rare-knot-SP,8 knots,8
+1000522,rare-knot-TF,128 knots,128
+1000008,twist-S-dominant,S=99%,100
+1000009,twist-S-dominant,S=98%,169
+1000018,twist-S-dominant,S=53%,280
+1000098,twist-S-dominant,S=100%,25
+1000165,twist-S-dominant,S=100%,170
+1000265,twist-S-dominant,S=98%,454
+1000266,twist-S-dominant,S=99%,144
+1000268,twist-S-dominant,S=100%,322
+1000269,twist-S-dominant,S=99%,185
+1000279,twist-S-dominant,S=92%,883
+1000287,twist-S-dominant,S=77%,101
+1000317,twist-S-dominant,S=71%,40
+1000318,twist-S-dominant,S=93%,42
+1000319,twist-S-dominant,S=93%,28
+1000321,twist-S-dominant,S=51%,183
+1000327,twist-S-dominant,S=57%,17
+1000331,twist-S-dominant,S=94%,180
+1000340,twist-S-dominant,S=57%,105
+1000344,twist-S-dominant,S=55%,594
+1000353,twist-S-dominant,S=88%,44
+1000359,twist-S-dominant,S=93%,99
+1000382,twist-S-dominant,S=97%,114
+1000396,twist-S-dominant,S=90%,252
+1000454,twist-S-dominant,S=99%,85
+1000488,twist-S-dominant,S=78%,45
+1000497,twist-S-dominant,S=93%,157
+1000509,twist-S-dominant,S=62%,226
+1000522,twist-S-dominant,S=98%,126
+1000564,twist-S-dominant,S=84%,297
+1000566,twist-S-dominant,S=61%,126
+1000567,twist-S-dominant,S=100%,66
+1000570,twist-S-dominant,S=86%,138
+1000574,twist-S-dominant,S=68%,48
+1000577,twist-S-dominant,S=100%,74
+1000584,twist-S-dominant,S=95%,131
+1000586,twist-S-dominant,S=90%,336
+1000591,twist-S-dominant,S=95%,122
+1000593,twist-S-dominant,S=100%,394
+1000027,twist-U-dominant,U=100%,9
+1000029,twist-U-dominant,U=100%,242
+1000034,twist-U-dominant,U=100%,137
+1000038,twist-U-dominant,U=100%,4
+1000043,twist-U-dominant,U=100%,120
+1000055,twist-U-dominant,U=100%,46
+1000056,twist-U-dominant,U=100%,1
+1000060,twist-U-dominant,U=100%,54
+1000096,twist-U-dominant,U=100%,1011
+1000128,twist-U-dominant,U=100%,58
+1000131,twist-U-dominant,U=100%,249
+1000142,twist-U-dominant,U=100%,60
+1000144,twist-U-dominant,U=100%,392
+1000159,twist-U-dominant,U=100%,64
+1000178,twist-U-dominant,U=100%,34
+1000179,twist-U-dominant,U=100%,136
+1000189,twist-U-dominant,U=100%,69
+1000192,twist-U-dominant,U=100%,93
+1000197,twist-U-dominant,U=100%,50
+1000198,twist-U-dominant,U=100%,280
+1000201,twist-U-dominant,U=100%,483
+1000209,twist-U-dominant,U=100%,132
+1000231,twist-U-dominant,U=100%,21
+1000232,twist-U-dominant,U=100%,20
+1000236,twist-U-dominant,U=100%,122
+1000345,twist-U-dominant,U=100%,255
+1000361,twist-U-dominant,U=100%,575
+1000368,twist-U-dominant,U=100%,164
+1000583,twist-U-dominant,U=98%,124

@@ -1,0 +1,25 @@
+# khipu_id: 1000478
+# provenance: unknown
+# region: 
+# museum: "American Museum of Natural History, NY" 41.2/6712
+# nickname: 
+# file_format: .tab
+# data_regime: unclustered
+# doc_cluster: census_format_paired
+# template_id: T134
+# segmentation: value_marker
+# n_rows: 11
+# n_cols: 4
+ROW_ID,IS_MARKER_ROW,SECTION,YB,YB_2,YB_3,YB_4
+,,,MARKER,VARIABLE,CONSTANT,CONSTANT
+1,TRUE,1,,3,,
+2,FALSE,1,7,5,9,2
+3,FALSE,1,7,10,3,
+4,FALSE,1,7,,,
+5,FALSE,1,,,,
+6,FALSE,1,,,,
+7,FALSE,1,,,,
+8,FALSE,1,,,,
+9,FALSE,1,,,,
+10,FALSE,1,,,,
+11,FALSE,1,,,,

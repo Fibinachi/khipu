@@ -1,0 +1,32 @@
+# khipu_id: 1000400
+# provenance: unknown
+# region: 
+# museum: Museo Regional de Ica 04395-02
+# nickname: 
+# file_format: .tab
+# data_regime: DC6
+# doc_cluster: deep_sparse_mixed
+# template_id: T123
+# segmentation: color_cycle
+# n_rows: 18
+# n_cols: 4
+ROW_ID,IS_MARKER_ROW,SECTION,AB,GG,MB,MB_2
+,,,VARIABLE,CONSTANT,VARIABLE,VARIABLE
+1,FALSE,1,90,,,
+2,FALSE,1,8,,,
+3,FALSE,1,,,,
+4,FALSE,1,,,,
+5,FALSE,1,,562,,
+6,FALSE,1,,,,
+7,FALSE,1,,,,
+8,FALSE,1,,,,
+9,FALSE,1,,30,,
+10,FALSE,1,22,,,
+11,FALSE,1,,,,
+12,FALSE,1,30,,,90
+13,FALSE,1,,,,10
+14,FALSE,1,626,,20,
+15,FALSE,1,,,,
+16,FALSE,1,,,10,
+17,FALSE,1,,,,
+18,FALSE,1,,,,

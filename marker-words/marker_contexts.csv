@@ -1,0 +1,701 @@
+khipu_id,ordinal,value,own_color,level,n-3,n-2,n-1,n+1,n+2,n+3,doc_cluster,data_cluster,provenance,region,tertile
+1000002,17,34,GG,1,W,GG,PK,,KB,AB,BL,unknown,unknown,,,end
+1000004,3,34,KB,1,,?,W,,W,W,W,unknown,unknown,,,begin
+1000004,4,22,W,1,?,W,KB,,W,W,AB,unknown,unknown,,,begin
+1000004,7,32,AB,1,W,W,W,,W,W,AB,unknown,unknown,,,begin
+1000004,85,22,W,1,KB,W,AB,,W,W,RL,unknown,unknown,,,mid
+1000004,99,22,KB,1,W,W,GG,,AB,W,W,unknown,unknown,,,mid
+1000004,105,23,AB,1,W,KB,W,,W,GG,?,unknown,unknown,,,mid
+1000004,112,32,W,1,MB,W,GG,,W,GG,GG,unknown,unknown,,,end
+1000004,122,22,W,1,W,GG,W,,W,W,KB,unknown,unknown,,,end
+1000004,125,22,KB,1,W,W,W,,W,W,W,unknown,unknown,,,end
+1000004,127,34,W,1,W,KB,W,,W,GG,KB,unknown,unknown,,,end
+1000004,141,22,W,1,KB,AB,W,,AB,AB,GG,unknown,unknown,,,end
+1000007,17,33,MB,1,GG,W,W,,AB,BL,W,unknown,unknown,,,begin
+1000007,27,32,MB,1,BL,W,W,,W,BL,W,unknown,unknown,,,begin
+1000007,73,22,MB,1,AB,W,W,,MB,AB,AB,unknown,unknown,,,mid
+1000007,169,23,RL,1,BL,BL,W,,MB,RL,AB,unknown,unknown,,,end
+1000008,5,33,AB,1,AB,AB,AB,,AB,AB,AB,unknown,unknown,,,begin
+1000008,8,33,AB,1,AB,AB,AB,,AB,AB,AB,unknown,unknown,,,begin
+1000008,9,22,AB,1,AB,AB,AB,,AB,AB,AB,unknown,unknown,,,mid
+1000009,3,32,MB,1,,MB,MB,,AB,KB,MB,unknown,unknown,,,begin
+1000009,10,32,W,1,AB,AB,W,,MB,MB,BL,unknown,unknown,,,begin
+1000009,11,22,MB,1,AB,W,W,,MB,BL,BL,unknown,unknown,,,begin
+1000009,18,23,BL,1,RL,RL,BL,,BL,BL,AB,unknown,unknown,,,mid
+1000012,15,23,MB,1,KB,BG,MB,,AB,DG,KB,unknown,unknown,,,begin
+1000012,36,22,KB,1,MB,KB,MB,,GL,KB,KB,unknown,unknown,,,mid
+1000012,58,22,GR,1,GG,MB,W,,MB,MB,W,unknown,unknown,,,end
+1000017,9,22,KB,1,B,B,B,,KG,W,B,unknown,unknown,,,begin
+1000017,28,23,B,1,B,W,B,,B,KG,,unknown,unknown,,,end
+1000018,33,22,W,1,AB,AB,W,,AB,AB,AB,unknown,unknown,,,begin
+1000018,35,22,AB,1,W,W,AB,,AB,AB,AB,unknown,unknown,,,begin
+1000018,37,22,AB,1,AB,AB,AB,,AB,AB,AB,unknown,unknown,,,begin
+1000018,68,23,AB,1,AB,AB,AB,,AB,AB,AB,unknown,unknown,,,begin
+1000021,96,22,KB,1,W,AB,KB,,?,,,unknown,unknown,,,end
+1000023,106,22,W,1,W,W,W,,W,AB,AB,unknown,unknown,,,begin
+1000023,190,22,AB,1,AB,AB,AB,,GG,PG,GG,unknown,unknown,,,mid
+1000023,201,22,MB,1,MB,MB,MB,,MB,MB,MB,unknown,unknown,,,mid
+1000023,271,23,W,1,W,W,W,,W,AB,AB,unknown,unknown,,,mid
+1000023,277,22,AB,1,AB,AB,AB,,AB,AB,AB,unknown,unknown,,,end
+1000023,293,34,MB,1,MB,MB,MB,,GG,GG,GG,unknown,unknown,,,end
+1000023,362,33,MB,1,MB,MB,MB,,HB,BG,KB,unknown,unknown,,,end
+1000023,367,22,KB,1,BG,KB,MB,,AB,KB,AB,unknown,unknown,,,end
+1000024,11,22,MB,1,MB,KB,KB,,MB,MB,MB,unknown,unknown,,,begin
+1000024,13,23,MB,1,KB,MB,MB,,MB,GG,KB,unknown,unknown,,,begin
+1000024,25,22,KB,1,GG,KB,AB,,MB,MB,MB,unknown,unknown,,,begin
+1000024,116,34,MB,1,MB,MB,MB,,MB,MB,MB,unknown,unknown,,,begin
+1000024,278,22,MB,1,MB,MB,MB,,KB,?,RB,unknown,unknown,,,mid
+1000024,288,23,MB,1,MB,KB,MB,,MB,MB,MB,unknown,unknown,,,mid
+1000024,297,22,MB,1,MB,LK,MB,,MB,MB,G,unknown,unknown,,,mid
+1000024,396,23,MB,1,MB,AB,MB,,GG,MB,MB,unknown,unknown,,,end
+1000024,441,32,KB,1,MB,MB,KB,,KB,MB,MB,unknown,unknown,,,end
+1000024,442,32,KB,1,MB,KB,KB,,MB,MB,GG,unknown,unknown,,,end
+1000032,46,34,LB,1,LB,LB,LB,,LB,W,W,deep_hierarchical_grouped,3,,,end
+1000033,19,34,W,1,B,B,B,,W,W,W,census_format_paired,2,,,mid
+1000034,2,33,B,1,,,G,,B,B,W,deep_sparse_mixed,2,,,begin
+1000034,33,32,W,1,G,B,W,,W,W,W,deep_sparse_mixed,2,,,mid
+1000034,34,33,W,1,B,W,W,,W,W,W,deep_sparse_mixed,2,,,mid
+1000034,38,22,W,1,W,W,W,,W,MB,CB,deep_sparse_mixed,2,,,mid
+1000040,73,23,LB,1,LB,LB,GG,,LB,LB,LB,deep_sparse_mixed,6,Between Ica and Pisco,,end
+1000041,38,22,BD,1,BD,W,W,,W,W,BD,unknown,unknown,,,end
+1000045,6,22,W,1,W,W,W,,W,W,W,unknown,unknown,,,begin
+1000045,34,23,W,1,W,W,W,,W,W,W,unknown,unknown,,,begin
+1000045,43,33,W,1,W,W,W,,W,W,W,unknown,unknown,,,begin
+1000045,49,32,W,1,W,W,W,,W,W,W,unknown,unknown,,,begin
+1000045,50,22,W,1,W,W,W,,W,W,W,unknown,unknown,,,begin
+1000045,51,34,W,1,W,W,W,,W,W,W,unknown,unknown,,,begin
+1000045,83,23,W,1,W,W,W,,W,W,W,unknown,unknown,,,begin
+1000045,123,23,W,1,W,W,W,,W,W,W,unknown,unknown,,,mid
+1000045,169,34,W,1,W,W,W,,W,W,W,unknown,unknown,,,mid
+1000045,184,32,W,1,W,W,W,,W,W,W,unknown,unknown,,,end
+1000045,209,23,W,1,W,W,W,,W,W,W,unknown,unknown,,,end
+1000045,215,23,W,1,W,W,W,,W,W,W,unknown,unknown,,,end
+1000045,227,33,W,1,W,W,W,,W,W,W,unknown,unknown,,,end
+1000049,2,33,W,1,,,W,,W,W,W,unknown,unknown,,,begin
+1000050,3,33,LB,1,,YB,LB,,YB,LB,YG,unknown,unknown,,,begin
+1000050,11,23,BS,1,LB,0B,YB,,LB,YB,LB,unknown,unknown,,,begin
+1000050,19,23,BS,1,BS,LB,YB,,LB,LB,YG,unknown,unknown,,,mid
+1000050,49,22,YB,1,YG,LB,0B,,,,,unknown,unknown,,,end
+1000051,12,34,YB,1,LB,LB,BS,,BS,LB,YB,unknown,unknown,,,mid
+1000053,262,22,DB,1,DB,DB,YG,,DB,DB,DB,deep_sparse_mixed,6,Ica,,end
+1000053,265,22,DB,1,DB,DB,DB,,DB,DB,DB,deep_sparse_mixed,6,Ica,,end
+1000053,268,22,DB,1,DB,DB,DB,,DB,DB,DB,deep_sparse_mixed,6,Ica,,end
+1000053,272,22,DB,1,DB,DB,DB,,DB,DB,DB,deep_sparse_mixed,6,Ica,,end
+1000053,274,22,DB,1,DB,DB,DB,,DB,DB,DB,deep_sparse_mixed,6,Ica,,end
+1000053,277,22,DB,1,DB,DB,DB,,DB,DB,DB,deep_sparse_mixed,6,Ica,,end
+1000053,280,22,DB,1,DB,DB,DB,,DB,DB,DB,deep_sparse_mixed,6,Ica,,end
+1000057,11,32,W,1,W,W,W,,W,W,W,large_value_flat,6,Between Ica and Pisco,,begin
+1000057,18,34,MB,1,W,W,FR,,W,W,W,large_value_flat,6,Between Ica and Pisco,,begin
+1000057,23,32,W,1,W,W,W,,W,W,W,large_value_flat,6,Between Ica and Pisco,,begin
+1000057,53,33,W,1,FR,MB,W,,W,W,W,large_value_flat,6,Between Ica and Pisco,,begin
+1000057,55,32,W,1,W,W,W,,W,W,W,large_value_flat,6,Between Ica and Pisco,,begin
+1000057,57,23,W,1,W,W,W,,W,W,W,large_value_flat,6,Between Ica and Pisco,,mid
+1000057,96,33,W,1,W,W,W,,W,FR,MB,large_value_flat,6,Between Ica and Pisco,,mid
+1000057,113,22,W,1,W,FR,MB,,W,W,W,large_value_flat,6,Between Ica and Pisco,,end
+1000057,115,32,W,1,MB,W,W,,W,W,W,large_value_flat,6,Between Ica and Pisco,,end
+1000063,48,22,HB,1,HB,HB,HB,,HB,B,B,deep_hierarchical_grouped,6,Between Ica and Pisco,,begin
+1000063,82,32,G0,1,YB,G0,G0,,G0,G0,G0,deep_hierarchical_grouped,6,Between Ica and Pisco,,begin
+1000063,158,22,CB,1,CB,CB,CB,,CB,GY,GY,deep_hierarchical_grouped,6,Between Ica and Pisco,,mid
+1000063,206,22,HB,1,HB,HB,HB,,HB,HB,HB,deep_hierarchical_grouped,6,Between Ica and Pisco,,mid
+1000063,207,22,HB,1,HB,HB,HB,,HB,HB,B,deep_hierarchical_grouped,6,Between Ica and Pisco,,mid
+1000063,208,23,HB,1,HB,HB,HB,,HB,B,B,deep_hierarchical_grouped,6,Between Ica and Pisco,,mid
+1000063,226,23,YB,1,YB,YB,YB,,YB,YB,YB,deep_hierarchical_grouped,6,Between Ica and Pisco,,mid
+1000063,243,33,G0,1,G0,G0,G0,,G0,G0,G0,deep_hierarchical_grouped,6,Between Ica and Pisco,,end
+1000063,304,23,B,1,B,B,B,,B,B,B,deep_hierarchical_grouped,6,Between Ica and Pisco,,end
+1000063,305,23,B,1,B,B,B,,B,B,B,deep_hierarchical_grouped,6,Between Ica and Pisco,,end
+1000079,11,34,G0,1,B,B,B,,G0,G0,G0,unknown,unknown,,,begin
+1000079,13,22,G0,1,B,G0,G0,,G0,G0,G0,unknown,unknown,,,begin
+1000079,49,22,EB,1,EB,EB,EB,,EB,CB,CB,unknown,unknown,,,end
+1000080,19,22,DB,1,W,W,W,,W,W,W,unknown,unknown,,,mid
+1000080,21,23,W,1,W,DB,W,,W,W,DB,unknown,unknown,,,mid
+1000083,80,22,DB,1,DB,DB,DB,,CB,CB,?,unknown,unknown,,,end
+1000084,2,33,DB,1,,,W,,DB,DB,DB,unknown,unknown,,,begin
+1000085,40,23,LD,1,LD,LD,LD,,LD,0D,0D,deep_hierarchical_grouped,2,Nazca,,begin
+1000089,3,33,W,1,,W,W,,W,W,W,deep_hierarchical_grouped,6,Pachacamac,,begin
+1000089,14,33,W,1,NB,NB,W,,W,W,W,deep_hierarchical_grouped,6,Pachacamac,,begin
+1000089,20,34,NB,1,W,W,KB,,W,W,NB,deep_hierarchical_grouped,6,Pachacamac,,begin
+1000089,58,34,W,1,W,W,W,,W,W,W,deep_hierarchical_grouped,6,Pachacamac,,mid
+1000089,59,34,W,1,W,W,W,,W,W,?,deep_hierarchical_grouped,6,Pachacamac,,mid
+1000089,60,33,W,1,W,W,W,,W,?,NB,deep_hierarchical_grouped,6,Pachacamac,,mid
+1000089,70,23,W,1,W,W,W,,W,?,NB,deep_hierarchical_grouped,6,Pachacamac,,mid
+1000089,79,33,W,1,W,W,W,,W,W,W,deep_hierarchical_grouped,6,Pachacamac,,mid
+1000089,80,34,W,1,W,W,W,,W,W,KB,deep_hierarchical_grouped,6,Pachacamac,,mid
+1000089,87,34,W,1,NB,W,W,,W,W,W,deep_hierarchical_grouped,6,Pachacamac,,mid
+1000089,89,23,W,1,W,W,W,,W,W,W,deep_hierarchical_grouped,6,Pachacamac,,mid
+1000089,95,32,W,1,W,KB,NB,,W,W,W,deep_hierarchical_grouped,6,Pachacamac,,mid
+1000089,98,33,W,1,W,W,W,,W,W,W,deep_hierarchical_grouped,6,Pachacamac,,mid
+1000089,118,33,W,1,W,W,W,,W,W,W,deep_hierarchical_grouped,6,Pachacamac,,end
+1000089,138,34,W,1,W,W,W,,W,W,W,deep_hierarchical_grouped,6,Pachacamac,,end
+1000089,139,32,W,1,W,W,W,,W,W,W,deep_hierarchical_grouped,6,Pachacamac,,end
+1000089,140,32,W,1,W,W,W,,W,W,KB,deep_hierarchical_grouped,6,Pachacamac,,end
+1000091,21,32,YB,1,W,D0,YB,,YB,KB,YB,unknown,unknown,,,mid
+1000094,3,22,BB,1,,W,W,,BB,W,W,deep_hierarchical_grouped,6,Nazca,,begin
+1000094,35,34,W,1,W,W,W,,W,W,W,deep_hierarchical_grouped,6,Nazca,,begin
+1000094,52,23,W,1,BB,W,W,,W,W,W,deep_hierarchical_grouped,6,Nazca,,begin
+1000094,53,22,W,1,W,W,W,,W,W,W,deep_hierarchical_grouped,6,Nazca,,begin
+1000094,54,22,W,1,W,W,W,,W,W,BB,deep_hierarchical_grouped,6,Nazca,,begin
+1000094,61,32,W,1,BB,W,W,,W,W,W,deep_hierarchical_grouped,6,Nazca,,begin
+1000094,68,33,W,1,W,BB,BB,,W,W,W,deep_hierarchical_grouped,6,Nazca,,mid
+1000094,69,33,W,1,BB,BB,W,,W,W,W,deep_hierarchical_grouped,6,Nazca,,mid
+1000094,70,32,W,1,BB,W,W,,W,W,W,deep_hierarchical_grouped,6,Nazca,,mid
+1000094,71,33,W,1,W,W,W,,W,W,W,deep_hierarchical_grouped,6,Nazca,,mid
+1000094,112,22,B,1,B,B,B,,B,B,B,deep_hierarchical_grouped,6,Nazca,,mid
+1000094,120,34,B,1,B,B,B,,B,B,B,deep_hierarchical_grouped,6,Nazca,,mid
+1000094,129,23,B,1,B,B,B,,B,B,B,deep_hierarchical_grouped,6,Nazca,,end
+1000094,132,23,B,1,B,B,B,,B,B,B,deep_hierarchical_grouped,6,Nazca,,end
+1000094,145,34,G,1,B,B,G,,G,G,G,deep_hierarchical_grouped,6,Nazca,,end
+1000094,151,32,B,1,G,G,G,,B,G,G,deep_hierarchical_grouped,6,Nazca,,end
+1000094,159,23,G,1,G,G,G,,B,B,G,deep_hierarchical_grouped,6,Nazca,,end
+1000094,169,33,B,1,G,G,G,,B,G,G,deep_hierarchical_grouped,6,Nazca,,end
+1000096,84,22,W,1,W,W,W,,W,W,W,deep_hierarchical_grouped,4,Lluta Valley,,begin
+1000096,176,34,W,1,W,W,W,,W,W,W,deep_hierarchical_grouped,4,Lluta Valley,,begin
+1000096,210,23,W,1,W,W,W,,W,FB,W,deep_hierarchical_grouped,4,Lluta Valley,,begin
+1000096,266,32,W,1,BS,W,W,,W,W,W,deep_hierarchical_grouped,4,Lluta Valley,,begin
+1000096,353,23,W,1,W,W,W,,W,W,W,deep_hierarchical_grouped,4,Lluta Valley,,begin
+1000096,391,23,W,1,W,W,W,,W,SR,W,deep_hierarchical_grouped,4,Lluta Valley,,begin
+1000096,587,33,W,1,W,KB,W,,W,W,W,deep_hierarchical_grouped,4,Lluta Valley,,mid
+1000096,667,33,W,1,W,W,W,,W,W,SR,deep_hierarchical_grouped,4,Lluta Valley,,mid
+1000096,684,34,W,1,W,W,W,,W,W,W,deep_hierarchical_grouped,4,Lluta Valley,,mid
+1000096,777,33,W,1,W,W,W,,W,W,W,deep_hierarchical_grouped,4,Lluta Valley,,mid
+1000096,1288,32,W,1,W,W,W,,W,SR,W,deep_hierarchical_grouped,4,Lluta Valley,,end
+1000097,28,32,W,1,W,W,W,,W,W,W,census_format_paired,6,,,mid
+1000099,10,32,W,1,W,AB,W,,AB,W,AB,census_format_paired,2,,,begin
+1000099,27,22,W,1,MB,W,MB,,MB,W,MB,census_format_paired,2,,,mid
+1000100,18,22,W,1,W,AB,MB,,AB,AB,W,unknown,unknown,,,end
+1000100,23,22,W,1,AB,W,AB,,W,W,,unknown,unknown,,,end
+1000101,6,32,W,1,W,W,W,,MB,MB,MB,unknown,unknown,,,begin
+1000101,11,22,MB,1,MB,MB,MB,,W,W,W,unknown,unknown,,,mid
+1000101,13,22,W,1,MB,MB,W,,W,W,W,unknown,unknown,,,mid
+1000109,2,32,DB,1,,,W,,AB,AB,,unknown,unknown,,,begin
+1000111,2,22,R,1,,,W,,W,W,W,unknown,unknown,,,begin
+1000113,5,33,G,1,VG,LB,LB,,EB,LB,CB,unknown,unknown,,,begin
+1000115,4,22,B,1,B,B,B,,B,B,B,census_format_paired,6,Nazca,,begin
+1000115,14,22,B,1,B,B,B,,B,B,B,census_format_paired,6,Nazca,,begin
+1000115,37,34,B,1,B,B,B,,?,B,B,census_format_paired,6,Nazca,,begin
+1000115,38,32,?,1,B,B,B,,B,B,B,census_format_paired,6,Nazca,,begin
+1000115,39,23,B,1,B,B,?,,B,B,B,census_format_paired,6,Nazca,,begin
+1000115,40,23,B,1,B,?,B,,B,B,B,census_format_paired,6,Nazca,,begin
+1000115,46,32,B,1,B,B,B,,B,B,B,census_format_paired,6,Nazca,,begin
+1000115,52,23,B,1,B,B,B,,B,B,B,census_format_paired,6,Nazca,,begin
+1000115,64,22,B,1,B,B,B,,B,B,B,census_format_paired,6,Nazca,,mid
+1000115,83,23,B,1,B,B,B,,B,B,B,census_format_paired,6,Nazca,,mid
+1000115,89,22,B,1,B,B,B,,B,B,B,census_format_paired,6,Nazca,,mid
+1000115,93,23,B,1,B,B,B,,B,B,B,census_format_paired,6,Nazca,,mid
+1000115,102,22,B,1,B,B,B,,B,B,B,census_format_paired,6,Nazca,,mid
+1000115,116,32,B,1,B,B,B,,B,B,B,census_format_paired,6,Nazca,,mid
+1000115,118,34,B,1,B,B,B,,B,B,B,census_format_paired,6,Nazca,,mid
+1000115,139,22,B,1,B,B,B,,B,B,B,census_format_paired,6,Nazca,,end
+1000115,158,23,B,1,B,B,B,,B,B,B,census_format_paired,6,Nazca,,end
+1000116,4,23,W,1,W,W,W,,W,W,W,unknown,unknown,,,begin
+1000116,5,22,W,1,W,W,W,,W,W,W,unknown,unknown,,,begin
+1000116,6,22,W,1,W,W,W,,W,W,W,unknown,unknown,,,begin
+1000116,7,22,W,1,W,W,W,,W,W,W,unknown,unknown,,,begin
+1000116,8,23,W,1,W,W,W,,W,W,W,unknown,unknown,,,mid
+1000116,9,22,W,1,W,W,W,,W,W,W,unknown,unknown,,,mid
+1000116,10,22,W,1,W,W,W,,W,W,W,unknown,unknown,,,mid
+1000116,11,22,W,1,W,W,W,,W,W,W,unknown,unknown,,,mid
+1000116,12,22,W,1,W,W,W,,W,W,W,unknown,unknown,,,mid
+1000116,13,22,W,1,W,W,W,,W,W,W,unknown,unknown,,,mid
+1000116,14,22,W,1,W,W,W,,W,W,W,unknown,unknown,,,mid
+1000116,15,22,W,1,W,W,W,,W,W,W,unknown,unknown,,,end
+1000116,16,22,W,1,W,W,W,,W,W,W,unknown,unknown,,,end
+1000116,17,22,W,1,W,W,W,,W,W,W,unknown,unknown,,,end
+1000116,18,22,W,1,W,W,W,,W,W,,unknown,unknown,,,end
+1000116,19,22,W,1,W,W,W,,W,,,unknown,unknown,,,end
+1000116,20,22,W,1,W,W,W,,,,,unknown,unknown,,,end
+1000118,27,23,B,1,BB,B,BB,,BB,B,BB,large_value_flat,3,Ica,,end
+1000119,10,33,LB,1,W,W,W,,W,W,W,unknown,unknown,,,begin
+1000119,23,34,LB,1,W,W,W,,W,W,W,unknown,unknown,,,mid
+1000119,24,33,W,1,W,W,LB,,W,W,LB,unknown,unknown,,,mid
+1000119,27,33,LB,1,W,W,W,,W,W,W,unknown,unknown,,,mid
+1000119,36,32,W,1,W,W,LB,,W,LB,W,unknown,unknown,,,mid
+1000120,10,23,DB,1,B,B,B,,DB,DB,DB,deep_sparse_mixed,4,Pachacamac,,begin
+1000120,16,34,DB,1,DB,DB,DB,,B,B,B,deep_sparse_mixed,4,Pachacamac,,begin
+1000122,9,32,B,1,B,B,B,,B,B,B,unknown,unknown,,,mid
+1000122,10,23,B,1,B,B,B,,B,B,B,unknown,unknown,,,mid
+1000122,15,23,B,1,B,B,B,,B,B,B,unknown,unknown,,,end
+1000122,17,23,B,1,B,B,B,,B,,,unknown,unknown,,,end
+1000125,27,33,W,1,W,W,W,,,,,unknown,unknown,,,end
+1000128,11,23,BB,1,BB,BB,BB,,W,W,W,unknown,unknown,,,mid
+1000129,2,23,RB,1,,,YB,,RB,,,unknown,unknown,,,mid
+1000138,1,22,W,1,,,,,W,W,W,unknown,unknown,,,begin
+1000138,4,34,W,1,W,W,W,,W,W,W,unknown,unknown,,,begin
+1000139,15,32,DB,1,DB,B,W,,W,DB,W,unknown,unknown,,,end
+1000140,9,23,W,1,W,W,W,,W,W,W,deep_hierarchical_grouped,6,Ica,,begin
+1000140,11,23,W,1,W,W,W,,W,LB,LB,deep_hierarchical_grouped,6,Ica,,begin
+1000140,116,23,BB,1,B,B,BB,,B,B,B,deep_hierarchical_grouped,6,Ica,,mid
+1000140,166,33,B,1,B,B,B,,B,B,B,deep_hierarchical_grouped,6,Ica,,end
+1000140,179,32,YB,1,B,B,B,,B,LC,LC,deep_hierarchical_grouped,6,Ica,,end
+1000140,201,33,B,1,YG,YG,YG,,B,BB,BB,deep_hierarchical_grouped,6,Ica,,end
+1000142,11,32,LB,1,LC,B,LB,,LC,B,LD,unknown,unknown,,,mid
+1000144,13,33,MB,1,BS,B,G0,,0D,W,LC,deep_hierarchical_grouped,3,Pachacamac,,begin
+1000144,39,23,B,1,W,LC,BS,,G0,MB,0D,deep_hierarchical_grouped,3,Pachacamac,,mid
+1000144,57,22,W,1,G0,MB,0D,,YB,BS,BS,deep_hierarchical_grouped,3,Pachacamac,,mid
+1000147,15,23,W,1,YG,YG,YB,,LB,YG,YB,deep_hierarchical_grouped,6,Pachacamac,,begin
+1000147,21,33,LB,1,YB,YB,W,,YG,YB,YB,deep_hierarchical_grouped,6,Pachacamac,,begin
+1000147,44,22,YB,1,LB,YG,YB,,W,LB,YG,deep_hierarchical_grouped,6,Pachacamac,,begin
+1000147,169,34,YB,1,LB,YG,YB,,W,LB,YG,deep_hierarchical_grouped,6,Pachacamac,,end
+1000148,165,23,DB,1,DB,DB,DB,,DB,DB,RB,deep_hierarchical_grouped,6,Nazca,,end
+1000149,7,22,LK,1,LK,LK,LK,,LK,LK,LK,unknown,unknown,,,mid
+1000151,12,23,B,1,B,B,B,,B,B,GG,unknown,unknown,,,mid
+1000158,10,23,FB,1,W,W,LB,,RB,LB,W,unknown,unknown,,,mid
+1000161,12,23,B,1,B,B,B,,,,,unknown,unknown,,,end
+1000164,9,33,W,1,W,W,W,,DB,W,W,large_value_flat,6,,,begin
+1000164,16,33,MB,1,MB,DB,DB,,W,W,MB,large_value_flat,6,,,begin
+1000164,17,34,W,1,DB,DB,MB,,W,MB,DB,large_value_flat,6,,,begin
+1000164,24,23,W,1,DB,MB,W,,W,W,W,large_value_flat,6,,,begin
+1000164,70,23,DB,1,W,MB,DB,,W,W,W,large_value_flat,6,,,end
+1000166,1,33,LB,-1,,,,,RG,RG,RG,unknown,unknown,,,begin
+1000166,4,23,RG,1,LB,RG,RG,,RG,LB,LB,unknown,unknown,,,begin
+1000168,1,23,W,1,,,,,W,W,,unknown,unknown,,,begin
+1000168,2,23,W,1,,,W,,W,,,unknown,unknown,,,mid
+1000168,3,23,W,1,,W,W,,,,,unknown,unknown,,,end
+1000183,15,23,YB,1,YB,YB,YB,,W,YB,YB,unknown,unknown,,,begin
+1000183,150,23,W,1,YB,YB,YB,,YB,YB,FB,unknown,unknown,,,begin
+1000183,153,22,FB,1,W,YB,YB,,YB,0G,YB,unknown,unknown,,,begin
+1000192,1,22,W,1,,,,,YB,AB,BB,deep_sparse_mixed,6,,,begin
+1000192,10,32,W,1,W,W,AB,,W,W,AB,deep_sparse_mixed,6,,,begin
+1000192,28,22,W,1,W,W,?,,W,W,BB,deep_sparse_mixed,6,,,mid
+1000200,34,34,W,1,LB,LB,LB,,LB,W,W,unknown,unknown,,,end
+1000201,6,22,LB,1,W,DB,BL,,BL,LB,W,unknown,unknown,,,begin
+1000205,2,22,YB,1,,,YB,,YB,YB,,unknown,unknown,,,begin
+1000205,4,34,YB,1,YB,YB,YB,,,,,unknown,unknown,,,end
+1000207,8,34,YB,1,YB,YB,YB,,MB,G,MB,census_format_paired,2,,,begin
+1000208,4,23,LB,1,W,W,W,,LB,LB,LB,census_format_paired,6,,,begin
+1000208,27,23,LB,1,LB,LB,LB,,,,,census_format_paired,6,,,end
+1000214,6,32,AB,1,AB,AB,AB,,AB,DB,DB,unknown,unknown,,,begin
+1000214,11,23,DB,1,DB,DB,DB,,DB,DB,DB,unknown,unknown,,,begin
+1000228,10,22,W,1,W,LB,LB,,LB,LB,W,census_format_paired,6,Huacho,,begin
+1000228,27,22,W,1,LB,W,LB,,LB,LB,LB,census_format_paired,6,Huacho,,mid
+1000234,37,32,W,1,W,W,W,,MB,MB,W,census_format_paired,2,Peru,,mid
+1000235,21,22,RD,1,CB,CB,W,,BB,BB,BB,unknown,unknown,,,begin
+1000235,54,34,W,1,G,G,W,,SB,RD,W,unknown,unknown,,,end
+1000238,25,23,AB,1,MB,AB,AB,,AB,AB,AB,deep_hierarchical_grouped,6,,,begin
+1000238,98,23,AB,1,MB,AB,AB,,AB,AB,AB,deep_hierarchical_grouped,6,,,mid
+1000238,125,33,MB,1,HB,MB,MB,,HB,MB,MB,deep_hierarchical_grouped,6,,,mid
+1000239,44,22,AB,1,MB,MB,MB,,MB,AB,,deep_sparse_mixed,2,"""Pueblo Libre, Lima, Peru""",,end
+1000243,4,23,W,1,W,W,W,,W,W,W,unknown,unknown,,,begin
+1000243,5,23,W,1,W,W,W,,W,W,W,unknown,unknown,,,begin
+1000245,20,22,RB,1,AB,W,RL,,RB,YB,W,unknown,unknown,,,mid
+1000246,33,34,W,1,W,W,W,,?,W,W,census_format_paired,6,Huaquerones,Puruchuco,end
+1000246,35,33,W,1,W,W,?,,W,W,W,census_format_paired,6,Huaquerones,Puruchuco,end
+1000249,12,22,KB,1,AB,MB,W,,GG,W,AB,deep_sparse_mixed,2,Huaquerones,Puruchuco,begin
+1000249,55,22,AB,1,W,0G,W,,YB,RL,YB,deep_sparse_mixed,2,Huaquerones,Puruchuco,end
+1000251,19,32,W,1,AB,W,AB,,MB,AB,KB,deep_sparse_mixed,2,Huaquerones,Puruchuco,begin
+1000251,46,22,W,1,AB,W,MB,,MB,MB,W,deep_sparse_mixed,2,Huaquerones,Puruchuco,end
+1000251,62,34,W,1,AB,W,AB,,MB,W,W,deep_sparse_mixed,2,Huaquerones,Puruchuco,end
+1000256,1,23,W,1,,,,,W,G,W,census_format_paired,0,Huaquerones,Puruchuco,begin
+1000260,21,22,W,1,MB,YG,KB,,AB,GG,KB,unknown,unknown,,,mid
+1000261,21,22,W,1,AB,KB,AB,,MB,KB,AB,unknown,unknown,,,mid
+1000265,2,33,RL,1,,,W,,AB,W,RL,deep_sparse_mixed,3,,,begin
+1000266,11,33,W,1,RL,W,RL,,RL,W,RL,deep_sparse_mixed,6,,,begin
+1000266,19,32,W,1,RL,W,RL,,RL,W,RL,deep_sparse_mixed,6,,,mid
+1000266,21,22,W,1,RL,W,RL,,RL,W,RL,deep_sparse_mixed,6,,,mid
+1000266,31,22,W,1,RL,W,RL,,RL,W,RB,deep_sparse_mixed,6,,,end
+1000266,35,23,W,1,RL,W,RB,,RL,,,deep_sparse_mixed,6,,,end
+1000267,38,32,W,1,W,RL,AB,,RL,AB,W,deep_sparse_mixed,6,,,mid
+1000267,41,22,W,1,W,RL,AB,,RB,AB,W,deep_sparse_mixed,6,,,mid
+1000267,56,22,W,1,W,RB,AB,,RB,AB,W,deep_sparse_mixed,6,,,end
+1000268,50,22,RL,1,RB,AB,W,,AB,W,RL,deep_sparse_mixed,6,,,end
+1000268,62,23,RL,1,RB,AB,W,,AB,W,RL,deep_sparse_mixed,6,,,end
+1000268,63,23,AB,1,AB,W,RL,,W,RL,AB,deep_sparse_mixed,6,,,end
+1000269,17,32,W,1,RL,W,RL,,RL,W,RL,deep_sparse_mixed,2,,,begin
+1000269,41,22,W,1,RB,W,RL,,RB,W,RB,deep_sparse_mixed,2,,,mid
+1000273,54,22,YB,1,AB,AB,AB,,AB,AB,AB,deep_sparse_mixed,2,Santa,,begin
+1000273,167,22,RB,1,RB,RB,RB,,RB,RB,AB,deep_sparse_mixed,2,Santa,,mid
+1000273,192,22,RB,1,RB,RB,RB,,RB,RB,AB,deep_sparse_mixed,2,Santa,,mid
+1000273,217,22,RB,1,RB,RB,RB,,RB,RB,AB,deep_sparse_mixed,2,Santa,,end
+1000273,242,23,RB,1,RB,RB,RB,,RB,RB,AB,deep_sparse_mixed,2,Santa,,end
+1000274,8,22,W,1,B,B,W,,W,W,W,deep_sparse_mixed,6,Santa,,begin
+1000274,16,32,RL,1,RL,RL,RL,,RL,RL,YB,deep_sparse_mixed,6,Santa,,begin
+1000274,20,34,YB,1,RL,RL,YB,,YB,YB,YB,deep_sparse_mixed,6,Santa,,begin
+1000274,37,23,KB,1,KB,KB,KB,,RB,W,W,deep_sparse_mixed,6,Santa,,mid
+1000274,86,22,W,1,RL,RL,W,,W,W,W,deep_sparse_mixed,6,Santa,,end
+1000274,92,34,AB,1,W,W,AB,,HB,AB,AB,deep_sparse_mixed,6,Santa,,end
+1000274,104,32,LG,1,MG,MG,LG,,LG,LG,LG,deep_sparse_mixed,6,Santa,,end
+1000275,2,22,G0,1,,,G0,,G0,G0,G0,deep_sparse_mixed,2,Santa,,begin
+1000275,20,22,MB,1,W,W,MB,,MB,MB,MB,deep_sparse_mixed,2,Santa,,begin
+1000279,3,22,?,1,,SR,W,,W,W,W,deep_hierarchical_grouped,5,Mollepampa,"""Inka, Playa Miller""",begin
+1000279,4,33,W,1,SR,W,?,,W,W,W,deep_hierarchical_grouped,5,Mollepampa,"""Inka, Playa Miller""",begin
+1000279,50,23,AB,1,W,W,W,,W,W,W,deep_hierarchical_grouped,5,Mollepampa,"""Inka, Playa Miller""",mid
+1000279,61,34,W,1,AB,W,W,,W,AB,AB,deep_hierarchical_grouped,5,Mollepampa,"""Inka, Playa Miller""",end
+1000279,82,23,W,1,W,W,W,,?,W,W,deep_hierarchical_grouped,5,Mollepampa,"""Inka, Playa Miller""",end
+1000280,37,22,AB,1,AB,AB,AB,,?,W,AB,deep_hierarchical_grouped,3,,,begin
+1000280,70,34,BG,1,W,W,GG,,W,B,B,deep_hierarchical_grouped,3,,,mid
+1000280,150,22,MB,1,W,W,B,,GG,W,,deep_hierarchical_grouped,3,,,end
+1000283,2,22,GL,1,,,AB,,AB,AB,AB,unknown,unknown,,,begin
+1000291,14,33,AB,1,AB,AB,AB,,AB,AB,AB,unknown,unknown,,,mid
+1000292,43,22,RB,1,W,W,W,,RB,RB,RB,deep_hierarchical_grouped,6,Nazca,,begin
+1000292,160,32,RB,1,AB,MB,RB,,RB,RB,RB,deep_hierarchical_grouped,6,Nazca,,mid
+1000292,235,22,RB,1,AB,HB,RB,,RB,AB,RB,deep_hierarchical_grouped,6,Nazca,,end
+1000292,237,23,AB,1,RB,RB,RB,,RB,RB,RB,deep_hierarchical_grouped,6,Nazca,,end
+1000292,318,22,W,1,W,W,W,,W,RB,RB,deep_hierarchical_grouped,6,Nazca,,end
+1000292,319,32,W,1,W,W,W,,RB,RB,RB,deep_hierarchical_grouped,6,Nazca,,end
+1000293,12,22,W,1,W,W,W,,W,W,W,deep_hierarchical_grouped,6,Paracas,,begin
+1000293,52,33,KB,-1,AB,AB,AB,,KB,KB,KB,deep_hierarchical_grouped,6,Paracas,,begin
+1000293,113,32,W,1,W,W,W,,W,W,W,deep_hierarchical_grouped,6,Paracas,,end
+1000293,120,34,MB,1,MB,MB,MB,,MB,MB,MB,deep_hierarchical_grouped,6,Paracas,,end
+1000293,123,22,MB,1,MB,MB,MB,,W,W,W,deep_hierarchical_grouped,6,Paracas,,end
+1000293,128,22,W,1,W,W,W,,W,W,KB,deep_hierarchical_grouped,6,Paracas,,end
+1000296,13,32,AB,1,MB,W,W,,AB,W,W,unknown,unknown,,,begin
+1000296,38,22,?,1,AB,AB,AB,,,,,unknown,unknown,,,end
+1000297,15,34,W,1,W,W,W,,W,AB,AB,unknown,unknown,,,mid
+1000300,10,22,AB,1,AB,AB,AB,,AB,AB,AB,unknown,unknown,,,begin
+1000302,58,22,AB,1,AB,AB,AB,,AB,,,deep_hierarchical_grouped,6,Lluta Valley,,end
+1000310,10,22,DB,1,W,AB,W,,AB,W,VB,deep_sparse_mixed,4,Peru,,begin
+1000310,47,22,AB,1,W,W,VB,,W,DB,AB,deep_sparse_mixed,4,Peru,,mid
+1000313,6,22,MB,1,YB,MB,W,,YB,YB,MB,deep_sparse_mixed,2,Huacho,,begin
+1000314,138,33,B,1,B,B,B,,B,B,B,deep_hierarchical_grouped,4,Pachacamac,,end
+1000324,54,23,W,1,AB,W,W,,W,W,W,unknown,unknown,,,end
+1000324,57,23,W,1,W,W,W,,W,W,W,unknown,unknown,,,end
+1000324,58,23,W,1,W,W,W,,W,W,W,unknown,unknown,,,end
+1000326,6,23,W,1,W,W,W,,W,W,,unknown,unknown,,,mid
+1000326,7,23,W,1,W,W,W,,W,,,unknown,unknown,,,end
+1000329,13,33,MB,1,MB,MB,MB,,MB,MB,MB,deep_hierarchical_grouped,6,Paracas,,begin
+1000329,44,32,AB,1,AB,AB,AB,,AB,AB,AB,deep_hierarchical_grouped,6,Paracas,,begin
+1000329,50,32,AB,1,AB,AB,AB,,AB,W,W,deep_hierarchical_grouped,6,Paracas,,begin
+1000329,65,23,AB,1,AB,AB,AB,,W,W,W,deep_hierarchical_grouped,6,Paracas,,mid
+1000329,71,23,W,1,W,W,W,,W,AB,AB,deep_hierarchical_grouped,6,Paracas,,mid
+1000329,96,32,W,1,AB,W,W,,W,W,W,deep_hierarchical_grouped,6,Paracas,,mid
+1000329,109,33,AB,1,AB,AB,AB,,W,W,W,deep_hierarchical_grouped,6,Paracas,,mid
+1000329,115,33,W,1,W,W,W,,W,W,W,deep_hierarchical_grouped,6,Paracas,,mid
+1000329,142,33,W,1,?,W,W,,W,W,W,deep_hierarchical_grouped,6,Paracas,,end
+1000329,165,34,?,1,W,W,W,,W,W,W,deep_hierarchical_grouped,6,Paracas,,end
+1000330,24,23,AB,1,MB,DB,LK,,HB,HB,MB,census_format_paired,2,,,mid
+1000335,8,33,AB,1,MB,MB,W,,W,AB,MB,unknown,unknown,,,begin
+1000335,33,34,AB,1,MB,MB,W,,W,AB,MB,unknown,unknown,,,end
+1000335,40,23,AB,1,MB,MB,W,,W,AB,MB,unknown,unknown,,,end
+1000336,4,22,B,1,KB,AB,AB,,KB,W,AB,deep_sparse_mixed,4,,,begin
+1000336,83,23,AB,1,MB,W,W,,AB,W,AB,deep_sparse_mixed,4,,,end
+1000336,92,33,AB,1,W,W,AB,,W,KB,MB,deep_sparse_mixed,4,,,end
+1000336,93,33,W,1,W,AB,AB,,KB,MB,W,deep_sparse_mixed,4,,,end
+1000336,100,34,MB,1,W,AB,B,,W,MB,MB,deep_sparse_mixed,4,,,end
+1000336,101,34,W,1,AB,B,MB,,MB,MB,W,deep_sparse_mixed,4,,,end
+1000338,14,33,FB,1,FB,FB,FB,,YB,PR,PR,unknown,unknown,,,mid
+1000342,3,34,YB,1,,YB,YB,,MB,YB,YB,unknown,unknown,,,begin
+1000342,114,23,YB,1,B,YB,YB,,MB,B,BS,unknown,unknown,,,mid
+1000344,3,22,W,1,,W,W,,MB,BY,BY,deep_sparse_mixed,5,,,begin
+1000344,6,23,BY,1,W,MB,BY,,BY,BL,BY,deep_sparse_mixed,5,,,begin
+1000344,7,33,BY,1,MB,BY,BY,,BL,BY,MB,deep_sparse_mixed,5,,,begin
+1000344,9,33,BY,1,BY,BY,BL,,MB,MB,W,deep_sparse_mixed,5,,,begin
+1000344,16,22,W,1,MB,W,W,,MB,BY,BY,deep_sparse_mixed,5,,,begin
+1000344,19,23,BY,1,W,MB,BY,,BY,BL,BY,deep_sparse_mixed,5,,,begin
+1000344,20,33,BY,1,MB,BY,BY,,BL,BY,MB,deep_sparse_mixed,5,,,begin
+1000344,22,33,BY,1,BY,BY,BL,,MB,W,?,deep_sparse_mixed,5,,,begin
+1000344,23,33,MB,1,BY,BL,BY,,W,?,W,deep_sparse_mixed,5,,,begin
+1000344,32,23,BY,1,MB,BY,?,,BY,BL,BY,deep_sparse_mixed,5,,,begin
+1000344,33,33,BY,1,BY,?,BY,,BL,BY,MB,deep_sparse_mixed,5,,,begin
+1000344,35,32,BY,1,BY,BY,BL,,MB,W,W,deep_sparse_mixed,5,,,begin
+1000344,36,33,MB,1,BY,BL,BY,,W,W,W,deep_sparse_mixed,5,,,begin
+1000344,40,22,W,1,W,W,W,,MB,BY,?,deep_sparse_mixed,5,,,begin
+1000344,44,22,BY,1,MB,BY,?,,BY,BL,BY,deep_sparse_mixed,5,,,begin
+1000344,45,33,BY,1,BY,?,BY,,BL,BY,MB,deep_sparse_mixed,5,,,begin
+1000344,47,32,BY,1,BY,BY,BL,,MB,W,?,deep_sparse_mixed,5,,,begin
+1000344,48,33,MB,1,BY,BL,BY,,W,?,W,deep_sparse_mixed,5,,,begin
+1000344,53,22,W,1,?,W,BY,,MB,BY,?,deep_sparse_mixed,5,,,begin
+1000344,57,22,BY,1,MB,BY,?,,BY,BL,BY,deep_sparse_mixed,5,,,begin
+1000344,58,32,BY,1,BY,?,BY,,BL,BY,MB,deep_sparse_mixed,5,,,begin
+1000344,60,32,BY,1,BY,BY,BL,,MB,W,MB,deep_sparse_mixed,5,,,begin
+1000344,61,33,MB,1,BY,BL,BY,,W,MB,W,deep_sparse_mixed,5,,,begin
+1000344,69,22,BY,1,MB,MB,MB,,BY,BY,BY,deep_sparse_mixed,5,,,begin
+1000344,70,33,BY,1,MB,MB,BY,,BY,BY,MB,deep_sparse_mixed,5,,,begin
+1000344,72,32,BY,1,BY,BY,BY,,MB,W,?,deep_sparse_mixed,5,,,begin
+1000344,73,33,MB,1,BY,BY,BY,,W,?,W,deep_sparse_mixed,5,,,begin
+1000344,81,22,BY,1,MB,MB,MB,,BY,BL,BY,deep_sparse_mixed,5,,,begin
+1000344,82,33,BY,1,MB,MB,BY,,BL,BY,MB,deep_sparse_mixed,5,,,begin
+1000344,84,32,BY,1,BY,BY,BL,,MB,W,MB,deep_sparse_mixed,5,,,begin
+1000344,85,33,MB,1,BY,BL,BY,,W,MB,W,deep_sparse_mixed,5,,,begin
+1000344,93,22,BY,1,MB,MB,?,,BY,BL,BY,deep_sparse_mixed,5,,,begin
+1000344,94,32,BY,1,MB,?,BY,,BL,BY,MB,deep_sparse_mixed,5,,,begin
+1000344,96,32,BY,1,BY,BY,BL,,MB,W,MB,deep_sparse_mixed,5,,,begin
+1000344,97,33,MB,1,BY,BL,BY,,W,MB,W,deep_sparse_mixed,5,,,begin
+1000344,105,22,BY,1,MB,MB,MB,,BY,BL,BY,deep_sparse_mixed,5,,,begin
+1000344,106,32,BY,1,MB,MB,BY,,BL,BY,MB,deep_sparse_mixed,5,,,begin
+1000344,108,32,BY,1,BY,BY,BL,,MB,W,MB,deep_sparse_mixed,5,,,mid
+1000344,109,33,MB,1,BY,BL,BY,,W,MB,W,deep_sparse_mixed,5,,,mid
+1000344,117,22,BY,1,MB,MB,MB,,BY,BL,BY,deep_sparse_mixed,5,,,mid
+1000344,118,32,BY,1,MB,MB,BY,,BL,BY,MB,deep_sparse_mixed,5,,,mid
+1000344,120,22,BY,1,BY,BY,BL,,MB,W,W,deep_sparse_mixed,5,,,mid
+1000344,121,33,MB,1,BY,BL,BY,,W,W,BY,deep_sparse_mixed,5,,,mid
+1000344,128,22,BY,1,MB,BL,?,,BY,MB,MB,deep_sparse_mixed,5,,,mid
+1000344,129,32,BY,1,BL,?,BY,,MB,MB,MB,deep_sparse_mixed,5,,,mid
+1000344,131,32,MB,1,BY,BY,MB,,MB,W,W,deep_sparse_mixed,5,,,mid
+1000344,139,22,BY,1,MB,BL,?,,BY,?,MB,deep_sparse_mixed,5,,,mid
+1000344,140,32,BY,1,BL,?,BY,,?,MB,BY,deep_sparse_mixed,5,,,mid
+1000344,143,33,BY,1,BY,?,MB,,W,W,BY,deep_sparse_mixed,5,,,mid
+1000344,153,32,MB,1,BY,BY,?,,BY,W,?,deep_sparse_mixed,5,,,mid
+1000344,155,32,W,1,?,MB,BY,,?,MB,MB,deep_sparse_mixed,5,,,mid
+1000344,158,32,MB,1,W,?,MB,,W,BY,MB,deep_sparse_mixed,5,,,mid
+1000344,166,32,MB,1,?,BY,BY,,MB,MB,W,deep_sparse_mixed,5,,,mid
+1000344,167,32,MB,1,BY,BY,MB,,MB,W,MB,deep_sparse_mixed,5,,,mid
+1000344,169,32,W,1,MB,MB,MB,,MB,?,BY,deep_sparse_mixed,5,,,mid
+1000344,180,22,MB,1,BY,BY,BY,,MB,MB,W,deep_sparse_mixed,5,,,mid
+1000344,181,32,MB,1,BY,BY,MB,,MB,W,MB,deep_sparse_mixed,5,,,mid
+1000344,183,32,W,1,MB,MB,MB,,MB,MB,MB,deep_sparse_mixed,5,,,mid
+1000344,192,22,BY,1,BY,W,BY,,BL,BY,?,deep_sparse_mixed,5,,,mid
+1000344,193,32,BL,1,W,BY,BY,,BY,?,BY,deep_sparse_mixed,5,,,mid
+1000344,194,32,BY,1,BY,BY,BL,,?,BY,MB,deep_sparse_mixed,5,,,mid
+1000344,200,34,MB,1,MB,BL,BY,,MB,W,W,deep_sparse_mixed,5,,,mid
+1000344,207,22,MB,1,MB,W,BY,,BL,BY,MB,deep_sparse_mixed,5,,,mid
+1000344,215,22,MB,1,MB,BL,BY,,W,W,?,deep_sparse_mixed,5,,,end
+1000344,222,22,BL,1,BY,BY,MB,,W,MB,BY,deep_sparse_mixed,5,,,end
+1000344,223,22,W,1,BY,MB,BL,,MB,BY,?,deep_sparse_mixed,5,,,end
+1000344,225,22,BY,1,BL,W,MB,,?,BL,?,deep_sparse_mixed,5,,,end
+1000344,227,23,BL,1,MB,BY,?,,?,?,W,deep_sparse_mixed,5,,,end
+1000344,229,34,?,1,?,BL,?,,W,W,MB,deep_sparse_mixed,5,,,end
+1000344,236,22,BL,1,W,BY,MB,,W,MB,BY,deep_sparse_mixed,5,,,end
+1000344,237,23,W,1,BY,MB,BL,,MB,BY,?,deep_sparse_mixed,5,,,end
+1000344,238,23,MB,1,MB,BL,W,,BY,?,BL,deep_sparse_mixed,5,,,end
+1000344,239,23,BY,1,BL,W,MB,,?,BL,MB,deep_sparse_mixed,5,,,end
+1000344,241,32,BL,1,MB,BY,?,,MB,BY,W,deep_sparse_mixed,5,,,end
+1000344,243,34,BY,1,?,BL,MB,,W,BY,BY,deep_sparse_mixed,5,,,end
+1000344,249,32,MB,1,BY,W,W,,BL,W,MB,deep_sparse_mixed,5,,,end
+1000344,255,32,W,1,MB,BY,?,,?,MB,W,deep_sparse_mixed,5,,,end
+1000344,257,22,MB,1,?,W,?,,W,BY,BY,deep_sparse_mixed,5,,,end
+1000344,264,23,BL,1,W,BY,MB,,W,MB,BY,deep_sparse_mixed,5,,,end
+1000344,265,23,W,1,BY,MB,BL,,MB,BY,MB,deep_sparse_mixed,5,,,end
+1000344,266,23,MB,1,MB,BL,W,,BY,MB,W,deep_sparse_mixed,5,,,end
+1000344,267,23,BY,1,BL,W,MB,,MB,W,MB,deep_sparse_mixed,5,,,end
+1000344,269,32,W,1,MB,BY,MB,,MB,MB,W,deep_sparse_mixed,5,,,end
+1000344,277,22,MB,1,BY,W,BY,,BL,W,MB,deep_sparse_mixed,5,,,end
+1000344,279,34,W,1,BY,MB,BL,,MB,BY,W,deep_sparse_mixed,5,,,end
+1000344,282,22,W,1,W,MB,BY,,?,MB,MB,deep_sparse_mixed,5,,,end
+1000344,284,32,MB,1,BY,W,?,,MB,W,BY,deep_sparse_mixed,5,,,end
+1000344,291,23,MB,1,MB,BY,BY,,BL,W,MB,deep_sparse_mixed,5,,,end
+1000344,293,23,W,1,BY,MB,BL,,MB,BY,MB,deep_sparse_mixed,5,,,end
+1000344,297,22,BL,1,MB,BY,MB,,MB,MB,MB,deep_sparse_mixed,5,,,end
+1000344,299,22,MB,1,MB,BL,MB,,MB,W,BY,deep_sparse_mixed,5,,,end
+1000344,307,23,BL,1,BY,BY,MB,,W,MB,BY,deep_sparse_mixed,5,,,end
+1000344,308,23,W,1,BY,MB,BL,,MB,BY,MB,deep_sparse_mixed,5,,,end
+1000344,310,22,BY,1,BL,W,MB,,MB,BL,W,deep_sparse_mixed,5,,,end
+1000344,312,22,BL,1,MB,BY,MB,,W,BY,MB,deep_sparse_mixed,5,,,end
+1000345,28,34,LB,-1,LB,LB,LB,,B,B,B,deep_sparse_mixed,6,,,begin
+1000345,35,33,B,-1,B,B,B,,LB,LB,LB,deep_sparse_mixed,6,,,mid
+1000345,38,34,LB,1,B,LB,LB,,LB,LB,LB,deep_sparse_mixed,6,,,mid
+1000345,41,22,LB,1,LB,LB,LB,,LB,B,LB,deep_sparse_mixed,6,,,mid
+1000345,85,32,LB,-1,LB,LB,LB,,LB,LB,LB,deep_sparse_mixed,6,,,end
+1000345,87,22,LB,1,LB,LB,LB,,LB,LB,LB,deep_sparse_mixed,6,,,end
+1000349,2,33,PR,1,,,LK,,AB,LK,,unknown,unknown,,,begin
+1000351,34,22,MB,1,MB,MB,MB,,MB,AB,AB,deep_sparse_mixed,2,,,mid
+1000353,8,23,AB,1,W,KB,KB,,LG,LG,LG,unknown,unknown,,,mid
+1000359,3,23,GG,1,,BY,AB,,AB,GG,AB,deep_sparse_mixed,2,,,begin
+1000361,170,22,B,1,BD,BD,B,,B,BY,B,unknown,unknown,,,mid
+1000361,207,23,B,1,BD,B,B,,BY,B,B,unknown,unknown,,,mid
+1000361,298,32,B,1,BD,B,B,,BY,B,B,unknown,unknown,,,end
+1000369,117,32,?,-1,MB,MB,MB,,W,W,W,census_format_paired,6,,,end
+1000369,120,32,W,1,?,W,W,,W,W,W,census_format_paired,6,,,end
+1000369,124,32,W,1,W,W,W,,W,MB,MB,census_format_paired,6,,,end
+1000369,171,32,W,-1,W,W,W,,,,,census_format_paired,6,,,end
+1000371,133,34,W,1,?,W,W,,LB,LB,LB,deep_hierarchical_grouped,6,,,end
+1000374,53,33,AB,1,AB,AB,AB,,AB,AB,AB,unknown,unknown,,,mid
+1000374,57,34,AB,1,AB,AB,AB,,AB,AB,AB,unknown,unknown,,,mid
+1000377,1,23,MB,1,,,,,MB,MB,MB,unknown,unknown,,,begin
+1000377,8,23,MB,1,MB,MB,MB,,MB,MB,KB,unknown,unknown,,,begin
+1000380,5,22,AB,1,?,W,W,,GG,GG,W,unknown,unknown,,,begin
+1000387,11,22,AB,1,W,W,W,,AB,AB,AB,unknown,unknown,,,mid
+1000396,137,32,AB,1,GG,AB,AB,,W,MB,GG,deep_sparse_mixed,2,"""Huaura Valley, near Lima, on Santa Rosalia Hacienda""",,end
+1000396,151,33,MB,1,MB,MB,AB,,GG,MB,MB,deep_sparse_mixed,2,"""Huaura Valley, near Lima, on Santa Rosalia Hacienda""",,end
+1000397,8,23,AB,1,AB,AB,AB,,AB,HB,HB,unknown,unknown,,,mid
+1000398,14,34,HB,1,W,MB,MB,,HB,MB,MB,unknown,unknown,,,mid
+1000399,4,22,AB,1,AB,AB,AB,,AB,AB,AB,unknown,unknown,,,begin
+1000400,21,22,AB,1,AB,GG,MB,,AB,AB,GG,deep_sparse_mixed,6,unknown,,mid
+1000401,14,23,AB,1,MB,W,KB,,GG,GG,W,unknown,unknown,,,mid
+1000406,2,34,W,1,,,GG,,KB,KB,KB,unknown,unknown,,,begin
+1000409,3,23,AB,1,,AB,AB,,AB,AB,AB,unknown,unknown,,,begin
+1000413,13,34,MB,1,MB,MB,MB,,MB,MB,MB,unknown,unknown,,,begin
+1000413,89,23,MB,1,AB,AB,MB,,MB,MB,AB,unknown,unknown,,,mid
+1000413,90,34,MB,1,AB,MB,MB,,MB,AB,AB,unknown,unknown,,,mid
+1000413,101,33,GG,1,GG,GG,GG,,MB,MB,MB,unknown,unknown,,,end
+1000413,113,33,AB,1,AB,AB,AB,,AB,?,AB,unknown,unknown,,,end
+1000413,116,34,AB,1,AB,AB,?,,AB,AB,AB,unknown,unknown,,,end
+1000413,123,22,GG,1,GG,GG,GG,,GG,GG,GG,unknown,unknown,,,end
+1000413,125,22,GG,1,GG,GG,GG,,GG,GG,GG,unknown,unknown,,,end
+1000413,126,23,GG,1,GG,GG,GG,,GG,GG,AB,unknown,unknown,,,end
+1000415,2,33,W,1,,,W,,W,MB,MB,deep_hierarchical_grouped,6,Acari,,begin
+1000415,9,33,W,1,MB,W,W,,MB,MB,MB,deep_hierarchical_grouped,6,Acari,,begin
+1000415,15,33,W,1,MB,MB,W,,W,MB,MB,deep_hierarchical_grouped,6,Acari,,mid
+1000415,26,32,AB,1,W,AB,W,,W,W,AB,deep_hierarchical_grouped,6,Acari,,end
+1000418,13,22,AB,1,MB,MB,MB,,MB,AB,AB,unknown,unknown,,,begin
+1000418,26,32,MB,1,MB,AB,AB,,AB,AB,MB,unknown,unknown,,,mid
+1000421,8,34,W,1,AB,?,W,,MB,AB,RM,unknown,unknown,,,begin
+1000422,49,23,W,1,AB,MB,KB,,MB,RM,AB,deep_sparse_mixed,6,Pachacamac,,mid
+1000423,3,32,W,1,,W,?,,W,W,W,unknown,unknown,,,begin
+1000424,19,32,MB,1,MB,MB,MB,,GG,MB,,unknown,unknown,,,end
+1000426,7,34,W,1,W,MB,W,,MB,MB,GG,unknown,unknown,,,begin
+1000428,8,22,W,1,W,W,W,,W,,,unknown,unknown,,,end
+1000432,4,34,RM,1,MG,MB,AB,,MB,W,MG,unknown,unknown,,,begin
+1000436,4,32,RM,1,GG,MB,AB,,MB,W,MB,deep_hierarchical_grouped,6,Pachacamac,,begin
+1000436,19,22,RM,1,W,MB,AB,,MB,W,W,deep_hierarchical_grouped,6,Pachacamac,,begin
+1000437,24,22,W,1,W,W,W,,W,W,W,unknown,unknown,,,end
+1000441,3,33,W,1,,W,AB,,MB,W,MB,census_format_paired,0,Pachacamac,,begin
+1000442,3,23,AB,1,,AB,W,,RB,MB,AB,unknown,unknown,,,begin
+1000442,8,23,AB,1,MB,AB,W,,RB,MB,AB,unknown,unknown,,,mid
+1000448,33,32,MB,1,MB,MB,MB,,MB,MB,GG,unknown,unknown,,,mid
+1000448,46,32,MB,1,MB,MB,MB,,MB,MB,GG,unknown,unknown,,,end
+1000449,72,32,AB,1,MB,AB,W,,MB,AB,W,unknown,unknown,,,mid
+1000455,10,22,AB,1,YB,YB,YB,,AB,AB,AB,census_format_paired,2,,"""Inka, Late Horizon""",begin
+1000475,12,34,AB,1,MB,MB,MB,,AB,KB,KB,unknown,unknown,,,mid
+1000481,4,23,W,1,AB,W,AB,,AB,AB,MB,unknown,unknown,,,mid
+1000482,16,33,W,1,MB,W,AB,,AB,AB,W,unknown,unknown,,,mid
+1000482,18,32,AB,1,AB,W,AB,,W,AB,LG,unknown,unknown,,,mid
+1000487,1,34,GG,1,,,,,BG,W,AB,unknown,unknown,,,begin
+1000488,17,33,HB,1,AB,MB,KB,,AB,KB,W,unknown,unknown,,,end
+1000488,21,34,KB,1,AB,KB,W,,,,,unknown,unknown,,,end
+1000495,50,33,LG,1,LG,LG,LG,,LG,LG,KB,unknown,unknown,,,end
+1000497,28,34,AB,1,MB,MB,MB,,MB,AB,MB,deep_sparse_mixed,6,"""Hda. Huando, Chancay""",,mid
+1000500,6,23,W,1,W,MB,BG,,W,W,W,census_format_paired,6,,,begin
+1000500,17,23,MB,1,MB,MB,MB,,MB,MB,MB,census_format_paired,6,,,begin
+1000500,20,23,MB,1,MB,MB,MB,,AB,AB,MB,census_format_paired,6,,,mid
+1000501,33,33,MB,1,MB,MB,MB,,MB,MB,MB,deep_hierarchical_grouped,2,"""Huaca Perez, Lima (a.k.a Hda. Infantas and Tambo Inca)""","""Central Coast, Peru""",begin
+1000501,34,34,MB,1,MB,MB,MB,,MB,MB,MB,deep_hierarchical_grouped,2,"""Huaca Perez, Lima (a.k.a Hda. Infantas and Tambo Inca)""","""Central Coast, Peru""",begin
+1000501,40,33,KB,1,MB,MB,MB,,KB,AB,AB,deep_hierarchical_grouped,2,"""Huaca Perez, Lima (a.k.a Hda. Infantas and Tambo Inca)""","""Central Coast, Peru""",begin
+1000501,111,34,MB,1,AB,AB,AB,,MB,W,W,deep_hierarchical_grouped,2,"""Huaca Perez, Lima (a.k.a Hda. Infantas and Tambo Inca)""","""Central Coast, Peru""",begin
+1000501,134,34,AB,1,AB,AB,AB,,AB,AB,AB,deep_hierarchical_grouped,2,"""Huaca Perez, Lima (a.k.a Hda. Infantas and Tambo Inca)""","""Central Coast, Peru""",mid
+1000501,135,33,AB,1,AB,AB,AB,,AB,AB,AB,deep_hierarchical_grouped,2,"""Huaca Perez, Lima (a.k.a Hda. Infantas and Tambo Inca)""","""Central Coast, Peru""",mid
+1000501,136,33,AB,1,AB,AB,AB,,AB,AB,AB,deep_hierarchical_grouped,2,"""Huaca Perez, Lima (a.k.a Hda. Infantas and Tambo Inca)""","""Central Coast, Peru""",mid
+1000501,171,33,MB,1,AB,AB,MB,,AB,AB,MB,deep_hierarchical_grouped,2,"""Huaca Perez, Lima (a.k.a Hda. Infantas and Tambo Inca)""","""Central Coast, Peru""",mid
+1000501,172,23,AB,1,AB,MB,MB,,AB,MB,AB,deep_hierarchical_grouped,2,"""Huaca Perez, Lima (a.k.a Hda. Infantas and Tambo Inca)""","""Central Coast, Peru""",mid
+1000501,204,33,AB,1,AB,AB,AB,,AB,AB,AB,deep_hierarchical_grouped,2,"""Huaca Perez, Lima (a.k.a Hda. Infantas and Tambo Inca)""","""Central Coast, Peru""",mid
+1000501,205,33,AB,1,AB,AB,AB,,AB,AB,AB,deep_hierarchical_grouped,2,"""Huaca Perez, Lima (a.k.a Hda. Infantas and Tambo Inca)""","""Central Coast, Peru""",mid
+1000501,206,34,AB,1,AB,AB,AB,,AB,AB,AB,deep_hierarchical_grouped,2,"""Huaca Perez, Lima (a.k.a Hda. Infantas and Tambo Inca)""","""Central Coast, Peru""",mid
+1000501,209,23,AB,1,AB,AB,AB,,AB,MB,KB,deep_hierarchical_grouped,2,"""Huaca Perez, Lima (a.k.a Hda. Infantas and Tambo Inca)""","""Central Coast, Peru""",mid
+1000501,210,23,AB,1,AB,AB,AB,,MB,KB,KB,deep_hierarchical_grouped,2,"""Huaca Perez, Lima (a.k.a Hda. Infantas and Tambo Inca)""","""Central Coast, Peru""",mid
+1000501,239,34,AB,1,AB,AB,AB,,AB,AB,AB,deep_hierarchical_grouped,2,"""Huaca Perez, Lima (a.k.a Hda. Infantas and Tambo Inca)""","""Central Coast, Peru""",mid
+1000501,240,33,AB,1,AB,AB,AB,,AB,AB,AB,deep_hierarchical_grouped,2,"""Huaca Perez, Lima (a.k.a Hda. Infantas and Tambo Inca)""","""Central Coast, Peru""",mid
+1000501,241,33,AB,1,AB,AB,AB,,AB,AB,AB,deep_hierarchical_grouped,2,"""Huaca Perez, Lima (a.k.a Hda. Infantas and Tambo Inca)""","""Central Coast, Peru""",mid
+1000501,246,23,AB,1,AB,AB,AB,,KB,MB,W,deep_hierarchical_grouped,2,"""Huaca Perez, Lima (a.k.a Hda. Infantas and Tambo Inca)""","""Central Coast, Peru""",mid
+1000501,275,33,AB,1,AB,AB,AB,,AB,AB,MB,deep_hierarchical_grouped,2,"""Huaca Perez, Lima (a.k.a Hda. Infantas and Tambo Inca)""","""Central Coast, Peru""",end
+1000501,276,34,AB,1,AB,AB,AB,,AB,MB,MB,deep_hierarchical_grouped,2,"""Huaca Perez, Lima (a.k.a Hda. Infantas and Tambo Inca)""","""Central Coast, Peru""",end
+1000501,277,33,AB,1,AB,AB,AB,,MB,MB,MB,deep_hierarchical_grouped,2,"""Huaca Perez, Lima (a.k.a Hda. Infantas and Tambo Inca)""","""Central Coast, Peru""",end
+1000501,280,23,MB,1,AB,MB,MB,,MB,MB,KB,deep_hierarchical_grouped,2,"""Huaca Perez, Lima (a.k.a Hda. Infantas and Tambo Inca)""","""Central Coast, Peru""",end
+1000501,282,23,MB,1,MB,MB,MB,,KB,KB,W,deep_hierarchical_grouped,2,"""Huaca Perez, Lima (a.k.a Hda. Infantas and Tambo Inca)""","""Central Coast, Peru""",end
+1000501,311,33,MB,1,AB,AB,AB,,AB,AB,AB,deep_hierarchical_grouped,2,"""Huaca Perez, Lima (a.k.a Hda. Infantas and Tambo Inca)""","""Central Coast, Peru""",end
+1000501,312,33,AB,1,AB,AB,MB,,AB,AB,AB,deep_hierarchical_grouped,2,"""Huaca Perez, Lima (a.k.a Hda. Infantas and Tambo Inca)""","""Central Coast, Peru""",end
+1000501,317,33,AB,1,AB,AB,MB,,AB,KB,KB,deep_hierarchical_grouped,2,"""Huaca Perez, Lima (a.k.a Hda. Infantas and Tambo Inca)""","""Central Coast, Peru""",end
+1000501,318,34,AB,1,AB,MB,AB,,KB,KB,W,deep_hierarchical_grouped,2,"""Huaca Perez, Lima (a.k.a Hda. Infantas and Tambo Inca)""","""Central Coast, Peru""",end
+1000505,26,32,MB,1,MB,MB,MB,,KB,KB,MB,census_format_paired,6,Ica,"""South Coast, Peru""",end
+1000506,41,32,W,1,W,LG,?,,GG,MB,KB,deep_sparse_mixed,2,Huacho,"""Central Coast, Peru""",begin
+1000509,196,23,AB,1,AB,AB,AB,,AB,AB,AB,deep_sparse_mixed,4,"""Santa Clara, Nazca""","""South Coast, Peru""",end
+1000510,4,33,W,1,MB,MB,MB,,KB,MB,MB,deep_sparse_mixed,6,Pachacamac,"""Central Coast, Peru""",begin
+1000510,9,33,W,1,MB,MB,MB,,KB,MB,MB,deep_sparse_mixed,6,Pachacamac,"""Central Coast, Peru""",begin
+1000510,14,33,W,1,MB,MB,MB,,KB,MB,HB,deep_sparse_mixed,6,Pachacamac,"""Central Coast, Peru""",begin
+1000510,19,33,W,1,MB,HB,MB,,KB,MB,HB,deep_sparse_mixed,6,Pachacamac,"""Central Coast, Peru""",begin
+1000510,24,33,W,1,MB,HB,MB,,KB,MB,HB,deep_sparse_mixed,6,Pachacamac,"""Central Coast, Peru""",begin
+1000510,29,33,W,1,MB,HB,MB,,KB,MB,HB,deep_sparse_mixed,6,Pachacamac,"""Central Coast, Peru""",begin
+1000510,34,22,W,1,MB,HB,MB,,KB,MB,HB,deep_sparse_mixed,6,Pachacamac,"""Central Coast, Peru""",begin
+1000510,47,22,W,1,HB,KB,MB,,HB,KB,MB,deep_sparse_mixed,6,Pachacamac,"""Central Coast, Peru""",mid
+1000510,51,22,W,1,HB,KB,MB,,HB,KB,MB,deep_sparse_mixed,6,Pachacamac,"""Central Coast, Peru""",mid
+1000510,55,22,W,1,HB,KB,MB,,HB,KB,MB,deep_sparse_mixed,6,Pachacamac,"""Central Coast, Peru""",mid
+1000510,66,22,W,1,W,MB,MB,,KB,MB,HB,deep_sparse_mixed,6,Pachacamac,"""Central Coast, Peru""",mid
+1000510,71,33,W,1,MB,HB,MB,,MB,MB,HB,deep_sparse_mixed,6,Pachacamac,"""Central Coast, Peru""",mid
+1000510,76,22,W,1,MB,HB,MB,,MB,MB,HB,deep_sparse_mixed,6,Pachacamac,"""Central Coast, Peru""",mid
+1000510,86,33,W,1,MB,HB,MB,,MB,MB,HB,deep_sparse_mixed,6,Pachacamac,"""Central Coast, Peru""",end
+1000510,96,33,W,1,MB,HB,MB,,MB,MB,HB,deep_sparse_mixed,6,Pachacamac,"""Central Coast, Peru""",end
+1000510,114,22,W,1,HB,KB,MB,,HB,KB,MB,deep_sparse_mixed,6,Pachacamac,"""Central Coast, Peru""",end
+1000510,125,22,W,1,W,HB,MB,,AB,,,deep_sparse_mixed,6,Pachacamac,"""Central Coast, Peru""",end
+1000512,68,22,GG,1,GG,GG,GG,,GG,GG,GG,unknown,unknown,,,mid
+1000513,17,22,GG,1,AB,W,MB,,MB,MB,KB,deep_sparse_mixed,5,Pachacamac,"""Central Coast, Peru""",begin
+1000513,18,32,MB,1,W,MB,GG,,MB,KB,W,deep_sparse_mixed,5,Pachacamac,"""Central Coast, Peru""",begin
+1000513,40,22,GG,1,W,MB,AB,,AB,MB,BG,deep_sparse_mixed,5,Pachacamac,"""Central Coast, Peru""",mid
+1000518,30,22,W,1,AB,GG,CB,,MB,AB,AB,unknown,unknown,,,begin
+1000518,55,22,W,1,AB,AB,RL,,CB,0G,W,unknown,unknown,,,mid
+1000518,85,23,W,1,BG,RL,CB,,CB,KB,W,unknown,unknown,,,end
+1000518,107,33,W,1,BG,BG,CB,,CB,CB,W,unknown,unknown,,,end
+1000523,5,23,MB,1,MB,MB,CB,,MB,MB,MB,deep_sparse_mixed,4,Pachacamac,"""Central Coast, Peru""",begin
+1000523,46,22,MB,1,MB,MB,MB,,MB,MB,MB,deep_sparse_mixed,4,Pachacamac,"""Central Coast, Peru""",begin
+1000523,82,22,MB,1,MB,MB,MB,,MB,MB,MB,deep_sparse_mixed,4,Pachacamac,"""Central Coast, Peru""",mid
+1000523,125,22,MB,1,MB,MB,MB,,MB,MB,CB,deep_sparse_mixed,4,Pachacamac,"""Central Coast, Peru""",mid
+1000523,145,32,MB,1,CB,MB,MB,,MB,MB,MB,deep_sparse_mixed,4,Pachacamac,"""Central Coast, Peru""",end
+1000523,152,22,MB,1,MB,MB,MB,,MB,MB,MB,deep_sparse_mixed,4,Pachacamac,"""Central Coast, Peru""",end
+1000523,157,22,MB,1,MB,MB,CB,,MB,MB,MB,deep_sparse_mixed,4,Pachacamac,"""Central Coast, Peru""",end
+1000524,27,33,AB,1,W,AB,W,,W,W,W,deep_hierarchical_grouped,6,Pachacamac,"""Central Coast, Peru""",begin
+1000524,30,34,W,1,AB,W,W,,W,W,W,deep_hierarchical_grouped,6,Pachacamac,"""Central Coast, Peru""",begin
+1000524,33,22,W,1,W,W,W,,AB,AB,AB,deep_hierarchical_grouped,6,Pachacamac,"""Central Coast, Peru""",begin
+1000524,38,32,AB,1,AB,AB,AB,,AB,AB,AB,deep_hierarchical_grouped,6,Pachacamac,"""Central Coast, Peru""",mid
+1000524,41,34,AB,1,AB,AB,AB,,W,W,?,deep_hierarchical_grouped,6,Pachacamac,"""Central Coast, Peru""",mid
+1000524,46,34,AB,1,W,?,MB,,AB,AB,W,deep_hierarchical_grouped,6,Pachacamac,"""Central Coast, Peru""",mid
+1000524,60,34,W,1,AB,AB,W,,RB,W,KB,deep_hierarchical_grouped,6,Pachacamac,"""Central Coast, Peru""",mid
+1000524,77,22,AB,1,W,AB,W,,AB,AB,GG,deep_hierarchical_grouped,6,Pachacamac,"""Central Coast, Peru""",end
+1000524,85,33,W,1,W,MB,MB,,AB,W,AB,deep_hierarchical_grouped,6,Pachacamac,"""Central Coast, Peru""",end
+1000526,135,22,AB,1,W,W,AB,,?,?,,deep_hierarchical_grouped,2,unknown,unknown,end
+1000528,12,22,W,1,AB,MB,MB,,AB,MB,MB,deep_hierarchical_grouped,6,Ocucaje,"""South Coast, Peru""",begin
+1000528,20,32,AB,1,W,MB,W,,W,W,W,deep_hierarchical_grouped,6,Ocucaje,"""South Coast, Peru""",begin
+1000528,53,22,MB,1,0G,W,AB,,?,AB,W,deep_hierarchical_grouped,6,Ocucaje,"""South Coast, Peru""",mid
+1000529,22,34,AB,1,W,W,W,,AB,W,AB,unknown,unknown,,,mid
+1000529,27,22,W,1,W,AB,AB,,AB,AB,W,unknown,unknown,,,mid
+1000529,30,32,W,1,W,AB,AB,,AB,AB,W,unknown,unknown,,,mid
+1000529,32,32,AB,1,AB,W,AB,,W,AB,AB,unknown,unknown,,,mid
+1000529,33,22,W,1,W,AB,AB,,AB,AB,W,unknown,unknown,,,mid
+1000529,36,22,W,1,W,AB,AB,,MB,AB,W,unknown,unknown,,,mid
+1000529,39,22,W,1,W,MB,AB,,AB,AB,W,unknown,unknown,,,mid
+1000529,42,22,W,1,W,AB,AB,,HB,MB,W,unknown,unknown,,,mid
+1000529,43,22,HB,1,AB,AB,W,,MB,W,HB,unknown,unknown,,,end
+1000529,57,22,W,1,W,MB,HB,,MB,AB,W,unknown,unknown,,,end
+1000529,58,23,MB,1,MB,HB,W,,AB,W,HB,unknown,unknown,,,end
+1000534,5,32,MB,1,KB,KB,MB,,MB,MB,MB,census_format_paired,6,Ica,"""South Coast, Peru""",begin
+1000534,7,34,MB,1,MB,MB,MB,,MB,MB,MB,census_format_paired,6,Ica,"""South Coast, Peru""",begin
+1000534,14,22,MB,1,KB,KB,MB,,MB,MB,MB,census_format_paired,6,Ica,"""South Coast, Peru""",begin
+1000536,10,23,W,1,MB,W,MB,,MB,W,AB,unknown,unknown,,,begin
+1000539,3,22,0G,1,,W,W,,0G,W,W,deep_sparse_mixed,6,Ica,"""South Coast, Peru""",begin
+1000539,20,34,W,1,AB,AB,AB,,AB,PR,?,deep_sparse_mixed,6,Ica,"""South Coast, Peru""",begin
+1000539,27,33,W,1,AB,LK,LK,,W,HB,W,deep_sparse_mixed,6,Ica,"""South Coast, Peru""",begin
+1000539,38,22,W,1,W,MB,MB,,W,W,W,deep_sparse_mixed,6,Ica,"""South Coast, Peru""",begin
+1000539,41,34,W,1,W,W,W,,W,W,W,deep_sparse_mixed,6,Ica,"""South Coast, Peru""",begin
+1000539,50,23,AB,1,CB,CB,AB,,HB,W,AB,deep_sparse_mixed,6,Ica,"""South Coast, Peru""",begin
+1000539,64,22,W,1,W,W,W,,W,PR,W,deep_sparse_mixed,6,Ica,"""South Coast, Peru""",mid
+1000539,71,23,HB,1,W,GG,GG,,AB,AB,AB,deep_sparse_mixed,6,Ica,"""South Coast, Peru""",mid
+1000539,72,32,AB,1,GG,GG,HB,,AB,AB,AB,deep_sparse_mixed,6,Ica,"""South Coast, Peru""",mid
+1000539,73,33,AB,1,GG,HB,AB,,AB,AB,HB,deep_sparse_mixed,6,Ica,"""South Coast, Peru""",mid
+1000539,74,34,AB,1,HB,AB,AB,,AB,HB,AB,deep_sparse_mixed,6,Ica,"""South Coast, Peru""",mid
+1000539,75,32,AB,1,AB,AB,AB,,HB,AB,W,deep_sparse_mixed,6,Ica,"""South Coast, Peru""",mid
+1000539,83,33,W,1,KB,GG,W,,W,W,W,deep_sparse_mixed,6,Ica,"""South Coast, Peru""",mid
+1000539,85,34,W,1,W,W,W,,W,W,W,deep_sparse_mixed,6,Ica,"""South Coast, Peru""",mid
+1000539,93,22,W,1,W,HB,HB,,W,W,W,deep_sparse_mixed,6,Ica,"""South Coast, Peru""",mid
+1000539,94,22,W,1,HB,HB,W,,W,W,W,deep_sparse_mixed,6,Ica,"""South Coast, Peru""",mid
+1000541,19,23,GG,1,GG,GG,GG,,GG,GG,GG,unknown,unknown,,,begin
+1000541,62,22,MB,1,MB,MB,MB,,MB,MB,MB,unknown,unknown,,,begin
+1000541,132,34,MB,1,MB,MB,MB,,MB,MB,MB,unknown,unknown,,,begin
+1000541,166,22,0D,1,MB,MB,0D,,0D,0D,0D,unknown,unknown,,,begin
+1000541,180,23,AB,1,AB,AB,AB,,AB,AB,AB,unknown,unknown,,,begin
+1000541,199,22,BY,1,CB,CB,CB,,BY,BY,BY,unknown,unknown,,,begin
+1000541,200,23,BY,1,CB,CB,BY,,BY,BY,BY,unknown,unknown,,,begin
+1000541,201,34,BY,1,CB,BY,BY,,BY,BY,BY,unknown,unknown,,,begin
+1000541,202,33,BY,1,BY,BY,BY,,BY,BY,BY,unknown,unknown,,,begin
+1000541,264,32,KB,1,MB,MB,MB,,KB,KB,KB,unknown,unknown,,,begin
+1000541,300,23,0D,1,0D,0D,0D,,0D,0D,0D,unknown,unknown,,,mid
+1000541,331,32,MB,1,CB,CB,CB,,MB,MB,MB,unknown,unknown,,,mid
+1000541,440,23,0D,1,PR,0D,0D,,0D,0D,0D,unknown,unknown,,,mid
+1000541,443,22,0D,1,0D,0D,0D,,0D,0D,0D,unknown,unknown,,,mid
+1000541,554,34,MB,1,MB,MB,MB,,MB,MB,MB,unknown,unknown,,,mid
+1000541,602,32,AB,1,AB,AB,AB,,AB,AB,AB,unknown,unknown,,,end
+1000541,622,34,HB,1,CB,CB,HB,,HB,HB,HB,unknown,unknown,,,end
+1000541,729,23,G,1,G,G,G,,G,KB,KB,unknown,unknown,,,end
+1000541,750,23,0D,1,0D,0D,0D,,0D,0D,YB,unknown,unknown,,,end
+1000541,764,23,YB,1,YB,YB,YB,,KB,KB,KB,unknown,unknown,,,end
+1000541,777,23,MB,1,KB,KB,MB,,MB,MB,MB,unknown,unknown,,,end
+1000541,778,23,MB,1,KB,MB,MB,,MB,MB,MB,unknown,unknown,,,end
+1000541,779,33,MB,1,MB,MB,MB,,MB,MB,MB,unknown,unknown,,,end
+1000541,780,33,MB,1,MB,MB,MB,,MB,MB,MB,unknown,unknown,,,end
+1000542,57,32,AB,1,LG,W,RB,,KB,AB,LG,unknown,unknown,,,mid
+1000542,60,34,LG,1,AB,KB,AB,,W,RB,AB,unknown,unknown,,,mid
+1000543,1,23,W,1,,,,,RB,KB,GG,deep_sparse_mixed,6,Huacho,"""North-Central Coast, Peru""",begin
+1000543,7,22,W,1,GG,AB,LG,,RB,KB,GG,deep_sparse_mixed,6,Huacho,"""North-Central Coast, Peru""",begin
+1000543,26,33,PR,1,AB,LG,W,,KB,GG,AB,deep_sparse_mixed,6,Huacho,"""North-Central Coast, Peru""",begin
+1000543,54,22,KB,1,MB,BG,AB,,AB,PB,PB,deep_sparse_mixed,6,Huacho,"""North-Central Coast, Peru""",mid
+1000545,4,33,AB,1,AB,AB,AB,,KB,KB,AB,deep_sparse_mixed,6,unknown,unknown,begin
+1000545,16,23,RB,1,KB,KB,HB,,HB,HB,YB,deep_sparse_mixed,6,unknown,unknown,begin
+1000546,7,34,W,1,AB,W,AB,,AB,W,AB,deep_hierarchical_grouped,6,unknown,unknown,begin
+1000546,10,32,AB,1,W,AB,W,,W,AB,W,deep_hierarchical_grouped,6,unknown,unknown,begin
+1000546,20,22,W,1,AB,W,AB,,AB,W,AB,deep_hierarchical_grouped,6,unknown,unknown,mid
+1000546,21,23,AB,1,W,AB,W,,W,AB,W,deep_hierarchical_grouped,6,unknown,unknown,mid
+1000547,26,23,BG,1,BG,BG,BG,,BG,BG,MB,deep_sparse_mixed,2,Ica,"""South Coast, Peru""",begin
+1000547,32,23,MB,1,MB,MB,MB,,MB,MB,MB,deep_sparse_mixed,2,Ica,"""South Coast, Peru""",begin
+1000547,180,32,AB,1,AB,AB,AB,,AB,AB,AB,deep_sparse_mixed,2,Ica,"""South Coast, Peru""",end
+1000547,197,22,KB,1,AB,KB,KB,,KB,KB,AB,deep_sparse_mixed,2,Ica,"""South Coast, Peru""",end
+1000548,24,23,W,1,W,W,W,,W,W,W,census_format_paired,4,Pachacamac,"""Central Coast, Peru""",end
+1000551,19,34,AB,1,AB,HB,MB,,MB,HB,AB,unknown,unknown,,,mid
+1000552,3,33,AB,1,,W,AB,,AB,AB,AB,census_format_paired,2,Ica,"""South Coast, Peru""",begin
+1000554,11,23,AB,1,AB,AB,AB,,AB,AB,AB,unknown,unknown,,,begin
+1000554,12,22,AB,1,AB,AB,AB,,AB,AB,AB,unknown,unknown,,,begin
+1000554,34,23,AB,1,AB,AB,AB,,KB,KB,AB,unknown,unknown,,,mid
+1000555,61,22,W,1,W,W,W,,W,W,W,deep_sparse_mixed,2,Pachacamac,"""Central Coast, Peru""",end

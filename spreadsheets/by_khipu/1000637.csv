@@ -1,0 +1,24 @@
+# khipu_id: 1000637
+# provenance: Incahuasi
+# region: 
+# museum: Proyecto Incahuasi PAI-008-2016
+# nickname: 
+# file_format: .tab
+# data_regime: unclustered
+# doc_cluster: deep_sparse_mixed
+# template_id: T194
+# segmentation: value_marker
+# n_rows: 10
+# n_cols: 7
+ROW_ID,IS_MARKER_ROW,SECTION,AB,RB,RB_2,MB,RB_3,RB_4,MB_2
+,,,MARKER,VARIABLE,VARIABLE,CONSTANT,CONSTANT,CONSTANT,VARIABLE
+1,TRUE,1,,,1,,,,
+2,FALSE,1,1,,,,,,
+3,FALSE,1,1,,,,,,
+4,FALSE,1,1,,,,,,
+5,FALSE,1,1,,,,,,101
+6,FALSE,1,,,,,1,,1
+7,FALSE,1,1,,1,,,,21
+8,FALSE,1,,1,1,1,,,
+9,FALSE,1,1,,,,,,
+10,FALSE,1,,,,,,,

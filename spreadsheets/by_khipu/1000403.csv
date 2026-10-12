@@ -1,0 +1,64 @@
+# khipu_id: 1000403
+# provenance: unknown
+# region: 
+# museum: Museo Regional de Ica 04396-02
+# nickname: 
+# file_format: .flat
+# data_regime: 
+# doc_cluster: 
+# template_id: 
+# segmentation: none
+# n_rows: 51
+# n_cols: 0
+ORDINAL,LEVEL,COLOR1,COLOR2,VALUE,KNOTS
+1,1,MB,W,,"L:2,S:6"
+2,1,AB,W,,
+3,1,GG,AB,,S:7
+4,1,AB,,40,S:7
+5,1,AB,,,
+6,1,RB,GG,,S:6
+7,1,AB,,,S:4
+8,1,MB,W,,S:1
+9,1,GG,AB,,S:8
+10,1,GG,W,,S:1
+11,1,AB,,,
+12,1,AB,,,
+13,1,MB,,,
+14,1,KB,AB,10,S:2
+15,1,GG,W,544,"L:1,S:9"
+16,1,GG,W,,"?:5,S:1"
+17,1,AB,,50,S:7
+18,1,GG,W,,
+19,1,MB,W,10,S:2
+20,1,MB,W,40,S:5
+21,1,AB,,,S:2
+22,1,GG,W,80,S:10
+23,1,GG,W,,S:9
+24,1,AB,,30,S:8
+25,1,AB,,,
+26,1,MB,AB,,
+27,1,MB,AB,40,S:5
+28,1,GG,AB,812,"L:1,S:9"
+29,1,GG,AB,70,S:11
+30,1,AB,,,S:4
+31,1,MB,AB,,
+32,1,AB,,,
+33,1,AB,,60,S:8
+34,1,MB,AB,,
+35,1,AB,,,S:4
+36,1,GG,AB,662,"L:1,S:12"
+37,1,GG,AB,914,"L:1,S:10"
+38,1,AB,,452,"L:1,S:9"
+39,1,AB,GG,775,"L:1,S:14"
+40,1,GG,W,,S:7
+41,1,AB,,50,S:8
+42,1,KB,AB,235,"L:1,S:5"
+43,1,AB,,1779,"L:1,S:15"
+44,1,AB,,78,"L:10,S:7"
+45,1,AB,,,
+46,1,GG,AB,,
+47,1,AB,GG,,
+48,1,AB,,,
+49,1,AB,,,
+50,1,AB,GG,,
+51,1,AB,,13,"L:1,S:1"

@@ -1,0 +1,27 @@
+# khipu_id: 1000148
+# provenance: Nazca
+# region: 
+# museum: "Museum für Völkerkunde, Berlin" VA37859(A)
+# nickname: 
+# file_format: .tab
+# data_regime: DC6
+# doc_cluster: deep_hierarchical_grouped
+# template_id: T040
+# segmentation: value_marker
+# n_rows: 13
+# n_cols: 19
+ROW_ID,IS_MARKER_ROW,SECTION,W,DB,DB_2,W_2,W_3,DB_3,DB_4,DB_5,DB_6,DB_7,DB_8,W_4,W_5,W_6,W_7,W_8,W_9,W_10,W_11
+,,,MARKER,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE
+1,TRUE,1,19,9,6,435,138,101,126,101,,,,1301,554,184,291,10,30,262,153
+2,FALSE,,,138,12,,257,,504,,46,,99,,,,,,,,
+3,FALSE,3,,17,,185,,76,71,84,41,39,,,,,,,,,
+4,FALSE,4,,,17,25,21,12,,17,,,,,,,,,,,63
+5,FALSE,5,18,17,12,,,,,,,,,,,,,,,,
+6,FALSE,5,13,,44,,,,,,,,,,,57,,,,,
+7,FALSE,6,13,4,11,12,,,,,,,,,,,45,,16,,6
+8,FALSE,7,13,12,,,,,,,,,,,53,,11,9,4,11,14
+9,FALSE,,,,,,,,,,,,,45,,28,35,19,11,15,
+10,FALSE,,,,,,,,,,,53,,15,23,16,,17,,,
+11,FALSE,,,,,,,,,36,,14,14,12,8,2,,,,,
+12,FALSE,,,,,,,38,,19,7,27,11,4,,,,,,,
+13,FALSE,,,,,38,,15,6,11,,1,,,,,,,,,

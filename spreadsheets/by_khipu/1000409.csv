@@ -1,0 +1,40 @@
+# khipu_id: 1000409
+# provenance: 
+# region: 
+# museum: Museo Regional de Ica 00254-02
+# nickname: 
+# file_format: .flat
+# data_regime: 
+# doc_cluster: 
+# template_id: 
+# segmentation: none
+# n_rows: 27
+# n_cols: 0
+ORDINAL,LEVEL,COLOR1,COLOR2,VALUE,KNOTS
+1,1,AB,W,,"E:1,L:1"
+2,1,AB,W,20,"E:2,S:6"
+3,1,AB,W,23,"E:1,L:1,S:2"
+4,1,AB,W,,"E:1,S:2"
+5,1,AB,W,20,S:8
+6,1,AB,W,,S:3
+7,1,AB,W,29,"L:1,S:2"
+8,1,AB,W,,S:2
+9,-1,AB,W,60,S:11
+10,1,MB,W,,
+11,1,MB,W,10,S:2
+12,1,MB,W,,S:1
+13,1,MB,W,,S:1
+14,1,MB,W,10,S:6
+15,1,MB,W,,
+16,1,MB,W,,S:1
+17,1,MB,W,,S:1
+18,-1,MB,W,30,S:7
+19,1,HB,,,
+20,1,HB,,10,S:3
+21,1,HB,,11,"E:1,S:1"
+22,1,HB,,,S:1
+23,1,HB,,10,S:2
+24,1,HB,,17,"L:1,S:1"
+25,1,HB,,16,"L:1,S:1"
+26,1,HB,,,S:1
+27,-1,HB,,6,"'':3,L:1"

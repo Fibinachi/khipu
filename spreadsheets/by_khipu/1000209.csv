@@ -1,0 +1,45 @@
+# khipu_id: 1000209
+# provenance: 
+# region: 
+# museum: "Museo Nacional, Lima, Peru" V17/559
+# nickname: 
+# file_format: .flat
+# data_regime: 
+# doc_cluster: 
+# template_id: 
+# segmentation: none
+# n_rows: 32
+# n_cols: 0
+ORDINAL,LEVEL,COLOR1,COLOR2,VALUE,KNOTS
+1,1,LD,,18,"E:1,L:8,S:23"
+2,1,MB,,18,"L:5,S:2"
+3,1,RL,,,S:3
+4,1,RL,W,40,S:10
+5,1,LD,,5,L:1
+6,1,RL,,,S:5
+7,1,MB,,7,L:1
+8,1,LD,W,,S:7
+9,1,LD,,1,E:1
+10,1,RL,,,S:7
+11,1,LD,,9,L:1
+12,1,RL,,4,L:1
+13,1,MB,,8,L:1
+14,1,LD,W,,S:7
+15,1,LD,,5,L:1
+16,1,RL,,,S:2
+17,1,MB,,3,L:1
+18,1,LD,W,,S:4
+19,1,LD,,8,L:1
+20,1,RL,,3,L:1
+21,1,W,,,S:6
+22,1,RL,W,,S:7
+23,1,LD,,7,L:1
+24,1,RL,W,,S:8
+25,1,LD,W,,S:5
+26,1,RL,W,,S:4
+27,1,LD,W,10,S:4
+28,1,RL,W,,S:1
+29,1,LD,,,
+30,1,RL,,,S:1
+31,1,LD,W,,
+32,1,LD,,1,E:1

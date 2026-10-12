@@ -1,0 +1,45 @@
+# khipu_id: 1000587
+# provenance: unknown
+# region: 
+# museum: Museo Nacional de Arqueologia, Anthropologia e Historia del Peru B397/T41299.22
+# nickname: 
+# file_format: .flat
+# data_regime: 
+# doc_cluster: 
+# template_id: 
+# segmentation: none
+# n_rows: 32
+# n_cols: 0
+ORDINAL,LEVEL,COLOR1,COLOR2,VALUE,KNOTS
+1,1,W,,,"E:2,L:7"
+2,1,W,,,
+3,1,W,,,L:1
+4,1,W,,,L:1
+5,1,W,,,S:1
+6,1,W,,,"L:1,S:1"
+7,1,W,,11,"E:1,S:1"
+8,1,W,,,S:1
+9,1,W,,,L:1
+10,1,W,,,L:1
+11,1,MB,,,S:1
+12,1,AB,,,
+13,1,AB,,1,E:1
+14,1,AB,,,L:1
+15,1,AB,,,L:1
+16,1,AB,,1,E:1
+17,1,AB,,,L:1
+18,1,AB,,,L:1
+19,1,AB,,1,E:1
+20,1,AB,,,
+21,1,0B,,,S:1
+22,1,AB,,,
+23,1,AB,,,
+24,1,AB,,,
+25,1,AB,,,
+26,1,AB,,,
+27,1,AB,,,L:1
+28,1,AB,,1,E:1
+29,1,AB,,1,E:1
+30,1,AB,,,
+31,1,AB,,,L:1
+32,1,AB,,,

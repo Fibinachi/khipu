@@ -1,0 +1,21 @@
+# khipu_id: 1000565
+# provenance: Costa Sur
+# region: 
+# museum: Museo Nacional de Arqueología, Antropología e Historia de Perú MNAAHP3550
+# nickname: 
+# file_format: .tab
+# data_regime: unclustered
+# doc_cluster: deep_hierarchical_grouped
+# template_id: T171
+# segmentation: white_dividers
+# n_rows: 7
+# n_cols: 11
+ROW_ID,IS_MARKER_ROW,SECTION,AB,AB_2,W,W_2,AB_3,AB_4,AB_5,AB_6,AB_7,AB_8,AB_9
+,,,VARIABLE,VARIABLE,VARIABLE,CONSTANT,CONSTANT,VARIABLE,VARIABLE,VARIABLE,CONSTANT,VARIABLE,CONSTANT
+1,FALSE,1,,,,,,,,,,,
+2,FALSE,2,,,,,,4421,40,4261,,,
+3,FALSE,3,,,,,,2711,260,,,,
+4,FALSE,4,,,10,1541,,170,180,,,,
+5,FALSE,5,,,,,,441,,30,,,
+6,FALSE,6,90,,,,,,,,,,70
+7,FALSE,7,410,,,,80,90,,,,,

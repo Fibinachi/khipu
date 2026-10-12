@@ -1,0 +1,27 @@
+# khipu_id: 1000420
+# provenance: Pachacamac
+# region: near Lima
+# museum: Museo de Sitio de Pachacamac MSP 1385A/RN 43366
+# nickname: HP/AR 001
+# file_format: .flat
+# data_regime: 
+# doc_cluster: 
+# template_id: 
+# segmentation: none
+# n_rows: 14
+# n_cols: 0
+ORDINAL,LEVEL,COLOR1,COLOR2,VALUE,KNOTS
+1,1,W,,1655,"L:1,S:12"
+2,1,W,,2973,"L:1,S:18"
+3,1,W,,1885,"L:1,S:17"
+4,1,W,,1871,"E:1,S:16"
+5,1,W,,257,"L:1,S:7"
+6,1,W,,2253,"L:1,S:9"
+7,1,W,,1734,"L:1,S:11"
+8,1,W,,1664,"L:1,S:13"
+9,1,W,,250,S:8
+10,1,W,,1684,"L:1,S:15"
+11,1,W,,1594,"L:1,S:15"
+12,1,W,,2273,"L:1,S:11"
+13,1,W,,1385,"L:1,S:12"
+14,1,W,,257,"L:1,S:7"

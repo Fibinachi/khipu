@@ -1,0 +1,20 @@
+# khipu_id: 1000481
+# provenance: 
+# region: 
+# museum: "American Museum of Natural History, NY" 41.2/6699
+# nickname: 
+# file_format: .flat
+# data_regime: 
+# doc_cluster: 
+# template_id: 
+# segmentation: none
+# n_rows: 7
+# n_cols: 0
+ORDINAL,LEVEL,COLOR1,COLOR2,VALUE,KNOTS
+1,1,AB,,26,"L:1,S:2"
+2,1,W,,2,L:2
+3,1,AB,,,S:2
+4,1,W,,23,"L:1,S:2"
+5,1,AB,,2,L:2
+6,1,AB,,,S:2
+7,1,MB,,2,L:2

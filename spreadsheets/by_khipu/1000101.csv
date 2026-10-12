@@ -1,0 +1,35 @@
+# khipu_id: 1000101
+# provenance: "La puntilla, between Paracas and Pisco"
+# region: 
+# museum: "Peabody Museum, Harvard University" 41.70.30/3110
+# nickname: 
+# file_format: .flat
+# data_regime: 
+# doc_cluster: 
+# template_id: 
+# segmentation: none
+# n_rows: 22
+# n_cols: 0
+ORDINAL,LEVEL,COLOR1,COLOR2,VALUE,KNOTS
+1,1,W,,47,"L:5,S:11"
+2,1,W,,2011,"E:2,S:6"
+3,1,W,,,"L:1,S:2"
+4,1,W,,107,"L:2,S:1"
+5,1,W,,109,"L:2,S:1"
+6,1,W,,32,"L:1,S:3"
+7,1,MB,,206,"L:2,S:2"
+8,1,MB,,,S:3
+9,1,MB,,204,"L:2,S:2"
+10,1,MB,,209,"L:2,S:2"
+11,1,MB,,22,"L:1,S:2"
+12,1,W,,221,"EE:1,S:4"
+13,1,W,,22,"L:1,S:2"
+14,1,W,,204,"L:2,S:2"
+15,1,W,,108,"L:2,S:1"
+16,1,W,,3,L:2
+17,1,W,,105,"L:2,S:1"
+18,1,W,,204,"E:1,L:1,S:2"
+19,1,W,,,S:2
+20,1,W,,201,"E:1,L:1,S:2"
+21,1,MB,,3,L:2
+22,1,AB,,,

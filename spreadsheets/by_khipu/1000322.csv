@@ -1,0 +1,36 @@
+# khipu_id: 1000322
+# provenance: Nazca
+# region: 
+# museum: "Museum of Worldculture, Goteborg, Sweden" 1938.45.231
+# nickname: 
+# file_format: .flat
+# data_regime: 
+# doc_cluster: 
+# template_id: 
+# segmentation: none
+# n_rows: 23
+# n_cols: 0
+ORDINAL,LEVEL,COLOR1,COLOR2,VALUE,KNOTS
+1,1,W,,856,"E:4,L:4,S:14"
+2,1,W,,,"E:3,L:3"
+3,1,G,,,"E:1,L:1"
+4,1,BL,RL,,
+5,1,RL,,,
+6,1,BG,,,
+7,1,W,,,
+8,1,BL,RL,,
+9,1,RL,,,S:9
+10,1,BG,,91,"E:1,S:9"
+11,1,W,,5,L:1
+12,1,AB,W,7,L:1
+13,1,KB,W,6,L:1
+14,1,W,,4,L:1
+15,1,W,,14,"L:1,S:1"
+16,1,W,,11,"E:1,S:1"
+17,1,W,,,S:1
+18,1,AB,,2,L:1
+19,1,AB,W,3,L:1
+20,1,KB,W,3,L:1
+21,1,AB,,5,L:1
+22,1,AB,W,1,E:1
+23,1,AB,W,13,"L:1,S:1"

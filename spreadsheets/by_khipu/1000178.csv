@@ -1,0 +1,22 @@
+# khipu_id: 1000178
+# provenance: 
+# region: 
+# museum: "O. Nunez del Prado, Cuzco" 4B
+# nickname: 
+# file_format: .tab
+# data_regime: unclustered
+# doc_cluster: deep_sparse_mixed
+# template_id: T046
+# segmentation: color_cycle
+# n_rows: 8
+# n_cols: 2
+ROW_ID,IS_MARKER_ROW,SECTION,W,KB
+,,,VARIABLE,VARIABLE
+1,FALSE,1,8,14
+2,FALSE,1,6,15
+3,FALSE,1,7,13
+4,FALSE,1,6,11
+5,FALSE,1,,
+6,FALSE,1,9,
+7,FALSE,1,7,
+8,FALSE,1,8,

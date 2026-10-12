@@ -1,0 +1,15 @@
+khipu_id,ordinal,color,total,n_components,component_ordinals,component_values,position_in_block,component_span,has_preceding_match,strength,assessment
+1000007,142,KB,459,2,149;155,458;1,start,6,False,weak,Large+tiny pattern (458+1=459). Components scattered 13 ordinals apart. Likely coincidence.
+1000009,17,BL,41,3,18;19;20,23;11;7,start,2,False,strong,"3 components (23,11,7) in clean BL block. Total at block start. Contiguous ordinals. Exact sum 41."
+1000012,26,AB,54,2,40;44,52;2,start,4,False,weak,Large+tiny pattern (52+2=54). Components 14-18 ordinals away in mixed sequence. Likely coincidence.
+1000029,21,YG,112,4,23;24;25;27,13;79;9;11,offset_1,4,False,strong,"Reference case. 4 varied components (13,79,9,11) in clean YG block. Total at block start."
+1000081,16,DB,50,2,20;22,10;40,offset_1,2,False,medium,"2 components (10,40). Total at DB block start. Zeros interspersed. Round total (50) suggestive."
+1000091,15,W,20,2,16;18,10;10,start,2,False,medium,Even split 10+10=20. Very simple. Small numbers but clean.
+1000113,13,EB,20,2,20;27,10;10,start,7,False,weak,Even split but components 7 ordinals apart each. Isolated in mixed sequence. Likely coincidence.
+1000127,70,YG,369,4,71;72;73;74,114;81;92;82,start,3,False,strong,"4 large varied components (114,81,92,82) in clean YG block. Total at block start. Exact sum 369."
+1000139,4,W,91,3,8;11;14,52;25;14,start,6,False,medium,"3 components (52,25,14). At very start of khipu (ord 4). Interleaved with other colors."
+1000147,169,YB,34,2,174;179,16;18,offset_1,5,False,medium,"2 components (16,18). Natural split sizes. Scattered among other colors."
+1000292,165,RB,25,3,172;173;174,14;6;5,offset_6,2,False,weak,Components in separate block after color interruption. Not a clean allocation header.
+1000338,6,FB,102,5,9;10;11;13;14,13;13;18;25;33,start,5,False,strong,"5 varied components (13,13,18,25,33) in FB block. Total at block start. Exact sum 102."
+1000344,182,MB,76,2,186;200,42;34,offset_2,14,False,weak,"Wide span (14 ordinals). Only 2 components. Form-template khipu, different context."
+1000506,92,MB,24,8,94;96;98;100;102;106;108;112,5;5;6;1;1;1;1;4,offset_9,18,False,weak,"Window artifact. 8 tiny components (1,1,1,1). Extending window breaks the sum. Small-number noise."

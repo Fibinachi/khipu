@@ -1,0 +1,24 @@
+# khipu_id: 1000572
+# provenance: unknown
+# region: 
+# museum: Museo Nacional de Arqueología, Antropología e Historia del Perú MNAAHP 5704
+# nickname: 
+# file_format: .flat
+# data_regime: 
+# doc_cluster: 
+# template_id: 
+# segmentation: none
+# n_rows: 11
+# n_cols: 0
+ORDINAL,LEVEL,COLOR1,COLOR2,VALUE,KNOTS
+1,1,AB,,,L:3
+2,1,AB,,,L:2
+3,1,AB,,,L:1
+4,1,AB,,,L:1
+5,1,AB,,,L:1
+6,1,MB,,,L:1
+7,1,MB,,1,E:1
+8,1,MB,,,
+9,1,MB,,,L:1
+10,1,MB,,,L:1
+11,1,AB,,,"L:2,S:1"

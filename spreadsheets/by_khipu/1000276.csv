@@ -1,0 +1,20 @@
+# khipu_id: 1000276
+# provenance: 
+# region: 
+# museum: Phoebe Hearst Museum of Anthropology 7X 4/5446
+# nickname: 
+# file_format: .flat
+# data_regime: 
+# doc_cluster: 
+# template_id: 
+# segmentation: none
+# n_rows: 7
+# n_cols: 0
+ORDINAL,LEVEL,COLOR1,COLOR2,VALUE,KNOTS
+1,1,AB,,,S:7
+2,1,LK,,,S:3
+3,1,DB,,,S:3
+4,1,MB,,,S:3
+5,1,AB,W,,S:3
+6,1,LK,HB,,S:4
+7,1,LK,W,,S:3

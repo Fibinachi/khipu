@@ -1,0 +1,16 @@
+# khipu_id: 1000644
+# provenance: Incahuasi
+# region: 
+# museum: Proyecto Incahausi PAI-1454-2016
+# nickname: 
+# file_format: .flat
+# data_regime: 
+# doc_cluster: 
+# template_id: 
+# segmentation: none
+# n_rows: 3
+# n_cols: 0
+ORDINAL,LEVEL,COLOR1,COLOR2,VALUE,KNOTS
+1,1,LG,MB,60,S:18
+2,1,LG,,60,S:9
+3,1,HB,,60,S:9

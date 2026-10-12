@@ -1,0 +1,61 @@
+# khipu_id: 1000299
+# provenance: 
+# region: 
+# museum: "Museo Arqueologico San Miguel de Azapa (MASMA), Arica, Chile" 23284 (B)
+# nickname: 
+# file_format: .flat
+# data_regime: 
+# doc_cluster: 
+# template_id: 
+# segmentation: none
+# n_rows: 48
+# n_cols: 0
+ORDINAL,LEVEL,COLOR1,COLOR2,VALUE,KNOTS
+1,1,KB,W,15,"E:22,L:18,S:40"
+2,1,KB,W,,"E:7,L:8,S:44"
+3,1,KB,W,1,"E:3,L:1,S:33"
+4,1,KB,W,,"E:1,L:6,S:30"
+5,1,KB,W,,"E:5,L:2,S:33"
+6,1,KB,W,,"E:2,L:3,S:15"
+7,1,KB,W,,"E:1,L:1,S:29"
+8,1,KB,W,,"E:1,S:13"
+9,1,KB,W,3,"L:1,S:7"
+10,1,LK,W,,
+11,1,LK,W,1,E:1
+12,1,KB,W,,
+13,1,KB,W,,
+14,1,KB,W,,
+15,1,KB,W,,
+16,1,KB,W,,
+17,1,KB,W,,
+18,1,KB,W,,
+19,1,LK,,,
+20,1,KB,W,,
+21,1,LK,,,
+22,1,KB,W,1,E:1
+23,1,KB,W,,
+24,1,KB,W,,
+25,1,KB,W,,
+26,1,KB,W,,
+27,1,KB,W,,
+28,1,KB,W,,
+29,1,KB,W,,
+30,1,KB,W,1,E:1
+31,1,KB,W,,
+32,1,KB,W,,
+33,1,KB,W,,
+34,1,KB,W,1,E:1
+35,1,KB,W,,
+36,1,LK,W,,
+37,1,LK,W,,
+38,1,LK,W,,
+39,1,KB,W,1,E:1
+40,1,KB,W,2,L:1
+41,1,KB,W,,
+42,1,LK,W,1,E:1
+43,1,KB,W,,
+44,1,KB,W,,
+45,1,W,,,
+46,1,W,,,"E:2,L:1"
+47,1,MB,AB,,
+48,1,W,,,

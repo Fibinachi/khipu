@@ -1,0 +1,23 @@
+# khipu_id: 1000213
+# provenance: 
+# region: 
+# museum: "Museo Nacional, Lima, Peru" 17/543
+# nickname: 
+# file_format: .tab
+# data_regime: DC2
+# doc_cluster: census_format_paired
+# template_id: T055
+# segmentation: value_marker
+# n_rows: 9
+# n_cols: 8
+ROW_ID,IS_MARKER_ROW,SECTION,B,B_2,B_3,LA,B_4,LA_2,LC,LA_3
+,,,MARKER,VARIABLE,VARIABLE,VARIABLE,CONSTANT,CONSTANT,CONSTANT,CONSTANT
+1,TRUE,1,28,,6,,,,,
+2,FALSE,1,1,3,,2,,,,
+3,FALSE,1,3,,3,3,,,,
+4,FALSE,1,2,,4,,,,,
+5,FALSE,1,1,1,,4,,,,
+6,FALSE,1,1,2,,4,,,,
+7,FALSE,1,1,,,2,,,1,
+8,FALSE,1,1,2,10,1,,,,
+9,FALSE,1,1,3,,,,,,

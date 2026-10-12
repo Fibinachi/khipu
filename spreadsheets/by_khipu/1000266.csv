@@ -1,0 +1,32 @@
+# khipu_id: 1000266
+# provenance: 
+# region: 
+# museum: Banco Central de la Reserva ATE 3517
+# nickname: waterfall khipu
+# file_format: .tab
+# data_regime: DC6
+# doc_cluster: deep_sparse_mixed
+# template_id: T076
+# segmentation: color_cycle
+# n_rows: 18
+# n_cols: 2
+ROW_ID,IS_MARKER_ROW,SECTION,W,RL
+,,,VARIABLE,VARIABLE
+1,FALSE,1,53,13
+2,FALSE,1,53,15
+3,FALSE,1,63,16
+4,FALSE,1,63,17
+5,FALSE,1,74,16
+6,FALSE,1,33,13
+7,FALSE,1,53,12
+8,FALSE,1,58,16
+9,FALSE,1,52,11
+10,FALSE,1,32,
+11,FALSE,1,22,27
+12,FALSE,1,19,
+13,FALSE,1,12,15
+14,FALSE,1,17,29
+15,FALSE,1,18,26
+16,FALSE,1,22,8
+17,FALSE,1,24,26
+18,FALSE,1,23,19

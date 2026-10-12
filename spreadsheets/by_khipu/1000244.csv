@@ -1,0 +1,22 @@
+# khipu_id: 1000244
+# provenance: 
+# region: Puruchuco
+# museum: Puruchuco Museum 4c
+# nickname: 
+# file_format: .tab
+# data_regime: unclustered
+# doc_cluster: deep_sparse_mixed
+# template_id: T001
+# segmentation: color_cycle
+# n_rows: 8
+# n_cols: 2
+ROW_ID,IS_MARKER_ROW,SECTION,W,AB
+,,,CONSTANT,VARIABLE
+1,FALSE,1,,
+2,FALSE,,,
+3,FALSE,,4,
+4,FALSE,,,2
+5,FALSE,2,,
+6,FALSE,2,,
+7,FALSE,2,,
+8,FALSE,2,,

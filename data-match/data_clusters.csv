@@ -1,0 +1,201 @@
+khipu_id,template_exact,template_fuzzy,n_rows,method,cluster,provenance,region,doc_cluster,data_cluster
+1000014,T002,F002,19,color_cycle,census_format_paired,,,census_format_paired,2
+1000027,T003,F003,4,value_marker,census_format_paired,Ica,,census_format_paired,0
+1000029,T004,F004,3,white_dividers,deep_sparse_mixed,,,deep_sparse_mixed,2
+1000032,T005,F005,3,white_dividers,deep_hierarchical_grouped,,,deep_hierarchical_grouped,3
+1000033,T006,F006,3,white_dividers,census_format_paired,,,census_format_paired,2
+1000034,T007,F007,5,value_marker,deep_sparse_mixed,,,deep_sparse_mixed,2
+1000039,T008,F008,11,value_marker,census_format_paired,Pachacamac,,census_format_paired,2
+1000040,T009,F009,4,white_dividers,deep_sparse_mixed,Between Ica and Pisco,,deep_sparse_mixed,6
+1000042,T010,F010,6,value_marker,census_format_paired,Ica,,census_format_paired,2
+1000052,T011,F011,17,color_cycle,deep_sparse_mixed,Between Ica and Pisco,,deep_sparse_mixed,2
+1000053,T012,F012,25,value_marker,deep_sparse_mixed,Ica,,deep_sparse_mixed,6
+1000057,T013,F013,4,value_marker,large_value_flat,Between Ica and Pisco,,large_value_flat,6
+1000060,T014,F014,7,color_cycle,deep_sparse_mixed,Between Ica and Pisco,,deep_sparse_mixed,0
+1000063,T015,F015,5,value_marker,deep_hierarchical_grouped,Between Ica and Pisco,,deep_hierarchical_grouped,6
+1000065,T016,F016,4,white_dividers,census_format_paired,Ica,,census_format_paired,1
+1000085,T017,F017,9,value_marker,deep_hierarchical_grouped,Nazca,,deep_hierarchical_grouped,2
+1000089,T018,F018,5,value_marker,deep_hierarchical_grouped,Pachacamac,,deep_hierarchical_grouped,6
+1000092,T019,F019,6,color_cycle,census_format_paired,Pachacamac,,census_format_paired,0
+1000094,T020,F020,4,value_marker,deep_hierarchical_grouped,Nazca,,deep_hierarchical_grouped,6
+1000096,T021,F021,4,value_marker,deep_hierarchical_grouped,Lluta Valley,,deep_hierarchical_grouped,4
+1000097,T022,F022,5,value_marker,census_format_paired,,,census_format_paired,6
+1000098,T023,F023,19,color_cycle,deep_sparse_mixed,Nazca,,deep_sparse_mixed,0
+1000099,T024,F024,5,value_marker,census_format_paired,,,census_format_paired,2
+1000103,T025,F025,8,value_marker,deep_sparse_mixed,Nazca,,deep_sparse_mixed,2
+1000106,T026,F026,6,color_cycle,census_format_paired,,,census_format_paired,0
+1000107,T027,F027,8,color_cycle,census_format_paired,,,census_format_paired,0
+1000108,T028,F028,13,color_cycle,census_format_paired,,,census_format_paired,2
+1000110,T001,F001,11,color_cycle,census_format_paired,,,census_format_paired,6
+1000115,T029,F029,4,value_marker,census_format_paired,Nazca,,census_format_paired,6
+1000118,T030,F030,14,color_cycle,large_value_flat,Ica,,large_value_flat,3
+1000120,T031,F031,9,value_marker,deep_sparse_mixed,Pachacamac,,deep_sparse_mixed,4
+1000121,T032,F032,7,value_marker,census_format_paired,Ica,,census_format_paired,2
+1000124,T033,F033,10,value_marker,large_value_flat,Ocucaje,,large_value_flat,3
+1000131,T034,F034,4,value_marker,deep_sparse_mixed,Pachacamac,,deep_sparse_mixed,6
+1000137,T035,F035,4,value_marker,census_format_paired,Pachacamac,,census_format_paired,6
+1000140,T036,F036,5,value_marker,deep_hierarchical_grouped,Ica,,deep_hierarchical_grouped,6
+1000143,T037,F037,6,value_marker,census_format_paired,,,census_format_paired,2
+1000144,T038,F038,16,color_cycle,deep_hierarchical_grouped,Pachacamac,,deep_hierarchical_grouped,3
+1000147,T039,F039,48,color_cycle,deep_hierarchical_grouped,Pachacamac,,deep_hierarchical_grouped,6
+1000148,T040,F040,4,value_marker,deep_hierarchical_grouped,Nazca,,deep_hierarchical_grouped,6
+1000150,T041,F041,7,color_cycle,census_format_paired,near Lima,,census_format_paired,2
+1000159,T042,F042,6,value_marker,deep_sparse_mixed,,,deep_sparse_mixed,2
+1000164,T043,F043,5,white_dividers,large_value_flat,,,large_value_flat,6
+1000172,T044,F044,4,value_marker,census_format_paired,"""Hacienda Copara, Nazca""","""South Coast, Peru""",census_format_paired,2
+1000176,T045,F045,5,value_marker,census_format_paired,,,census_format_paired,2
+1000178,T046,F046,8,color_cycle,deep_sparse_mixed,,,deep_sparse_mixed,0
+1000180,T047,F047,5,value_marker,census_format_paired,,,census_format_paired,2
+1000184,T048,F048,5,white_dividers,census_format_paired,,,census_format_paired,2
+1000192,T049,F049,6,white_dividers,deep_sparse_mixed,,,deep_sparse_mixed,6
+1000197,T050,F050,3,white_dividers,census_format_paired,,,census_format_paired,0
+1000198,T051,F051,3,white_dividers,census_format_paired,,,census_format_paired,2
+1000199,T052,F052,4,value_marker,census_format_paired,,,census_format_paired,0
+1000207,T053,F053,4,value_marker,census_format_paired,,,census_format_paired,2
+1000208,T054,F054,3,white_dividers,census_format_paired,,,census_format_paired,6
+1000213,T055,F055,7,value_marker,census_format_paired,,,census_format_paired,2
+1000221,T056,F056,4,value_marker,census_format_paired,,,census_format_paired,2
+1000228,T057,F057,5,value_marker,census_format_paired,Huacho,,census_format_paired,6
+1000229,T058,F058,11,value_marker,census_format_paired,,,census_format_paired,2
+1000230,T059,F059,4,white_dividers,deep_sparse_mixed,,,deep_sparse_mixed,2
+1000231,T060,F060,4,white_dividers,deep_sparse_mixed,,,deep_sparse_mixed,3
+1000234,T061,F061,4,value_marker,census_format_paired,Peru,,census_format_paired,2
+1000236,T062,F062,5,white_dividers,deep_sparse_mixed,,,deep_sparse_mixed,6
+1000238,T063,F063,6,white_dividers,deep_hierarchical_grouped,,,deep_hierarchical_grouped,6
+1000239,T064,F064,6,value_marker,deep_sparse_mixed,"""Pueblo Libre, Lima, Peru""",,deep_sparse_mixed,2
+1000244,T001,F001,8,color_cycle,deep_sparse_mixed,,Puruchuco,deep_sparse_mixed,0
+1000246,T065,F065,4,value_marker,census_format_paired,Huaquerones,Puruchuco,census_format_paired,6
+1000249,T066,F066,4,value_marker,deep_sparse_mixed,Huaquerones,Puruchuco,deep_sparse_mixed,2
+1000250,T067,F067,6,value_marker,deep_sparse_mixed,,Puruchuco,deep_sparse_mixed,2
+1000251,T068,F068,10,value_marker,deep_sparse_mixed,Huaquerones,Puruchuco,deep_sparse_mixed,2
+1000253,T069,F069,5,value_marker,census_format_paired,Huaquerones,Puruchuco,census_format_paired,2
+1000255,T070,F070,4,value_marker,census_format_paired,Huaquerones,Puruchuco,census_format_paired,2
+1000256,T071,F071,8,color_cycle,census_format_paired,Huaquerones,Puruchuco,census_format_paired,0
+1000259,T072,F072,29,color_cycle,deep_sparse_mixed,,Puruchuco,deep_sparse_mixed,2
+1000262,T073,F073,19,color_cycle,deep_sparse_mixed,,Puruchuco,deep_sparse_mixed,4
+1000263,T074,F074,19,color_cycle,deep_sparse_mixed,Huaquerones,Puruchuco,deep_sparse_mixed,4
+1000265,T075,F075,20,color_cycle,deep_sparse_mixed,,,deep_sparse_mixed,3
+1000266,T076,F076,18,color_cycle,deep_sparse_mixed,,,deep_sparse_mixed,6
+1000267,T077,F077,21,color_cycle,deep_sparse_mixed,,,deep_sparse_mixed,6
+1000268,T078,F078,24,color_cycle,deep_sparse_mixed,,,deep_sparse_mixed,6
+1000269,T079,F079,6,value_marker,deep_sparse_mixed,,,deep_sparse_mixed,2
+1000270,T080,F080,3,white_dividers,deep_sparse_mixed,Santa,,deep_sparse_mixed,6
+1000271,T081,F081,3,white_dividers,deep_hierarchical_grouped,Santa,,deep_hierarchical_grouped,2
+1000272,T082,F082,4,value_marker,census_format_paired,Santa,,census_format_paired,2
+1000273,T083,F083,6,value_marker,deep_sparse_mixed,Santa,,deep_sparse_mixed,2
+1000274,T084,F084,4,white_dividers,deep_sparse_mixed,Santa,,deep_sparse_mixed,6
+1000275,T085,F085,4,value_marker,deep_sparse_mixed,Santa,,deep_sparse_mixed,2
+1000279,T086,F086,9,white_dividers,deep_hierarchical_grouped,Mollepampa,"""Inka, Playa Miller""",deep_hierarchical_grouped,5
+1000280,T087,F087,7,white_dividers,deep_hierarchical_grouped,,,deep_hierarchical_grouped,3
+1000285,T088,F088,12,value_marker,deep_sparse_mixed,,,deep_sparse_mixed,2
+1000287,T089,F089,8,value_marker,deep_sparse_mixed,Nazca,,deep_sparse_mixed,2
+1000292,T090,F090,4,value_marker,deep_hierarchical_grouped,Nazca,,deep_hierarchical_grouped,6
+1000293,T091,F091,6,value_marker,deep_hierarchical_grouped,Paracas,,deep_hierarchical_grouped,6
+1000302,T092,F092,4,value_marker,deep_hierarchical_grouped,Lluta Valley,,deep_hierarchical_grouped,6
+1000310,T093,F093,7,value_marker,deep_sparse_mixed,Peru,,deep_sparse_mixed,4
+1000312,T094,F094,5,white_dividers,census_format_paired,,,census_format_paired,2
+1000313,T095,F095,12,value_marker,deep_sparse_mixed,Huacho,,deep_sparse_mixed,2
+1000314,T096,F096,27,value_marker,deep_hierarchical_grouped,Pachacamac,,deep_hierarchical_grouped,4
+1000316,T097,F097,4,white_dividers,deep_hierarchical_grouped,"""Playa Miller #6, Arica, Chile""",,deep_hierarchical_grouped,6
+1000320,T098,F098,3,value_marker,deep_hierarchical_grouped,Huacho,,deep_hierarchical_grouped,4
+1000321,T099,F099,4,value_marker,deep_sparse_mixed, , ,deep_sparse_mixed,2
+1000329,T100,F100,7,value_marker,deep_hierarchical_grouped,Paracas,,deep_hierarchical_grouped,6
+1000330,T101,F101,12,color_cycle,census_format_paired,,,census_format_paired,2
+1000331,T102,F102,8,value_marker,deep_sparse_mixed,,,deep_sparse_mixed,2
+1000332,T103,F103,5,value_marker,census_format_paired,,,census_format_paired,2
+1000333,T104,F104,8,value_marker,deep_hierarchical_grouped,Pachacamac,,deep_hierarchical_grouped,2
+1000336,T105,F105,7,value_marker,deep_sparse_mixed,,,deep_sparse_mixed,4
+1000340,T106,F106,5,white_dividers,deep_sparse_mixed,unknown,,deep_sparse_mixed,2
+1000344,T107,F107,15,value_marker,deep_sparse_mixed,,,deep_sparse_mixed,5
+1000345,T108,F108,7,value_marker,deep_sparse_mixed,,,deep_sparse_mixed,6
+1000346,T109,F109,6,value_marker,deep_sparse_mixed,,,deep_sparse_mixed,2
+1000351,T110,F110,8,value_marker,deep_sparse_mixed,,,deep_sparse_mixed,2
+1000356,T111,F111,4,value_marker,census_format_paired,,,census_format_paired,2
+1000359,T112,F112,6,value_marker,deep_sparse_mixed,,,deep_sparse_mixed,2
+1000365,T113,F113,12,value_marker,census_format_paired,,,census_format_paired,2
+1000368,T114,F114,4,value_marker,deep_sparse_mixed,,,deep_sparse_mixed,2
+1000369,T115,F115,5,value_marker,census_format_paired,,,census_format_paired,6
+1000371,T116,F116,8,white_dividers,deep_hierarchical_grouped,,,deep_hierarchical_grouped,6
+1000375,T117,F117,6,value_marker,census_format_paired,,,census_format_paired,2
+1000381,T118,F118,3,white_dividers,census_format_paired,,,census_format_paired,2
+1000382,T119,F119,7,value_marker,census_format_paired,,,census_format_paired,2
+1000383,T120,F120,26,value_marker,census_format_paired,,,census_format_paired,2
+1000390,T121,F121,7,white_dividers,deep_hierarchical_grouped,,,deep_hierarchical_grouped,2
+1000396,T122,F122,7,value_marker,deep_sparse_mixed,"""Huaura Valley, near Lima, on Santa Rosalia Hacienda""",,deep_sparse_mixed,2
+1000400,T123,F123,18,color_cycle,deep_sparse_mixed,unknown,,deep_sparse_mixed,6
+1000415,T124,F124,4,value_marker,deep_hierarchical_grouped,Acari,,deep_hierarchical_grouped,6
+1000422,T125,F125,4,value_marker,deep_sparse_mixed,Pachacamac,,deep_sparse_mixed,6
+1000433,T126,F126,15,color_cycle,deep_sparse_mixed,Pachacamac,,deep_sparse_mixed,2
+1000436,T127,F127,11,value_marker,deep_hierarchical_grouped,Pachacamac,,deep_hierarchical_grouped,6
+1000441,T128,F128,10,color_cycle,census_format_paired,Pachacamac,,census_format_paired,0
+1000450,T129,F129,8,value_marker,deep_sparse_mixed,Pachacamac,,deep_sparse_mixed,2
+1000452,T130,F130,3,value_marker,census_format_paired,"""Chancay, Central Coast""",,census_format_paired,0
+1000455,T131,F131,5,value_marker,census_format_paired,,"""Inka, Late Horizon""",census_format_paired,2
+1000474,T132,F132,20,color_cycle,census_format_paired,Ica,,census_format_paired,1
+1000477,T133,F133,6,value_marker,census_format_paired,"""Ica Valley, near Callango""",,census_format_paired,2
+1000478,T134,F134,4,value_marker,census_format_paired,unknown,,census_format_paired,0
+1000479,T135,F135,5,value_marker,census_format_paired,,,census_format_paired,0
+1000493,T136,F136,5,value_marker,deep_hierarchical_grouped,Chuquitanta,,deep_hierarchical_grouped,3
+1000494,T137,F137,4,value_marker,census_format_paired,Chuquitanta,,census_format_paired,4
+1000497,T138,F138,3,white_dividers,deep_sparse_mixed,"""Hda. Huando, Chancay""",,deep_sparse_mixed,6
+1000499,T139,F139,6,value_marker,large_value_flat,,,large_value_flat,3
+1000500,T140,F140,4,white_dividers,census_format_paired,,,census_format_paired,6
+1000501,T141,F141,6,value_marker,deep_hierarchical_grouped,"""Huaca Perez, Lima (a.k.a Hda. Infantas and Tambo Inca)""","""Central Coast, Peru""",deep_hierarchical_grouped,2
+1000504,T142,F142,4,value_marker,deep_hierarchical_grouped,"""Peru, Fundort: Pachacmac""","""Central Coast, Peru""",deep_hierarchical_grouped,4
+1000505,T143,F143,4,value_marker,census_format_paired,Ica,"""South Coast, Peru""",census_format_paired,6
+1000506,T144,F144,12,value_marker,deep_sparse_mixed,Huacho,"""Central Coast, Peru""",deep_sparse_mixed,2
+1000507,T145,F145,5,value_marker,deep_sparse_mixed,Pachacamac,"""Central Coast, Peru""",deep_sparse_mixed,2
+1000508,T146,F146,4,value_marker,deep_sparse_mixed,Pachacamac,"""Central Coast, Peru""",deep_sparse_mixed,4
+1000509,T147,F147,6,value_marker,deep_sparse_mixed,"""Santa Clara, Nazca""","""South Coast, Peru""",deep_sparse_mixed,4
+1000510,T148,F148,14,value_marker,deep_sparse_mixed,Pachacamac,"""Central Coast, Peru""",deep_sparse_mixed,6
+1000513,T149,F149,4,value_marker,deep_sparse_mixed,Pachacamac,"""Central Coast, Peru""",deep_sparse_mixed,5
+1000514,T150,F150,8,white_dividers,deep_hierarchical_grouped,unknown,unknown,deep_hierarchical_grouped,4
+1000520,T151,F151,5,value_marker,deep_sparse_mixed,Pisco,"""South Coast, Peru""",deep_sparse_mixed,2
+1000521,T152,F152,23,color_cycle,deep_sparse_mixed,Ica/Pisco,"""South Coast, Peru""",deep_sparse_mixed,2
+1000523,T153,F153,6,value_marker,deep_sparse_mixed,Pachacamac,"""Central Coast, Peru""",deep_sparse_mixed,4
+1000524,T154,F154,3,white_dividers,deep_hierarchical_grouped,Pachacamac,"""Central Coast, Peru""",deep_hierarchical_grouped,6
+1000526,T155,F155,5,value_marker,deep_hierarchical_grouped,unknown,unknown,deep_hierarchical_grouped,2
+1000528,T156,F156,5,white_dividers,deep_hierarchical_grouped,Ocucaje,"""South Coast, Peru""",deep_hierarchical_grouped,6
+1000533,T157,F157,4,value_marker,census_format_paired,Ica,"""South Coast, Peru""",census_format_paired,2
+1000534,T158,F158,8,value_marker,census_format_paired,Ica,"""South Coast, Peru""",census_format_paired,6
+1000537,T159,F159,11,color_cycle,deep_sparse_mixed,Pisco,"""South Coast, Peru""",deep_sparse_mixed,0
+1000539,T160,F160,5,value_marker,deep_sparse_mixed,Ica,"""South Coast, Peru""",deep_sparse_mixed,6
+1000543,T161,F161,6,value_marker,deep_sparse_mixed,Huacho,"""North-Central Coast, Peru""",deep_sparse_mixed,6
+1000545,T162,F162,4,value_marker,deep_sparse_mixed,unknown,unknown,deep_sparse_mixed,6
+1000546,T163,F163,18,color_cycle,deep_hierarchical_grouped,unknown,unknown,deep_hierarchical_grouped,6
+1000547,T164,F164,10,value_marker,deep_sparse_mixed,Ica,"""South Coast, Peru""",deep_sparse_mixed,2
+1000548,T165,F165,5,value_marker,census_format_paired,Pachacamac,"""Central Coast, Peru""",census_format_paired,4
+1000549,T166,F166,4,white_dividers,census_format_paired,Unknown,unknown,census_format_paired,2
+1000552,T167,F167,5,value_marker,census_format_paired,Ica,"""South Coast, Peru""",census_format_paired,2
+1000555,T168,F168,5,value_marker,deep_sparse_mixed,Pachacamac,"""Central Coast, Peru""",deep_sparse_mixed,2
+1000562,T169,F169,3,value_marker,census_format_paired,"Ullujaya, Ocucaje, Ica",,census_format_paired,0
+1000563,T170,F170,4,white_dividers,deep_sparse_mixed,"Ullujaya, Ocucaje, Ica",,deep_sparse_mixed,0
+1000565,T171,F171,7,white_dividers,deep_hierarchical_grouped,Costa Sur,,deep_hierarchical_grouped,0
+1000569,T172,F172,8,color_cycle,census_format_paired,unknown,,census_format_paired,0
+1000570,T173,F173,4,white_dividers,deep_sparse_mixed,unknown,,deep_sparse_mixed,2
+1000571,T174,F174,3,white_dividers,deep_sparse_mixed,unknown,,deep_sparse_mixed,1
+1000575,T175,F175,3,white_dividers,deep_sparse_mixed,unknown,,deep_sparse_mixed,1
+1000576,T176,F176,3,white_dividers,deep_sparse_mixed,unknown,,deep_sparse_mixed,0
+1000582,T177,F177,12,color_cycle,census_format_paired,unknown,,census_format_paired,0
+1000586,T178,F178,11,white_dividers,deep_sparse_mixed,unknown,,deep_sparse_mixed,0
+1000593,T179,F179,6,white_dividers,deep_sparse_mixed,Costa Sur,,deep_sparse_mixed,0
+1000603,T180,F180,4,value_marker,deep_hierarchical_grouped,Incahuasi,,deep_hierarchical_grouped,0
+1000605,T181,F181,5,value_marker,deep_sparse_mixed,Incahuasi,,deep_sparse_mixed,0
+1000608,T182,F182,4,white_dividers,deep_hierarchical_grouped,Incahuasi,,deep_hierarchical_grouped,0
+1000609,T183,F183,9,white_dividers,deep_hierarchical_grouped,Incahuasi,,deep_hierarchical_grouped,3
+1000610,T184,F184,9,white_dividers,deep_hierarchical_grouped,Incahuasi,,deep_hierarchical_grouped,0
+1000611,T185,F185,5,value_marker,deep_hierarchical_grouped,Incahuasi,,deep_hierarchical_grouped,3
+1000614,T186,F186,12,white_dividers,deep_sparse_mixed,Incahuasi,,deep_sparse_mixed,0
+1000616,T187,F187,6,white_dividers,deep_sparse_mixed,Incahuasi,,deep_sparse_mixed,3
+1000617,T188,F188,5,value_marker,deep_sparse_mixed,Incahuasi,,deep_sparse_mixed,0
+1000619,T189,F189,4,white_dividers,deep_hierarchical_grouped,Incahuasi,,deep_hierarchical_grouped,0
+1000622,T190,F190,5,value_marker,deep_hierarchical_grouped,Incahuasi,,deep_hierarchical_grouped,6
+1000623,T191,F191,4,value_marker,deep_hierarchical_grouped,Incahuasi,,deep_hierarchical_grouped,0
+1000629,T192,F192,4,value_marker,deep_sparse_mixed,Incahuasi,,deep_sparse_mixed,2
+1000633,T193,F193,5,value_marker,deep_sparse_mixed,Incahuasi,,deep_sparse_mixed,0
+1000637,T194,F194,5,value_marker,deep_sparse_mixed,Incahuasi,,deep_sparse_mixed,0
+1000649,T195,F195,4,value_marker,census_format_paired,"Huaca San Pedro, Armatambo",,census_format_paired,1
+1000650,T196,F196,10,white_dividers,deep_sparse_mixed,"Huaca San Pedro, Armatambo",,deep_sparse_mixed,0
+1000654,T197,F197,3,white_dividers,deep_sparse_mixed,"Armatambo, Huaca San Pedro",,deep_sparse_mixed,1
+1000658,T198,F198,8,value_marker,deep_sparse_mixed,"Armatambo, Huaca San Pedro",,deep_sparse_mixed,2
+1000659,T199,F199,7,value_marker,deep_sparse_mixed,"Armatambo, Huaca San Pedro",,deep_sparse_mixed,1

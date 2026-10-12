@@ -1,0 +1,32 @@
+# khipu_id: 1000251
+# provenance: Huaquerones
+# region: Puruchuco
+# museum: Puruchuco Museum 10 Tex 641 Rt 639
+# nickname: 
+# file_format: .tab
+# data_regime: DC2
+# doc_cluster: deep_sparse_mixed
+# template_id: T068
+# segmentation: value_marker
+# n_rows: 18
+# n_cols: 8
+ROW_ID,IS_MARKER_ROW,SECTION,KB,W,MB,AB,CB,CB_2,GG,KB_2
+,,,MARKER,VARIABLE,VARIABLE,VARIABLE,CONSTANT,CONSTANT,CONSTANT,CONSTANT
+1,TRUE,1,1,1,,1,1,1,1,
+2,FALSE,1,1,,,,,,,
+3,FALSE,1,1,1,1,1,,,,
+4,FALSE,1,1,1,1,1,,,,
+5,FALSE,1,1,32,82,117,,,,
+6,FALSE,1,1,,1,,,,,
+7,FALSE,1,1,1,1,1,,,,
+8,FALSE,1,1,1,1,,,,,
+9,FALSE,1,1,1,1,,,,,
+10,FALSE,1,1,1,1,,,,,
+11,FALSE,1,1,1,1,,,,,
+12,FALSE,1,1,2,2,22,,,,
+13,FALSE,1,2,10,,3,,,,
+14,FALSE,1,,,,,,,,
+15,FALSE,1,1,1,1,1,,,,
+16,FALSE,1,1,1,1,1,,,,
+17,FALSE,1,1,,34,82,,,,
+18,FALSE,1,117,,,,,,,

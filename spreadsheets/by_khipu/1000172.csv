@@ -1,0 +1,20 @@
+# khipu_id: 1000172
+# provenance: "Hacienda Copara, Nazca"
+# region: "South Coast, Peru"
+# museum: "Musee Quai Branly, Paris, France" 64.19.1.2
+# nickname: 
+# file_format: .tab
+# data_regime: DC2
+# doc_cluster: census_format_paired
+# template_id: T044
+# segmentation: value_marker
+# n_rows: 6
+# n_cols: 7
+ROW_ID,IS_MARKER_ROW,SECTION,W,AB,W_2,W_3,AB_2,W_4,W_5
+,,,MARKER,VARIABLE,VARIABLE,VARIABLE,VARIABLE,CONSTANT,CONSTANT
+1,TRUE,1,1,1,1,7,5,,
+2,FALSE,,9,1,7,5,6,,
+3,FALSE,,,4,4,6,,,
+4,FALSE,3,3,3,7,,,,4
+5,FALSE,,3,3,8,,,,
+6,FALSE,4,3,,,,,,

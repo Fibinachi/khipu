@@ -1,0 +1,18 @@
+# khipu_id: 1000230
+# provenance: 
+# region: 
+# museum: "Museo Amano, Lima, Peru" R2699
+# nickname: 
+# file_format: .tab
+# data_regime: DC2
+# doc_cluster: deep_sparse_mixed
+# template_id: T059
+# segmentation: white_dividers
+# n_rows: 4
+# n_cols: 24
+ROW_ID,IS_MARKER_ROW,SECTION,B,B_2,B_3,B_4,B_5,B_6,B_7,W,DB,W_2,DB_2,W_3,B_8,W_4,B_9,W_5,B_10,W_6,B_11,W_7,B_12,W_8,B_13,W_9
+,,,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT
+1,FALSE,1,,,,,2,1,,,,,,,,,,,,,,,,,,
+2,FALSE,2,,1,,1,1,,,,,,,,,,,,,,,,,,,
+3,FALSE,3,2,1,3,2,2,1,,,,,,,,,,,,,,,,,,
+4,FALSE,4,,9,,2,,9,,6,5,,2,,5,4,6,8,,4,9,9,8,7,2,3

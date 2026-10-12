@@ -1,0 +1,35 @@
+# khipu_id: 1000651
+# provenance: Armatambo, Huaca San Pedro
+# region: 
+# museum: Museo Nac., Pueblo Libre 35269
+# nickname: 
+# file_format: .flat
+# data_regime: 
+# doc_cluster: 
+# template_id: 
+# segmentation: none
+# n_rows: 22
+# n_cols: 0
+ORDINAL,LEVEL,COLOR1,COLOR2,VALUE,KNOTS
+1,1,W,,,L:2
+2,1,W,,,S:1
+3,1,W,,,"L:2,S:1"
+4,1,W,,,
+5,1,W,,,"L:2,S:8"
+6,1,W,,,L:2
+7,1,AB,,,L:1
+8,1,BG,,1,"E:1,L:1"
+9,1,W,GG,,L:2
+10,1,W,,,L:1
+11,1,MB,,1,"E:1,L:1"
+12,1,BG,,1,"E:1,L:1"
+13,1,W,GG,,L:1
+14,1,W,,,S:1
+15,1,MB,,1,"E:1,L:1"
+16,1,BG,,,L:2
+17,1,W,GG,1,"E:1,L:1"
+18,1,W,,,"L:1,S:5"
+19,1,MB,,,L:2
+20,1,W,GG,,L:2
+21,1,MB,,,"L:1,S:4"
+22,1,BG,,,S:5

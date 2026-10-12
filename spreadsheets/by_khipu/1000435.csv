@@ -1,0 +1,17 @@
+# khipu_id: 1000435
+# provenance: "Cieneguilla, Valle de Lurin"
+# region: 
+# museum: Museo de Sitio de Pachacamac MSP 1406/RN 43387
+# nickname: HP/AR 016
+# file_format: .flat
+# data_regime: 
+# doc_cluster: 
+# template_id: 
+# segmentation: none
+# n_rows: 4
+# n_cols: 0
+ORDINAL,LEVEL,COLOR1,COLOR2,VALUE,KNOTS
+1,1,MB,W,3,L:4
+2,1,MB,W,,L:4
+3,1,MB,,,
+4,1,MB,W,4,L:1

@@ -1,0 +1,23 @@
+# khipu_id: 1000140
+# provenance: Ica
+# region: 
+# museum: "Museum für Völkerkunde, Berlin" VA47079
+# nickname: 
+# file_format: .tab
+# data_regime: DC6
+# doc_cluster: deep_hierarchical_grouped
+# template_id: T036
+# segmentation: value_marker
+# n_rows: 9
+# n_cols: 39
+ROW_ID,IS_MARKER_ROW,SECTION,B,W,W_2,W_3,LB,W_4,B_2,LB_2,LB_3,LB_4,BB,LB_5,LB_6,LB_7,LB_8,LB_9,LB_10,LB_11,B_3,W_5,W_6,BB_2,LB_12,W_7,W_8,W_9,B_4,B_5,YG,YG_2,BB_3,BB_4,YG_3,YG_4,YG_5,YG_6,YG_7,YG_8,YG_9
+,,,MARKER,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,CONSTANT,VARIABLE,VARIABLE,CONSTANT,CONSTANT,CONSTANT,VARIABLE,CONSTANT,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT
+1,TRUE,1,,65,,26,5,7,11,4,23,17,23,,,,,,,,,,,,,,,7,,,,,,,,,,,,,
+2,FALSE,2,2,,,7,12,1,12,9,,,,,,,,,,,,54,,11,4,,,,,,,,,,,,,,,,
+3,FALSE,,,,,,,,,,,,,,,,,46,,12,4,,4,,5,1,,,,,,,,,,,,,,,
+4,FALSE,5,,,,,,,,,,,,47,,19,14,1,,,,,,,,,,,,,,,,,,,,,,,
+5,FALSE,6,,,,,,,,,51,,16,23,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,FALSE,6,4,,13,,,,,,,,,,,,,,,,44,,11,13,,,,,,,,,,,,,,,,,
+7,FALSE,6,4,7,7,3,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,FALSE,6,4,204,18,5,,7,,3,33,,,,,,,,,,,,,32,,16,6,,,,,,,,,,,,,,
+9,FALSE,6,4,,2,9,,,,,,,,,,,,,,33,,12,11,6,,1,5,2,9,,,,,,,,,,,,

@@ -1,0 +1,17 @@
+# khipu_id: 1000198
+# provenance: 
+# region: 
+# museum: "University Museum, University of Pennsylvania" SA4030
+# nickname: 
+# file_format: .tab
+# data_regime: DC2
+# doc_cluster: census_format_paired
+# template_id: T051
+# segmentation: white_dividers
+# n_rows: 3
+# n_cols: 35
+ROW_ID,IS_MARKER_ROW,SECTION,B,B_2,B_3,B_4,B_5,B_6,B_7,B_8,B_9,B_10,B_11,B_12,B_13,B_14,B_15,B_16,B_17,B_18,B_19,B_20,B_21,B_22,B_23,B_24,B_25,W,B_26,B_27,B_28,B_29,B_30,B_31,B_32,B_33,B_34
+,,,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT
+1,FALSE,2,112,10,12,,14,,,,4,4,4,4,,,,,4,4,,2,2,,4,,,46,4,4,2,4,4,4,2,2,2
+2,FALSE,3,4,4,4,4,4,4,4,4,4,4,,,,,,,,,,,,,,,,,,,,,,,,,
+3,FALSE,4,2,2,1,2,2,2,2,2,,1,,,,,,,,,,,,,,,,,,,,,,,,,

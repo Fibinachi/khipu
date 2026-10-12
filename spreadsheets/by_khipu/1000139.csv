@@ -1,0 +1,32 @@
+# khipu_id: 1000139
+# provenance: Pachacamac
+# region: 
+# museum: "Museum für Völkerkunde, Berlin" VA42563
+# nickname: 
+# file_format: .flat
+# data_regime: 
+# doc_cluster: 
+# template_id: 
+# segmentation: none
+# n_rows: 19
+# n_cols: 0
+ORDINAL,LEVEL,COLOR1,COLOR2,VALUE,KNOTS
+1,1,DB,,5,"E:1,L:3,S:2"
+2,1,DB,,7,L:1
+3,1,DB,,6,L:1
+4,1,W,,91,"E:1,S:9"
+5,1,DB,,157,"L:1,S:6"
+6,1,B,W,,S:1
+7,1,B,,,S:1
+8,1,W,,52,"L:1,S:5"
+9,1,DB,,14,"L:1,S:1"
+10,1,B,,,
+11,1,W,,25,"L:1,S:2"
+12,1,DB,,21,"E:1,S:2"
+13,1,B,,,
+14,1,W,,14,"L:1,S:1"
+15,1,DB,,32,"L:1,S:3"
+16,1,W,,,
+17,1,DB,,,
+18,1,W,,,
+19,1,DB,,,

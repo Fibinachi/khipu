@@ -1,0 +1,171 @@
+id,feature_type,feature_value,description
+1,axis,AXU,axis orientation on spiral knot
+2,axis,U,axis orientation on spiral knot
+3,color,0D,cord color code (Ascher notation)
+4,color,0G,cord color code (Ascher notation)
+5,color,?,cord color code (Ascher notation)
+6,color,AB,cord color code (Ascher notation)
+7,color,B,cord color code (Ascher notation)
+8,color,BB,cord color code (Ascher notation)
+9,color,BG,cord color code (Ascher notation)
+10,color,BL,cord color code (Ascher notation)
+11,color,BS,cord color code (Ascher notation)
+12,color,BY,cord color code (Ascher notation)
+13,color,DB,cord color code (Ascher notation)
+14,color,FB,cord color code (Ascher notation)
+15,color,G,cord color code (Ascher notation)
+16,color,G0,cord color code (Ascher notation)
+17,color,GG,cord color code (Ascher notation)
+18,color,KB,cord color code (Ascher notation)
+19,color,LB,cord color code (Ascher notation)
+20,color,LC,cord color code (Ascher notation)
+21,color,LK,cord color code (Ascher notation)
+22,color,MB,cord color code (Ascher notation)
+23,color,PB,cord color code (Ascher notation)
+24,color,PK,cord color code (Ascher notation)
+25,color,R,cord color code (Ascher notation)
+26,color,RB,cord color code (Ascher notation)
+27,color,RL,cord color code (Ascher notation)
+28,color,RM,cord color code (Ascher notation)
+29,color,VR,cord color code (Ascher notation)
+30,color,W,cord color code (Ascher notation)
+31,color,YB,cord color code (Ascher notation)
+32,compound,0G:W,"multi-color cord, operator preserved"
+33,compound,AB-W,"multi-color cord, operator preserved"
+34,compound,AB:BG,"multi-color cord, operator preserved"
+35,compound,AB:GG,"multi-color cord, operator preserved"
+36,compound,AB:KB,"multi-color cord, operator preserved"
+37,compound,AB:MB,"multi-color cord, operator preserved"
+38,compound,AB:W,"multi-color cord, operator preserved"
+39,compound,B-B,"multi-color cord, operator preserved"
+40,compound,B-LC,"multi-color cord, operator preserved"
+41,compound,B-W,"multi-color cord, operator preserved"
+42,compound,B:AB,"multi-color cord, operator preserved"
+43,compound,B:G,"multi-color cord, operator preserved"
+44,compound,B:GG,"multi-color cord, operator preserved"
+45,compound,B:LC,"multi-color cord, operator preserved"
+46,compound,B:W,"multi-color cord, operator preserved"
+47,compound,BB:W,"multi-color cord, operator preserved"
+48,compound,BG:W,"multi-color cord, operator preserved"
+49,compound,BL:AB,"multi-color cord, operator preserved"
+50,compound,BL:MB,"multi-color cord, operator preserved"
+51,compound,BL:W,"multi-color cord, operator preserved"
+52,compound,BS-W,"multi-color cord, operator preserved"
+53,compound,BS:B:,"multi-color cord, operator preserved"
+54,compound,BY-W,"multi-color cord, operator preserved"
+55,compound,BY:BL,"multi-color cord, operator preserved"
+56,compound,BY:MB,"multi-color cord, operator preserved"
+57,compound,BY:W,"multi-color cord, operator preserved"
+58,compound,DB-BL,"multi-color cord, operator preserved"
+59,compound,DB-DB-,"multi-color cord, operator preserved"
+60,compound,DB-W,"multi-color cord, operator preserved"
+61,compound,DB:W,"multi-color cord, operator preserved"
+62,compound,FB:B,"multi-color cord, operator preserved"
+63,compound,FB:W,"multi-color cord, operator preserved"
+64,compound,G:W,"multi-color cord, operator preserved"
+65,compound,GG:,"multi-color cord, operator preserved"
+66,compound,GG:AB,"multi-color cord, operator preserved"
+67,compound,GG:MB,"multi-color cord, operator preserved"
+68,compound,GG:RL,"multi-color cord, operator preserved"
+69,compound,GG:W,"multi-color cord, operator preserved"
+70,compound,KB:AB,"multi-color cord, operator preserved"
+71,compound,KB:B,"multi-color cord, operator preserved"
+72,compound,KB:MB,"multi-color cord, operator preserved"
+73,compound,KB:RB,"multi-color cord, operator preserved"
+74,compound,KB:VR,"multi-color cord, operator preserved"
+75,compound,KB:W,"multi-color cord, operator preserved"
+76,compound,LB-BL,"multi-color cord, operator preserved"
+77,compound,LB-W,"multi-color cord, operator preserved"
+78,compound,LB:W,"multi-color cord, operator preserved"
+79,compound,LC:W,"multi-color cord, operator preserved"
+80,compound,MB-,"multi-color cord, operator preserved"
+81,compound,MB-AB,"multi-color cord, operator preserved"
+82,compound,MB-LK,"multi-color cord, operator preserved"
+83,compound,MB-W,"multi-color cord, operator preserved"
+84,compound,MB:AB,"multi-color cord, operator preserved"
+85,compound,MB:AB:,"multi-color cord, operator preserved"
+86,compound,MB:BG,"multi-color cord, operator preserved"
+87,compound,MB:BL,"multi-color cord, operator preserved"
+88,compound,MB:BL:,"multi-color cord, operator preserved"
+89,compound,MB:W,"multi-color cord, operator preserved"
+90,compound,PK:MB,"multi-color cord, operator preserved"
+91,compound,RL-W,"multi-color cord, operator preserved"
+92,compound,RL:AB,"multi-color cord, operator preserved"
+93,compound,RL:BL,"multi-color cord, operator preserved"
+94,compound,RL:W,"multi-color cord, operator preserved"
+95,compound,RM:W,"multi-color cord, operator preserved"
+96,compound,VR:KB,"multi-color cord, operator preserved"
+97,compound,VR:LC,"multi-color cord, operator preserved"
+98,compound,VR:W,"multi-color cord, operator preserved"
+99,compound,W-BG,"multi-color cord, operator preserved"
+100,compound,W-KB,"multi-color cord, operator preserved"
+101,compound,W:AB,"multi-color cord, operator preserved"
+102,compound,W:BG,"multi-color cord, operator preserved"
+103,compound,W:G,"multi-color cord, operator preserved"
+104,compound,W:GG,"multi-color cord, operator preserved"
+105,compound,W:KB,"multi-color cord, operator preserved"
+106,compound,W:MB,"multi-color cord, operator preserved"
+107,compound,W:R,"multi-color cord, operator preserved"
+108,compound,W:RL,"multi-color cord, operator preserved"
+109,compound,W:RM,"multi-color cord, operator preserved"
+110,compound,YB-0G,"multi-color cord, operator preserved"
+111,compound,YB-BL,"multi-color cord, operator preserved"
+112,compound,YB-KB,"multi-color cord, operator preserved"
+113,compound,YB-PB-,"multi-color cord, operator preserved"
+114,compound,YB:BB,"multi-color cord, operator preserved"
+115,compound,YB:BL,"multi-color cord, operator preserved"
+116,compound,YB:PB:,"multi-color cord, operator preserved"
+117,compound,YB:W,"multi-color cord, operator preserved"
+118,dir,EEs,anomalous twist direction (s/u; z omitted as default)
+119,dir,Es,anomalous twist direction (s/u; z omitted as default)
+120,dir,Eu,anomalous twist direction (s/u; z omitted as default)
+121,dir,Ls,anomalous twist direction (s/u; z omitted as default)
+122,dir,Lu,anomalous twist direction (s/u; z omitted as default)
+123,dir,SPu,anomalous twist direction (s/u; z omitted as default)
+124,dir,Ss,anomalous twist direction (s/u; z omitted as default)
+125,dir,Su,anomalous twist direction (s/u; z omitted as default)
+126,dir,Xs,anomalous twist direction (s/u; z omitted as default)
+127,dir,Xu,anomalous twist direction (s/u; z omitted as default)
+128,dir,s,anomalous twist direction (s/u; z omitted as default)
+129,dir,u,anomalous twist direction (s/u; z omitted as default)
+130,flag,loop,physical flag (rev/loop/mended/thr/sig/...)
+131,flag,mended,physical flag (rev/loop/mended/thr/sig/...)
+132,flag,rev,physical flag (rev/loop/mended/thr/sig/...)
+133,knot,BL,knot type present on cord
+134,knot,E,knot type present on cord
+135,knot,EE,knot type present on cord
+136,knot,L,knot type present on cord
+137,knot,S,knot type present on cord
+138,knot,SP,knot type present on cord
+139,knot,X,knot type present on cord
+140,level,H,hierarchy level (H=primary cord)
+141,level,L1,hierarchy level (H=primary cord)
+142,level,L2,hierarchy level (H=primary cord)
+143,level,L3,hierarchy level (H=primary cord)
+144,level,L4,hierarchy level (H=primary cord)
+145,struct,empty,structural state (empty/missing/broken/subsidiary/pendant/header)
+146,struct,header,structural state (empty/missing/broken/subsidiary/pendant/header)
+147,struct,missing,structural state (empty/missing/broken/subsidiary/pendant/header)
+148,struct,pendant,structural state (empty/missing/broken/subsidiary/pendant/header)
+149,struct,subsidiary,structural state (empty/missing/broken/subsidiary/pendant/header)
+150,turns,L10,turn/count number on L/SP/BL/S knot
+151,turns,L11,turn/count number on L/SP/BL/S knot
+152,turns,L12,turn/count number on L/SP/BL/S knot
+153,turns,L13,turn/count number on L/SP/BL/S knot
+154,turns,L2,turn/count number on L/SP/BL/S knot
+155,turns,L3,turn/count number on L/SP/BL/S knot
+156,turns,L4,turn/count number on L/SP/BL/S knot
+157,turns,L5,turn/count number on L/SP/BL/S knot
+158,turns,L6,turn/count number on L/SP/BL/S knot
+159,turns,L7,turn/count number on L/SP/BL/S knot
+160,turns,L8,turn/count number on L/SP/BL/S knot
+161,turns,L9,turn/count number on L/SP/BL/S knot
+162,turns,S2,turn/count number on L/SP/BL/S knot
+163,turns,S3,turn/count number on L/SP/BL/S knot
+164,turns,S4,turn/count number on L/SP/BL/S knot
+165,turns,S5,turn/count number on L/SP/BL/S knot
+166,turns,S6,turn/count number on L/SP/BL/S knot
+167,turns,S7,turn/count number on L/SP/BL/S knot
+168,turns,S8,turn/count number on L/SP/BL/S knot
+169,turns,S9,turn/count number on L/SP/BL/S knot
+170,turns,SP3,turn/count number on L/SP/BL/S knot

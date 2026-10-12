@@ -1,0 +1,27 @@
+# khipu_id: 1000606
+# provenance: Incahuasi
+# region: 
+# museum: Proyecto Incahuasi 12703-2014
+# nickname: 
+# file_format: .flat
+# data_regime: 
+# doc_cluster: 
+# template_id: 
+# segmentation: none
+# n_rows: 14
+# n_cols: 0
+ORDINAL,LEVEL,COLOR1,COLOR2,VALUE,KNOTS
+1,1,AB,,,L:4
+2,1,AB,,,L:3
+3,1,AB,,,L:2
+4,1,AB,,,"E:1,L:2"
+5,1,MB,,1,"E:1,L:1"
+6,1,MB,,1,"E:1,L:1"
+7,1,MB,,1,"E:1,L:1"
+8,1,MB,,1,E:1
+9,1,MB,,,L:1
+10,1,MB,,,L:1
+11,1,MB,,,L:1
+12,1,MB,,,L:1
+13,1,MB,,1,E:1
+14,1,AB,,,

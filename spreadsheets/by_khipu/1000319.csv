@@ -1,0 +1,19 @@
+# khipu_id: 1000319
+# provenance: "Playa Miller #6, Arica, Chile"
+# region: 
+# museum: Museo Chileno de Arte Precolombino CMBE 0904
+# nickname: 
+# file_format: .flat
+# data_regime: 
+# doc_cluster: 
+# template_id: 
+# segmentation: none
+# n_rows: 6
+# n_cols: 0
+ORDINAL,LEVEL,COLOR1,COLOR2,VALUE,KNOTS
+1,1,KB,W,1,"E:1,S:17"
+2,1,KB,W,1,"E:1,S:6"
+3,1,KB,W,,"E:1,L:2"
+4,1,KB,W,1,E:1
+5,1,MB,,,
+6,1,KB,W,5,L:1

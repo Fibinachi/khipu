@@ -1,0 +1,217 @@
+morpheme,mtype,gloss,phonetic_hex,syllable_skeleton,n_phonemes,hex_bytes
+=mi,enclitic,EVD.Direct/BestGrounds,1102,CV,2,2
+=si,enclitic,EVD.Reportative,1602,CV,2,2
+=cha,enclitic,EVD.Conjectural,1a01,CV,2,2
+=chusina,enclitic,EVD.PercInferential,1a0316021501,CVCVCV,6,6
+-ta,suffix,ACC,1401,CV,2,2
+-man,suffix,ALL,110115,CVC,3,3
+-pi,suffix,LOC,1002,CV,2,2
+-manta,suffix,ABL,1101151401,CVCCV,5,5
+-pa,suffix,GEN,1001,CV,2,2
+-q,suffix,GEN.alt,23,C,1,1
+-wan,suffix,COM/INST,120115,CVC,3,3
+-paq,suffix,BEN,100123,CVC,3,3
+-kama,suffix,LIM,20011101,CVCV,4,4
+-rqa,suffix,PST.Witnessed,182301,CCV,3,3
+-sqa,suffix,PST.Narrative,162301,CCV,3,3
+-shaq,suffix,FUT.1/2,1e0123,CVC,3,3
+-nqa,suffix,FUT.3,152301,CCV,3,3
+-chka,suffix,PROG,1a2001,CCV,3,3
+-qka,suffix,HAB.PST,232001,CCV,3,3
+-na,suffix,NOMLZ.oblig,1501,CV,2,2
+-y,suffix,INF,1d,C,1,1
+-q,suffix,AGENTIVE,23,C,1,1
+-spa,suffix,SS,161001,CCV,3,3
+-qti,suffix,DS,231402,CCV,3,3
+-qa,suffix,TOP,2301,CV,2,2
+-taq,suffix,CTOP,140123,CVC,3,3
+=lla,enclitic,EXCL.only,1c01,CV,2,2
+=pas,enclitic,ADD.too,100116,CVC,3,3
+mana,particle,NEG,11011501,CVCV,4,4
+-chu,suffix,NEG/INT,1a03,CV,2,2
+-y,suffix,POSS.1SG,1d,C,1,1
+-yki,suffix,POSS.2SG,1d2002,CCV,3,3
+-n_poss,suffix,POSS.3,15,C,1,1
+-nchis,suffix,POSS.1INCL,151a0216,CCVC,4,4
+-yku,suffix,POSS.1EXCL,1d2003,CCV,3,3
+-nku,suffix,POSS.3PL,152003,CCV,3,3
+-ni,suffix,1SG.S,1502,CV,2,2
+-nki,suffix,2SG.S,152002,CCV,3,3
+-n_agr,suffix,3.S,15,C,1,1
+-nchis_agr,suffix,1INCL.S,151a0216,CCVC,4,4
+-yku_agr,suffix,1EXCL.S,1d2003,CCV,3,3
+-nku_agr,suffix,3PL.S,152003,CCV,3,3
+-wa-,suffix,1SG.O,1201,CV,2,2
+-su-,suffix,2SG.O,1603,CV,2,2
+-kuna,suffix,PL,20031501,CVCV,4,4
+-chi,suffix,CAUS,1a02,CV,2,2
+-ku,suffix,REFL/MID,2003,CV,2,2
+-mu,suffix,CISL,1103,CV,2,2
+-pu,suffix,BEN,1003,CV,2,2
+-ri,suffix,INCH,1802,CV,2,2
+auca,root,"enemy, adversary",01032001,VVCV,4,4
+aucacona,root,"warriors, people of war",01032001201501,VVCVCCV,7,7
+atiy,root,"to defeat, to conquer",0114021d,VCVC,4,4
+fuyuchak,root,"captain, war leader",031d031a0120,VCVCVC,6,6
+checni,root,public enemy,1a201502,CCCV,4,4
+wach'i,root,"arrow, spear",12011a02,CVCV,4,4
+champi,root,"war club, mace",1a01111002,CVCCV,5,5
+auccay,root,"to fight, to combat",01032020011d,VVCCVC,6,6
+pukara,root,fortress,100320011801,CVCVCV,6,6
+llalliy,root,"to defeat, to conquer",1c011c021d,CVCVC,5,5
+awqaq,root,"warrior, fighter",0112230123,VCCVC,5,5
+suyuchakuy,root,"to muster troops, parade",16031d031a0120031d,CVCVCVCVC,9,9
+guallpa,root,armed man,2103011c1001,CVVCCV,6,6
+papa,root,potato,10011001,CVCV,4,4
+sara,root,maize,16011801,CVCV,4,4
+uqa,root,oca tuber,032301,VCV,3,3
+yupana,root,counting device,1d0310011501,CVCVCV,6,6
+tawa,root,four,14011201,CVCV,4,4
+llama,root,llama,1c011101,CVCV,4,4
+wasi,root,house,12011602,CVCV,4,4
+ayllu,root,kin group/community,011d1c03,VCCV,4,4
+inka,root,inka/ruler,02152001,VCCV,4,4
+kuraka,root,local lord,200318012001,CVCVCV,6,6
+mita,root,labor turn,11021401,CVCV,4,4
+chunka,root,ten,1a03152001,CVCCV,5,5
+pachak,root,hundred,10011a0120,CVCVC,5,5
+waranqa,root,thousand,12011801152301,CVCVCCV,7,7
+huk,root,one,240320,CVC,3,3
+iskay,root,two,021620011d,VCCVC,5,5
+kimsa,root,three,2002111601,CVCCV,5,5
+tayta,root,father,14011d1401,CVCCV,5,5
+mama,root,mother,11011101,CVCV,4,4
+wawa,root,child,12011201,CVCV,4,4
+chakra,root,field,1a01201801,CVCCV,5,5
+yaku,root,water,1d012003,CVCV,4,4
+allpa,root,earth/land,011c1001,VCCV,4,4
+kuka,root,coca,20032001,CVCV,4,4
+kinwa,root,quinoa,2002151201,CVCCV,5,5
+chuqllu,root,fresh maize,1a03231c03,CVCCV,5,5
+muru,root,seed,11031803,CVCV,4,4
+riy,root,to go,18021d,CVC,3,3
+hamuy,root,to come,240111031d,CVCVC,5,5
+quy,root,to give,201d,CC,2,2
+chaskiy,root,to receive,1a011620021d,CVCCVC,6,6
+yachay,root,to know/learn,1d011a011d,CVCVC,5,5
+rimay,root,to speak,180211011d,CVCVC,5,5
+ruway,root,to do/make,180312011d,CVCVC,5,5
+mikuy,root,to eat,110220031d,CVCVC,5,5
+upiy,root,to drink,0310021d,VCVC,4,4
+puriy,root,to walk,100318021d,CVCVC,5,5
+haykuy,root,to enter,24011d20031d,CVCCVC,6,6
+lluqshiy,root,to exit,1c03231e021d,CVCCVC,6,6
+apay,root,to carry,0110011d,VCVC,4,4
+churay,root,to place/put,1a0318011d,CVCVC,5,5
+kipuy,root,to knot (quipu),200210031d,CVCVC,5,5
+yupay,root,to count,1d0310011d,CVCVC,5,5
+qillqay,root,to write/mark,23021c23011d,CVCCVC,6,6
+waqaychay,root,to guard/store,120123011d1a011d,CVCVCCVC,8,8
+taqiy,root,to distribute,140123021d,CVCVC,5,5
+rantiy,root,to buy/barter,18011514021d,CVCCVC,6,6
+qullqa,root,storehouse,201c2301,CCCV,4,4
+tampu,root,waystation,1401111003,CVCCV,5,5
+suyu,root,region/quarter,16031d03,CVCV,4,4
+wamani,root,province,120111011502,CVCVCV,6,6
+tokrikuq,root,overseer,14201802200323,CCCVCVC,7,7
+khipukamayuq,root,khipu keeper,2024021003200111011d0323,CCVCVCVCVCVC,12,12
+chaski,root,messenger,1a01162002,CVCCV,5,5
+yana,root,black,1d011501,CVCV,4,4
+yuraq,root,white,1d03180123,CVCVC,5,5
+puka,root,red,10032001,CVCV,4,4
+qillu,root,yellow,23021c03,CVCV,4,4
+anqas,root,blue,0115230116,VCCVC,5,5
+chumpi,root,brown,1a03111002,CVCCV,5,5
+warmi,root,woman,1201181102,CVCCV,5,5
+qari,root,man,23011802,CVCV,4,4
+punchaw,root,day,1003151a0112,CVCCVC,6,6
+killa,root,moon/month,20021c01,CVCV,4,4
+wata,root,year,12011401,CVCV,4,4
+tutamanta,root,morning,140314011101151401,CVCVCVCCV,9,9
+allqu,root,a dog.,011c20,VCC,3,3
+china,root,female (of humans or animals),1a021501,CVCV,4,4
+chunta,root,dark jungle hardwood,1a03151401,CVCCV,5,5
+llullu,root,"young, tender, not mature",1c031c03,CVCV,4,4
+macai,root,"cave, cavern",1101200102,CVCVV,5,5
+mach'ay,root,cave,11011a011d,CVCVC,5,5
+pampa,root,"prairie, plain, flat terrain, leveled area, open field; the ",1001111001,CVCCV,5,5
+pili,root,"duck, often female",10021702,CVCV,4,4
+puti,root,"navel, belly button",10031402,CVCV,4,4
+sapay,root,I alone and no one else,160110011d,CVCVC,5,5
+tullu,root,bone,14031c03,CVCV,4,4
+uña,root,baby animal,031b01,VCV,3,3
+ñuñu,root,breast (milk producing organ),1b031b03,CVCV,4,4
+'huayctmi,root,"Tocar *Jgo, o, po*",2403011d20141102,CVVCCCCV,8,8
+aayecapo,root,"Señor dcípuebfo. actayoc. Natural,» morador o veztno.",01011d200110,VVCCVC,6,6
+aku,root,"flour, a milled cereal",012003,VCV,3,3
+amaru,root,"snake, serpent, viper",0111011803,VCVCV,5,5
+apu,root,powerful lord,011003,VCV,3,3
+ayni,root,"community work, mutual help",011d1502,VCCV,4,4
+cachani,root,Andar atentado tocan,20011a011502,CVCVCV,6,6
+challan,root,Tan blanco como la,1a011c0115,CVCVC,5,5
+challwa,root,fish,1a011c1201,CVCCV,5,5
+chanchay,root,to hasten,1a01151a011d,CVCCVC,6,6
+chicuni,root,Prepararfe para las iofp,1a0220031502,CVCVCV,6,6
+chucapohuan,root,Ati tengo yo que,1a0320011024030115,CVCVCCVVC,9,9
+ciqo'raucuni,root,ponerlo en con qquifa-u.chaiii.. Hazerl,20022318010320031502,CVCCVVCVCV,10,10
+ecunaya,root,"uancb» No tengo gana de comer, o no me labe bien la corrí *a",200315011d01,CVCVCV,6,6
+enqui,root,Müeílras tener mucho,152002,CCV,3,3
+hatu,root,"a  decorated with colourful  and , worn on the  of  during",24011403,CVCV,4,4
+hatun,root,"size, height",2401140315,CVCVC,5,5
+hich-opirca,root,"La pared tuerta que haz e barriga,",24021a1002182001,CVCCVCCV,8,8
+humint'a,root,"humita, a dish made with ground corn steamed in husks",24031102151401,CVCVCCV,7,7
+humoehuch,root,"Significa fiacalo,co mOjHamunjchum, o hamun chu- «h ma.Miraf",24031124031a,CVCCVC,6,6
+hunu,root,million,24031503,CVCV,4,4
+húatunan,root,fofpcchadode todcs enquicn dos fofp echan quelo hÍ2 0.,24011403150115,CVCVCVC,7,7
+ihancam,root,Componer toda cola ga« imiíta chantani. Componer gala- namen,02240115200111,VCVCCVC,7,7
+iñaychamacuy,root,El gozó délos bienauenturados*,021b011d1a01110120031d,VCVCCVCVCVC,11,11
+juk,root,one,1f0320,CVC,3,3
+k'ullu,root,wood,20031c03,CVCV,4,4
+k'umu,root,"lowered, hunchbacked, bend down|bent down",20031103,CVCV,4,4
+lachini,root,"Hablara otro de negó- ios, o tratar con tilos íuyos.co no Vi",17011a021502,CVCVCV,6,6
+lata,root,metal,17011401,CVCV,4,4
+llamp'u,root,"soft, tender, smooth, flat",1c01111003,CVCCV,5,5
+llulluy,root,"to be green, unripe, tender",1c031c031d,CVCVC,5,5
+mchnpaehallan,root,Esquinado. u» nqa ecuchü p ¿challan. Trian- gular de tres ef,111a15100124011c0115,CCCCVCVCVC,10,10
+muchos,root,"Puca* "" Cofacolorac",11031a16,CVCC,4,4
+nacchuri,root,El entenado. Llulia kuai.ua qquepa huahua. La,1501201a031802,CVCCVCV,7,7
+niyokmi,root,"Vale tres. Hayccarcuti""n, hayecamitcam.",15021d201102,CVCCCV,6,6
+pallta,root,avocado,10011c1401,CVCCV,5,5
+paratretquilarle,root,R utuc hiy ñiieca Sentenciado a t quilar.,10011801141814200217011817,CVCVCCCCVCVCC,13,13
+payan,root,Contar los días que h,10011d0115,CVCVC,5,5
+payo,root,Di©s codo poderafo» láehapaapaehaacaapac callpayo* El q tien,10011d,CVC,3,3
+pirayani,root,"Tener en lasmahbs go,o tenerlo aííu© pipnnii Coxerlodeotro.",100218011d011502,CVCVCVCV,8,8
+pupu,root,navel,10031003,CVCV,4,4
+qqueriri,root,La feca y agallones.,232018021802,CCCVCV,6,6
+rachachini,root,"Preparar difponcr y aparejar a otro , o para hazer algo.",18011a011a021502,CVCVCVCV,8,8
+ricaynintin,root,Los dos juncos..,180220011d150215140215,CVCVCCVCCVC,11,11
+runayllan,root,jPpicliiulluJlana» La añagaza pai,180315011d1c0115,CVCVCCVC,8,8
+sayay,root,"size, height, stature",16011d011d,CVCVC,5,5
+t'uru,root,"clay, mud",14031803,CVCV,4,4
+takahuaycuni,root,Mirar de mil ajo,140120012403011d20031502,CVCVCVVCCVCV,12,12
+tupay,root,"meeting, encounter",140310011d,CVCVC,5,5
+tupu,root,measure of weight or land,14031003,CVCV,4,4
+ueccayani,root,Eftarfe tendido o en- cerrado de pereza deyr ai tra- ba j o.,032020011d011502,VCCVCVCV,8,8
+upaycuchiní,root,Hazcr a alguno q fuere primero o vaya delante o aya antes.,0310011d20031a0215,VCVCCVCVC,9,9
+yani,root,"Tener ambición, o gana de",1d011502,CVCV,4,4
+ylla,root,"El prado verde no abolla >jo el buen páfto. yltaypata, hoavl",1d1c01,CCV,3,3
+yupa,root,count,1d031001,CVCV,4,4
+para,root,to rain,10011801,CVCV,4,4
+-sha,suffix,3SG.PROG?,1e01,CV,2,2
+munay,root,to want/love,110315011d,CVCVC,5,5
+ama,root,NEG.IMP,011101,VCV,3,3
+qunqay,root,to forget,201523011d,CCCVC,5,5
+utavalu,root,Otavalo (place),03140113011703,VCVCVCV,7,7
+chayay,root,to arrive,1a011d011d,CVCVC,5,5
+ñuka,root,I (Ecuador),1b032001,CVCV,4,4
+juzi,root,José,1f031902,CVCV,4,4
+pay,root,he/she,10011d,CVC,3,3
+qheswa,root,valley,2324161201,CCCCV,5,5
+domingo,root,"Sunday (loan, structural example only)",11021521,CVCC,4,4
+kawallu,root,"horse (loan, structural example only)",200112011c03,CVCVCV,6,6
+kaniy,root,to bite,200115021d,CVCVC,5,5
+phuturi,root,Phuturi (name),10240314031802,CCVCVCV,7,7
+kay,root,to be,20011d,CVC,3,3
+kachkay,root,to be (stative),20011a20011d,CVCCVC,6,6
+kuchuy,root,to cut,20031a031d,CVCVC,5,5
+pukllay,root,to play,1003201c011d,CVCCVC,6,6

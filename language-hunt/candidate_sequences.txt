@@ -1,0 +1,711 @@
+
+======================================================================
+KHIPU 1000265 | n=55 cords, 4 colors, L2
+  entropy=5.781 uniq2=1.0 hapax=1.0 zero%=0.055
+  why_unclassified: sup-unclassified+deep_sparse_mixed
+  provenance:  | region: 
+======================================================================
+   ord lvl        color   value  knots
+     1   1            W    1676  SSx14/LSx1
+     1   2           RL      11  ESx1/SSx1
+     1   2            W     159  SSx6/LSx1
+     1   2            W     217  SSx3/LSx1
+     1   2         None       0  -
+     2   1           RL      33  SSx3/LSx1
+     2   2           RB      15  LSx1/SSx1
+     2   2           RB       4  LSx1
+     3   1           AB      73  SSx7/LSx1
+     4   1            W    1395  SSx13/LSx1
+     5   1           RL     221  SSx4/EZx1
+     6   1           AB     123  SSx3/LSx1
+     7   1            W    2716  SSx10/LSx1
+     8   1           RL     137  SSx4/LSx1
+     9   1           AB     278  SSx9/LSx1
+    10   1            W    2392  SSx14/LSx1
+    11   1           RL     734  SSx10/LSx1
+    12   1           AB      72  SSx7/LSx1
+    13   1            W     160  SSx12
+    14   1           RL     237  SSx5/LSx1
+    15   1           AB      10  SSx4
+    16   1            W    1869  SSx15/LSx1
+    17   1           RL     517  SSx6/LSx1
+    18   1           AB     147  SSx5/LSx1
+    19   1            W     111  ESx6/SSx2/EZx1
+    20   1           RL     663  SSx12/LSx1
+    21   1           AB     372  SSx10/LSx1
+    22   1            W    1769  SSx14/LSx1
+    23   1           RL     546  SSx9/LSx1
+    24   1           AB     668  SSx12/LSx1
+    25   1            W    2148  SSx7/LSx1
+    26   1           RL     697  SSx15/LSx1
+    27   1           AB     345  SSx7/LSx1
+    28   1            W    1218  SSx4/LSx1
+    29   1           RL    None  SSx11/LUx1
+    30   1           AB     411  SSx5/EZx1
+    31   1            W    2332  SSx8/LSx1
+    32   1           RL     342  SSx7/LSx1
+    33   1           AB     738  SSx10/LSx1
+    34   1            W      31  SSx3/EZx1
+  ... (15 more cords)
+  Value range: 0-2716, nonzero: 52/54
+
+======================================================================
+KHIPU 1000446 | n=79 cords, 14 colors, L2
+  entropy=6.0 uniq2=1.0 hapax=0.868 zero%=0.228
+  why_unclassified: sup-unclassified+deep_sparse_mixed;cabinet-no-split-unclassified
+  provenance: Pachacamac | region: 
+======================================================================
+   ord lvl        color   value  knots
+     1   1         AB+W    2388  SZx13/LZx1
+     1   2         AB+W    3616  SZx10/LZx1
+     1   2        MB+AB      10  SZx6
+     1   2         W+KB       0  SZx3
+     1   2         W+KB       0  SZx3
+     1   2           MB       0  SZx1
+     1   2            W    5693  SZx20/LZx1
+     1   2         AB+W      26  SZx2/LZx1
+     1   2         AB+W    5487  SZx17/LZx1
+     1   2         MB+W     224  SZx4/LZx1
+     1   2         AB+W      20  SZx5
+     1   2        MB+AB      68  SZx6/LZx1
+     1   2         KB+W     230  SZx12
+     1   2         MB+W      87  SZx8/LZx1
+     1   2            W     224  SZx4/LZx1
+     1   2         MB+W      82  SZx8/LZx1
+     1   2         W+PB      20  SZx3
+     1   2         MB+W     172  SZx8/LZx1
+     1   2            W     170  SZx13
+     1   2           KB      66  SZx6/LZx1
+     1   2        KB+AB       0  SZx1
+     1   2         AB+W     152  SZx6/LZx1
+     1   2            W    3319  SZx7/LZx1
+     1   2           KB      76  SZx7/LZx1
+     2   1        MB+AB       0  -
+     2   2           KB       0  -
+     3   1        MB+AB    3312  SZx7/LZx1
+     4   1           RM     317  SZx4/LZx1
+     4   1           RM     317  SZx4/LZx1
+     5   1        RM+MB      77  SZx7/LZx1
+     6   1         None       0  -
+     7   1        BL+MB       0  SZx1
+     8   1        RM+MB       0  SZx5/SUx1
+     9   1         AB+W     762  SZx13/LZx1
+    10   1            W   39263  SZx20/LZx1
+    11   1         AB+W     828  SZx10/LZx1
+    12   1         MB+W   14669  SZx17/LZx1
+    13   1           RM    6136  SZx10/LZx1
+    14   1        RM+MB     665  SZx12/LZx1
+    15   1        AB+KB       0  -
+  ... (39 more cords)
+  Value range: 0-39263, nonzero: 61/79
+
+======================================================================
+KHIPU 1000504 | n=226 cords, 5 colors, L4
+  entropy=6.715 uniq2=0.938 hapax=0.786 zero%=0.438
+  why_unclassified: rare-knot-type;anomalous-transcription
+  provenance: "Peru, Fundort: Pachacmac" | region: "Central Coast, Peru"
+======================================================================
+   ord lvl        color   value  knots
+     1   1            W       0  SZx3/LZx1/SPUx1
+     1   2         W+RM     230  SZx13
+     1   2            W       0  SZx4/LZx2
+     1   2         KB+W      10  SZx6/LZx1
+     1   2         W+RM       0  LZx2/SZx1
+     1   2         LC+W     118  SZx2/LZx1
+     1   2         LC+W       0  LZx2/SZx2
+     1   2         GG+W     109  LZx1/SZx1/SPZx1
+     1   2         LC+W     300  SZx6/BLZx1
+     1   2         LC+W     300  SZx4/LZx1
+     1   2         YB+W     100  SZx2/LZx1
+     1   3        VR+KB       0  LZx1/SZx1/SPZx1
+     1   2         LC+W    None  SZx2/BLZx1/LZx1
+     1   2         GG+W      15  LZx2/SZx1
+     1   2         BG+W      18  LZx2/SZx1
+     1   3         AB+W    None  LZx1/SPUx1/SPZx1
+     1   4        VR+LC    None  SZx10/SPZx1
+     1   2         AB+W     316  SZx4/BLZx1/LZx1
+     1   2         MB+W       0  LZx1/SZx1/SPZx1
+     1   2         AB+W       6  LZx2/SPZx1
+     1   2            W      30  SZx7/LZx1
+     1   3         BG+W       0  LZx2/SZx1
+     1   2         AB+W     230  SZx6
+     1   2         BG+W       0  LZx2/SZx2
+     1   3         AB+W      24  SZx2/LZx1/SPZx1
+     1   2         BG+W       0  LZx2/SZx2
+     1   2         AB+W     505  SZx5/LZx2
+     1   3         VR+W     608  SZx6/LZx2
+     1   2         BG+W    None  SZx5/SPZx2
+     1   3         AB+W     107  LZx3/SZx1
+     1   2         BG+W    None  LZx2/SPZx1
+     1   2         BG+W    None  SZx9/SPZx1
+     1   3            W       5  LZx2/SPUx1
+     1   2         BG+W       0  LZx1/SZx1/SPZx1
+     1   2         AB+W     205  LZx2/SZx2
+     1   2         BG+W     630  SZx10/LZx1
+     1   3            W    None  LZx1/SPUx1/SPZx1
+     1   2         VR+W      17  LZx1/SZx1/SPZx1
+     1   2         MB+W      46  SZx4/LZx1/SPZx1
+     1   2        MB+AB    None  SPZx2/LZx1
+  ... (186 more cords)
+  Value range: 0-630, nonzero: 127/170
+
+======================================================================
+KHIPU 1000201 | n=156 cords, 12 colors, L4
+  entropy=6.303 uniq2=0.974 hapax=0.747 zero%=0.333
+  why_unclassified: anomalous-transcription
+  provenance: Aankoop | region: 
+======================================================================
+   ord lvl        color   value  knots
+     1   1            W       0  SUx1
+     1   2            W      10  SUx3
+     1   2            W       3  LUx1
+     1   2           LB     397  SUx12/LUx1
+     1   2         LB+W       0  SUx2
+     1   2       DB +BL       4  LUx1
+     1   2         LB+W       0  SUx1
+     1   2         LB+W       1  EUx1
+     1   2            W       8  LUx1
+     1   2            W      23  SUx2/LUx1
+     1   2        DB +W      13  LUx1/SUx1
+     1   2       DB +BL      76  SUx7/LUx1
+     1   2       DB +BL     243  SUx6/LUx1
+     1   2         LB+W     507  SUx5/LUx2
+     1   2           YB       4  LUx1
+     1   2        YB+BL       2  LUx1
+     1   2        YB+BL       3  LUx1
+     1   2         LB+W       0  SUx2
+     1   2            W       2  LUx1
+     1   2            W      59  SUx5/LUx1
+     1   2        YB+BL      31  SUx3/EUx1
+     1   2           LB       1  EUx1
+     1   2            W       1  EUx1
+     1   2            W       4  LUx1
+     1   2        DB +W       0  SUx3
+     1   2           YB       0  -
+     1   2           LB       0  -
+     1   2        YB+BL      22  SUx2/LUx1
+     1   2          DB        0  SUx1
+     1   2        DB +W       0  SUx2
+     1   2           YB       0  SUx2
+     1   2         LB+W       4  LUx1
+     1   3            W       1  EUx1
+     1   3           YB       2  LUx1
+     1   2         LB+W       0  -
+     1   3            W      42  SUx4/LUx1
+     1   4            W       1  EUx1
+     1   3            W       1  EUx1
+     1   3            W       3  LUx1
+     1   3        YB+BL      38  SUx3/LUx1
+  ... (116 more cords)
+  Value range: 0-3314, nonzero: 104/156
+
+======================================================================
+KHIPU 1000514 | n=167 cords, 15 colors, L3
+  entropy=6.389 uniq2=0.928 hapax=0.764 zero%=0.485
+  why_unclassified: rare-knot-type
+  provenance: unknown | region: unknown
+======================================================================
+   ord lvl        color   value  knots
+     1   1            W     101  EZx1/LZx1/SZx1
+     1   2            W       0  ''Zx1/EZx1/LZx1
+     1   2            W       1  EZx1/LZx1
+     1   2           MB     300  SZx4/EEZx1
+     1   3            W       1  EZx1/LZx1
+     1   2           MB    None  SZx3/SPUx1/SPZx1
+     1   2            W       8  LZx1
+     1   3            W       0  ESx1/EZx1/LZx1
+     1   2         0K+W      11  ESx1/EZx1/SZx1
+     1   2            W       5  LZx1
+     1   3           MB       0  SZx5/LZx1
+     1   2         AB+W    None  SPUx1
+     1   2         0K+W       0  LZx1/SZx1
+     1   2           MB    None  SZx2/ESx1/SPZx1
+     1   2            W      11  EZx1/LZx1/SZx1
+     1   2         BG+W    None  ESx1/LZx1
+     1   2            W       0  EZx1/LZx1/SZx1
+     1   2            W     100  SZx2/ESx1
+     1   2           LC       0  SZx3/ESx2
+     1   2           AB       6  LZx1
+     1   2           AB     101  EZx1/SZx1/SPUx1
+     1   2           AB    None  ESx1/SPZx1
+     1   2            W       1  EZx1/LZx1
+     1   2           GL    None  SPUx1/SPZx1
+     1   2         AB+W       0  ESx1/SZx1
+     1   2           GG       0  SZx1/SPZx1
+     1   2            W       1  EZx1/LZx1
+     1   2           LC    None  EZx1/SPZx1
+     1   2           GG    None  SPUx1
+     1   2            W      11  ESx1/SZx1
+     1   2           BG       0  SZx1/SPZx1
+     1   2            W       0  ESx1/SZx1
+     1   2            W       0  SZx4
+     1   3           LK       1  ESx1
+     1   2           BG       0  ESx1/SZx1/SPZx1
+     1   2         None       3  LZx1
+     1   2         0K+W       0  LZx1/SZx1
+     1   3            W      14  LZx1/SZx1
+     1   2            W       1  EZx1/SPZx1
+     2   1            W       0  EZx1/SZx1
+  ... (127 more cords)
+  Value range: 0-3000, nonzero: 86/137
+
+======================================================================
+KHIPU 1000497 | n=63 cords, 11 colors, L2
+  entropy=5.419 uniq2=0.935 hapax=0.88 zero%=0.397
+  why_unclassified: sup-unclassified+deep_sparse_mixed
+  provenance: "Hda. Huando, Chancay" | region: 
+======================================================================
+   ord lvl        color   value  knots
+     1   1           AB       0  -
+     1   2            W       4  LSx1
+     1   2            W       0  SSx1
+     1   2           AB    None  LSx1
+     1   2           MB       0  -
+     2   1         AB+W     201  SSx2/EZx1/LSx1
+     2   2           GG       1  EZx1
+     3   1         AB+W     101  EZx1/LSx1/SSx1
+     4   1           AB       0  SSx3
+     5   1           AB     106  LSx2/SSx1
+     6   1           AB       6  LSx1
+     7   1           AB      11  EEZx1/SUx1
+     8   1           AB      89  SSx8/LSx1
+     9   1            W     202  LSx2/SSx2
+    10   1            W     101  EZx1/LSx1/SSx1
+    11   1            W      42  SSx4/LSx1
+    12   1            W     204  LSx2/SSx2
+    13   1            W       0  -
+    14   1            W       1  EZx1/LSx1
+    15   1         KB+W      10  SSx2
+    16   1           AB      26  SSx2/LSx1
+    17   1           AB      39  SSx3/LSx1
+    18   1         BG+W      12  LSx1/SSx1
+    19   1         BG+W       4  LSx1
+    20   1         BG+W      38  SSx3/LSx1
+    21   1         BG+W      19  LSx1/SSx1
+    22   1         BG+W       0  -
+    23   1         BG+W       2  LSx1
+    24   1         AB+W      75  SSx7/LSx1
+    25   1           MB       0  -
+    26   1           MB      17  LSx1/SSx1
+    27   1           MB      13  LSx1/SSx1
+    28   1           AB      34  SSx3/LSx1
+    29   1           MB       0  SSx1
+    30   1           AB       4  LSx1
+    31   1           MB       0  -
+    32   1           MB      79  SSx7/LSx1
+    33   1         KB+W       0  -
+    34   1         KB+W      13  LSx1/SSx1
+    35   1         KB+W       0  SSx1
+  ... (23 more cords)
+  Value range: 0-596, nonzero: 38/62
+
+======================================================================
+KHIPU 1000034 | n=100 cords, 9 colors, L2
+  entropy=5.701 uniq2=0.98 hapax=0.719 zero%=0.03
+  why_unclassified: sup-unclassified+deep_sparse_mixed;all-U-twist
+  provenance:  | region: 
+======================================================================
+   ord lvl        color   value  knots
+     1   1            G      29  SUx2/LUx1
+     1   2            B       3  LUx1
+     1   2            B       0  -
+     1   2            B       7  LUx1
+     1   2            B       1  EUx1
+     1   2            B       6  LUx1
+     1   2            B       2  LUx1
+     1   2            B       6  LUx1
+     1   2            B       2  LUx1
+     1   2            B       2  LUx1
+     1   2            B       1  EUx1
+     1   2            W       2  LUx1
+     1   2            W       1  EUx1
+     1   2            B       7  LUx1
+     1   2           GY       2  LUx1
+     1   2            B       1  EUx1
+     1   2            W       3  LUx1
+     1   2         CB+W       7  LUx1
+     1   2           MB       3  LUx1
+     1   2           GY       3  LUx1
+     1  -2            W       1  EUx1
+     1  -2            W       1  EUx1
+     1   2            W       1  EUx1
+     1   2            W       1  EUx1
+     1   2           GY       1  EUx1
+     1   2            B       3  LUx1
+     1   2            W       2  LUx1
+     1   2            B       1  EUx1
+     1   2          B+W       2  LUx1
+     1   2           GY       1  EUx1
+     1   2            B       1  EUx1
+     1   2                    2  LUx1
+     2   1            B      33  SUx3/LUx1
+     2   2          B+W       1  EUx1
+     3   1            B      15  LUx1/SUx1
+     4   1            B      11  EUx1/SUx1
+     5   1            W      18  LUx1/SUx1
+     6   1         CB+B       9  LUx1
+     7   1            G       3  LUx1
+     8   1            B       7  LUx1
+  ... (60 more cords)
+  Value range: 0-39, nonzero: 97/100
+
+======================================================================
+KHIPU 1000353 | n=45 cords, 15 colors, L3
+  entropy=5.147 uniq2=0.909 hapax=0.868 zero%=0.133
+  why_unclassified: sup-unclassified+deep_sparse_mixed
+  provenance:  | region: 
+======================================================================
+   ord lvl        color   value  knots
+     1   1           PR       0  SSx4
+     1   2        HB+PR      14  LSx1/SSx1
+     1   2           YB       7  LSx1
+     1   2           MB       3  LSx1
+     1   2            W       4  LSx1
+     1   2        GG+AB       4  LSx1
+     1   2           MB       1  EZx1
+     1   2         KB+W       2  LSx1
+     1   3        LG+RL       1  ESx1
+     1   2           AB       1  EZx1
+     1   2            W       2  LSx1
+     2   1         B+GG      13  LSx1/SSx1
+     2   2         AB+W       8  LSx1
+     2   2           KB       4  LSx1
+     2   2           AB      11  EZx1/SSx1
+     3   1           RL       0  -
+     3   2         AB+W       9  LSx1
+     3   2            W       1  EZx1
+     3   2         W+MB       1  EZx1
+     4   1           KB       0  SSx2
+     4   2        PK+GG      14  LSx1/SSx1
+     5   1            W       3  LSx1
+     5   1         W+AB       3  LSx1
+     5   1            W       3  LSx1
+     6   1           KB      11  EZx1/SSx1
+     7   1        KB+MB      13  LSx1/SSx1
+     8   1           AB      23  SSx2/LSx1
+     8   1        LG+AB      23  SSx2/LSx1
+     8   1           AB      23  SSx2/LSx1
+     9   1           LG      11  EZx1/SSx1
+     9   1        AB+RL      11  EZx1/SSx1
+    10   1           LG       0  SSx1
+    10   1        RL+AB       0  SSx1
+    11   1           LG       2  LSx1
+    11   1        AB+RL       2  LSx1
+    12   1            W      75  SSx7/LSx1
+    13   1           KB       0  -
+    14   1           AB       5  LSx1
+    14   1        AB+GG       5  LSx1
+    14   1           GG       5  LSx1
+  ... (5 more cords)
+  Value range: 0-75, nonzero: 39/45
+
+======================================================================
+KHIPU 1000396 | n=221 cords, 13 colors, L3
+  entropy=6.379 uniq2=0.891 hapax=0.637 zero%=0.235
+  why_unclassified: sup-unclassified+deep_sparse_mixed
+  provenance: "Huaura Valley, near Lima, on Santa Rosalia Hacienda" | region: 
+======================================================================
+   ord lvl        color   value  knots
+     1   1        GG+AB       5  LSx1
+     1   2           BG       1  ESx1
+     1   2           BG       2  LSx1
+     1   2         AB+W       1  EZx1
+     1   2           RL       7  LSx1
+     1   2           RL       2  LSx1
+     1   2        GG+AB       8  LSx1
+     1   2           RL       6  LSx1
+     1   2           AB      17  LSx1/SSx1
+     1   2           AB      12  LSx1/SSx1
+     1   2           AB      13  LSx1/SUx1
+     1   2           AB       6  LSx1
+     1   2           BG       3  LSx1
+     1   2           BG       1  EZx1
+     1   2           AB       1  EZx1
+     1   2           MB       2  LSx1
+     1   2        AB+MB       1  EZx1
+     1   2           BG       2  LSx1
+     1   2           BG       1  ESx1
+     1   2        GG+AB       7  LSx1
+     1   2           BG       3  LSx1
+     1   2        MB+BG       4  LSx1
+     1   3           BG       1  EZx1
+     1   2           KB       0  -
+     1   2        MB+GG       4  LSx1
+     1   2           AB       3  LSx1
+     1   2           BG       2  LSx1
+     1   2           0B       1  EZx1
+     1   2           BG       1  EZx1
+     1   2           BG       1  EZx1
+     1   2        GG+AB       5  LSx1
+     1   2         W+RL       1  EZx1
+     1   2           LC      16  LSx1/SSx1
+     1   2           YB       1  EZx1
+     1   2           LC       2  LSx1
+     1   2        GG+MB       4  LSx1
+     1   2           BG       5  LSx1
+     1   2           AB       8  LSx1
+     1   2           BG       4  LSx1
+     1   2           LC      11  EZx1/SSx1
+  ... (181 more cords)
+  Value range: 0-72, nonzero: 169/221
+
+======================================================================
+KHIPU 1000516 | n=50 cords, 11 colors, L3
+  entropy=4.999 uniq2=0.959 hapax=0.75 zero%=0.24
+  why_unclassified: sup-unclassified+deep_sparse_mixed
+  provenance: unknown | region: unknown
+======================================================================
+   ord lvl        color   value  knots
+     1   1         AB+W       8  LZx1
+     1   2            W       1  EZx3
+     1   2         0G+W      18  LZx1/SZx1
+     1   2         0G+W       4  LZx1
+     1   2           KB       0  -
+     1   2           RL       0  SZx1
+     1   2            W       3  LZx1
+     1   2           FR       8  LZx1
+     1   2           KB       0  -
+     1   2           KB       1  EZx1
+     1   2            W       6  LZx1
+     1   3           AB       2  LZx1
+     1   2            W       8  LZx1
+     2   1         AB+W      12  LZx1/SZx1
+     2   2         G0+W      16  LZx1/SZx1
+     2   2         AB+W       1  EZx1
+     2   2         KB+W       4  LZx1
+     2   2           G0       5  LZx1
+     2   2            W       4  LZx1
+     2   2            W       9  LZx1
+     3   1           GG       7  LZx1
+     3   2           AB       1  EZx1
+     3   2           KB       0  SZx1
+     3   2            W       1  EZx1
+     3   2            W       0  SZx1
+     4   1           G0       4  LZx1
+     4   2            W       2  LZx1
+     4   2            W       1  EZx1
+     4   2            W       4  LZx1
+     5   1           MB       3  LZx1
+     5   2            W       2  LZx1
+     5   2            W       8  LZx1
+     6   1            W       1  EZx1
+     6   2            W       3  LZx1
+     6   2            W      11  EZx1/SZx1
+     7   1           0G       9  LZx1
+     8   1           RL       0  SZx1
+     9   1           AB       4  LZx1
+    10   1           RL       0  SZx1
+    11   1           RL       6  LZx1
+  ... (10 more cords)
+  Value range: 0-21, nonzero: 38/50
+
+======================================================================
+KHIPU 1000087 | n=28 cords, 11 colors, L2
+  entropy=4.379 uniq2=0.926 hapax=0.87 zero%=0.071
+  why_unclassified: sup-unclassified+deep_sparse_mixed
+  provenance: near Lima | region: 
+======================================================================
+   ord lvl        color   value  knots
+     1   1            W      37  SZx3/LZx1
+     1   2        DB +W      26  SZx2/LZx1
+     1   2           YB       1  EZx1
+     1   2           YB       2  LZx1
+     1   2        DB +W       2  LZx1
+     1   2           YB       1  EZx1
+     1   2           YB       3  LZx1
+     1   2           YB       1  EZx1
+     1   2           YB       1  EZx1
+     1   2           YB       3  LZx1
+     1   2           YB       4  LZx1
+     1   2           YB       6  LZx1
+     1   2           YB       5  LZx1
+     2   1         YB+W       1  EZx1
+     3   1            W       1  EZx1
+     4   1           YB       2  LUx1
+     5   1          DB        3  LZx1
+     6   1           BS       0  -
+     7   1           LB       0  -
+     8   1        LB+YG       1  EZx1
+     9   1        DB +W       1  EZx1
+    10   1        BS+YB       3  LZx1
+    11   1        BS+LB       2  LZx1
+    12   1        DB +W       1  EZx1
+    13   1           YB       4  LZx1
+    14   1        DB +W       4  LZx1
+    15   1        DB +W       6  LZx1
+    16   1        DB +W       5  LZx1
+  Value range: 0-37, nonzero: 26/28
+
+======================================================================
+KHIPU 1000526 | n=304 cords, 14 colors, L4
+  entropy=6.453 uniq2=0.851 hapax=0.566 zero%=0.289
+  why_unclassified: rare-knot-type
+  provenance: unknown | region: unknown
+======================================================================
+   ord lvl        color   value  knots
+     1   1            W    None  SPSx1
+     1   2           PB    None  SPZx1
+     1   2            W    None  SPZx1
+     1   3         AB+W       8  LZx1
+     1   4        MB+AB       6  LSx1
+     1   2           BG      13  LZx1/SZx1
+     1   3           MB    1000  SPUx3/SZx2
+     1   2           HB       0  LZx1/SZx1
+     1   3           HB       0  -
+     1   3        PB+HB       0  -
+     1   2           BG    None  SZx1/SPZx1
+     1   2        BG+AB    None  SZx1/SPZx1
+     1   3           MB      29  SZx2/LZx1
+     1   4         BG+W    None  SPUx2
+     1   2         KB+W    1117  SZx3/LZx1
+     1   2         BG+W       1  EZx1
+     1   2           BG       0  -
+     1   2         BG+W       0  -
+     1   2         BG+W       0  -
+     1   2            W       0  -
+     1   3        MB+AB    None  SUx2/SPZx1
+     1   2           LC       0  -
+     1   2           MB       0  -
+     1   3           PB     110  SZx3
+     1   3         PB+W     110  SZx3
+     1   3            W     110  SZx3
+     1   2         BG+W     100  SZx2/SPUx1
+     1   3           AB       0  SZx1
+     1   2            W       0  LZx1/SZx1
+     1   3           MB     110  SZx3/SPUx1/SPZx1
+     1   2           MB    None  SPSx1/SPUx1
+     1   2            W       4  LZx1
+     1   2        BG+AB       1  EZx1
+     1   2        KB+AB       2  LZx1
+     1   2         LC+W       1  EZx1
+     1   2            W       0  -
+     1   2           PB       0  -
+     1   2        CB+AB       1  EZx1
+     1   2        CB+AB       2  LZx1
+     1   2        CB+AB       3  LZx1
+  ... (264 more cords)
+  Value range: 0-1117, nonzero: 216/287
+
+======================================================================
+KHIPU 1000545 | n=194 cords, 17 colors, L3
+  entropy=5.991 uniq2=0.876 hapax=0.62 zero%=0.237
+  why_unclassified: sup-unclassified+deep_sparse_mixed
+  provenance: unknown | region: unknown
+======================================================================
+   ord lvl        color   value  knots
+     1   1           AB     712  SZx8/LZx1
+     1   2           0L       2  LZx1
+     1   2        KB+MB       1  EZx1
+     1   2        KB+MB       2  LZx1
+     1   2        KB+MB       0  -
+     1   2           KB       1  EZx1
+     1   2        KB+MB       1  EZx1
+     1   2           KB       1  EZx1
+     1   2           KB       0  -
+     1   2           KB       0  -
+     1   2           KB       0  -
+     1   2           0L       3  LZx1
+     1   2           KB       0  -
+     1   2           KB       0  -
+     1   2           YB       0  SZx3
+     1   3           0L       2  LZx1
+     1   2           YB       5  LZx1
+     1   2           YB       7  LZx1
+     1   3           KB       0  -
+     1   2           YB       5  LZx1
+     1   2           YB       0  SZx1
+     1   3           KB       0  -
+     1   2           YB      11  EZx1/SZx1
+     1   2           YB       7  LZx1
+     1   2           YB       4  LZx1
+     1   2        GG+AB       1  EZx1
+     1   2           KB       2  LZx1
+     1   2           KB       0  -
+     1   2           KB       3  LZx1
+     1   2           KB       2  LZx1
+     1   2           KB       3  LZx1
+     1   2           KB       1  EZx1
+     1   2           KB       2  LZx1
+     1   2           GG       1  EZx1
+     1   2           KB       1  EZx1
+     1   2           KB       0  -
+     1   2           PR       1  EZx1
+     1   2        KB+MB       1  EZx1
+     1   2           KB       0  -
+     1   2           GB       1  EZx1
+  ... (154 more cords)
+  Value range: 0-712, nonzero: 148/194
+
+======================================================================
+KHIPU 1000239 | n=64 cords, 7 colors, L3
+  entropy=4.792 uniq2=0.968 hapax=0.694 zero%=0.234
+  why_unclassified: sup-unclassified+deep_sparse_mixed;anomalous-transcription
+  provenance: "Pueblo Libre, Lima, Peru" | region: 
+======================================================================
+   ord lvl        color   value  knots
+     1   1         AB+W       1  EZx1
+     1   1         MB+W       1  EZx1
+     1   2         MB+W       1  EZx1
+     1   2         MB+W       1  EZx1
+     1   2           MB       2  LSx1
+     1   2            W       2  LSx1
+     1   2         AB+W       7  LZx1
+     1   2           MB       2  LZx1
+     1   2         KB+W       1  EZx1
+     1   2           MB       0  -
+     1   3           MB       0  -
+     1   3           MB       0  -
+     1   3           MB       0  -
+     2   1         AB+W      12  LZx1/SZx1
+     2   2         AB+W      48  SZx4/LZx1
+     3   1         AB+W       0  -
+     3   1         MB+W       0  -
+     3   2         AB+W       8  LZx1
+     4   1         GG+W       5  LZx1
+     4   2         AB+W      67  SZx6/LZx1
+     5   1         GG+W       2  LZx1
+     5   2         AB+W       8  LZx1
+     6   1         GG+W       1  EZx1
+     6   2         AB+W       0  SZx2
+     7   1         KB+W       2  LZx1
+     8   1         AB+W       1  EZx1
+     9  -1         MB+W      25  SZx2/LZx1
+    10   1         AB+W       0  -
+    11   1           AB       0  -
+    12   1           AB       8  LZx1
+    13   1           MB       1  EZx1
+    14   1           AB       1  EZx1
+    15   1           AB       0  -
+    16   1           AB      15  LZx1/SZx1
+    17   1           AB       1  EZx1
+    18   1        AB+MB       2  LZx1
+    19   1           MB       0  -
+    20   1         MB+W       7  LZx1
+    21   1         MB+W       0  -
+    22   1         AB+W     158  SZx6/LZx1
+  ... (24 more cords)
+  Value range: 0-158, nonzero: 49/64
+
+======================================================================
+KHIPU 1000432 | n=15 cords, 6 colors, L3
+  entropy=3.64 uniq2=1.0 hapax=0.846 zero%=0.6
+  why_unclassified: sup-unclassified+deep_sparse_mixed
+  provenance: Pachacamac | region: 
+======================================================================
+   ord lvl        color   value  knots
+     1   1        MG+AB       0  -
+     1   2         W+MB       1  EZx1
+     1   2            W       0  -
+     1   3           KB       0  -
+     2   1         MB+W       0  SZx9
+     3   1         AB+W       2  LZx1
+     4   1           RM      34  SZx3/LZx1
+     5   1         MB+W      59  SZx5/LZx1
+     6   1            W      84  SZx8/LZx1
+     7   1        MG+AB       0  -
+     8   1         MB+W       0  SZx9
+     9   1         AB+W       0  -
+    10   1           RM       0  -
+    11   1         MB+W      54  SZx5/LZx1
+    12   1            W       0  -
+  Value range: 0-84, nonzero: 6/15

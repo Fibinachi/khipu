@@ -1,0 +1,28 @@
+# khipu_id: 1000513
+# provenance: Pachacamac
+# region: "Central Coast, Peru"
+# museum: "Ethnologisches Museum, Berlin, Germany" 42543
+# nickname: 
+# file_format: .tab
+# data_regime: DC5
+# doc_cluster: deep_sparse_mixed
+# template_id: T149
+# segmentation: value_marker
+# n_rows: 14
+# n_cols: 6
+ROW_ID,IS_MARKER_ROW,SECTION,MB,AB,AB_2,AB_3,MB_2,W
+,,,MARKER,VARIABLE,CONSTANT,CONSTANT,CONSTANT,CONSTANT
+1,TRUE,1,248,215,,232,,
+2,FALSE,1,10,,,,,225
+3,FALSE,1,10,30,199,24,,
+4,FALSE,1,10,22,32,,,
+5,FALSE,1,52,,,,,
+6,FALSE,1,,,,,,
+7,FALSE,1,,,,,25,
+8,FALSE,1,22,,,,,
+9,FALSE,1,,,,,,
+10,FALSE,1,,,,,10,
+11,FALSE,1,,,,,,5
+12,FALSE,1,28,,,,,
+13,FALSE,1,,6,,,,
+14,FALSE,1,,,,,,

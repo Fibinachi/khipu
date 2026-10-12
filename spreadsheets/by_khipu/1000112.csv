@@ -1,0 +1,17 @@
+# khipu_id: 1000112
+# provenance: Chuquitanta
+# region: 
+# museum: "Museum für Völkerkunde, Berlin" VA24939
+# nickname: 
+# file_format: .flat
+# data_regime: 
+# doc_cluster: 
+# template_id: 
+# segmentation: none
+# n_rows: 4
+# n_cols: 0
+ORDINAL,LEVEL,COLOR1,COLOR2,VALUE,KNOTS
+1,1,W,,54,"L:1,S:5"
+2,1,B,,28,"L:1,S:2"
+3,1,0L,W,6,L:1
+4,1,LB,,26,"L:1,S:2"

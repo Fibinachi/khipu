@@ -1,0 +1,18 @@
+# khipu_id: 1000065
+# provenance: Ica
+# region: 
+# museum: "American Museum of Natural History, NY" 41.2/6714
+# nickname: 
+# file_format: .tab
+# data_regime: DC1
+# doc_cluster: census_format_paired
+# template_id: T016
+# segmentation: white_dividers
+# n_rows: 4
+# n_cols: 34
+ROW_ID,IS_MARKER_ROW,SECTION,LB,W,LB_2,LB_3,DB,LB_4,DB_2,W_2,DB_3,LB_5,LB_6,LB_7,LB_8,LB_9,LB_10,LB_11,LB_12,LB_13,LB_14,LB_15,LB_16,LB_17,LB_18,LB_19,LB_20,LB_21,LB_22,LB_23,LB_24,LB_25,W_3,LB_26,W_4,LB_27
+,,,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT
+1,FALSE,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,FALSE,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,FALSE,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,FALSE,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

@@ -1,0 +1,23 @@
+# khipu_id: 1000352
+# provenance: 
+# region: 
+# museum: Museo Temple Radicati 8
+# nickname: 
+# file_format: .flat
+# data_regime: 
+# doc_cluster: 
+# template_id: 
+# segmentation: none
+# n_rows: 10
+# n_cols: 0
+ORDINAL,LEVEL,COLOR1,COLOR2,VALUE,KNOTS
+1,1,YB,,,S:27
+2,1,YB,,,S:4
+3,1,YB,,,S:7
+4,1,YB,,,S:8
+5,1,YB,,,S:2
+6,1,W,AB,,S:1
+7,1,YB,,,
+8,1,YB,,,
+9,2,AB,,,
+10,2,AB,,,

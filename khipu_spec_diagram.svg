@@ -1,0 +1,148 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="800" viewBox="0 0 1100 800">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="550" y="40" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="22" font-weight="bold">Khipu Data Interchange Format — Structural Rules</text>
+<text x="550" y="65" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#666">Generated from spreadsheet_to_khipu.py output | Spec v0.2</text>
+<g font-family="Helvetica, Arial, sans-serif">
+<line x1="60" y1="140" x2="140" y2="140" stroke="#2980b9" stroke-width="1.5" stroke-dasharray="5,3"/>
+<rect x="8" y="85" width="130" height="50" rx="6" fill="#ebf5fb" stroke="#2980b9"/>
+<text x="73" y="104" text-anchor="middle" font-size="12" font-weight="bold" fill="#2471a3">R1</text>
+<text x="73" y="120" text-anchor="middle" font-size="10" fill="#2471a3">one primary cord</text>
+<text x="73" y="132" text-anchor="middle" font-size="10" fill="#2471a3">level = 0</text>
+<line x1="140" y1="140" x2="700" y2="140" stroke="#7d6608" stroke-width="7" stroke-linecap="round"/>
+<text x="420" y="128" text-anchor="middle" font-size="12" font-weight="bold" fill="#333">primary cord (P0)</text>
+<rect x="720" y="85" width="150" height="50" rx="6" fill="#fef9e7" stroke="#d4ac0d"/>
+<text x="795" y="104" text-anchor="middle" font-size="12" font-weight="bold" fill="#7d6608">R2</text>
+<text x="795" y="120" text-anchor="middle" font-size="10" fill="#7d6608">pendants attach here</text>
+<text x="795" y="132" text-anchor="middle" font-size="10" fill="#7d6608">level = 1</text>
+<line x1="700" y1="140" x2="720" y2="120" stroke="#d4ac0d" stroke-width="1.5" stroke-dasharray="5,3"/>
+<line x1="220" y1="140" x2="220" y2="340" stroke="#e8dcc0" stroke-width="5"/>
+<circle cx="220" cy="140" r="7" fill="none" stroke="#333" stroke-width="2"/>
+<text x="232" y="170" font-size="13" font-weight="bold" fill="#333">barley</text>
+<text x="232" y="186" font-size="11" fill="#666">L1 | W | Σ=24,000</text>
+<ellipse cx="210" cy="210" rx="5" ry="7" fill="none" stroke="#222" stroke-width="1.8"/>
+<ellipse cx="215" cy="210" rx="5" ry="7" fill="none" stroke="#222" stroke-width="1.8"/>
+<ellipse cx="220" cy="210" rx="5" ry="7" fill="none" stroke="#222" stroke-width="1.8"/>
+<ellipse cx="225" cy="210" rx="5" ry="7" fill="none" stroke="#222" stroke-width="1.8"/>
+<text x="232" y="214" font-size="10" fill="#555">4× single (thousands)</text>
+<ellipse cx="210" cy="240" rx="5" ry="7" fill="none" stroke="#222" stroke-width="1.8"/>
+<ellipse cx="215" cy="240" rx="5" ry="7" fill="none" stroke="#222" stroke-width="1.8"/>
+<text x="232" y="244" font-size="10" fill="#555">2× single (10k)</text>
+<line x1="220" y1="330" x2="170" y2="350" stroke="#e8dcc0" stroke-width="3"/>
+<line x1="170" y1="350" x2="170" y2="470" stroke="#e8dcc0" stroke-width="3"/>
+<circle cx="220" cy="330" r="4" fill="#333"/>
+<ellipse cx="164" cy="375" rx="3.5" ry="5" fill="none" stroke="#222" stroke-width="1.4"/>
+<ellipse cx="168" cy="375" rx="3.5" ry="5" fill="none" stroke="#222" stroke-width="1.4"/>
+<ellipse cx="172" cy="375" rx="3.5" ry="5" fill="none" stroke="#222" stroke-width="1.4"/>
+<ellipse cx="176" cy="375" rx="3.5" ry="5" fill="none" stroke="#222" stroke-width="1.4"/>
+<text x="170" y="488" text-anchor="middle" font-size="10" fill="#333">6,000</text>
+<text x="170" y="502" text-anchor="middle" font-size="9" fill="#888">L2</text>
+<line x1="220" y1="330" x2="220" y2="350" stroke="#e8dcc0" stroke-width="3"/>
+<line x1="220" y1="350" x2="220" y2="470" stroke="#e8dcc0" stroke-width="3"/>
+<circle cx="220" cy="330" r="4" fill="#333"/>
+<ellipse cx="214" cy="375" rx="3.5" ry="5" fill="none" stroke="#222" stroke-width="1.4"/>
+<ellipse cx="218" cy="375" rx="3.5" ry="5" fill="none" stroke="#222" stroke-width="1.4"/>
+<ellipse cx="222" cy="375" rx="3.5" ry="5" fill="none" stroke="#222" stroke-width="1.4"/>
+<text x="220" y="488" text-anchor="middle" font-size="10" fill="#333">3,000</text>
+<text x="220" y="502" text-anchor="middle" font-size="9" fill="#888">L2</text>
+<line x1="220" y1="330" x2="270" y2="350" stroke="#e8dcc0" stroke-width="3"/>
+<line x1="270" y1="350" x2="270" y2="470" stroke="#e8dcc0" stroke-width="3"/>
+<circle cx="220" cy="330" r="4" fill="#333"/>
+<ellipse cx="264" cy="375" rx="3.5" ry="5" fill="none" stroke="#222" stroke-width="1.4"/>
+<ellipse cx="268" cy="375" rx="3.5" ry="5" fill="none" stroke="#222" stroke-width="1.4"/>
+<ellipse cx="272" cy="375" rx="3.5" ry="5" fill="none" stroke="#222" stroke-width="1.4"/>
+<ellipse cx="276" cy="375" rx="3.5" ry="5" fill="none" stroke="#222" stroke-width="1.4"/>
+<ellipse cx="264" cy="397" rx="3.5" ry="5" fill="none" stroke="#222" stroke-width="1.4"/>
+<text x="270" y="488" text-anchor="middle" font-size="10" fill="#333">15,000</text>
+<text x="270" y="502" text-anchor="middle" font-size="9" fill="#888">L2</text>
+<line x1="400" y1="140" x2="400" y2="340" stroke="#3a3a3a" stroke-width="5"/>
+<circle cx="400" cy="140" r="7" fill="none" stroke="#333" stroke-width="2"/>
+<text x="412" y="170" font-size="13" font-weight="bold" fill="#333">wheat</text>
+<text x="412" y="186" font-size="11" fill="#666">L1 | B | Σ=4,400</text>
+<ellipse cx="390" cy="210" rx="5" ry="7" fill="none" stroke="#222" stroke-width="1.8"/>
+<ellipse cx="395" cy="210" rx="5" ry="7" fill="none" stroke="#222" stroke-width="1.8"/>
+<ellipse cx="400" cy="210" rx="5" ry="7" fill="none" stroke="#222" stroke-width="1.8"/>
+<ellipse cx="405" cy="210" rx="5" ry="7" fill="none" stroke="#222" stroke-width="1.8"/>
+<text x="412" y="214" font-size="10" fill="#555">4× single (hundreds)</text>
+<ellipse cx="390" cy="240" rx="5" ry="7" fill="none" stroke="#222" stroke-width="1.8"/>
+<ellipse cx="395" cy="240" rx="5" ry="7" fill="none" stroke="#222" stroke-width="1.8"/>
+<ellipse cx="400" cy="240" rx="5" ry="7" fill="none" stroke="#222" stroke-width="1.8"/>
+<ellipse cx="405" cy="240" rx="5" ry="7" fill="none" stroke="#222" stroke-width="1.8"/>
+<text x="412" y="244" font-size="10" fill="#555">4× single (thousands)</text>
+<line x1="400" y1="330" x2="350" y2="350" stroke="#3a3a3a" stroke-width="3"/>
+<line x1="350" y1="350" x2="350" y2="470" stroke="#3a3a3a" stroke-width="3"/>
+<circle cx="400" cy="330" r="4" fill="#333"/>
+<ellipse cx="344" cy="375" rx="3.5" ry="5" fill="none" stroke="#222" stroke-width="1.4"/>
+<ellipse cx="348" cy="375" rx="3.5" ry="5" fill="none" stroke="#222" stroke-width="1.4"/>
+<ellipse cx="344" cy="397" rx="3.5" ry="5" fill="none" stroke="#222" stroke-width="1.4"/>
+<text x="350" y="488" text-anchor="middle" font-size="10" fill="#333">1,200</text>
+<text x="350" y="502" text-anchor="middle" font-size="9" fill="#888">L2</text>
+<line x1="400" y1="330" x2="400" y2="350" stroke="#3a3a3a" stroke-width="3"/>
+<line x1="400" y1="350" x2="400" y2="470" stroke="#3a3a3a" stroke-width="3"/>
+<circle cx="400" cy="330" r="4" fill="#333"/>
+<ellipse cx="394" cy="375" rx="3.5" ry="5" fill="none" stroke="#222" stroke-width="1.4"/>
+<ellipse cx="398" cy="375" rx="3.5" ry="5" fill="none" stroke="#222" stroke-width="1.4"/>
+<ellipse cx="402" cy="375" rx="3.5" ry="5" fill="none" stroke="#222" stroke-width="1.4"/>
+<ellipse cx="406" cy="375" rx="3.5" ry="5" fill="none" stroke="#222" stroke-width="1.4"/>
+<text x="400" y="488" text-anchor="middle" font-size="10" fill="#333">800</text>
+<text x="400" y="502" text-anchor="middle" font-size="9" fill="#888">L2</text>
+<line x1="400" y1="330" x2="450" y2="350" stroke="#3a3a3a" stroke-width="3"/>
+<line x1="450" y1="350" x2="450" y2="470" stroke="#3a3a3a" stroke-width="3"/>
+<circle cx="400" cy="330" r="4" fill="#333"/>
+<ellipse cx="444" cy="375" rx="3.5" ry="5" fill="none" stroke="#222" stroke-width="1.4"/>
+<ellipse cx="448" cy="375" rx="3.5" ry="5" fill="none" stroke="#222" stroke-width="1.4"/>
+<ellipse cx="452" cy="375" rx="3.5" ry="5" fill="none" stroke="#222" stroke-width="1.4"/>
+<ellipse cx="456" cy="375" rx="3.5" ry="5" fill="none" stroke="#222" stroke-width="1.4"/>
+<ellipse cx="444" cy="397" rx="3.5" ry="5" fill="none" stroke="#222" stroke-width="1.4"/>
+<ellipse cx="448" cy="397" rx="3.5" ry="5" fill="none" stroke="#222" stroke-width="1.4"/>
+<text x="450" y="488" text-anchor="middle" font-size="10" fill="#333">2,400</text>
+<text x="450" y="502" text-anchor="middle" font-size="9" fill="#888">L2</text>
+<line x1="580" y1="140" x2="580" y2="340" stroke="#b03a2e" stroke-width="5"/>
+<circle cx="580" cy="140" r="7" fill="none" stroke="#333" stroke-width="2"/>
+<text x="592" y="170" font-size="13" font-weight="bold" fill="#333">laborers</text>
+<text x="592" y="186" font-size="11" fill="#666">L1 | R | Σ=40</text>
+<ellipse cx="570" cy="210" rx="5" ry="7" fill="none" stroke="#222" stroke-width="1.8"/>
+<ellipse cx="575" cy="210" rx="5" ry="7" fill="none" stroke="#222" stroke-width="1.8"/>
+<ellipse cx="580" cy="210" rx="5" ry="7" fill="none" stroke="#222" stroke-width="1.8"/>
+<ellipse cx="585" cy="210" rx="5" ry="7" fill="none" stroke="#222" stroke-width="1.8"/>
+<text x="592" y="214" font-size="10" fill="#555">4× single (tens)</text>
+<line x1="580" y1="330" x2="530" y2="350" stroke="#b03a2e" stroke-width="3"/>
+<line x1="530" y1="350" x2="530" y2="470" stroke="#b03a2e" stroke-width="3"/>
+<circle cx="580" cy="330" r="4" fill="#333"/>
+<ellipse cx="524" cy="375" rx="3.5" ry="5" fill="none" stroke="#222" stroke-width="1.4"/>
+<ellipse cx="528" cy="375" rx="3.5" ry="5" fill="none" stroke="#222" stroke-width="1.4"/>
+<ellipse cx="524" cy="397" rx="3.5" ry="5" fill="none" stroke="#222" stroke-width="1.4"/>
+<text x="530" y="488" text-anchor="middle" font-size="10" fill="#333">12</text>
+<text x="530" y="502" text-anchor="middle" font-size="9" fill="#888">L2</text>
+<line x1="580" y1="330" x2="580" y2="350" stroke="#b03a2e" stroke-width="3"/>
+<line x1="580" y1="350" x2="580" y2="470" stroke="#b03a2e" stroke-width="3"/>
+<circle cx="580" cy="330" r="4" fill="#333"/>
+<ellipse cx="574" cy="375" rx="3.5" ry="5" fill="none" stroke="#222" stroke-width="1.4"/>
+<ellipse cx="578" cy="375" rx="3.5" ry="5" fill="none" stroke="#222" stroke-width="1.4"/>
+<ellipse cx="582" cy="375" rx="3.5" ry="5" fill="none" stroke="#222" stroke-width="1.4"/>
+<ellipse cx="586" cy="375" rx="3.5" ry="5" fill="none" stroke="#222" stroke-width="1.4"/>
+<text x="580" y="488" text-anchor="middle" font-size="10" fill="#333">8</text>
+<text x="580" y="502" text-anchor="middle" font-size="9" fill="#888">L2</text>
+<line x1="580" y1="330" x2="630" y2="350" stroke="#b03a2e" stroke-width="3"/>
+<line x1="630" y1="350" x2="630" y2="470" stroke="#b03a2e" stroke-width="3"/>
+<circle cx="580" cy="330" r="4" fill="#333"/>
+<ellipse cx="624" cy="375" rx="3.5" ry="5" fill="none" stroke="#222" stroke-width="1.4"/>
+<ellipse cx="628" cy="375" rx="3.5" ry="5" fill="none" stroke="#222" stroke-width="1.4"/>
+<text x="630" y="488" text-anchor="middle" font-size="10" fill="#333">20</text>
+<text x="630" y="502" text-anchor="middle" font-size="9" fill="#888">L2</text>
+<rect x="8" y="530" width="170" height="55" rx="6" fill="#fdedec" stroke="#c0392b"/>
+<text x="93" y="550" text-anchor="middle" font-size="12" font-weight="bold" fill="#922b21">R3</text>
+<text x="93" y="566" text-anchor="middle" font-size="10" fill="#922b21">subsidiaries attach</text>
+<text x="93" y="578" text-anchor="middle" font-size="10" fill="#922b21">to pendants, level ≥ 2</text>
+<line x1="178" y1="555" x2="170" y2="420" stroke="#c0392b" stroke-width="1.5" stroke-dasharray="5,3"/>
+<rect x="720" y="400" width="340" height="170" rx="8" fill="#f8f9fa" stroke="#aaa"/>
+<text x="890" y="422" text-anchor="middle" font-size="13" font-weight="bold" fill="#333">Decimal Knot Encoding</text>
+<text x="735" y="448" font-size="11" fill="#333">• Units (10⁰): long knot, N turns = N</text>
+<text x="735" y="468" font-size="11" fill="#333">• Tens+ (10¹, 10²...): N single knots</text>
+<text x="735" y="488" font-size="11" fill="#333">• Digit 1 in units: figure-eight knot</text>
+<text x="735" y="508" font-size="11" fill="#333">• Zero: empty space (no knots)</text>
+<text x="735" y="528" font-size="11" fill="#333">• Color = field key (column identity)</text>
+<text x="735" y="548" font-size="11" fill="#333">• Position along cord = decimal place</text>
+<text x="550" y="770" text-anchor="middle" font-size="12" fill="#333">Conformance: R1 612/612 (100%) · R2 193/193 (100%) · R3 403/403 (100%)</text>
+<text x="550" y="788" text-anchor="middle" font-size="10" fill="#999">Khipu Data Interchange Format v0.2 | Generated 2026-10-12</text>
+</g>
+</svg>

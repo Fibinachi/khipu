@@ -1,0 +1,43 @@
+# khipu_id: 1000589
+# provenance: unknown
+# region: 
+# museum: Museum fur Volkerkunde, Leipzig SAM5555(d)
+# nickname: 
+# file_format: .flat
+# data_regime: 
+# doc_cluster: 
+# template_id: 
+# segmentation: none
+# n_rows: 30
+# n_cols: 0
+ORDINAL,LEVEL,COLOR1,COLOR2,VALUE,KNOTS
+1,1,MB,,,"L:7,S:2"
+2,1,MB,,,
+3,1,W,,,L:1
+4,1,MB,,11,"E:1,S:1"
+5,1,MB,,,L:1
+6,1,AB,,,L:1
+7,1,KB,W,,"L:1,S:2"
+8,1,MB,,,S:1
+9,1,MB,,,L:1
+10,1,MB,,,"L:1,S:1"
+11,1,MB,,,
+12,1,MB,,,S:1
+13,1,W,,,
+14,1,AB,,,
+15,1,AB,,,
+16,1,AB,,,
+17,1,MB,W,,
+18,1,MB,,,S:1
+19,1,AB,W,,L:1
+20,1,MB,,,
+21,1,MB,AB,,
+22,1,AB,,,
+23,1,W,,,
+24,1,AB,,101,"E:1,L:1,S:1"
+25,1,AB,,,L:1
+26,1,AB,W,,
+27,1,GG,W,,S:3
+28,1,HB,,,
+29,1,MB,,,
+30,1,HB,,,

@@ -1,0 +1,25 @@
+# khipu_id: 1000105
+# provenance: 
+# region: 
+# museum: "Peabody Museum, Harvard University" 41.52.30/293B
+# nickname: 
+# file_format: .flat
+# data_regime: 
+# doc_cluster: 
+# template_id: 
+# segmentation: none
+# n_rows: 12
+# n_cols: 0
+ORDINAL,LEVEL,COLOR1,COLOR2,VALUE,KNOTS
+1,1,R,W,10,S:2
+2,1,CB,,,
+3,1,R,W,15,"L:1,S:1"
+4,1,R,W,6,L:1
+5,1,R,W,14,"L:1,S:1"
+6,1,CB,,,
+7,1,R,,,
+8,1,R,,,
+9,1,R,,,
+10,1,R,,,
+11,1,R,,,
+12,1,R,,,

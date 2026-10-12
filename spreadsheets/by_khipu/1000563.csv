@@ -1,0 +1,18 @@
+# khipu_id: 1000563
+# provenance: Ullujaya, Ocucaje, Ica
+# region: 
+# museum: Museo Nacional de Arqueología, Antropología e Historia del Perú MNAAHP1721
+# nickname: 
+# file_format: .tab
+# data_regime: unclustered
+# doc_cluster: deep_sparse_mixed
+# template_id: T170
+# segmentation: white_dividers
+# n_rows: 4
+# n_cols: 31
+ROW_ID,IS_MARKER_ROW,SECTION,MB,MB_2,MB_3,MB_4,MB_5,MB_6,HB,HB_2,HB_3,HB_4,HB_5,HB_6,AB,AB_2,AB_3,AB_4,MB_7,MB_8,MB_9,MB_10,GG,GG_2,GG_3,GG_4,AB_5,AB_6,AB_7,AB_8,AB_9,AB_10,GG_5
+,,,CONSTANT,CONSTANT,CONSTANT,VARIABLE,CONSTANT,VARIABLE,VARIABLE,CONSTANT,CONSTANT,CONSTANT,CONSTANT,VARIABLE,VARIABLE,VARIABLE,VARIABLE,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,CONSTANT
+1,FALSE,2,,,,,,,,,,,,131,,,,,,,,,,,,,,,,,,,
+2,FALSE,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,FALSE,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,FALSE,5,,,,1,,1,,1,1,1,1,1,,,,,,,,,,,,,,,,,,,

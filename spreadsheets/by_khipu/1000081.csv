@@ -1,0 +1,36 @@
+# khipu_id: 1000081
+# provenance: Marquez
+# region: 
+# museum: "Museum für Völkerkunde, Berlin" VA24371
+# nickname: 
+# file_format: .flat
+# data_regime: 
+# doc_cluster: 
+# template_id: 
+# segmentation: none
+# n_rows: 23
+# n_cols: 0
+ORDINAL,LEVEL,COLOR1,COLOR2,VALUE,KNOTS
+1,1,W,,10,"L:2,S:13"
+2,1,W,,16,"L:2,S:4"
+3,1,W,,,S:5
+4,1,W,,73,"L:1,S:7"
+5,1,W,,189,"L:1,S:9"
+6,1,W,,30,S:5
+7,1,W,,379,"L:1,S:10"
+8,1,W,,972,"L:1,S:16"
+9,1,W,,471,"E:1,S:11"
+10,1,W,,160,S:8
+11,1,W,,,S:1
+12,1,DB,,90,S:17
+13,1,YG,,838,"L:1,S:11"
+14,1,W,,20,S:10
+15,1,DB,,,S:4
+16,1,DB,,50,S:8
+17,1,YG,,447,"L:1,S:8"
+18,1,DB,,,S:3
+19,1,DB,,,S:6
+20,1,DB,,10,S:3
+21,1,DB,,,S:3
+22,1,DB,,40,S:12
+23,1,DB,,,S:2

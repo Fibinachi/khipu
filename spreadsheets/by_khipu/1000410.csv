@@ -1,0 +1,18 @@
+# khipu_id: 1000410
+# provenance: Tambo Colorado
+# region: 
+# museum: Museo Regional de Ica TC-0142-02
+# nickname: 
+# file_format: .flat
+# data_regime: 
+# doc_cluster: 
+# template_id: 
+# segmentation: none
+# n_rows: 5
+# n_cols: 0
+ORDINAL,LEVEL,COLOR1,COLOR2,VALUE,KNOTS
+1,1,W,,,"L:4,S:1"
+2,1,W,,3,L:4
+3,1,W,,,
+4,1,W,,7,L:1
+5,1,W,,9,L:1

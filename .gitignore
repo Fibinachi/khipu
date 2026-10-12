@@ -1,0 +1,30 @@
+# Data files (large, regenerable, or third-party licensed)
+*.db
+*.db-journal
+*.sqlite
+*.sqlite3
+raw/
+kfg_raw/
+*.xlsx
+*.xls
+KhipuDB_22_01_12/
+*.json
+!*_demo.json
+!khipu_catalog_khipu.json
+
+# Images (large binaries — keep the key diagrams)
+*.webp
+media-generation-*/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log

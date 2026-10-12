@@ -1,0 +1,27 @@
+# khipu_id: 1000345
+# provenance: 
+# region: 
+# museum: "Museo Nacional, Lima, Peru" 17/579
+# nickname: 
+# file_format: .tab
+# data_regime: DC6
+# doc_cluster: deep_sparse_mixed
+# template_id: T108
+# segmentation: value_marker
+# n_rows: 13
+# n_cols: 10
+ROW_ID,IS_MARKER_ROW,SECTION,B,LB,LB_2,LB_3,LB_4,LB_5,LB_6,LB_7,LB_8,LB_9
+,,,MARKER,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE
+1,TRUE,1,,83,43,151,,,,1,8,7
+2,FALSE,1,17,4,3,,,,7,,4,2
+3,FALSE,2,46,1,11,2,11,,6,34,,
+4,FALSE,2,1,14,3,12,,,,,,
+5,FALSE,2,1,2,33,6,65,34,,21,22,
+6,FALSE,2,1,7,7,3,,,,,,
+7,FALSE,2,1,,,2,,,,,,
+8,FALSE,2,1,4,,,2,8,3,,,6
+9,FALSE,2,16,7,4,48,1,11,2,25,5,5
+10,FALSE,,49,,,,,,,,,
+11,FALSE,3,1,14,7,14,2,2,,12,6,2
+12,FALSE,3,8,1,3,32,2,22,7,29,8,8
+13,FALSE,3,76,,,7,26,5,5,66,,

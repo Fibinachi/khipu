@@ -1,0 +1,19 @@
+# khipu_id: 1000528
+# provenance: Ocucaje
+# region: "South Coast, Peru"
+# museum: "Ethnologisches Museum, Berlin, Germany" 44864 a
+# nickname: 
+# file_format: .tab
+# data_regime: DC6
+# doc_cluster: deep_hierarchical_grouped
+# template_id: T156
+# segmentation: white_dividers
+# n_rows: 5
+# n_cols: 25
+ROW_ID,IS_MARKER_ROW,SECTION,GG,GG_2,GG_3,W,GG_4,AB,W_2,HB,AB_2,MB,AB_3,W_3,AB_4,MB_2,MB_3,BG,W_4,MB_4,W_5,AB_5,W_6,GG_5,RL,AB_6,AB_7
+,,,VARIABLE,VARIABLE,VARIABLE,CONSTANT,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,CONSTANT,CONSTANT,CONSTANT,VARIABLE,VARIABLE,VARIABLE,VARIABLE,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT
+1,FALSE,1,64,,,385,19,45,,,30,,,22,11,,,,,24,,32,,,,,
+2,FALSE,2,15,5,7,,12,2,12,7,,,111,93,,,,,,,,,,,,,
+3,FALSE,3,6,,5,,,,9,10,,66,,22,131,,,,12,6,2,12,9,,,112,86
+4,FALSE,4,12,46,,,,,,,,,,,,,,,,,,,,,,,
+5,FALSE,5,4,13,6,,,6,,,,,,,,,,,,,,,,,,,

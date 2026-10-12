@@ -1,0 +1,30 @@
+rank,q_morpheme,q_count,q_pct,q_type,q_gloss,k_hex,k_count,k_khipu,k_decode,alignment_note
+1,ta,820,22.81,suffix,ACC,f8040000,4786,287,W single-knot Z L1 val=0,Rank-1 both: most frequent function unit. Q=-ta(ACC). K=W:0. Hypothesis: W marks accusative/case role.
+2,si,439,12.21,enclitic,EVD.Reportative,20040000,2080,236,AB single-knot Z L1 val=0,"Q=-si(REPORTATIVE, narrative genre). K=AB:0. Genre mismatch: admin khipu may rank -mi higher. AB may mark evidentiality."
+3,kuna,321,8.93,suffix,PL,a4040000,1828,223,MB single-knot Z L1 val=0,Q=-kuna(PL). K=MB:0. Hypothesis: MB marks plurality/collectivity.
+4,pas,246,6.84,enclitic,ADD.too,f8080000,1315,119,W single-knot Z L2 val=0,Q=-pas(ADD). K=W:0@L2. Level shift: L2 grammatical marking.
+5,ri,171,4.76,suffix,INCH,00040000,1206,121,,
+6,mi,169,4.7,enclitic,EVD.Direct/BestGrounds,84040000,994,137,KB single-knot Z L1 val=0,
+7,spa,159,4.42,suffix,SS,fc040000,758,69,,
+8,pi,136,3.78,suffix,LOC,24040000,664,60,,Case suffix. Candidate for color-tier mapping.
+9,na,132,3.67,suffix,NOMLZ.oblig,a4080000,584,114,,
+10,pa,117,3.25,suffix,GEN,20080000,578,112,,Case suffix. Candidate for color-tier mapping.
+11,ni,104,2.89,suffix,1SG.S,90040000,554,43,,
+12,lla,104,2.89,enclitic,EXCL.only,84080000,541,109,,
+13,ku,97,2.7,suffix,REFL/MID,ac040000,488,29,,
+14,nku,86,2.39,suffix,POSS.3PL,21040001,395,70,,
+15,chi,85,2.36,suffix,CAUS,f9040001,374,80,,
+16,mu,83,2.31,suffix,CISL,4c040000,330,28,,
+17,man,78,2.17,suffix,ALL,80040000,307,57,,Case suffix. Candidate for color-tier mapping.
+18,manta,62,1.72,suffix,ABL,70040000,260,69,,Case suffix. Candidate for color-tier mapping.
+19,wan,61,1.7,suffix,COM/INST,f8440000,242,55,,Case suffix. Candidate for color-tier mapping.
+20,cha,45,1.25,enclitic,EVD.Conjectural,f8240000,233,47,,
+21,kama,27,0.75,suffix,LIM,f9080001,224,55,,Case suffix. Candidate for color-tier mapping.
+22,chu,15,0.42,suffix,NEG/INT,ac080000,223,17,,
+23,nki,9,0.25,suffix,2SG.S,f8840000,222,31,,
+24,pu,9,0.25,suffix,BEN,21080001,222,65,,Case suffix. Candidate for color-tier mapping.
+25,taq,6,0.17,suffix,CTOP,f8a40000,220,27,,
+26,yki,5,0.14,suffix,POSS.2SG,20a40002,216,33,,
+27,qa,4,0.11,suffix,TOP,a5080001,214,64,,
+28,yku,4,0.11,suffix,POSS.1EXCL,a5040001,208,57,,
+29,paq,1,0.03,suffix,BEN,20a40000,206,38,,Case suffix. Candidate for color-tier mapping.

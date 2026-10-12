@@ -1,0 +1,21 @@
+# khipu_id: 1000060
+# provenance: Between Ica and Pisco
+# region: 
+# museum: "Museum für Völkerkunde, Berlin" VA16145 B
+# nickname: 
+# file_format: .tab
+# data_regime: unclustered
+# doc_cluster: deep_sparse_mixed
+# template_id: T014
+# segmentation: color_cycle
+# n_rows: 7
+# n_cols: 2
+ROW_ID,IS_MARKER_ROW,SECTION,LB,W
+,,,VARIABLE,VARIABLE
+1,FALSE,1,901,3
+2,FALSE,1,25,3
+3,FALSE,1,201,3
+4,FALSE,1,16,2
+5,FALSE,1,14,3
+6,FALSE,1,,1
+7,FALSE,1,6,

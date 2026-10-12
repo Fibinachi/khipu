@@ -1,0 +1,594 @@
+KHIPU_ID,DOCUMENT_TYPE,CONFIDENCE,EVIDENCE_NOTES
+1000013,unclassified,low,weak signals: 100% values < 20; shallow (max level 1)
+1000014,unclassified,low,weak signals: 100% values < 20; shallow (max level 1)
+1000015,unclassified,low,weak signals: 83% values < 20; shallow (max level 2)
+1000017,census-like,medium,77% values < 20; shallow (max level 2); 27% zeros (sparse fields)
+1000026,census-like,medium,fixed 2-cord color groups (100%); 100% values < 20; shallow (max level 2)
+1000027,census-like,medium,100% values < 20; shallow (max level 2); 50% zeros (sparse fields)
+1000028,census-like,medium,fixed 3-cord color groups (100%); 100% values < 20; shallow (max level 2)
+1000029,unclassified,low,weak signals: 96% values < 20; 39% zeros (sparse fields); deep hierarchy (max level 3)
+1000030,census-like,medium,fixed 3-cord color groups (80%); 100% values < 20; shallow (max level 2); 29% zeros (sparse fields)
+1000031,census-like,medium,fixed 3-cord color groups (100%); 100% values < 20; shallow (max level 1); 29% zeros (sparse fields)
+1000032,unclassified,medium,mixed signals: census=[fixed 2-cord color groups (86%); shallow (max level 2)] warehouse=[large values (max 6569); 77% cords have subsidiaries]
+1000033,census-like,medium,fixed 3-cord color groups (88%); 90% values < 20; shallow (max level 2); 20% zeros (sparse fields)
+1000034,unclassified,low,weak signals: 85% values < 20; shallow (max level 2); 45% cords have subsidiaries
+1000035,census-like,medium,fixed 3-cord color groups (100%); 100% values < 20; shallow (max level 2); 33% zeros (sparse fields)
+1000036,census-like,medium,100% values < 20; shallow (max level 1); 45% zeros (sparse fields)
+1000037,census-like,medium,fixed 2-cord color groups (85%); 96% values < 20; shallow (max level 2)
+1000038,unclassified,low,weak signals: shallow (max level 2); 100% cords have subsidiaries
+1000039,census-like,medium,100% values < 20; shallow (max level 1); 27% zeros (sparse fields)
+1000040,unclassified,low,weak signals: 95% values < 20; shallow (max level 2)
+1000041,unclassified,low,weak signals: shallow (max level 1)
+1000042,census-like,medium,fixed 2-cord color groups (85%); 89% values < 20; shallow (max level 2)
+1000043,census-like,medium,fixed 2-cord color groups (75%); 100% values < 20; shallow (max level 2)
+1000044,census-like,medium,fixed 2-cord color groups (100%); 100% values < 20; shallow (max level 2)
+1000046,census-like,medium,fixed 4-cord color groups (100%); 89% values < 20; shallow (max level 2)
+1000047,unclassified,low,weak signals: shallow (max level 2); large values (max 3561); 65% cords have subsidiaries
+1000048,unclassified,low,weak signals: fixed 2-cord color groups (100%); shallow (max level 1); large values (max 35577)
+1000049,census-like,medium,fixed 2-cord color groups (100%); shallow (max level 2); 17% zeros (sparse fields)
+1000050,unclassified,low,weak signals: shallow (max level 2); 53% zeros (sparse fields)
+1000051,census-like,medium,71% values < 20; shallow (max level 1); 54% zeros (sparse fields)
+1000052,unclassified,medium,mixed signals: census=[100% values < 20; 32% zeros (sparse fields)] warehouse=[deep hierarchy (max level 3); 21% cords have subsidiaries]
+1000053,census-like,medium,82% values < 20; shallow (max level 1); 58% zeros (sparse fields)
+1000054,census-like,medium,fixed 2-cord color groups (100%); 90% values < 20; shallow (max level 1)
+1000055,unclassified,low,weak signals: 86% values < 20; shallow (max level 2); 57% cords have subsidiaries
+1000056,unclassified,low,weak signals: 100% values < 20; shallow (max level 1)
+1000057,unclassified,low,weak signals: shallow (max level 1); 40% zeros (sparse fields)
+1000058,census-like,medium,fixed 2-cord color groups (71%); 77% values < 20; shallow (max level 2)
+1000059,unclassified,low,weak signals: shallow (max level 2); large values (max 1001)
+1000060,unclassified,low,weak signals: 77% values < 20; deep hierarchy (max level 3); 100% cords have subsidiaries
+1000061,unclassified,low,weak signals: deep hierarchy (max level 3); 100% cords have subsidiaries
+1000062,unclassified,low,weak signals: deep hierarchy (max level 3); 200% cords have subsidiaries
+1000063,census-like,medium,fixed 2-cord color groups (82%); 84% values < 20; shallow (max level 2)
+1000064,census-like,medium,100% values < 20; shallow (max level 1); 48% zeros (sparse fields)
+1000065,census-like,medium,fixed 2-cord color groups (78%); 100% values < 20; shallow (max level 1)
+1000066,census-like,medium,fixed 2-cord color groups (100%); 100% values < 20; shallow (max level 1); 29% zeros (sparse fields)
+1000067,census-like,medium,80% values < 20; shallow (max level 2); 20% zeros (sparse fields)
+1000068,census-like,medium,fixed 2-cord color groups (100%); 100% values < 20; shallow (max level 1)
+1000069,unclassified,low,weak signals: shallow (max level 2)
+1000070,unclassified,medium,mixed signals: census=[fixed 2-cord color groups (100%); shallow (max level 2)] warehouse=[large values (max 5726); 22% cords have subsidiaries]
+1000071,unclassified,low,weak signals: fixed 2-cord color groups (71%); shallow (max level 1)
+1000072,unclassified,low,weak signals: shallow (max level 1)
+1000073,unclassified,low,weak signals: 82% values < 20; shallow (max level 1)
+1000074,census-like,medium,fixed 2-cord color groups (86%); shallow (max level 2); 40% zeros (sparse fields)
+1000075,unclassified,low,weak signals: shallow (max level 2); large values (max 49676); 57% cords have subsidiaries
+1000076,unclassified,low,weak signals: shallow (max level 2); large values (max 43372)
+1000077,unclassified,low,weak signals: 100% values < 20; shallow (max level 2)
+1000078,census-like,medium,fixed 2-cord color groups (100%); shallow (max level 2); 38% zeros (sparse fields)
+1000079,unclassified,medium,mixed signals: census=[fixed 2-cord color groups (75%); shallow (max level 2); 41% zeros (sparse fields)] warehouse=[large values (max 1575); 31% cords have subsidiaries]
+1000080,census-like,medium,77% values < 20; shallow (max level 1); 51% zeros (sparse fields)
+1000081,census-like,medium,fixed 2-cord color groups (73%); shallow (max level 2); 30% zeros (sparse fields)
+1000082,unclassified,low,weak signals: fixed 3-cord color groups (100%); shallow (max level 1); large values (max 31110)
+1000083,unclassified,medium,mixed signals: census=[81% values < 20; 55% zeros (sparse fields)] warehouse=[deep hierarchy (max level 3); 39% cords have subsidiaries]
+1000084,unclassified,low,weak signals: shallow (max level 1); 17% zeros (sparse fields)
+1000085,census-like,medium,93% values < 20; shallow (max level 2); 58% zeros (sparse fields)
+1000086,unclassified,low,weak signals: shallow (max level 1); large values (max 4778)
+1000087,unclassified,low,weak signals: 94% values < 20; shallow (max level 2); 75% cords have subsidiaries
+1000088,unclassified,low,weak signals: 100% values < 20; shallow (max level 1)
+1000089,unclassified,low,weak signals: shallow (max level 2); 21% zeros (sparse fields); 97% cords have subsidiaries
+1000090,census-like,medium,91% values < 20; shallow (max level 2); 55% zeros (sparse fields)
+1000091,census-like,medium,77% values < 20; shallow (max level 2); 49% zeros (sparse fields)
+1000092,census-like,medium,85% values < 20; shallow (max level 1); 46% zeros (sparse fields)
+1000093,census-like,medium,73% values < 20; shallow (max level 2); 18% zeros (sparse fields)
+1000094,unclassified,medium,mixed signals: census=[fixed 2-cord color groups (81%); 23% zeros (sparse fields)] warehouse=[deep hierarchy (max level 3); large values (max 1402); 47% cords have subsidiaries]
+1000096,unclassified,medium,mixed signals: census=[fixed 2-cord color groups (73%); 90% values < 20] warehouse=[deep hierarchy (max level 3); large values (max 13000)]
+1000097,unclassified,medium,mixed signals: census=[fixed 2-cord color groups (73%); 74% values < 20; 30% zeros (sparse fields)] warehouse=[deep hierarchy (max level 3); 39% cords have subsidiaries]
+1000098,unclassified,low,weak signals: 97% values < 20; shallow (max level 2); 30% cords have subsidiaries
+1000099,census-like,medium,91% values < 20; shallow (max level 1); 21% zeros (sparse fields)
+1000100,census-like,medium,72% values < 20; shallow (max level 1); 16% zeros (sparse fields)
+1000101,census-like,medium,fixed 2-cord color groups (82%); shallow (max level 2); 18% zeros (sparse fields)
+1000103,census-like,medium,fixed 2-cord color groups (74%); 100% values < 20; shallow (max level 2)
+1000105,unclassified,low,weak signals: 100% values < 20; shallow (max level 1)
+1000106,census-like,medium,100% values < 20; shallow (max level 1); 22% zeros (sparse fields)
+1000107,unclassified,low,weak signals: 100% values < 20; shallow (max level 1)
+1000108,census-like,medium,92% values < 20; shallow (max level 1); 16% zeros (sparse fields)
+1000109,unclassified,low,weak signals: deep hierarchy (max level 3); 75% cords have subsidiaries
+1000110,unclassified,low,weak signals: 95% values < 20; shallow (max level 1)
+1000111,unclassified,low,weak signals: 78% values < 20; shallow (max level 2)
+1000112,unclassified,low,weak signals: shallow (max level 1)
+1000113,unclassified,low,weak signals: shallow (max level 1); 43% zeros (sparse fields)
+1000114,unclassified,low,weak signals: 85% values < 20; shallow (max level 2)
+1000115,unclassified,low,weak signals: fixed 2-cord color groups (72%); shallow (max level 2)
+1000116,unclassified,low,weak signals: fixed 2-cord color groups (100%); shallow (max level 1)
+1000117,census-like,medium,fixed 2-cord color groups (83%); 100% values < 20; shallow (max level 2); 17% zeros (sparse fields)
+1000118,unclassified,low,weak signals: shallow (max level 1); large values (max 97357)
+1000119,unclassified,low,weak signals: shallow (max level 1); 23% zeros (sparse fields)
+1000120,census-like,medium,74% values < 20; shallow (max level 2); 22% zeros (sparse fields)
+1000121,census-like,medium,fixed 2-cord color groups (93%); 99% values < 20; shallow (max level 2); 15% zeros (sparse fields)
+1000122,unclassified,low,weak signals: shallow (max level 1); 39% zeros (sparse fields)
+1000123,unclassified,low,weak signals: shallow (max level 1); large values (max 1874)
+1000124,unclassified,low,weak signals: shallow (max level 1); 25% zeros (sparse fields); large values (max 21243)
+1000125,warehouse-like,medium,deep hierarchy (max level 3); large values (max 1501); 44% cords have subsidiaries
+1000126,unclassified,medium,mixed signals: census=[fixed 2-cord color groups (82%); 91% values < 20; 22% zeros (sparse fields)] warehouse=[deep hierarchy (max level 3); 78% cords have subsidiaries]
+1000127,unclassified,low,weak signals: shallow (max level 2); 25% zeros (sparse fields); 29% cords have subsidiaries
+1000128,unclassified,low,weak signals: 90% values < 20; shallow (max level 2); 71% cords have subsidiaries
+1000129,unclassified,low,weak signals: shallow (max level 1)
+1000130,unclassified,low,weak signals: 100% values < 20; shallow (max level 2); 50% cords have subsidiaries
+1000131,unclassified,low,weak signals: 78% values < 20; shallow (max level 1)
+1000132,census-like,medium,fixed 2-cord color groups (100%); 94% values < 20; shallow (max level 2); 39% zeros (sparse fields)
+1000133,census-like,medium,fixed 2-cord color groups (100%); 94% values < 20; shallow (max level 1); 50% zeros (sparse fields)
+1000134,census-like,medium,fixed 2-cord color groups (100%); 100% values < 20; shallow (max level 1); 25% zeros (sparse fields)
+1000135,unclassified,low,weak signals: 100% values < 20; shallow (max level 1)
+1000136,unclassified,low,weak signals: shallow (max level 1)
+1000137,census-like,medium,96% values < 20; shallow (max level 2); 15% zeros (sparse fields)
+1000138,census-like,medium,fixed 2-cord color groups (100%); 77% values < 20; shallow (max level 2)
+1000139,unclassified,low,weak signals: shallow (max level 2); 42% zeros (sparse fields)
+1000140,unclassified,medium,mixed signals: census=[fixed 2-cord color groups (70%); 94% values < 20] warehouse=[deep hierarchy (max level 3); 40% cords have subsidiaries]
+1000141,unclassified,low,weak signals: fixed 2-cord color groups (100%); shallow (max level 1)
+1000142,unclassified,low,weak signals: 89% values < 20; shallow (max level 1)
+1000143,unclassified,low,weak signals: 100% values < 20; shallow (max level 1)
+1000144,unclassified,medium,mixed signals: census=[72% values < 20; 52% zeros (sparse fields)] warehouse=[deep hierarchy (max level 3); large values (max 11544); 24% cords have subsidiaries]
+1000145,census-like,medium,78% values < 20; shallow (max level 2); 26% zeros (sparse fields)
+1000146,warehouse-like,medium,deep hierarchy (max level 4); large values (max 1440); 78% cords have subsidiaries
+1000147,unclassified,medium,mixed signals: census=[72% values < 20; 45% zeros (sparse fields)] warehouse=[deep hierarchy (max level 4); 48% cords have subsidiaries]
+1000148,unclassified,medium,mixed signals: census=[fixed 2-cord color groups (75%); 82% values < 20] warehouse=[deep hierarchy (max level 3); large values (max 1301); 23% cords have subsidiaries]
+1000149,census-like,medium,fixed 2-cord color groups (100%); shallow (max level 1); 20% zeros (sparse fields)
+1000150,census-like,medium,93% values < 20; shallow (max level 2); 48% zeros (sparse fields)
+1000151,unclassified,low,weak signals: shallow (max level 2); 37% zeros (sparse fields); large values (max 3424)
+1000152,unclassified,medium,mixed signals: census=[fixed 2-cord color groups (100%); shallow (max level 2)] warehouse=[large values (max 3765); 22% cords have subsidiaries]
+1000154,unclassified,low,weak signals: shallow (max level 1)
+1000155,unclassified,low,weak signals: shallow (max level 1)
+1000156,unclassified,low,weak signals: shallow (max level 2); 75% cords have subsidiaries
+1000157,unclassified,low,weak signals: 89% values < 20; shallow (max level 1)
+1000158,warehouse-like,medium,deep hierarchy (max level 3); large values (max 1604); 26% cords have subsidiaries
+1000159,census-like,medium,97% values < 20; shallow (max level 2); 28% zeros (sparse fields)
+1000160,unclassified,low,weak signals: shallow (max level 1)
+1000161,unclassified,low,weak signals: shallow (max level 1); 17% zeros (sparse fields)
+1000162,census-like,medium,91% values < 20; shallow (max level 2); 26% zeros (sparse fields)
+1000163,census-like,medium,fixed 2-cord color groups (100%); 100% values < 20; shallow (max level 1)
+1000164,unclassified,low,weak signals: shallow (max level 2); 18% zeros (sparse fields)
+1000165,unclassified,low,weak signals: 100% values < 20; shallow (max level 2); 73% cords have subsidiaries
+1000166,census-like,medium,92% values < 20; shallow (max level 1); 28% zeros (sparse fields)
+1000167,census-like,medium,fixed 2-cord color groups (100%); shallow (max level 2); 40% zeros (sparse fields)
+1000168,unclassified,low,weak signals: shallow (max level 1)
+1000169,census-like,medium,fixed 6-cord color groups (100%); 100% values < 20; shallow (max level 1); 45% zeros (sparse fields)
+1000170,census-like,medium,fixed 2-cord color groups (90%); 100% values < 20; shallow (max level 2); 40% zeros (sparse fields)
+1000171,census-like,medium,fixed 2-cord color groups (100%); 100% values < 20; shallow (max level 1)
+1000172,census-like,medium,100% values < 20; shallow (max level 1); 16% zeros (sparse fields)
+1000173,census-like,medium,fixed 2-cord color groups (100%); 100% values < 20; shallow (max level 1); 25% zeros (sparse fields)
+1000174,unclassified,low,weak signals: 100% values < 20; shallow (max level 1)
+1000176,census-like,medium,97% values < 20; shallow (max level 1); 51% zeros (sparse fields)
+1000177,census-like,medium,fixed 2-cord color groups (100%); 100% values < 20; shallow (max level 2); 25% zeros (sparse fields)
+1000178,census-like,medium,100% values < 20; shallow (max level 2); 31% zeros (sparse fields)
+1000179,unclassified,low,weak signals: shallow (max level 2); 55% zeros (sparse fields); 24% cords have subsidiaries
+1000180,unclassified,low,weak signals: 98% values < 20; shallow (max level 2)
+1000182,unclassified,low,weak signals: shallow (max level 1); large values (max 2427)
+1000183,unclassified,low,weak signals: 96% values < 20; deep hierarchy (max level 3)
+1000184,census-like,medium,99% values < 20; shallow (max level 1); 60% zeros (sparse fields)
+1000185,warehouse-like,medium,deep hierarchy (max level 3); large values (max 11110); 79% cords have subsidiaries
+1000186,census-like,medium,100% values < 20; shallow (max level 1); 25% zeros (sparse fields)
+1000187,unclassified,low,weak signals: 100% values < 20; shallow (max level 2)
+1000188,census-like,medium,fixed 2-cord color groups (100%); 100% values < 20; shallow (max level 2); 20% zeros (sparse fields)
+1000189,unclassified,low,weak signals: 100% values < 20; shallow (max level 2)
+1000190,census-like,medium,fixed 2-cord color groups (100%); 100% values < 20; shallow (max level 1); 56% zeros (sparse fields)
+1000191,unclassified,low,weak signals: shallow (max level 1)
+1000192,unclassified,low,weak signals: 93% values < 20; shallow (max level 2); 22% cords have subsidiaries
+1000194,unclassified,low,weak signals: 100% values < 20; shallow (max level 2)
+1000195,unclassified,low,weak signals: shallow (max level 1)
+1000196,unclassified,low,weak signals: shallow (max level 1)
+1000197,census-like,medium,96% values < 20; shallow (max level 2); 43% zeros (sparse fields)
+1000198,unclassified,medium,mixed signals: census=[fixed 2-cord color groups (88%); 90% values < 20] warehouse=[deep hierarchy (max level 3); 107% cords have subsidiaries]
+1000199,census-like,medium,fixed 2-cord color groups (89%); 100% values < 20; shallow (max level 2); 26% zeros (sparse fields)
+1000200,unclassified,low,weak signals: 94% values < 20; shallow (max level 2)
+1000201,warehouse-like,medium,deep hierarchy (max level 4); large values (max 3314); 45% cords have subsidiaries
+1000204,unclassified,low,weak signals: 100% values < 20; shallow (max level 1)
+1000205,unclassified,low,weak signals: shallow (max level 1)
+1000206,unclassified,low,weak signals: shallow (max level 2); 38% cords have subsidiaries
+1000207,census-like,medium,92% values < 20; shallow (max level 2); 30% zeros (sparse fields)
+1000208,unclassified,medium,mixed signals: census=[fixed 3-cord color groups (100%); 22% zeros (sparse fields)] warehouse=[deep hierarchy (max level 4); 67% cords have subsidiaries]
+1000209,unclassified,medium,mixed signals: census=[97% values < 20; 50% zeros (sparse fields)] warehouse=[deep hierarchy (max level 3); 59% cords have subsidiaries]
+1000210,unclassified,low,weak signals: 55% zeros (sparse fields); deep hierarchy (max level 4); 27% cords have subsidiaries
+1000211,unclassified,low,weak signals: 93% values < 20; shallow (max level 2)
+1000212,census-like,medium,90% values < 20; shallow (max level 2); 35% zeros (sparse fields)
+1000213,census-like,medium,97% values < 20; shallow (max level 1); 31% zeros (sparse fields)
+1000214,unclassified,low,weak signals: fixed 2-cord color groups (100%); shallow (max level 2); 23% cords have subsidiaries
+1000216,unclassified,low,weak signals: fixed 2-cord color groups (100%); shallow (max level 2)
+1000217,unclassified,low,weak signals: 100% values < 20; shallow (max level 1)
+1000218,unclassified,low,weak signals: shallow (max level 1)
+1000220,census-like,medium,fixed 2-cord color groups (71%); 93% values < 20; shallow (max level 2)
+1000221,unclassified,low,weak signals: 100% values < 20; shallow (max level 1)
+1000222,census-like,medium,fixed 2-cord color groups (75%); 100% values < 20; shallow (max level 2)
+1000223,census-like,medium,fixed 2-cord color groups (100%); 79% values < 20; shallow (max level 2)
+1000224,unclassified,low,weak signals: shallow (max level 1)
+1000225,unclassified,low,weak signals: fixed 5-cord color groups (100%); shallow (max level 1)
+1000226,census-like,medium,83% values < 20; shallow (max level 1); 33% zeros (sparse fields)
+1000227,unclassified,medium,mixed signals: census=[fixed 2-cord color groups (100%); 100% values < 20; 50% zeros (sparse fields)] warehouse=[deep hierarchy (max level 3); 250% cords have subsidiaries]
+1000228,census-like,medium,76% values < 20; shallow (max level 1); 42% zeros (sparse fields)
+1000229,unclassified,low,weak signals: 100% values < 20; shallow (max level 2); 38% cords have subsidiaries
+1000230,census-like,medium,100% values < 20; shallow (max level 2); 36% zeros (sparse fields)
+1000231,unclassified,low,weak signals: 98% values < 20; shallow (max level 2)
+1000232,unclassified,low,weak signals: 100% values < 20; shallow (max level 2); 30% cords have subsidiaries
+1000233,census-like,medium,fixed 2-cord color groups (100%); 100% values < 20; shallow (max level 2)
+1000234,unclassified,low,weak signals: 84% values < 20; shallow (max level 1)
+1000236,unclassified,low,weak signals: 96% values < 20; shallow (max level 2)
+1000238,unclassified,low,weak signals: 55% zeros (sparse fields); deep hierarchy (max level 4); 21% cords have subsidiaries
+1000239,unclassified,medium,mixed signals: census=[96% values < 20; 20% zeros (sparse fields)] warehouse=[deep hierarchy (max level 3); 22% cords have subsidiaries]
+1000240,unclassified,low,weak signals: 98% values < 20; shallow (max level 1)
+1000241,unclassified,low,weak signals: 95% values < 20; shallow (max level 2)
+1000242,census-like,medium,fixed 2-cord color groups (100%); 100% values < 20; shallow (max level 1); 33% zeros (sparse fields)
+1000243,unclassified,low,weak signals: shallow (max level 2)
+1000244,unclassified,low,weak signals: 100% values < 20; shallow (max level 2); 33% cords have subsidiaries
+1000245,census-like,medium,90% values < 20; shallow (max level 2); 42% zeros (sparse fields)
+1000246,census-like,medium,fixed 11-cord color groups (100%); shallow (max level 1); 27% zeros (sparse fields)
+1000247,unclassified,low,weak signals: 100% values < 20; shallow (max level 1)
+1000248,unclassified,low,weak signals: 100% values < 20; shallow (max level 1)
+1000249,unclassified,low,weak signals: 97% values < 20; shallow (max level 2)
+1000250,census-like,medium,96% values < 20; shallow (max level 1); 55% zeros (sparse fields)
+1000251,census-like,medium,89% values < 20; shallow (max level 2); 15% zeros (sparse fields)
+1000252,census-like,medium,fixed 2-cord color groups (100%); 100% values < 20; shallow (max level 1)
+1000253,census-like,medium,fixed 9-cord color groups (100%); 100% values < 20; shallow (max level 1)
+1000254,census-like,medium,91% values < 20; shallow (max level 1); 36% zeros (sparse fields)
+1000255,census-like,medium,97% values < 20; shallow (max level 2); 30% zeros (sparse fields)
+1000256,census-like,medium,93% values < 20; shallow (max level 1); 50% zeros (sparse fields)
+1000257,unclassified,low,weak signals: 100% values < 20; shallow (max level 2)
+1000258,unclassified,low,weak signals: 100% values < 20; shallow (max level 1)
+1000259,census-like,medium,95% values < 20; shallow (max level 1); 50% zeros (sparse fields)
+1000260,census-like,medium,84% values < 20; shallow (max level 2); 47% zeros (sparse fields)
+1000261,census-like,medium,87% values < 20; shallow (max level 2); 48% zeros (sparse fields)
+1000262,census-like,medium,83% values < 20; shallow (max level 1); 32% zeros (sparse fields)
+1000263,census-like,medium,83% values < 20; shallow (max level 2); 34% zeros (sparse fields)
+1000264,census-like,medium,100% values < 20; shallow (max level 2); 27% zeros (sparse fields)
+1000265,unclassified,low,weak signals: shallow (max level 2); large values (max 2716)
+1000266,unclassified,low,weak signals: shallow (max level 2); 50% cords have subsidiaries
+1000267,unclassified,low,weak signals: shallow (max level 1)
+1000268,unclassified,low,weak signals: shallow (max level 1)
+1000269,unclassified,low,weak signals: 84% values < 20; shallow (max level 2); 50% cords have subsidiaries
+1000270,census,high,Santa anchor; fixed 2-cord color groups (89%); 78% values < 20; shallow (max level 2); 26% zeros (sparse fields)
+1000271,census,high,Santa anchor; fixed 2-cord color groups (100%); 92% values < 20; shallow (max level 2); 44% zeros (sparse fields)
+1000272,census,high,Santa anchor; fixed 2-cord color groups (100%); 100% values < 20; shallow (max level 2); 18% zeros (sparse fields)
+1000273,census,high,Santa anchor; 97% values < 20; shallow (max level 2); 17% zeros (sparse fields)
+1000274,census,high,Santa anchor; fixed 2-cord color groups (82%); 78% values < 20; shallow (max level 2)
+1000275,census,high,Santa anchor; fixed 2-cord color groups (84%); 86% values < 20; shallow (max level 2); 23% zeros (sparse fields)
+1000276,unclassified,low,weak signals: 100% values < 20; shallow (max level 2)
+1000277,unclassified,low,weak signals: shallow (max level 1); 26% zeros (sparse fields); large values (max 7793)
+1000279,unclassified,low,weak signals: 86% values < 20; deep hierarchy (max level 6); 283% cords have subsidiaries
+1000280,unclassified,low,weak signals: shallow (max level 2); large values (max 7364); 50% cords have subsidiaries
+1000283,census-like,medium,fixed 2-cord color groups (73%); 91% values < 20; shallow (max level 2); 41% zeros (sparse fields)
+1000285,unclassified,medium,mixed signals: census=[96% values < 20; 32% zeros (sparse fields)] warehouse=[deep hierarchy (max level 3); 55% cords have subsidiaries]
+1000287,unclassified,low,weak signals: 100% values < 20; shallow (max level 2)
+1000288,census-like,medium,100% values < 20; shallow (max level 2); 38% zeros (sparse fields)
+1000289,census-like,medium,100% values < 20; shallow (max level 2); 18% zeros (sparse fields)
+1000290,census-like,medium,100% values < 20; shallow (max level 2); 22% zeros (sparse fields)
+1000291,census-like,medium,fixed 5-cord color groups (100%); 96% values < 20; shallow (max level 1); 17% zeros (sparse fields)
+1000292,unclassified,medium,mixed signals: census=[88% values < 20; 42% zeros (sparse fields)] warehouse=[deep hierarchy (max level 4); 50% cords have subsidiaries]
+1000293,warehouse-like,medium,deep hierarchy (max level 3); large values (max 1957); 50% cords have subsidiaries
+1000295,census-like,medium,96% values < 20; shallow (max level 2); 21% zeros (sparse fields)
+1000296,census-like,medium,82% values < 20; shallow (max level 1); 29% zeros (sparse fields)
+1000297,census-like,medium,fixed 2-cord color groups (100%); 92% values < 20; shallow (max level 1); 33% zeros (sparse fields)
+1000298,unclassified,medium,mixed signals: census=[fixed 2-cord color groups (82%); 100% values < 20; 33% zeros (sparse fields)] warehouse=[deep hierarchy (max level 4); 117% cords have subsidiaries]
+1000299,unclassified,low,weak signals: 100% values < 20; deep hierarchy (max level 4); 133% cords have subsidiaries
+1000300,unclassified,medium,mixed signals: census=[fixed 2-cord color groups (89%); 43% zeros (sparse fields)] warehouse=[deep hierarchy (max level 3); large values (max 43001); 48% cords have subsidiaries]
+1000301,unclassified,medium,mixed signals: census=[fixed 2-cord color groups (85%); 77% values < 20; 52% zeros (sparse fields)] warehouse=[deep hierarchy (max level 3); large values (max 31001); 42% cords have subsidiaries]
+1000302,unclassified,medium,mixed signals: census=[fixed 2-cord color groups (100%); 76% values < 20; 55% zeros (sparse fields)] warehouse=[deep hierarchy (max level 3); large values (max 1201); 51% cords have subsidiaries]
+1000303,census-like,medium,fixed 2-cord color groups (86%); 100% values < 20; shallow (max level 2)
+1000304,census-like,medium,fixed 2-cord color groups (79%); 99% values < 20; shallow (max level 2); 25% zeros (sparse fields)
+1000305,unclassified,medium,mixed signals: census=[fixed 2-cord color groups (100%); 100% values < 20] warehouse=[deep hierarchy (max level 3); 103% cords have subsidiaries]
+1000306,census-like,medium,fixed 2-cord color groups (100%); 100% values < 20; shallow (max level 2)
+1000307,census-like,medium,fixed 2-cord color groups (100%); 100% values < 20; shallow (max level 2); 20% zeros (sparse fields)
+1000309,census-like,medium,fixed 2-cord color groups (100%); 100% values < 20; shallow (max level 2)
+1000310,census-like,medium,81% values < 20; shallow (max level 2); 33% zeros (sparse fields)
+1000312,census-like,medium,96% values < 20; shallow (max level 1); 20% zeros (sparse fields)
+1000313,census-like,medium,95% values < 20; shallow (max level 2); 17% zeros (sparse fields)
+1000314,unclassified,medium,mixed signals: census=[fixed 2-cord color groups (75%); 94% values < 20; 27% zeros (sparse fields)] warehouse=[deep hierarchy (max level 4); large values (max 11011)]
+1000315,census-like,medium,fixed 3-cord color groups (100%); 98% values < 20; shallow (max level 2); 36% zeros (sparse fields)
+1000316,unclassified,low,weak signals: 85% values < 20; deep hierarchy (max level 3); 53% cords have subsidiaries
+1000317,census-like,medium,fixed 2-cord color groups (75%); 88% values < 20; shallow (max level 2); 25% zeros (sparse fields)
+1000318,unclassified,medium,mixed signals: census=[fixed 2-cord color groups (100%); 100% values < 20] warehouse=[deep hierarchy (max level 3); 100% cords have subsidiaries]
+1000319,unclassified,medium,mixed signals: census=[fixed 4-cord color groups (100%); 100% values < 20; 33% zeros (sparse fields)] warehouse=[deep hierarchy (max level 3); 117% cords have subsidiaries]
+1000320,unclassified,medium,mixed signals: census=[86% values < 20; 46% zeros (sparse fields)] warehouse=[deep hierarchy (max level 4); large values (max 40400)]
+1000321,unclassified,medium,mixed signals: census=[99% values < 20; 31% zeros (sparse fields)] warehouse=[deep hierarchy (max level 3); 57% cords have subsidiaries]
+1000322,census-like,medium,91% values < 20; shallow (max level 2); 39% zeros (sparse fields)
+1000323,unclassified,medium,mixed signals: census=[fixed 2-cord color groups (72%); 39% zeros (sparse fields)] warehouse=[deep hierarchy (max level 3); large values (max 15652); 54% cords have subsidiaries]
+1000324,census-like,medium,fixed 2-cord color groups (80%); 89% values < 20; shallow (max level 2); 33% zeros (sparse fields)
+1000325,unclassified,low,weak signals: 95% values < 20; shallow (max level 2)
+1000326,census-like,medium,fixed 2-cord color groups (100%); shallow (max level 1); 25% zeros (sparse fields)
+1000327,unclassified,low,weak signals: 100% values < 20; deep hierarchy (max level 3); 79% cords have subsidiaries
+1000328,census-like,medium,95% values < 20; shallow (max level 1); 36% zeros (sparse fields)
+1000329,unclassified,medium,mixed signals: census=[fixed 2-cord color groups (78%); 16% zeros (sparse fields)] warehouse=[deep hierarchy (max level 3); large values (max 3122); 39% cords have subsidiaries]
+1000330,census-like,medium,94% values < 20; shallow (max level 1); 29% zeros (sparse fields)
+1000331,unclassified,low,weak signals: 94% values < 20; shallow (max level 2)
+1000332,census-like,medium,99% values < 20; shallow (max level 2); 37% zeros (sparse fields)
+1000333,census-like,medium,93% values < 20; shallow (max level 2); 31% zeros (sparse fields)
+1000335,census-like,medium,72% values < 20; shallow (max level 1); 48% zeros (sparse fields)
+1000336,census-like,medium,75% values < 20; shallow (max level 1); 29% zeros (sparse fields)
+1000337,warehouse-like,medium,deep hierarchy (max level 4); large values (max 6701); 96% cords have subsidiaries
+1000338,unclassified,low,weak signals: 73% values < 20; shallow (max level 1); large values (max 12505)
+1000339,unclassified,low,weak signals: deep hierarchy (max level 4); 400% cords have subsidiaries
+1000340,unclassified,low,weak signals: 95% values < 20; deep hierarchy (max level 4); 72% cords have subsidiaries
+1000342,census-like,medium,96% values < 20; shallow (max level 1); 50% zeros (sparse fields)
+1000344,unclassified,low,weak signals: shallow (max level 1); 33% zeros (sparse fields); large values (max 1575)
+1000345,unclassified,medium,mixed signals: census=[fixed 3-cord color groups (86%); 87% values < 20; 18% zeros (sparse fields)] warehouse=[deep hierarchy (max level 3); 39% cords have subsidiaries]
+1000346,census-like,medium,100% values < 20; shallow (max level 1); 46% zeros (sparse fields)
+1000347,unclassified,low,weak signals: shallow (max level 2)
+1000348,unclassified,low,weak signals: shallow (max level 1)
+1000349,unclassified,low,weak signals: shallow (max level 2); 25% cords have subsidiaries
+1000350,unclassified,low,weak signals: shallow (max level 1)
+1000351,census-like,medium,fixed 2-cord color groups (81%); 89% values < 20; shallow (max level 2); 38% zeros (sparse fields)
+1000352,unclassified,medium,mixed signals: census=[fixed 5-cord color groups (100%); 100% values < 20] warehouse=[deep hierarchy (max level 3); 225% cords have subsidiaries]
+1000353,unclassified,medium,mixed signals: census=[88% values < 20; 31% zeros (sparse fields)] warehouse=[deep hierarchy (max level 3); 56% cords have subsidiaries]
+1000354,unclassified,low,weak signals: shallow (max level 1)
+1000355,unclassified,low,weak signals: shallow (max level 1)
+1000356,unclassified,low,weak signals: 88% values < 20; shallow (max level 2)
+1000357,unclassified,low,weak signals: fixed 2-cord color groups (100%); shallow (max level 1)
+1000358,unclassified,low,weak signals: 100% values < 20; deep hierarchy (max level 3); 90% cords have subsidiaries
+1000359,unclassified,low,weak signals: 95% values < 20; shallow (max level 1)
+1000361,unclassified,low,weak signals: 87% values < 20; shallow (max level 2); large values (max 3654)
+1000363,census-like,medium,fixed 2-cord color groups (99%); 100% values < 20; shallow (max level 1)
+1000365,census-like,medium,fixed 2-cord color groups (97%); 100% values < 20; shallow (max level 1); 20% zeros (sparse fields)
+1000368,unclassified,low,weak signals: 100% values < 20; deep hierarchy (max level 4); 36% cords have subsidiaries
+1000369,census-like,medium,fixed 2-cord color groups (86%); 80% values < 20; shallow (max level 2)
+1000371,census-like,medium,fixed 2-cord color groups (93%); 87% values < 20; shallow (max level 2)
+1000374,unclassified,low,weak signals: fixed 2-cord color groups (91%); shallow (max level 1); large values (max 30115)
+1000375,census-like,medium,fixed 2-cord color groups (85%); 100% values < 20; shallow (max level 2)
+1000376,census-like,medium,fixed 2-cord color groups (93%); 98% values < 20; shallow (max level 1)
+1000377,census-like,medium,fixed 2-cord color groups (75%); 83% values < 20; shallow (max level 2)
+1000378,census-like,medium,79% values < 20; shallow (max level 1); 21% zeros (sparse fields)
+1000380,unclassified,medium,mixed signals: census=[87% values < 20; 29% zeros (sparse fields)] warehouse=[deep hierarchy (max level 4); 78% cords have subsidiaries]
+1000381,unclassified,low,weak signals: 100% values < 20; shallow (max level 1)
+1000382,census-like,medium,fixed 2-cord color groups (89%); 100% values < 20; shallow (max level 1)
+1000383,census-like,medium,fixed 2-cord color groups (96%); 99% values < 20; shallow (max level 1)
+1000385,census-like,medium,fixed 2-cord color groups (96%); 100% values < 20; shallow (max level 1)
+1000386,census-like,medium,82% values < 20; shallow (max level 2); 55% zeros (sparse fields)
+1000387,unclassified,medium,mixed signals: census=[fixed 2-cord color groups (100%); 81% values < 20] warehouse=[deep hierarchy (max level 3); 33% cords have subsidiaries]
+1000388,unclassified,low,weak signals: deep hierarchy (max level 3); 150% cords have subsidiaries
+1000389,unclassified,low,weak signals: shallow (max level 2); 60% cords have subsidiaries
+1000390,census-like,medium,fixed 2-cord color groups (77%); 92% values < 20; shallow (max level 2); 39% zeros (sparse fields)
+1000392,unclassified,low,weak signals: shallow (max level 2); large values (max 4769); 25% cords have subsidiaries
+1000393,unclassified,low,weak signals: shallow (max level 1); 53% zeros (sparse fields)
+1000395,unclassified,low,weak signals: shallow (max level 1); 47% zeros (sparse fields); large values (max 11598)
+1000396,unclassified,medium,mixed signals: census=[92% values < 20; 30% zeros (sparse fields)] warehouse=[deep hierarchy (max level 3); 28% cords have subsidiaries]
+1000397,unclassified,low,weak signals: 83% values < 20; shallow (max level 2); 39% cords have subsidiaries
+1000398,unclassified,low,weak signals: 93% values < 20; shallow (max level 2)
+1000399,census-like,medium,fixed 2-cord color groups (100%); shallow (max level 1); 39% zeros (sparse fields)
+1000400,unclassified,low,weak signals: 81% values < 20; deep hierarchy (max level 3); 21% cords have subsidiaries
+1000401,warehouse-like,medium,deep hierarchy (max level 3); large values (max 2889); 164% cords have subsidiaries
+1000402,unclassified,medium,mixed signals: census=[88% values < 20; shallow (max level 2)] warehouse=[large values (max 1465); 33% cords have subsidiaries]
+1000403,warehouse-like,medium,deep hierarchy (max level 3); large values (max 1779); 24% cords have subsidiaries
+1000404,unclassified,low,weak signals: 83% values < 20; shallow (max level 2); 33% cords have subsidiaries
+1000405,unclassified,low,weak signals: 76% values < 20; shallow (max level 2); 24% cords have subsidiaries
+1000406,warehouse-like,medium,deep hierarchy (max level 3); large values (max 2941); 219% cords have subsidiaries
+1000407,unclassified,low,weak signals: 95% values < 20; shallow (max level 2)
+1000408,census-like,medium,fixed 2-cord color groups (95%); 100% values < 20; shallow (max level 2); 37% zeros (sparse fields)
+1000409,census-like,medium,fixed 2-cord color groups (100%); 83% values < 20; shallow (max level 2); 54% zeros (sparse fields)
+1000410,unclassified,low,weak signals: shallow (max level 2); 100% cords have subsidiaries
+1000411,unclassified,low,weak signals: shallow (max level 1)
+1000412,unclassified,low,weak signals: shallow (max level 1); large values (max 2161)
+1000413,unclassified,medium,mixed signals: census=[71% values < 20; 47% zeros (sparse fields)] warehouse=[deep hierarchy (max level 3); 47% cords have subsidiaries]
+1000414,census-like,medium,fixed 2-cord color groups (100%); 100% values < 20; shallow (max level 2); 43% zeros (sparse fields)
+1000415,unclassified,low,weak signals: shallow (max level 2); 44% cords have subsidiaries
+1000416,census-like,medium,fixed 2-cord color groups (100%); 100% values < 20; shallow (max level 1)
+1000417,unclassified,low,weak signals: 100% values < 20; shallow (max level 2)
+1000418,unclassified,medium,mixed signals: census=[76% values < 20; 50% zeros (sparse fields)] warehouse=[deep hierarchy (max level 4); large values (max 1110); 52% cords have subsidiaries]
+1000419,unclassified,low,weak signals: 98% values < 20; shallow (max level 1)
+1000420,unclassified,low,weak signals: fixed 2-cord color groups (100%); shallow (max level 1); large values (max 2973)
+1000421,unclassified,low,weak signals: shallow (max level 2); large values (max 3312)
+1000422,unclassified,low,weak signals: shallow (max level 2); 44% zeros (sparse fields)
+1000423,unclassified,medium,mixed signals: census=[fixed 2-cord color groups (83%); 77% values < 20; 23% zeros (sparse fields)] warehouse=[deep hierarchy (max level 4); 131% cords have subsidiaries]
+1000424,census-like,medium,90% values < 20; shallow (max level 2); 29% zeros (sparse fields)
+1000425,unclassified,low,weak signals: shallow (max level 2); 38% zeros (sparse fields); 38% cords have subsidiaries
+1000426,unclassified,low,weak signals: shallow (max level 2); 50% zeros (sparse fields); large values (max 1743)
+1000427,unclassified,low,weak signals: 42% zeros (sparse fields); deep hierarchy (max level 3); 42% cords have subsidiaries
+1000428,unclassified,low,weak signals: shallow (max level 2); 22% zeros (sparse fields); 56% cords have subsidiaries
+1000429,unclassified,low,weak signals: shallow (max level 1); large values (max 8364)
+1000430,unclassified,low,weak signals: shallow (max level 2); large values (max 1737); 54% cords have subsidiaries
+1000431,census-like,medium,75% values < 20; shallow (max level 2); 57% zeros (sparse fields)
+1000432,unclassified,low,weak signals: 58% zeros (sparse fields); deep hierarchy (max level 3); 25% cords have subsidiaries
+1000433,census-like,medium,83% values < 20; shallow (max level 2); 36% zeros (sparse fields)
+1000434,census-like,medium,fixed 2-cord color groups (100%); 89% values < 20; shallow (max level 1)
+1000435,unclassified,low,weak signals: shallow (max level 2); 100% cords have subsidiaries
+1000436,unclassified,low,weak signals: shallow (max level 2); 31% zeros (sparse fields); 21% cords have subsidiaries
+1000437,census-like,medium,fixed 2-cord color groups (79%); 71% values < 20; shallow (max level 2); 21% zeros (sparse fields)
+1000438,census-like,medium,100% values < 20; shallow (max level 1); 55% zeros (sparse fields)
+1000439,census-like,medium,100% values < 20; shallow (max level 2); 15% zeros (sparse fields)
+1000440,unclassified,low,weak signals: fixed 2-cord color groups (100%); shallow (max level 2); large values (max 3236)
+1000441,unclassified,low,weak signals: shallow (max level 1)
+1000442,unclassified,low,weak signals: shallow (max level 2); 45% zeros (sparse fields); large values (max 1202)
+1000443,unclassified,low,weak signals: shallow (max level 2); 25% cords have subsidiaries
+1000444,unclassified,low,weak signals: 100% values < 20; shallow (max level 1)
+1000445,unclassified,low,weak signals: 100% values < 20; shallow (max level 1)
+1000446,unclassified,medium,mixed signals: census=[shallow (max level 2); 25% zeros (sparse fields)] warehouse=[large values (max 39263); 42% cords have subsidiaries]
+1000447,unclassified,low,weak signals: 100% values < 20; shallow (max level 1)
+1000448,unclassified,low,weak signals: 37% zeros (sparse fields); deep hierarchy (max level 3); large values (max 2963)
+1000449,unclassified,low,weak signals: shallow (max level 2); large values (max 2783)
+1000450,unclassified,low,weak signals: 100% values < 20; shallow (max level 2)
+1000451,census-like,medium,fixed 2-cord color groups (100%); 93% values < 20; shallow (max level 1); 40% zeros (sparse fields)
+1000452,unclassified,low,weak signals: 100% values < 20; shallow (max level 1)
+1000453,unclassified,low,weak signals: 100% values < 20; shallow (max level 1)
+1000454,census-like,medium,fixed 2-cord color groups (89%); 72% values < 20; shallow (max level 1); 44% zeros (sparse fields)
+1000455,census-like,medium,93% values < 20; shallow (max level 2); 42% zeros (sparse fields)
+1000456,unclassified,low,weak signals: 100% values < 20; shallow (max level 2)
+1000457,unclassified,low,weak signals: 100% values < 20; shallow (max level 1)
+1000458,unclassified,low,weak signals: 100% values < 20; shallow (max level 1)
+1000459,unclassified,low,weak signals: 100% values < 20; shallow (max level 1)
+1000460,unclassified,low,weak signals: 100% values < 20; shallow (max level 1)
+1000461,unclassified,low,weak signals: 100% values < 20; shallow (max level 1)
+1000462,unclassified,low,weak signals: 100% values < 20; shallow (max level 1)
+1000463,unclassified,low,weak signals: 100% values < 20; shallow (max level 1)
+1000464,unclassified,high,no cord records
+1000465,unclassified,high,no cord records
+1000466,unclassified,high,no cord records
+1000467,unclassified,high,no cord records
+1000468,unclassified,high,no cord records
+1000469,unclassified,high,no cord records
+1000470,unclassified,high,no cord records
+1000472,warehouse-like,medium,deep hierarchy (max level 4); large values (max 3258000); 93% cords have subsidiaries
+1000474,census-like,medium,95% values < 20; shallow (max level 2); 41% zeros (sparse fields)
+1000475,census-like,medium,94% values < 20; shallow (max level 2); 41% zeros (sparse fields)
+1000477,unclassified,medium,mixed signals: census=[fixed 2-cord color groups (95%); 90% values < 20] warehouse=[deep hierarchy (max level 3); 110% cords have subsidiaries]
+1000478,census-like,medium,fixed 2-cord color groups (95%); 100% values < 20; shallow (max level 1)
+1000479,census-like,medium,100% values < 20; shallow (max level 1); 43% zeros (sparse fields)
+1000480,unclassified,low,weak signals: shallow (max level 2)
+1000481,census-like,medium,71% values < 20; shallow (max level 1); 29% zeros (sparse fields)
+1000482,census-like,medium,73% values < 20; shallow (max level 1); 53% zeros (sparse fields)
+1000483,unclassified,low,weak signals: shallow (max level 2); 17% zeros (sparse fields); 100% cords have subsidiaries
+1000485,unclassified,low,weak signals: fixed 2-cord color groups (100%); shallow (max level 1); large values (max 11110)
+1000486,census-like,medium,fixed 2-cord color groups (100%); 100% values < 20; shallow (max level 1)
+1000487,unclassified,low,weak signals: shallow (max level 1); large values (max 1568)
+1000488,unclassified,low,weak signals: 75% values < 20; deep hierarchy (max level 3); 57% cords have subsidiaries
+1000489,census-like,medium,fixed 2-cord color groups (100%); 100% values < 20; shallow (max level 1)
+1000490,unclassified,low,weak signals: shallow (max level 2); 100% cords have subsidiaries
+1000491,census-like,medium,fixed 2-cord color groups (100%); 100% values < 20; shallow (max level 1)
+1000492,census-like,medium,100% values < 20; shallow (max level 1); 32% zeros (sparse fields)
+1000493,unclassified,medium,mixed signals: census=[fixed 2-cord color groups (71%); 21% zeros (sparse fields)] warehouse=[deep hierarchy (max level 4); large values (max 50010); 59% cords have subsidiaries]
+1000494,unclassified,medium,mixed signals: census=[fixed 2-cord color groups (71%); 77% values < 20; 26% zeros (sparse fields)] warehouse=[deep hierarchy (max level 3); large values (max 10010); 119% cords have subsidiaries]
+1000495,warehouse-like,medium,deep hierarchy (max level 3); large values (max 7444); 83% cords have subsidiaries
+1000496,unclassified,low,weak signals: shallow (max level 1); 17% zeros (sparse fields); large values (max 1417)
+1000497,unclassified,low,weak signals: shallow (max level 2); 38% zeros (sparse fields)
+1000499,unclassified,low,weak signals: shallow (max level 2); large values (max 41195); 20% cords have subsidiaries
+1000500,unclassified,low,weak signals: 84% values < 20; shallow (max level 2); 55% cords have subsidiaries
+1000501,census-like,medium,fixed 2-cord color groups (75%); 85% values < 20; shallow (max level 2); 33% zeros (sparse fields)
+1000502,census-like,medium,91% values < 20; shallow (max level 2); 48% zeros (sparse fields)
+1000503,unclassified,low,weak signals: 88% values < 20; shallow (max level 2)
+1000504,unclassified,low,weak signals: 24% zeros (sparse fields); deep hierarchy (max level 4); 97% cords have subsidiaries
+1000505,unclassified,medium,mixed signals: census=[fixed 2-cord color groups (71%); 17% zeros (sparse fields)] warehouse=[deep hierarchy (max level 3); 86% cords have subsidiaries]
+1000506,census-like,medium,97% values < 20; shallow (max level 2); 40% zeros (sparse fields)
+1000507,census-like,medium,95% values < 20; shallow (max level 2); 44% zeros (sparse fields)
+1000508,unclassified,low,weak signals: 92% values < 20; shallow (max level 2); large values (max 4657)
+1000509,unclassified,medium,mixed signals: census=[96% values < 20; 25% zeros (sparse fields)] warehouse=[deep hierarchy (max level 3); large values (max 1015); 27% cords have subsidiaries]
+1000510,census-like,medium,78% values < 20; shallow (max level 1); 25% zeros (sparse fields)
+1000511,census-like,medium,fixed 2-cord color groups (91%); shallow (max level 1); 27% zeros (sparse fields)
+1000512,unclassified,medium,mixed signals: census=[fixed 2-cord color groups (87%); 31% zeros (sparse fields)] warehouse=[deep hierarchy (max level 3); large values (max 6678)]
+1000513,unclassified,low,weak signals: 83% values < 20; deep hierarchy (max level 3); 44% cords have subsidiaries
+1000514,unclassified,medium,mixed signals: census=[76% values < 20; 35% zeros (sparse fields)] warehouse=[deep hierarchy (max level 3); large values (max 3000); 34% cords have subsidiaries]
+1000515,unclassified,medium,mixed signals: census=[83% values < 20; 37% zeros (sparse fields)] warehouse=[deep hierarchy (max level 3); 80% cords have subsidiaries]
+1000516,unclassified,medium,mixed signals: census=[95% values < 20; 33% zeros (sparse fields)] warehouse=[deep hierarchy (max level 3); 57% cords have subsidiaries]
+1000517,census-like,medium,75% values < 20; shallow (max level 2); 25% zeros (sparse fields)
+1000518,unclassified,medium,mixed signals: census=[71% values < 20; 34% zeros (sparse fields)] warehouse=[deep hierarchy (max level 3); large values (max 1534); 34% cords have subsidiaries]
+1000519,unclassified,low,weak signals: 88% values < 20; shallow (max level 2); 28% cords have subsidiaries
+1000520,census-like,medium,97% values < 20; shallow (max level 2); 51% zeros (sparse fields)
+1000521,unclassified,low,weak signals: 91% values < 20; shallow (max level 2)
+1000522,census-like,medium,fixed 2-cord color groups (77%); 94% values < 20; shallow (max level 1)
+1000523,census-like,medium,72% values < 20; shallow (max level 2); 23% zeros (sparse fields)
+1000524,warehouse-like,medium,deep hierarchy (max level 3); large values (max 1486); 31% cords have subsidiaries
+1000525,census-like,medium,100% values < 20; shallow (max level 1); 18% zeros (sparse fields)
+1000526,unclassified,medium,mixed signals: census=[95% values < 20; 29% zeros (sparse fields)] warehouse=[deep hierarchy (max level 4); 61% cords have subsidiaries]
+1000527,unclassified,medium,mixed signals: census=[fixed 3-cord color groups (100%); 100% values < 20] warehouse=[deep hierarchy (max level 4); 203% cords have subsidiaries]
+1000528,unclassified,low,weak signals: 42% zeros (sparse fields); deep hierarchy (max level 3); 31% cords have subsidiaries
+1000529,unclassified,low,weak signals: shallow (max level 1); 18% zeros (sparse fields)
+1000530,unclassified,low,weak signals: 97% values < 20; shallow (max level 1)
+1000531,census-like,medium,78% values < 20; shallow (max level 1); 33% zeros (sparse fields)
+1000532,census-like,medium,fixed 2-cord color groups (80%); 80% values < 20; shallow (max level 1)
+1000533,census-like,medium,93% values < 20; shallow (max level 2); 30% zeros (sparse fields)
+1000534,census-like,medium,84% values < 20; shallow (max level 1); 28% zeros (sparse fields)
+1000535,census-like,medium,74% values < 20; shallow (max level 1); 30% zeros (sparse fields)
+1000536,unclassified,medium,mixed signals: census=[shallow (max level 2); 22% zeros (sparse fields)] warehouse=[large values (max 2529); 25% cords have subsidiaries]
+1000537,unclassified,low,weak signals: 100% values < 20; shallow (max level 1)
+1000538,unclassified,low,weak signals: 99% values < 20; shallow (max level 1)
+1000539,census-like,medium,74% values < 20; shallow (max level 2); 54% zeros (sparse fields)
+1000540,unclassified,medium,mixed signals: census=[81% values < 20; 22% zeros (sparse fields)] warehouse=[deep hierarchy (max level 3); 33% cords have subsidiaries]
+1000541,census-like,medium,fixed 2-cord color groups (80%); 81% values < 20; shallow (max level 2)
+1000542,unclassified,low,weak signals: 86% values < 20; shallow (max level 2)
+1000543,census-like,medium,71% values < 20; shallow (max level 2); 49% zeros (sparse fields)
+1000544,census-like,medium,fixed 2-cord color groups (84%); shallow (max level 1); 31% zeros (sparse fields)
+1000545,unclassified,medium,mixed signals: census=[85% values < 20; 22% zeros (sparse fields)] warehouse=[deep hierarchy (max level 3); 38% cords have subsidiaries]
+1000546,unclassified,low,weak signals: deep hierarchy (max level 5); 132% cords have subsidiaries
+1000547,census-like,medium,fixed 2-cord color groups (79%); 90% values < 20; shallow (max level 2); 17% zeros (sparse fields)
+1000548,census-like,medium,fixed 2-cord color groups (86%); 75% values < 20; shallow (max level 2)
+1000549,unclassified,medium,mixed signals: census=[95% values < 20; 32% zeros (sparse fields)] warehouse=[deep hierarchy (max level 3); 39% cords have subsidiaries]
+1000550,unclassified,low,weak signals: 100% values < 20; shallow (max level 1)
+1000551,census-like,medium,73% values < 20; shallow (max level 1); 57% zeros (sparse fields)
+1000552,unclassified,medium,mixed signals: census=[97% values < 20; 34% zeros (sparse fields)] warehouse=[deep hierarchy (max level 3); 71% cords have subsidiaries]
+1000553,unclassified,low,weak signals: 90% values < 20; shallow (max level 2)
+1000554,unclassified,medium,mixed signals: census=[fixed 2-cord color groups (79%); 29% zeros (sparse fields)] warehouse=[deep hierarchy (max level 3); large values (max 1677)]
+1000555,census-like,medium,fixed 2-cord color groups (81%); 93% values < 20; shallow (max level 1)
+1000556,census-like,medium,fixed 2-cord color groups (82%); 76% values < 20; shallow (max level 1)
+1000558,unclassified,low,weak signals: fixed 2-cord color groups (100%); shallow (max level 1); large values (max 31110)
+1000559,unclassified,low,weak signals: shallow (max level 2); large values (max 11446)
+1000560,unclassified,low,weak signals: shallow (max level 2); large values (max 3454)
+1000561,census-like,medium,fixed 2-cord color groups (100%); 100% values < 20; shallow (max level 1); 16% zeros (sparse fields)
+1000562,unclassified,low,weak signals: fixed 2-cord color groups (100%); shallow (max level 2)
+1000563,census-like,medium,fixed 2-cord color groups (80%); 94% values < 20; shallow (max level 1)
+1000564,unclassified,low,weak signals: shallow (max level 2); 53% zeros (sparse fields); 63% cords have subsidiaries
+1000565,unclassified,medium,mixed signals: census=[shallow (max level 2); 19% zeros (sparse fields)] warehouse=[large values (max 4811); 66% cords have subsidiaries]
+1000566,unclassified,low,weak signals: 91% values < 20; shallow (max level 2); 23% cords have subsidiaries
+1000567,unclassified,low,weak signals: 100% values < 20; shallow (max level 2); 93% cords have subsidiaries
+1000569,census-like,medium,100% values < 20; shallow (max level 2); 33% zeros (sparse fields)
+1000570,unclassified,low,weak signals: 95% values < 20; deep hierarchy (max level 3); 35% cords have subsidiaries
+1000571,unclassified,low,weak signals: 100% values < 20; shallow (max level 2)
+1000572,unclassified,low,weak signals: fixed 5-cord color groups (100%); shallow (max level 1)
+1000573,unclassified,low,weak signals: deep hierarchy (max level 3); 107% cords have subsidiaries
+1000574,unclassified,low,weak signals: 97% values < 20; deep hierarchy (max level 5); 35% cords have subsidiaries
+1000575,unclassified,low,weak signals: fixed 2-cord color groups (70%); 100% values < 20; deep hierarchy (max level 3)
+1000576,unclassified,low,weak signals: 100% values < 20; deep hierarchy (max level 4); 28% cords have subsidiaries
+1000577,unclassified,low,weak signals: 96% values < 20; shallow (max level 2)
+1000578,census-like,medium,fixed 5-cord color groups (100%); 100% values < 20; shallow (max level 1)
+1000579,unclassified,low,weak signals: 100% values < 20; shallow (max level 1)
+1000580,census-like,medium,fixed 11-cord color groups (100%); 92% values < 20; shallow (max level 2)
+1000581,census-like,medium,fixed 2-cord color groups (75%); 100% values < 20; shallow (max level 1)
+1000582,unclassified,low,weak signals: 91% values < 20; shallow (max level 1)
+1000583,unclassified,low,weak signals: 100% values < 20; shallow (max level 2)
+1000584,unclassified,low,weak signals: 88% values < 20; shallow (max level 2)
+1000585,unclassified,low,weak signals: 100% values < 20; deep hierarchy (max level 3); 37% cords have subsidiaries
+1000586,unclassified,low,weak signals: 83% values < 20; 59% zeros (sparse fields); deep hierarchy (max level 3)
+1000587,census-like,medium,fixed 2-cord color groups (88%); 100% values < 20; shallow (max level 2)
+1000588,unclassified,low,weak signals: 93% values < 20; shallow (max level 1)
+1000589,unclassified,low,weak signals: 95% values < 20; shallow (max level 2); 60% cords have subsidiaries
+1000590,unclassified,low,weak signals: 100% values < 20; 53% zeros (sparse fields); deep hierarchy (max level 3)
+1000591,unclassified,medium,mixed signals: census=[84% values < 20; 56% zeros (sparse fields)] warehouse=[deep hierarchy (max level 3); large values (max 1001); 27% cords have subsidiaries]
+1000592,unclassified,medium,mixed signals: census=[fixed 2-cord color groups (100%); 92% values < 20] warehouse=[deep hierarchy (max level 3); 119% cords have subsidiaries]
+1000593,unclassified,low,weak signals: 91% values < 20; shallow (max level 1)
+1000595,warehouse-like,medium,deep hierarchy (max level 3); large values (max 443801); 30% cords have subsidiaries
+1000597,warehouse,high,Inkawasi anchor; deep hierarchy (max level 3); large values (max 1201)
+1000598,warehouse,high,Inkawasi anchor; deep hierarchy (max level 4); large values (max 5901); 40% cords have subsidiaries
+1000599,warehouse,high,Inkawasi anchor; deep hierarchy (max level 3)
+1000600,warehouse,high,Inkawasi anchor
+1000601,warehouse,high,Inkawasi anchor; deep hierarchy (max level 3); 83% cords have subsidiaries
+1000602,warehouse,high,Inkawasi anchor; 25% cords have subsidiaries
+1000603,warehouse,high,Inkawasi anchor; deep hierarchy (max level 5); 137% cords have subsidiaries
+1000604,warehouse,high,Inkawasi anchor
+1000605,warehouse,high,Inkawasi anchor
+1000606,warehouse,high,Inkawasi anchor; deep hierarchy (max level 3); 29% cords have subsidiaries
+1000607,warehouse,high,Inkawasi anchor; deep hierarchy (max level 3); large values (max 33101); 26% cords have subsidiaries
+1000608,warehouse,high,Inkawasi anchor; large values (max 1401)
+1000609,warehouse,high,Inkawasi anchor; deep hierarchy (max level 4); large values (max 5901)
+1000610,warehouse,high,Inkawasi anchor; deep hierarchy (max level 4); large values (max 131061); 27% cords have subsidiaries
+1000611,warehouse,high,Inkawasi anchor; deep hierarchy (max level 3); large values (max 224001)
+1000612,warehouse,high,Inkawasi anchor; deep hierarchy (max level 3); large values (max 12001); 94% cords have subsidiaries
+1000613,warehouse,high,Inkawasi anchor; deep hierarchy (max level 4); 156% cords have subsidiaries
+1000614,warehouse,high,Inkawasi anchor; deep hierarchy (max level 3); 74% cords have subsidiaries
+1000615,unclassified,low,weak signals: 85% values < 20; shallow (max level 2); large values (max 6701)
+1000616,unclassified,low,weak signals: 90% values < 20; shallow (max level 2); large values (max 22201)
+1000617,unclassified,low,weak signals: 85% values < 20; shallow (max level 2); large values (max 4401)
+1000618,unclassified,low,weak signals: 80% values < 20; deep hierarchy (max level 3); 26% cords have subsidiaries
+1000619,unclassified,low,weak signals: shallow (max level 2); large values (max 33101)
+1000620,unclassified,low,weak signals: shallow (max level 2); 100% cords have subsidiaries
+1000621,unclassified,low,weak signals: fixed 2-cord color groups (100%); deep hierarchy (max level 3); 67% cords have subsidiaries
+1000622,unclassified,medium,mixed signals: census=[fixed 2-cord color groups (79%); 54% zeros (sparse fields)] warehouse=[deep hierarchy (max level 4); large values (max 2711); 57% cords have subsidiaries]
+1000623,unclassified,medium,mixed signals: census=[fixed 3-cord color groups (90%); 28% zeros (sparse fields)] warehouse=[deep hierarchy (max level 3); large values (max 29001)]
+1000624,unclassified,medium,mixed signals: census=[fixed 2-cord color groups (72%); 83% values < 20] warehouse=[deep hierarchy (max level 5); large values (max 1201); 243% cords have subsidiaries]
+1000625,unclassified,low,weak signals: 100% values < 20; shallow (max level 1)
+1000626,unclassified,low,weak signals: shallow (max level 1)
+1000627,unclassified,low,weak signals: fixed 2-cord color groups (100%); shallow (max level 1)
+1000628,unclassified,low,weak signals: 100% values < 20; deep hierarchy (max level 3); 39% cords have subsidiaries
+1000629,unclassified,low,weak signals: 94% values < 20; deep hierarchy (max level 3); 27% cords have subsidiaries
+1000630,census-like,medium,fixed 2-cord color groups (83%); 100% values < 20; shallow (max level 2)
+1000631,unclassified,low,weak signals: shallow (max level 2); large values (max 5700); 100% cords have subsidiaries
+1000632,unclassified,medium,cords present but no decodable values (missing turn data or non-numerical)
+1000633,unclassified,medium,mixed signals: census=[93% values < 20; 57% zeros (sparse fields)] warehouse=[deep hierarchy (max level 3); 22% cords have subsidiaries]
+1000634,unclassified,low,weak signals: 99% values < 20; deep hierarchy (max level 4); 100% cords have subsidiaries
+1000635,unclassified,low,weak signals: 100% values < 20; deep hierarchy (max level 4); 43% cords have subsidiaries
+1000636,census-like,medium,fixed 2-cord color groups (87%); 100% values < 20; shallow (max level 1); 28% zeros (sparse fields)
+1000637,unclassified,medium,mixed signals: census=[94% values < 20; 58% zeros (sparse fields)] warehouse=[deep hierarchy (max level 3); 24% cords have subsidiaries]
+1000638,unclassified,medium,cords present but no decodable values (missing turn data or non-numerical)
+1000639,unclassified,low,weak signals: fixed 2-cord color groups (100%); shallow (max level 1)
+1000640,census-like,medium,fixed 2-cord color groups (100%); 100% values < 20; shallow (max level 1)
+1000641,unclassified,medium,cords present but no decodable values (missing turn data or non-numerical)
+1000642,unclassified,low,weak signals: 78% values < 20; shallow (max level 2); 30% cords have subsidiaries
+1000643,unclassified,medium,cords present but no decodable values (missing turn data or non-numerical)
+1000644,unclassified,low,weak signals: shallow (max level 2); 33% cords have subsidiaries
+1000645,unclassified,low,weak signals: shallow (max level 2); 100% cords have subsidiaries
+1000646,unclassified,medium,mixed signals: census=[fixed 5-cord color groups (100%); 100% values < 20; 56% zeros (sparse fields)] warehouse=[deep hierarchy (max level 3); 92% cords have subsidiaries]
+1000647,unclassified,low,weak signals: 100% values < 20; deep hierarchy (max level 4); 100% cords have subsidiaries
+1000649,unclassified,low,weak signals: 100% values < 20; shallow (max level 1)
+1000650,census-like,medium,93% values < 20; shallow (max level 2); 50% zeros (sparse fields)
+1000651,census-like,medium,100% values < 20; shallow (max level 1); 44% zeros (sparse fields)
+1000652,census-like,medium,100% values < 20; shallow (max level 1); 20% zeros (sparse fields)
+1000653,unclassified,low,weak signals: shallow (max level 1)
+1000654,unclassified,low,weak signals: 94% values < 20; shallow (max level 2); large values (max 1450)
+1000655,unclassified,low,weak signals: 100% values < 20; shallow (max level 1)
+1000656,census-like,medium,100% values < 20; shallow (max level 1); 48% zeros (sparse fields)
+1000657,unclassified,low,weak signals: shallow (max level 1)
+1000658,unclassified,low,weak signals: 98% values < 20; deep hierarchy (max level 3); 46% cords have subsidiaries
+1000659,census-like,medium,100% values < 20; shallow (max level 2); 59% zeros (sparse fields)
+1000660,unclassified,low,weak signals: shallow (max level 1)
+1000661,unclassified,low,weak signals: shallow (max level 1)

@@ -1,0 +1,46 @@
+# khipu_id: 1000453
+# provenance: 
+# region: "Inka, Late Horizon"
+# museum: Dallas Museum of Art B376/T41299.23
+# nickname: 
+# file_format: .flat
+# data_regime: 
+# doc_cluster: 
+# template_id: 
+# segmentation: none
+# n_rows: 33
+# n_cols: 0
+ORDINAL,LEVEL,COLOR1,COLOR2,VALUE,KNOTS
+1,1,BB,,,
+2,1,YB,,,
+3,1,FR,,,
+4,1,RL,,,
+5,1,AB,,,
+6,1,YB,,,
+7,1,RL,,,
+8,1,FR,,,
+9,1,YB,,,
+10,1,FR,YB,,
+11,1,FR,,,
+12,1,YB,,,
+13,1,FR,YB,,
+14,1,FR,,,
+15,1,YB,,,
+16,1,FR,YB,,
+17,1,FR,,,
+18,1,YB,,,
+19,1,FR,YB,,
+20,1,FR,,,
+21,1,YB,,,
+22,1,FR,YB,,
+23,1,FR,,,
+24,1,YB,,,
+25,1,FR,,,
+26,1,YB,,,
+27,1,FR,YB,,
+28,1,FR,,,
+29,1,FR,YB,,
+30,1,FR,YB,,
+31,1,YB,,,
+32,1,FR,YB,,
+33,1,?,,,

@@ -1,0 +1,34 @@
+# khipu_id: 1000346
+# provenance: 
+# region: 
+# museum: "Musee de l Homme, Paris, France" 64.19.1.6
+# nickname: 
+# file_format: .tab
+# data_regime: DC2
+# doc_cluster: deep_sparse_mixed
+# template_id: T109
+# segmentation: value_marker
+# n_rows: 20
+# n_cols: 4
+ROW_ID,IS_MARKER_ROW,SECTION,W,MB,W_2,W_3
+,,,MARKER,VARIABLE,VARIABLE,VARIABLE
+1,TRUE,1,1,2,,
+2,FALSE,1,2,,,9
+3,FALSE,1,3,7,,3
+4,FALSE,1,4,6,4,3
+5,FALSE,1,8,2,2,4
+6,FALSE,1,1,1,3,
+7,FALSE,1,,1,,
+8,FALSE,1,,,,
+9,FALSE,1,,,,
+10,FALSE,1,,2,,1
+11,FALSE,1,1,,,
+12,FALSE,1,1,,1,
+13,FALSE,1,,,,
+14,FALSE,1,,,,
+15,FALSE,1,4,5,4,4
+16,FALSE,1,5,4,,
+17,FALSE,1,2,3,2,
+18,FALSE,1,2,,,1
+19,FALSE,1,2,1,1,
+20,FALSE,1,2,2,,

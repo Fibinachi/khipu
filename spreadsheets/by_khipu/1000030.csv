@@ -1,0 +1,30 @@
+# khipu_id: 1000030
+# provenance: 
+# region: 
+# museum: "Museum of Science, Buffalo, New York" C14459
+# nickname: 
+# file_format: .flat
+# data_regime: 
+# doc_cluster: 
+# template_id: 
+# segmentation: none
+# n_rows: 17
+# n_cols: 0
+ORDINAL,LEVEL,COLOR1,COLOR2,VALUE,KNOTS
+1,1,W,,9,"E:4,L:7"
+2,1,W,,9,"E:1,L:2"
+3,1,W,,9,"E:1,L:1"
+4,1,KB,W,6,"E:1,L:1"
+5,1,KB,W,7,"E:1,L:1"
+6,1,KB,W,8,"E:1,L:1"
+7,1,YB,,8,"E:1,L:1"
+8,1,YB,,8,"E:1,L:1"
+9,1,YB,,9,"E:1,L:1"
+10,1,YB,,19,"L:1,S:1"
+11,1,YB,,16,"L:1,S:1"
+12,1,YB,,,S:1
+13,1,YB,,13,"L:1,S:1"
+14,1,W,,,
+15,1,W,,,
+16,1,W,,,
+17,1,W,,,

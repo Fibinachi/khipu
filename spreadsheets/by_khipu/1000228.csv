@@ -1,0 +1,19 @@
+# khipu_id: 1000228
+# provenance: Huacho
+# region: 
+# museum: "Museum fur Volkerkunde, Basel, Switzerland" 2821
+# nickname: 
+# file_format: .tab
+# data_regime: DC6
+# doc_cluster: census_format_paired
+# template_id: T057
+# segmentation: value_marker
+# n_rows: 5
+# n_cols: 14
+ROW_ID,IS_MARKER_ROW,SECTION,LB,LB_2,W,W_2,LB_3,W_3,W_4,LB_4,LB_5,LB_6,W_5,LB_7,LB_8,LB_9
+,,,MARKER,VARIABLE,VARIABLE,VARIABLE,VARIABLE,CONSTANT,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,CONSTANT,CONSTANT
+1,TRUE,1,,45,7,1,,,,,,,,,,
+2,FALSE,2,1,6,22,11,7,,20,20,,,,,,
+3,FALSE,3,1,30,,6,20,,,,7,,22,6,,
+4,FALSE,3,1,,2,,,,,5,,20,20,30,,4
+5,FALSE,3,1,,46,,,,,,,,,,,

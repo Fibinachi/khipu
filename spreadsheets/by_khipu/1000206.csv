@@ -1,0 +1,21 @@
+# khipu_id: 1000206
+# provenance: 
+# region: 
+# museum: Brooklyn Museum X591a
+# nickname: 
+# file_format: .flat
+# data_regime: 
+# doc_cluster: 
+# template_id: 
+# segmentation: none
+# n_rows: 8
+# n_cols: 0
+ORDINAL,LEVEL,COLOR1,COLOR2,VALUE,KNOTS
+1,1,YG,,314,"L:3,S:19"
+2,1,YG,,81,"E:2,S:12"
+3,1,YG,,183,"L:1,S:9"
+4,1,YB,,21,"E:1,S:2"
+5,1,YG,,10,S:4
+6,1,YB,G,198,"L:1,S:10"
+7,1,YG,,12,"L:1,S:1"
+8,1,YG,,7,L:1

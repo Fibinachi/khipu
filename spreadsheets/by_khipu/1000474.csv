@@ -1,0 +1,34 @@
+# khipu_id: 1000474
+# provenance: Ica
+# region: 
+# museum: "American Museum of Natural History, NY" 41.0/1550
+# nickname: 
+# file_format: .tab
+# data_regime: DC1
+# doc_cluster: census_format_paired
+# template_id: T132
+# segmentation: color_cycle
+# n_rows: 20
+# n_cols: 3
+ROW_ID,IS_MARKER_ROW,SECTION,AB,MB,MB_2
+,,,VARIABLE,VARIABLE,CONSTANT
+1,FALSE,1,301,,
+2,FALSE,1,101,,
+3,FALSE,1,11,,
+4,FALSE,1,11,,
+5,FALSE,1,1,1,
+6,FALSE,1,1,,
+7,FALSE,1,1,1,
+8,FALSE,1,1,1,
+9,FALSE,1,1,,
+10,FALSE,1,1,,
+11,FALSE,1,1,1,
+12,FALSE,1,,1,
+13,FALSE,1,,1,
+14,FALSE,1,1,,
+15,FALSE,1,1,1,
+16,FALSE,1,1,,
+17,FALSE,1,1,,
+18,FALSE,1,,,
+19,FALSE,1,,,
+20,FALSE,1,,,

@@ -1,0 +1,21 @@
+# khipu_id: 1000526
+# provenance: unknown
+# region: unknown
+# museum: "Ethnologisches Museum, Berlin, Germany" 22574
+# nickname: 
+# file_format: .tab
+# data_regime: DC2
+# doc_cluster: deep_hierarchical_grouped
+# template_id: T155
+# segmentation: value_marker
+# n_rows: 7
+# n_cols: 23
+ROW_ID,IS_MARKER_ROW,SECTION,W,W_2,W_3,W_4,W_5,W_6,W_7,W_8,W_9,MB,W_10,MB_2,MB_3,W_11,W_12,W_13,W_14,W_15,W_16,W_17,W_18,W_19,W_20
+,,,MARKER,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,CONSTANT
+1,TRUE,1,,,,,100,1,,,,,,,9,,,2,1,2,5,,110,,3
+2,FALSE,,8,,2,7,,1,,7,2,2,10,,8,3,4,4,2,,,1,3,,
+3,FALSE,,8,3,4,28,,3,1,3,10,1,2,,,1,7,9,,,,,,3,
+4,FALSE,5,1,1,1,,3,2,,3,3,,1,2,,3,10,5,2,2,,1,,,
+5,FALSE,,1,5,,6,,5,,,9,3,3,,1,,2,2,3,,2,3,,,
+6,FALSE,,8,1,,110,6,5,110,4,1,4,6,5,3,1,1,1,2,1,1,2,1,5,
+7,FALSE,,8,2,12,22,,,,,,,,,,,,,,,,,,,

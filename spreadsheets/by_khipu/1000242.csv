@@ -1,0 +1,19 @@
+# khipu_id: 1000242
+# provenance: Huaquerones
+# region: Puruchuco
+# museum: Puruchuco Museum 3c Tex 639 Rt 637
+# nickname: 
+# file_format: .flat
+# data_regime: 
+# doc_cluster: 
+# template_id: 
+# segmentation: none
+# n_rows: 6
+# n_cols: 0
+ORDINAL,LEVEL,COLOR1,COLOR2,VALUE,KNOTS
+1,1,W,,1,E:4
+2,1,W,,1,E:2
+3,1,W,,,
+4,1,W,,1,E:2
+5,1,W,,1,E:2
+6,1,W,,,

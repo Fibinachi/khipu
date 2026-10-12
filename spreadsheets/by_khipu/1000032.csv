@@ -1,0 +1,17 @@
+# khipu_id: 1000032
+# provenance: 
+# region: 
+# museum: "Royal Ontario Museum, Toronto" HP519
+# nickname: 
+# file_format: .tab
+# data_regime: DC3
+# doc_cluster: deep_hierarchical_grouped
+# template_id: T005
+# segmentation: white_dividers
+# n_rows: 3
+# n_cols: 12
+ROW_ID,IS_MARKER_ROW,SECTION,DB,DB_2,LB,LB_2,LB_3,LB_4,LB_5,LB_6,LB_7,LB_8,LB_9,LB_10
+,,,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,CONSTANT
+1,FALSE,1,138,123,215,10,186,421,483,555,,,,
+2,FALSE,2,188,1216,,549,549,71,421,374,170,977,2493,
+3,FALSE,3,1776,84,80,176,1137,966,2593,1833,10,45,34,474

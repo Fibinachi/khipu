@@ -1,0 +1,46 @@
+# khipu_id: 1000647
+# provenance: Incahuasi
+# region: 
+# museum: Proyecto Incahuasi PAI-1436-2016
+# nickname: 
+# file_format: .flat
+# data_regime: 
+# doc_cluster: 
+# template_id: 
+# segmentation: none
+# n_rows: 33
+# n_cols: 0
+ORDINAL,LEVEL,COLOR1,COLOR2,VALUE,KNOTS
+1,1,LG,,,"E:6,L:9,S:2"
+2,1,GB,,11,"E:2,L:4,S:3"
+3,1,PG,,11,"E:1,S:1"
+4,1,LG,AB,,
+5,1,GB,,,L:1
+6,1,GB,,,"L:1,S:1"
+7,1,LG,BY,,"L:1,S:1"
+8,1,AB,,,S:1
+9,1,PG,RL,11,"E:1,S:1"
+10,1,LG,,,"L:1,S:1"
+11,1,LG,BY,11,"E:1,S:1"
+12,1,AB,,,
+13,1,LG,,,S:1
+14,1,AB,LG,,
+15,1,LG,,,
+16,1,LG,,11,"E:1,S:1"
+17,1,LG,,,
+18,1,HB,,,L:1
+19,1,LG,,,
+20,1,LG,,,L:1
+21,1,LG,BY,,
+22,1,LG,,,L:1
+23,1,AB,LG,1,"E:1,L:1"
+24,1,LG,,,
+25,1,GB,,,
+26,1,BG,,,
+27,1,GB,,,S:1
+28,1,LG,GB,1,"E:1,L:1"
+29,1,LG,,,
+30,1,LG,,1,"E:1,L:1"
+31,1,LG,,1,"E:1,L:1"
+32,1,LG,YB,,
+33,1,LG,YB,,L:1

@@ -1,0 +1,23 @@
+# khipu_id: 1000494
+# provenance: Chuquitanta
+# region: 
+# museum: "American Museum of Natural History, NY" B/8704
+# nickname: 
+# file_format: .tab
+# data_regime: DC4
+# doc_cluster: census_format_paired
+# template_id: T137
+# segmentation: value_marker
+# n_rows: 9
+# n_cols: 4
+ROW_ID,IS_MARKER_ROW,SECTION,MB,MB_2,MB_3,MB_4
+,,,MARKER,VARIABLE,VARIABLE,VARIABLE
+1,TRUE,1,2,,10010,
+2,FALSE,1,1000,1000,3,
+3,FALSE,1,102,102,,2
+4,FALSE,1,2,100,,2
+5,FALSE,1,2,2,2,3
+6,FALSE,1,2,2,,
+7,FALSE,1,2,,2,2
+8,FALSE,1,10010,2,,5
+9,FALSE,1,,,,

@@ -1,0 +1,15 @@
+# khipu_id: 1000038
+# provenance: Nazca
+# region: 
+# museum: "Hood Museum of Art, Dartmouth College, Hanover, New Hampshire" 55-32-13302
+# nickname: 
+# file_format: .flat
+# data_regime: 
+# doc_cluster: 
+# template_id: 
+# segmentation: none
+# n_rows: 2
+# n_cols: 0
+ORDINAL,LEVEL,COLOR1,COLOR2,VALUE,KNOTS
+1,1,DB,FB,,"E:1,L:1"
+2,1,DB,FB,1,"E:1,L:1"

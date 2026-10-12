@@ -1,0 +1,43 @@
+# khipu_id: 1000013
+# provenance: 
+# region: 
+# museum: "Lowie Museum, University of California, Berkeley" TK 4/5419
+# nickname: 
+# file_format: .flat
+# data_regime: 
+# doc_cluster: 
+# template_id: 
+# segmentation: none
+# n_rows: 30
+# n_cols: 0
+ORDINAL,LEVEL,COLOR1,COLOR2,VALUE,KNOTS
+1,1,LB,YB,,
+2,1,LB,,,
+3,1,?,,,
+4,1,YB,,1,E:1
+5,1,LB,,,
+6,1,LB,YB,,
+7,1,?,,,
+8,1,YB,,1,E:1
+9,1,LB,,,
+10,1,LB,YB,,
+11,1,?,,,
+12,1,YB,,4,L:1
+13,1,LB,,4,L:1
+14,1,LB,YB,,
+15,1,?,,,
+16,1,LB,,1,E:1
+17,1,YB,,,
+18,1,LB,,,
+19,1,LB,YB,4,L:1
+20,1,?,,,
+21,1,YB,,2,L:1
+22,1,LB,,,
+23,1,LB,YB,,
+24,1,YB,,,
+25,1,LB,,,
+26,1,LB,YB,,
+27,1,?,,,
+28,1,YB,,1,E:1
+29,1,LB,,,
+30,1,LB,YB,,

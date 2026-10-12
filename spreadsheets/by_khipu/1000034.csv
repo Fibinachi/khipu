@@ -1,0 +1,19 @@
+# khipu_id: 1000034
+# provenance: 
+# region: 
+# museum: "Joslyn Art Museum, Omaha, Nebraska" 1958-57
+# nickname: 
+# file_format: .tab
+# data_regime: DC2
+# doc_cluster: deep_sparse_mixed
+# template_id: T007
+# segmentation: value_marker
+# n_rows: 5
+# n_cols: 21
+ROW_ID,IS_MARKER_ROW,SECTION,B,B_2,B_3,B_4,W,W_2,G,B_5,B_6,B_7,W_3,B_8,B_9,B_10,B_11,W_4,W_5,MB,MB_2,GY,MB_3
+,,,MARKER,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,CONSTANT,CONSTANT
+1,TRUE,1,29,33,15,11,18,9,3,7,4,5,19,8,4,6,3,24,,,,,
+2,FALSE,1,6,4,7,2,12,,,,,,,,,,,,,,,,
+3,FALSE,1,6,7,3,4,7,8,5,,,,,,,,,,,,,,
+4,FALSE,1,6,8,2,,32,33,29,31,37,22,39,4,6,4,3,3,19,9,8,,
+5,FALSE,2,6,11,,5,4,2,4,4,4,4,2,5,2,2,2,2,1,7,4,1,1

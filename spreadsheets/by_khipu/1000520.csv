@@ -1,0 +1,19 @@
+# khipu_id: 1000520
+# provenance: Pisco
+# region: "South Coast, Peru"
+# museum: "Ethnologisches Museum, Berlin, Germany" VA16141(A)
+# nickname: 
+# file_format: .tab
+# data_regime: DC2
+# doc_cluster: deep_sparse_mixed
+# template_id: T151
+# segmentation: value_marker
+# n_rows: 5
+# n_cols: 26
+ROW_ID,IS_MARKER_ROW,SECTION,LC,MB,AB,MB_2,HB,HB_2,AB_2,MB_3,KB,KB_2,W,RL,RL_2,LC_2,KB_3,AB_3,MB_4,MB_5,RL_3,CB,W_2,LC_3,0K,RL_4,RL_5,CB_2
+,,,MARKER,CONSTANT,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,CONSTANT,VARIABLE,VARIABLE,VARIABLE,CONSTANT,VARIABLE,VARIABLE,VARIABLE,CONSTANT,CONSTANT,CONSTANT,CONSTANT
+1,TRUE,1,5,,4,56,1,,,3,,17,1,24,,2,,2,,2,,1,1,2,,,,
+2,FALSE,1,1,2,1,16,,1,,1,,,1,1,6,,,,,,,,,,,,,
+3,FALSE,1,1,,1,,,,,,,,,,,,,,,,,,,,,,,
+4,FALSE,1,1,,6,,,,,,,,,,,,,,,,,,,,,,,
+5,FALSE,1,1,,,,,,4,1,2,,,,1,,,4,4,4,,,,,,,,

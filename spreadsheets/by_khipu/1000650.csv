@@ -1,0 +1,24 @@
+# khipu_id: 1000650
+# provenance: Huaca San Pedro, Armatambo
+# region: 
+# museum: Museo Nac., Pueblo Libre 35268B
+# nickname: 
+# file_format: .tab
+# data_regime: unclustered
+# doc_cluster: deep_sparse_mixed
+# template_id: T196
+# segmentation: white_dividers
+# n_rows: 10
+# n_cols: 47
+ROW_ID,IS_MARKER_ROW,SECTION,BY,AB,MB,AB_2,KB,AB_3,AB_4,MB_2,HB,YY,MB_3,MB_4,HB_2,HB_3,BY_2,BY_3,BY_4,BY_5,MB_5,W,BY_6,AB_5,BG,BY_7,BY_8,BY_9,BY_10,BY_11,MB_6,MB_7,MB_8,BY_12,BY_13,W_2,AB_6,MB_9,MB_10,AB_7,GG,BY_14,AB_8,W_3,BY_15,AB_9,MB_11,BY_16,AB_10
+,,,VARIABLE,CONSTANT,VARIABLE,VARIABLE,VARIABLE,CONSTANT,VARIABLE,VARIABLE,CONSTANT,VARIABLE,VARIABLE,CONSTANT,CONSTANT,CONSTANT,VARIABLE,VARIABLE,CONSTANT,CONSTANT,VARIABLE,CONSTANT,VARIABLE,CONSTANT,CONSTANT,CONSTANT,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,CONSTANT,CONSTANT,VARIABLE,CONSTANT,VARIABLE,CONSTANT,CONSTANT,VARIABLE,VARIABLE,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT
+1,FALSE,1,1,,,,,,,,,,,,,,,,,,,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,
+2,FALSE,2,1,,,,1,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,FALSE,3,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,FALSE,4,,,,1,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,FALSE,5,1,1,,1,1,,1,1,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,FALSE,6,,,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,FALSE,7,,,1,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,FALSE,8,1,,,1,1,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,40,40,20,,,,
+9,FALSE,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,FALSE,10,290,,,,,,,,,,,,,,,,,,,,,1,1,1,,,,,,,,,,,,,,,,,,,,,,,

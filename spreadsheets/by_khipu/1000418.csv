@@ -1,0 +1,59 @@
+# khipu_id: 1000418
+# provenance: Donation from the collection Belli
+# region: 
+# museum: Museo Regional de Ica 04393-02
+# nickname: 
+# file_format: .flat
+# data_regime: 
+# doc_cluster: 
+# template_id: 
+# segmentation: none
+# n_rows: 46
+# n_cols: 0
+ORDINAL,LEVEL,COLOR1,COLOR2,VALUE,KNOTS
+1,1,MB,,,"L:7,S:14"
+2,1,AB,,138,"L:5,S:10"
+3,1,KB,,,"L:3,S:13"
+4,1,AB,,,"L:1,S:1"
+5,1,AB,,,"L:1,S:3"
+6,1,MB,,17,"L:1,S:1"
+7,1,AB,,24,"L:1,S:2"
+8,1,MB,,17,"L:2,S:1"
+9,1,AB,,21,"E:1,S:2"
+10,1,MB,,17,"L:1,S:1"
+11,1,MB,,,S:2
+12,1,MB,,17,"L:1,S:1"
+13,1,AB,,22,"L:1,S:2"
+14,1,MB,,10,"L:1,S:2"
+15,1,AB,,,S:5
+16,1,AB,,110,S:3
+17,1,AB,,,S:1
+18,1,AB,,,S:1
+19,1,AB,,10,S:7
+20,1,AB,,310,S:5
+21,1,MB,,110,S:3
+22,1,AB,,27,"L:1,S:2"
+23,1,MB,,17,"L:1,S:1"
+24,1,AB,,13,"L:1,S:1"
+25,1,AB,,15,"L:1,S:1"
+26,1,MB,,32,"L:1,S:3"
+27,1,AB,,,S:3
+28,1,AB,,,S:1
+29,1,MB,,10,S:6
+30,1,AB,,,S:7
+31,1,AB,,,
+32,1,MB,,,S:3
+33,1,AB,,10,S:9
+34,1,RB,,,S:5
+35,1,AB,,199,"L:1,S:10"
+36,1,AB,,,
+37,1,MB,,,
+38,1,AB,,4,L:1
+39,1,AB,,,
+40,1,MB,,,
+41,1,MB,,,S:1
+42,1,MB,,,
+43,1,MB,,,
+44,1,AB,,,
+45,1,MB,,,
+46,1,AB,,1110,S:4

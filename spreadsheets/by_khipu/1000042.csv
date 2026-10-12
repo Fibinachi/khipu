@@ -1,0 +1,27 @@
+# khipu_id: 1000042
+# provenance: Ica
+# region: 
+# museum: "Museum für Völkerkunde, Berlin" VA47070
+# nickname: 
+# file_format: .tab
+# data_regime: DC2
+# doc_cluster: census_format_paired
+# template_id: T010
+# segmentation: value_marker
+# n_rows: 13
+# n_cols: 7
+ROW_ID,IS_MARKER_ROW,SECTION,W,W_2,W_3,B,B_2,W_4,W_5
+,,,MARKER,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE
+1,TRUE,,259,81,38,31,42,,
+2,FALSE,2,31,36,15,12,13,,
+3,FALSE,2,8,8,8,11,6,,
+4,FALSE,2,5,,8,4,5,,
+5,FALSE,2,4,3,2,4,3,,
+6,FALSE,2,6,5,4,2,2,,
+7,FALSE,2,2,1,4,3,2,,
+8,FALSE,2,6,7,4,7,,,
+9,FALSE,,5,3,3,4,2,7,2
+10,FALSE,,5,2,6,2,4,,
+11,FALSE,,5,1,3,,,,
+12,FALSE,,5,3,9,1,3,5,8
+13,FALSE,,5,2,,,,,

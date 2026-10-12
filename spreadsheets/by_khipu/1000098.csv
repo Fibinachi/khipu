@@ -1,0 +1,33 @@
+# khipu_id: 1000098
+# provenance: Nazca
+# region: 
+# museum: "Peabody Museum, Harvard University" 32.30.30/54
+# nickname: 
+# file_format: .tab
+# data_regime: unclustered
+# doc_cluster: deep_sparse_mixed
+# template_id: T023
+# segmentation: color_cycle
+# n_rows: 19
+# n_cols: 2
+ROW_ID,IS_MARKER_ROW,SECTION,W,AB
+,,,VARIABLE,CONSTANT
+1,FALSE,1,,
+2,FALSE,1,,
+3,FALSE,1,3,
+4,FALSE,1,1,
+5,FALSE,1,2,
+6,FALSE,1,,
+7,FALSE,1,,
+8,FALSE,1,,
+9,FALSE,1,2,
+10,FALSE,1,6,5
+11,FALSE,1,3,21
+12,FALSE,1,2,
+13,FALSE,1,,
+14,FALSE,1,,
+15,FALSE,1,,
+16,FALSE,,,
+17,FALSE,,,
+18,FALSE,,,
+19,FALSE,,,

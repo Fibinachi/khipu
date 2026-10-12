@@ -1,0 +1,19 @@
+# khipu_id: 1000184
+# provenance: 
+# region: 
+# museum: "Niedersächsische Landesmuseum, Hanover, West Germany" 10086
+# nickname: 
+# file_format: .tab
+# data_regime: DC2
+# doc_cluster: census_format_paired
+# template_id: T048
+# segmentation: white_dividers
+# n_rows: 5
+# n_cols: 29
+ROW_ID,IS_MARKER_ROW,SECTION,MB,MB_2,MB_3,MB_4,MB_5,MB_6,GB,MB_7,W,W_2,MB_8,MB_9,MB_10,MB_11,MB_12,MB_13,W_3,W_4,MB_14,MB_15,W_5,MB_16,MB_17,MB_18,MB_19,MB_20,MB_21,GB_2,GB_3
+,,,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT
+1,FALSE,1,2,5,4,2,1,2,,,,,,,,,,,,,,,,,,,,,,,
+2,FALSE,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,FALSE,3,7,4,4,3,4,4,6,4,,,,,,,,,,,,,,,,,,,,,
+4,FALSE,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,FALSE,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

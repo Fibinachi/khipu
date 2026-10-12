@@ -1,0 +1,15 @@
+# khipu_id: 1000388
+# provenance: "Chancay, Central Coast"
+# region: 
+# museum: "Lowe Art Museum, University of Miami" 94.0064.173
+# nickname: 
+# file_format: .flat
+# data_regime: 
+# doc_cluster: 
+# template_id: 
+# segmentation: none
+# n_rows: 2
+# n_cols: 0
+ORDINAL,LEVEL,COLOR1,COLOR2,VALUE,KNOTS
+1,1,W,,39,"L:5,S:13"
+2,1,W,,79,"L:1,S:7"

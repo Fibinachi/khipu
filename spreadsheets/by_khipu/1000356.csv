@@ -1,0 +1,20 @@
+# khipu_id: 1000356
+# provenance: 
+# region: 
+# museum: Museo Temple Radicati 15
+# nickname: 
+# file_format: .tab
+# data_regime: DC2
+# doc_cluster: census_format_paired
+# template_id: T111
+# segmentation: value_marker
+# n_rows: 6
+# n_cols: 7
+ROW_ID,IS_MARKER_ROW,SECTION,AB,AB_2,W,AB_3,AB_4,W_2,W_3
+,,,MARKER,VARIABLE,VARIABLE,VARIABLE,CONSTANT,CONSTANT,CONSTANT
+1,TRUE,1,4,,5,5,5,5,3
+2,FALSE,1,2,4,,,,,
+3,FALSE,1,2,78,84,3,,,
+4,FALSE,1,2,5,2,3,,,
+5,FALSE,1,2,3,1,4,,,
+6,FALSE,1,5,,21,,,,

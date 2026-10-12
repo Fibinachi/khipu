@@ -1,0 +1,178 @@
+<!DOCTYPE html><html><head><meta charset="utf-8"><title>Quipu Transliteration</title>
+<style>
+body{font-family:monospace;background:#1a1a1a;color:#e0e0e0;padding:20px;max-width:1100px;margin:auto}
+h2{color:#fff;border-bottom:1px solid #444}
+.key{background:#222;padding:12px;border-radius:5px;margin-bottom:20px;line-height:1.7}
+.cord{display:flex;align-items:center;margin:2px 0;padding:3px 6px;border-radius:3px}
+.cordnum{width:50px;color:#888;flex-shrink:0}
+.colorbar{width:14px;height:22px;border-radius:2px;margin-right:8px;border:1px solid #555;flex-shrink:0}
+.letters{letter-spacing:2px}
+.common{color:#e0e0e0}.rare{color:#ff5555;font-weight:bold}.unusual{color:#ffaa00;font-weight:bold}
+.unkdir{color:#88aaff}.gap{color:#555;font-style:italic}
+.bracket-tag{color:#55ff55;font-size:.85em;margin-left:10px;flex-shrink:0}
+.block-sep{border-top:2px dashed #555;margin:8px 0}
+.note{color:#999;font-size:.9em;margin-bottom:15px;line-height:1.5}
+.meta{color:#666;font-size:.8em;margin-left:10px}
+</style></head><body>
+<h1>Quipu Source-Code Transliteration</h1>
+<div class="key"><b>LETTERS</b> (99.5%): <span class="common">A</span>=S/S <span class="common">B</span>=S/Z
+<span class="common">C</span>=L/S <span class="common">D</span>=L/Z <span class="common">E</span>=E/S <span class="common">F</span>=E/Z
+<span class="unkdir">B?</span>=direction unrecorded<br>
+<b>RARE</b> (0.5%): <span class="rare">&laquo;SP&raquo; &laquo;EE&raquo; &laquo;D0&raquo; &laquo;D12&raquo;</span>
+<b>UNUSUAL</b>: <span class="unusual">[E]</span>=E-knot, wrong direction
+<b>GAP</b>: <span class="gap">[---]</span>=knotless<br>
+<b>Charles's pattern</b>: <span style="color:#55ff55">[KNOWN]&laquo;UNKNOWN&raquo;[KNOWN]</span> &mdash;
+<span style="color:#55ff55">BRACKETED</span>=rare between commons,
+<span style="color:#55ff55">BOUNDARY</span>=rare at edge (transition),
+<span style="color:#55ff55">RARE-ONLY</span>=whole cord is signal</div>
+<h2>Khipu 1000271 — Santa census quipu (1000271)</h2>
+<div class='note'>Medrano &amp; Urton &#x27;Rosetta&#x27; set — 6 cords = 1 person. Clean baseline: all common symbols except one «D0» placeholder at cord 30 (6th cord = terminal position of its 6-block).</div>
+<div class='cord'><span class='cordnum'>1</span><span class='colorbar' style='background:#f5f5f5' title='W'></span><span class='letters'><span class='common'>D4</span></span></div>
+<div class='cord'><span class='cordnum'>2</span><span class='colorbar' style='background:#f5f5f5' title='W'></span><span class='letters'><span class='common'>D3</span></span></div>
+<div class='cord'><span class='cordnum'>3</span><span class='colorbar' style='background:#f5f5f5' title='W'></span><span class='letters'><span class='common'>D2</span></span></div>
+<div class='cord'><span class='cordnum'>4</span><span class='colorbar' style='background:#f5f5f5' title='W'></span><span class='letters'><span class='common'>B</span> <span class='common'>B</span> <span class='common'>B</span> <span class='common'>B</span> <span class='common'>D7</span></span></div>
+<div class='cord'><span class='cordnum'>5</span><span class='colorbar' style='background:#f5f5f5' title='W'></span><span class='letters'><span class='common'>D5</span></span></div>
+<div class='cord'><span class='cordnum'>6</span><span class='colorbar' style='background:#f5f5f5' title='W'></span><span class='letters'><span class='common'>B</span> <span class='common'>D2</span></span></div>
+<div class='block-sep'></div>
+<div class='cord'><span class='cordnum'>7</span><span class='colorbar' style='background:#c19a6b' title='AB'></span><span class='letters'><span class='common'>D4</span></span></div>
+<div class='cord'><span class='cordnum'>8</span><span class='colorbar' style='background:#c19a6b' title='AB'></span><span class='letters'><span class='common'>D2</span></span></div>
+<div class='cord'><span class='cordnum'>9</span><span class='colorbar' style='background:#c19a6b' title='AB'></span><span class='letters'><span class='common'>D5</span></span></div>
+<div class='cord'><span class='cordnum'>10</span><span class='colorbar' style='background:#c19a6b' title='AB'></span><span class='letters'><span class='common'>B</span> <span class='common'>B</span> <span class='common'>B</span> <span class='common'>B</span> <span class='common'>B</span> <span class='common'>D2</span></span></div>
+<div class='cord'><span class='cordnum'>11</span><span class='colorbar' style='background:#c19a6b' title='AB'></span><span class='letters'><span class='common'>B</span> <span class='common'>D2</span></span></div>
+<div class='cord'><span class='cordnum'>12</span><span class='colorbar' style='background:#c19a6b' title='AB'></span><span class='letters'><span class='common'>D8</span></span></div>
+<div class='block-sep'></div>
+<div class='cord'><span class='cordnum'>13</span><span class='colorbar' style='background:#a0522d' title='RB'></span><span class='letters'><span class='common'>D4</span></span></div>
+<div class='cord'><span class='cordnum'>14</span><span class='colorbar' style='background:#a0522d' title='RB'></span><span class='letters'><span class='common'>D5</span></span></div>
+<div class='cord'><span class='cordnum'>15</span><span class='colorbar' style='background:#a0522d' title='RB'></span><span class='letters'><span class='common'>D5</span></span></div>
+<div class='cord'><span class='cordnum'>16</span><span class='colorbar' style='background:#a0522d' title='RB'></span><span class='letters'><span class='common'>B</span> <span class='common'>B</span> <span class='common'>B</span> <span class='common'>B</span> <span class='common'>B</span> <span class='common'>B</span> <span class='common'>D4</span></span></div>
+<div class='cord'><span class='cordnum'>17</span><span class='colorbar' style='background:#a0522d' title='RB'></span><span class='letters'><span class='common'>D6</span></span></div>
+<div class='cord'><span class='cordnum'>18</span><span class='colorbar' style='background:#a0522d' title='RB'></span><span class='letters'><span class='common'>D8</span></span></div>
+<div class='block-sep'></div>
+<div class='cord'><span class='cordnum'>19</span><span class='colorbar' style='background:#c19a6b' title='AB'></span><span class='letters'><span class='common'>D4</span></span></div>
+<div class='cord'><span class='cordnum'>20</span><span class='colorbar' style='background:#c19a6b' title='AB'></span><span class='letters'><span class='common'>D7</span></span></div>
+<div class='cord'><span class='cordnum'>21</span><span class='colorbar' style='background:#c19a6b' title='AB'></span><span class='letters'><span class='common'>D5</span></span></div>
+<div class='cord'><span class='cordnum'>22</span><span class='colorbar' style='background:#c19a6b' title='AB'></span><span class='letters'><span class='common'>B</span> <span class='common'>B</span> <span class='common'>B</span> <span class='common'>B</span> <span class='common'>B</span> <span class='common'>B</span> <span class='common'>B</span></span></div>
+<div class='cord'><span class='cordnum'>23</span><span class='colorbar' style='background:#c19a6b' title='AB'></span><span class='letters'><span class='common'>D6</span></span></div>
+<div class='cord'><span class='cordnum'>24</span><span class='colorbar' style='background:#c19a6b' title='AB'></span><span class='letters'><span class='common'>D2</span></span></div>
+<div class='block-sep'></div>
+<div class='cord'><span class='cordnum'>25</span><span class='colorbar' style='background:#8b6914' title='MB:W'></span><span class='letters'><span class='common'>D4</span></span></div>
+<div class='cord'><span class='cordnum'>26</span><span class='colorbar' style='background:#8b6914' title='MB:W'></span><span class='letters'><span class='common'>D9</span></span></div>
+<div class='cord'><span class='cordnum'>27</span><span class='colorbar' style='background:#8b6914' title='MB:W'></span><span class='letters'><span class='common'>D4</span></span></div>
+<div class='cord'><span class='cordnum'>28</span><span class='colorbar' style='background:#8b6914' title='MB:W'></span><span class='letters'><span class='common'>B</span> <span class='common'>B</span> <span class='common'>B</span> <span class='common'>B</span> <span class='common'>B</span> <span class='common'>B</span> <span class='common'>D8</span></span></div>
+<div class='cord'><span class='cordnum'>29</span><span class='colorbar' style='background:#8b6914' title='MB:W'></span><span class='letters'><span class='common'>D2</span></span></div>
+<div class='cord'><span class='cordnum'>30</span><span class='colorbar' style='background:#8b6914' title='MB:W'></span><span class='letters'><span class='rare'>«D0»</span></span><span class='bracket-tag'>◀ RARE-ONLY</span></div>
+<div class='block-sep'></div>
+<div class='cord'><span class='cordnum'>31</span><span class='colorbar' style='background:#f5f5f5' title='W'></span><span class='letters'><span class='common'>D4</span></span></div>
+<div class='cord'><span class='cordnum'>32</span><span class='colorbar' style='background:#f5f5f5' title='W'></span><span class='letters'><span class='common'>B</span> <span class='common'>D3</span></span></div>
+<div class='cord'><span class='cordnum'>33</span><span class='colorbar' style='background:#f5f5f5' title='W'></span><span class='letters'><span class='common'>D5</span></span></div>
+<div class='cord'><span class='cordnum'>34</span><span class='colorbar' style='background:#f5f5f5' title='W'></span><span class='letters'><span class='common'>B</span> <span class='common'>B</span> <span class='common'>B</span> <span class='common'>B</span> <span class='common'>B</span> <span class='common'>B</span> <span class='common'>B</span></span></div>
+<div class='cord'><span class='cordnum'>35</span><span class='colorbar' style='background:#f5f5f5' title='W'></span><span class='letters'><span class='common'>D6</span></span></div>
+<div class='cord'><span class='cordnum'>36</span><span class='colorbar' style='background:#f5f5f5' title='W'></span><span class='letters'><span class='common'>D5</span></span></div>
+<div class='block-sep'></div>
+<div class='cord'><span class='cordnum'>37</span><span class='colorbar' style='background:#2f2f2f' title='LK:AB'></span><span class='letters'><span class='common'>D4</span></span></div>
+<div class='cord'><span class='cordnum'>38</span><span class='colorbar' style='background:#2f2f2f' title='LK:AB'></span><span class='letters'><span class='common'>B</span> <span class='common'>D4</span></span></div>
+<div class='cord'><span class='cordnum'>39</span><span class='colorbar' style='background:#2f2f2f' title='LK:AB'></span><span class='letters'><span class='common'>D4</span></span></div>
+<div class='cord'><span class='cordnum'>40</span><span class='colorbar' style='background:#2f2f2f' title='LK:AB'></span><span class='letters'><span class='common'>D5</span></span></div>
+<div class='cord'><span class='cordnum'>41</span><span class='colorbar' style='background:#2f2f2f' title='LK:AB'></span><span class='letters'><span class='common'>B</span> <span class='common'>B</span> <span class='common'>B</span> <span class='common'>B</span> <span class='common'>B</span> <span class='common'>B</span> <span class='common'>D5</span></span></div>
+<div class='cord'><span class='cordnum'>42</span><span class='colorbar' style='background:#2f2f2f' title='LK:AB'></span><span class='letters'><span class='common'>D5</span></span></div>
+<div class='block-sep'></div>
+<div class='cord'><span class='cordnum'>43</span><span class='colorbar' style='background:#a0522d' title='RB:W'></span><span class='letters'><span class='common'>D4</span></span></div>
+<div class='cord'><span class='cordnum'>44</span><span class='colorbar' style='background:#a0522d' title='RB:W'></span><span class='letters'><span class='common'>B</span> <span class='common'>D6</span></span></div>
+<div class='cord'><span class='cordnum'>45</span><span class='colorbar' style='background:#a0522d' title='RB:W'></span><span class='letters'><span class='common'>D2</span></span></div>
+<div class='cord'><span class='cordnum'>46</span><span class='colorbar' style='background:#a0522d' title='RB:W'></span><span class='letters'><span class='common'>B</span> <span class='common'>B</span> <span class='common'>B</span> <span class='common'>B</span> <span class='common'>B</span> <span class='common'>B</span> <span class='common'>D5</span></span></div>
+<div class='cord'><span class='cordnum'>47</span><span class='colorbar' style='background:#a0522d' title='RB:W'></span><span class='letters'><span class='common'>B</span> <span class='common'>D4</span></span></div>
+<div class='cord'><span class='cordnum'>48</span><span class='colorbar' style='background:#a0522d' title='RB:W'></span><span class='letters'><span class='common'>D7</span></span></div>
+<div class='block-sep'></div>
+<div class='cord'><span class='cordnum'>49</span><span class='colorbar' style='background:#d4a017' title='YB'></span><span class='letters'><span class='common'>D4</span></span></div>
+<div class='cord'><span class='cordnum'>50</span><span class='colorbar' style='background:#d4a017' title='YB'></span><span class='letters'><span class='common'>B</span> <span class='common'>B</span></span></div>
+<div class='cord'><span class='cordnum'>51</span><span class='colorbar' style='background:#d4a017' title='YB'></span><span class='letters'><span class='common'>D5</span></span></div>
+<div class='cord'><span class='cordnum'>52</span><span class='colorbar' style='background:#d4a017' title='YB'></span><span class='letters'><span class='common'>B</span> <span class='common'>B</span> <span class='common'>B</span> <span class='common'>B</span> <span class='common'>B</span> <span class='common'>B</span> <span class='common'>B</span> <span class='common'>D3</span></span></div>
+<div class='cord'><span class='cordnum'>53</span><span class='colorbar' style='background:#d4a017' title='YB'></span><span class='letters'><span class='common'>F</span></span></div>
+<div class='cord'><span class='cordnum'>54</span><span class='colorbar' style='background:#d4a017' title='YB'></span><span class='letters'><span class='common'>D6</span></span></div>
+<div class='block-sep'></div>
+<div class='cord'><span class='cordnum'>55</span><span class='colorbar' style='background:#c19a6b' title='AB'></span><span class='letters'><span class='gap'>[---]</span></span></div>
+<div class='cord'><span class='cordnum'>56</span><span class='colorbar' style='background:#c19a6b' title='AB'></span><span class='letters'><span class='gap'>[---]</span></span></div>
+<div class='cord'><span class='cordnum'>57</span><span class='colorbar' style='background:#c19a6b' title='AB'></span><span class='letters'><span class='gap'>[---]</span></span></div>
+<div class='cord'><span class='cordnum'>58</span><span class='colorbar' style='background:#c19a6b' title='AB'></span><span class='letters'><span class='gap'>[---]</span></span></div>
+<div class='cord'><span class='cordnum'>59</span><span class='colorbar' style='background:#c19a6b' title='AB'></span><span class='letters'><span class='gap'>[---]</span></span></div>
+<div class='cord'><span class='cordnum'>60</span><span class='colorbar' style='background:#c19a6b' title='AB'></span><span class='letters'><span class='gap'>[---]</span></span></div>
+<div class='block-sep'></div>
+<div class='cord'><span class='cordnum'>61</span><span class='colorbar' style='background:#2f2f2f' title='LK:AB'></span><span class='letters'><span class='gap'>[---]</span></span></div>
+<div class='cord'><span class='cordnum'>62</span><span class='colorbar' style='background:#2f2f2f' title='LK:AB'></span><span class='letters'><span class='gap'>[---]</span></span></div>
+<div class='cord'><span class='cordnum'>63</span><span class='colorbar' style='background:#2f2f2f' title='LK:AB'></span><span class='letters'><span class='gap'>[---]</span></span></div>
+<div class='cord'><span class='cordnum'>64</span><span class='colorbar' style='background:#2f2f2f' title='LK:AB'></span><span class='letters'><span class='gap'>[---]</span></span></div>
+<div class='cord'><span class='cordnum'>65</span><span class='colorbar' style='background:#2f2f2f' title='LK:AB'></span><span class='letters'><span class='gap'>[---]</span></span></div>
+<div class='cord'><span class='cordnum'>66</span><span class='colorbar' style='background:#2f2f2f' title='LK:AB'></span><span class='letters'><span class='gap'>[---]</span></span></div>
+<div class='block-sep'></div>
+<div class='cord'><span class='cordnum'>67</span><span class='colorbar' style='background:#a0522d' title='RB:W'></span><span class='letters'><span class='gap'>[---]</span></span></div>
+<div class='cord'><span class='cordnum'>68</span><span class='colorbar' style='background:#a0522d' title='RB:W'></span><span class='letters'><span class='gap'>[---]</span></span></div>
+<div class='cord'><span class='cordnum'>69</span><span class='colorbar' style='background:#a0522d' title='RB:W'></span><span class='letters'><span class='gap'>[---]</span></span></div>
+<div class='cord'><span class='cordnum'>70</span><span class='colorbar' style='background:#a0522d' title='RB:W'></span><span class='letters'><span class='gap'>[---]</span></span></div>
+<div class='cord'><span class='cordnum'>71</span><span class='colorbar' style='background:#a0522d' title='RB:W'></span><span class='letters'><span class='gap'>[---]</span></span></div>
+<div class='cord'><span class='cordnum'>72</span><span class='colorbar' style='background:#a0522d' title='RB:W'></span><span class='letters'><span class='gap'>[---]</span></span></div>
+<div class='block-sep'></div>
+<div class='cord'><span class='cordnum'>73</span><span class='colorbar' style='background:#dddddd' title='RL'></span><span class='letters'><span class='gap'>[---]</span></span></div>
+<div class='cord'><span class='cordnum'>74</span><span class='colorbar' style='background:#dddddd' title='RL'></span><span class='letters'><span class='gap'>[---]</span></span></div>
+<div class='cord'><span class='cordnum'>75</span><span class='colorbar' style='background:#dddddd' title='RL'></span><span class='letters'><span class='gap'>[---]</span></span></div>
+<div class='cord'><span class='cordnum'>76</span><span class='colorbar' style='background:#dddddd' title='RL'></span><span class='letters'><span class='gap'>[---]</span></span></div>
+<div class='cord'><span class='cordnum'>77</span><span class='colorbar' style='background:#dddddd' title='RL'></span><span class='letters'><span class='gap'>[---]</span></span></div>
+<div class='cord'><span class='cordnum'>78</span><span class='colorbar' style='background:#dddddd' title='RL'></span><span class='letters'><span class='gap'>[---]</span></span></div>
+<div class='block-sep'></div>
+<div class='cord'><span class='cordnum'>79</span><span class='colorbar' style='background:#f5f5f5' title='W'></span><span class='letters'><span class='gap'>[---]</span></span></div>
+<div class='cord'><span class='cordnum'>80</span><span class='colorbar' style='background:#f5f5f5' title='W'></span><span class='letters'><span class='gap'>[---]</span></span></div>
+<div class='cord'><span class='cordnum'>81</span><span class='colorbar' style='background:#f5f5f5' title='W'></span><span class='letters'><span class='gap'>[---]</span></span></div>
+<div class='cord'><span class='cordnum'>82</span><span class='colorbar' style='background:#f5f5f5' title='W'></span><span class='letters'><span class='gap'>[---]</span></span></div>
+<div class='cord'><span class='cordnum'>83</span><span class='colorbar' style='background:#f5f5f5' title='W'></span><span class='letters'><span class='gap'>[---]</span></span></div>
+<div class='cord'><span class='cordnum'>84</span><span class='colorbar' style='background:#f5f5f5' title='W'></span><span class='letters'><span class='gap'>[---]</span></span></div>
+<div class='block-sep'></div>
+<div class='cord'><span class='cordnum'>85</span><span class='colorbar' style='background:#d4a017' title='YB'></span><span class='letters'><span class='gap'>[---]</span></span></div>
+<div class='cord'><span class='cordnum'>86</span><span class='colorbar' style='background:#d4a017' title='YB'></span><span class='letters'><span class='gap'>[---]</span></span></div>
+<div class='cord'><span class='cordnum'>87</span><span class='colorbar' style='background:#d4a017' title='YB'></span><span class='letters'><span class='gap'>[---]</span></span></div>
+<div class='cord'><span class='cordnum'>88</span><span class='colorbar' style='background:#d4a017' title='YB'></span><span class='letters'><span class='gap'>[---]</span></span></div>
+<div class='cord'><span class='cordnum'>89</span><span class='colorbar' style='background:#d4a017' title='YB'></span><span class='letters'><span class='gap'>[---]</span></span></div>
+<div class='cord'><span class='cordnum'>90</span><span class='colorbar' style='background:#d4a017' title='YB'></span><span class='letters'><span class='gap'>[---]</span></span></div>
+<h2>Khipu 1000613 — Inkawasi BEAN quipu (1000613 / UR271)</h2>
+<div class='note'>Found with black beans. Strong-red (0R) cord carries 8 «SP» spiral knots (RARE-ONLY signal cord). KB-W cords carry «D0» placeholders with one [E] unusual-direction E-knot.</div>
+<div class='cord'><span class='cordnum'>1</span><span class='colorbar' style='background:#5c4033' title='NB'></span><span class='letters'><span class='common'>B</span> <span class='common'>B</span> <span class='common'>B</span> <span class='common'>B</span></span></div>
+<div class='block-sep'></div>
+<div class='cord'><span class='cordnum'>2</span><span class='colorbar' style='background:#d4a017' title='YB'></span><span class='letters'><span class='common'>B</span> <span class='common'>B</span> <span class='common'>B</span> <span class='common'>B</span></span></div>
+<div class='cord'><span class='cordnum'>3</span><span class='colorbar' style='background:#d4a017' title='YB'></span><span class='letters'><span class='common'>B</span> <span class='common'>B</span> <span class='common'>B</span> <span class='common'>B</span></span></div>
+<div class='cord'><span class='cordnum'>4</span><span class='colorbar' style='background:#d4a017' title='YB'></span><span class='letters'><span class='common'>B</span> <span class='common'>B</span></span></div>
+<div class='cord'><span class='cordnum'>5</span><span class='colorbar' style='background:#d4a017' title='YB'></span><span class='letters'><span class='common'>B</span> <span class='common'>B</span> <span class='common'>B</span> <span class='common'>B</span> <span class='common'>B</span> <span class='common'>B</span></span></div>
+<div class='block-sep'></div>
+<div class='cord'><span class='cordnum'>6</span><span class='colorbar' style='background:#cc0000' title='0R'></span><span class='letters'><span class='common'>B</span> <span class='common'>B</span> <span class='common'>B</span> <span class='common'>B</span> <span class='common'>B</span> <span class='common'>B</span> <span class='common'>B</span> <span class='common'>B</span> <span class='common'>B</span> <span class='common'>B</span> <span class='common'>B</span> <span class='common'>B</span> <span class='common'>B</span> <span class='common'>B</span></span></div>
+<div class='cord'><span class='cordnum'>7</span><span class='colorbar' style='background:#cc0000' title='0R'></span><span class='letters'><span class='common'>B</span> <span class='common'>B</span> <span class='common'>B</span> <span class='common'>B</span> <span class='common'>B</span> <span class='common'>B</span> <span class='common'>B</span> <span class='common'>B</span> <span class='common'>B</span> <span class='common'>B</span> <span class='common'>B</span> <span class='common'>B</span> <span class='common'>B</span> <span class='common'>B</span></span></div>
+<div class='cord'><span class='cordnum'>8</span><span class='colorbar' style='background:#cc0000' title='0R'></span><span class='letters'><span class='common'>B</span> <span class='common'>B</span> <span class='common'>B</span> <span class='common'>B</span> <span class='common'>B</span> <span class='common'>B</span> <span class='common'>B</span> <span class='common'>B</span> <span class='common'>B</span> <span class='common'>B</span> <span class='common'>B</span> <span class='common'>B</span> <span class='common'>B</span> <span class='common'>B</span></span></div>
+<div class='cord'><span class='cordnum'>9</span><span class='colorbar' style='background:#cc0000' title='0R'></span><span class='letters'><span class='common'>B</span> <span class='common'>B</span> <span class='common'>B</span> <span class='common'>B</span> <span class='common'>B</span> <span class='common'>B</span> <span class='common'>B</span></span></div>
+<div class='cord'><span class='cordnum'>10</span><span class='colorbar' style='background:#cc0000' title='0R'></span><span class='letters'><span class='rare'>«SP»</span> <span class='rare'>«SP»</span> <span class='rare'>«SP»</span> <span class='rare'>«SP»</span> <span class='rare'>«SP»</span> <span class='rare'>«SP»</span> <span class='rare'>«SP»</span> <span class='rare'>«SP»</span></span><span class='bracket-tag'>◀ RARE-ONLY</span></div>
+<div class='block-sep'></div>
+<div class='cord'><span class='cordnum'>11</span><span class='colorbar' style='background:#3b2f2f' title='KB-W'></span><span class='letters'><span class='rare'>«D0»</span></span><span class='bracket-tag'>◀ RARE-ONLY</span></div>
+<div class='cord'><span class='cordnum'>12</span><span class='colorbar' style='background:#3b2f2f' title='KB-W'></span><span class='letters'><span class='rare'>«D0»</span></span><span class='bracket-tag'>◀ RARE-ONLY</span></div>
+<div class='cord'><span class='cordnum'>13</span><span class='colorbar' style='background:#3b2f2f' title='KB-W'></span><span class='letters'><span class='rare'>«D0»</span></span><span class='bracket-tag'>◀ RARE-ONLY</span></div>
+<div class='cord'><span class='cordnum'>14</span><span class='colorbar' style='background:#3b2f2f' title='KB-W'></span><span class='letters'><span class='rare'>«D0»</span></span><span class='bracket-tag'>◀ RARE-ONLY</span></div>
+<div class='cord'><span class='cordnum'>15</span><span class='colorbar' style='background:#3b2f2f' title='KB-W'></span><span class='letters'><span class='rare'>«D0»</span></span><span class='bracket-tag'>◀ RARE-ONLY</span></div>
+<div class='cord'><span class='cordnum'>16</span><span class='colorbar' style='background:#3b2f2f' title='KB-W'></span><span class='letters'><span class='rare'>«D0»</span></span><span class='bracket-tag'>◀ RARE-ONLY</span></div>
+<div class='cord'><span class='cordnum'>17</span><span class='colorbar' style='background:#3b2f2f' title='KB-W'></span><span class='letters'><span class='unusual'>[E]</span></span><span class='bracket-tag'>◀ RARE-ONLY</span></div>
+<div class='cord'><span class='cordnum'>18</span><span class='colorbar' style='background:#3b2f2f' title='KB-W'></span><span class='letters'><span class='rare'>«D0»</span></span><span class='bracket-tag'>◀ RARE-ONLY</span></div>
+<div class='cord'><span class='cordnum'>19</span><span class='colorbar' style='background:#3b2f2f' title='KB-W'></span><span class='letters'><span class='rare'>«D0»</span></span><span class='bracket-tag'>◀ RARE-ONLY</span></div>
+<div class='cord'><span class='cordnum'>20</span><span class='colorbar' style='background:#3b2f2f' title='KB-W'></span><span class='letters'><span class='rare'>«D0»</span></span><span class='bracket-tag'>◀ RARE-ONLY</span></div>
+<div class='cord'><span class='cordnum'>21</span><span class='colorbar' style='background:#3b2f2f' title='KB-W'></span><span class='letters'><span class='rare'>«D0»</span></span><span class='bracket-tag'>◀ RARE-ONLY</span></div>
+<div class='cord'><span class='cordnum'>22</span><span class='colorbar' style='background:#3b2f2f' title='KB-W'></span><span class='letters'><span class='rare'>«D0»</span></span><span class='bracket-tag'>◀ RARE-ONLY</span></div>
+<div class='cord'><span class='cordnum'>23</span><span class='colorbar' style='background:#3b2f2f' title='KB-W'></span><span class='letters'><span class='common'>F</span></span></div>
+<div class='cord'><span class='cordnum'>24</span><span class='colorbar' style='background:#3b2f2f' title='KB-W'></span><span class='letters'><span class='rare'>«D0»</span></span><span class='bracket-tag'>◀ RARE-ONLY</span></div>
+<div class='cord'><span class='cordnum'>25</span><span class='colorbar' style='background:#3b2f2f' title='KB-W'></span><span class='letters'><span class='rare'>«D0»</span></span><span class='bracket-tag'>◀ RARE-ONLY</span></div>
+<div class='cord'><span class='cordnum'>26</span><span class='colorbar' style='background:#3b2f2f' title='KB-W'></span><span class='letters'><span class='rare'>«D0»</span></span><span class='bracket-tag'>◀ RARE-ONLY</span></div>
+<div class='cord'><span class='cordnum'>27</span><span class='colorbar' style='background:#3b2f2f' title='KB-W'></span><span class='letters'><span class='rare'>«D0»</span></span><span class='bracket-tag'>◀ RARE-ONLY</span></div>
+<div class='cord'><span class='cordnum'>28</span><span class='colorbar' style='background:#3b2f2f' title='KB-W'></span><span class='letters'><span class='rare'>«D0»</span></span><span class='bracket-tag'>◀ RARE-ONLY</span></div>
+<div class='cord'><span class='cordnum'>29</span><span class='colorbar' style='background:#3b2f2f' title='KB-W'></span><span class='letters'><span class='rare'>«D0»</span></span><span class='bracket-tag'>◀ RARE-ONLY</span></div>
+<div class='block-sep'></div>
+<div class='cord'><span class='cordnum'>30</span><span class='colorbar' style='background:#3b2f2f' title='KB-NB'></span><span class='letters'><span class='rare'>«D0»</span></span><span class='bracket-tag'>◀ RARE-ONLY</span></div>
+<div class='block-sep'></div>
+<div class='cord'><span class='cordnum'>31</span><span class='colorbar' style='background:#3b2f2f' title='KB-W'></span><span class='letters'><span class='rare'>«D0»</span></span><span class='bracket-tag'>◀ RARE-ONLY</span></div>
+<div class='cord'><span class='cordnum'>32</span><span class='colorbar' style='background:#3b2f2f' title='KB-W'></span><span class='letters'><span class='rare'>«D0»</span></span><span class='bracket-tag'>◀ RARE-ONLY</span></div>
+<h2>EE Bracket Examples (corpus-wide)</h2>
+<div class='note'>Rare «EE» appearing at the boundary of common knot runs — transition markers.</div>
+<div class='cord'><span class='cordnum'>1000004</span><span class='letters'><span class='common'>B</span> <span class='common'>B</span> <span class='common'>B</span> <span class='common'>B</span> <span class='rare'>«EE»</span> <span class='unusual'>[E]</span></span><span class='bracket-tag'>◀ BOUNDARY</span><span class='meta'>cord 3000204 [V/W]</span></div>
+<div class='cord'><span class='cordnum'>1000004</span><span class='letters'><span class='common'>B</span> <span class='common'>B</span> <span class='common'>B</span> <span class='rare'>«EE»</span> <span class='unusual'>[E]</span></span><span class='bracket-tag'>◀ BOUNDARY</span><span class='meta'>cord 3000247 [R/GG:MB]</span></div>
+<div class='cord'><span class='cordnum'>1000101</span><span class='letters'><span class='common'>B</span> <span class='common'>B</span> <span class='common'>B</span> <span class='common'>A</span> <span class='rare'>«EE»</span></span><span class='bracket-tag'>◀ BOUNDARY</span><span class='meta'>cord 3012517 [R/W]</span></div>
+</body></html>

@@ -1,0 +1,23 @@
+# khipu_id: 1000279
+# provenance: Mollepampa
+# region: "Inka, Playa Miller"
+# museum: Museo Chileno de Arte Precolombino 780
+# nickname: chilean khipu
+# file_format: .tab
+# data_regime: DC5
+# doc_cluster: deep_hierarchical_grouped
+# template_id: T086
+# segmentation: white_dividers
+# n_rows: 9
+# n_cols: 31
+ROW_ID,IS_MARKER_ROW,SECTION,SR,W,AB,AB_2,AB_3,AB_4,AB_5,SR_2,AB_6,AB_7,AB_8,W_2,AB_9,AB_10,AB_11,AB_12,AB_13,AB_14,SR_3,W_3,W_4,AB_15,AB_16,W_5,AB_17,AB_18,W_6,AB_19,W_7,SR_4,AB_20
+,,,CONSTANT,VARIABLE,VARIABLE,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT
+1,FALSE,1,,,22,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,FALSE,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,FALSE,3,,15,,,,,,,17,,12,,,,,,,,,,,,,2,,,,,1,,611
+4,FALSE,4,23,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,FALSE,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,FALSE,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,FALSE,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,FALSE,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,FALSE,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

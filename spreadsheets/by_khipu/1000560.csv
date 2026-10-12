@@ -1,0 +1,27 @@
+# khipu_id: 1000560
+# provenance: Pachacamac
+# region: "Central Coast, Peru"
+# museum: "Ethnologisches Museum, Berlin, Germany" VA 42578
+# nickname: 
+# file_format: .flat
+# data_regime: 
+# doc_cluster: 
+# template_id: 
+# segmentation: none
+# n_rows: 14
+# n_cols: 0
+ORDINAL,LEVEL,COLOR1,COLOR2,VALUE,KNOTS
+1,1,RD,,242,"L:2,S:11"
+2,1,BG,AB,810,S:13
+3,1,LC,,271,"E:1,S:9"
+4,1,MB,W,422,"L:1,S:6"
+5,1,AB,,1177,"L:1,S:9"
+6,1,AB,W,10,S:10
+7,1,KB,W,70,S:8
+8,1,HB,,855,"L:1,S:13"
+9,1,MB,BG,310,S:7
+10,1,BG,,,S:2
+11,1,AB,W,60,S:14
+12,1,AB,,3454,"L:1,S:12"
+13,1,MB,W,430,S:11
+14,1,KB,W,,

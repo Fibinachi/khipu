@@ -1,0 +1,18 @@
+# khipu_id: 1000027
+# provenance: Ica
+# region: 
+# museum: "Lowie Museum, University of California, Berkeley" TK 4/5418
+# nickname: 
+# file_format: .tab
+# data_regime: unclustered
+# doc_cluster: census_format_paired
+# template_id: T003
+# segmentation: value_marker
+# n_rows: 4
+# n_cols: 4
+ROW_ID,IS_MARKER_ROW,SECTION,YB,MB,LB,LB_2
+,,,MARKER,VARIABLE,VARIABLE,CONSTANT
+1,TRUE,1,,,,
+2,FALSE,1,1,,,
+3,FALSE,1,1,1,1,1
+4,FALSE,1,1,,,

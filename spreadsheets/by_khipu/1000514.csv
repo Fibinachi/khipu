@@ -1,0 +1,22 @@
+# khipu_id: 1000514
+# provenance: unknown
+# region: unknown
+# museum: "Ethnologisches Museum, Berlin, Germany" VA47114c(A)
+# nickname: 
+# file_format: .tab
+# data_regime: DC4
+# doc_cluster: deep_hierarchical_grouped
+# template_id: T150
+# segmentation: white_dividers
+# n_rows: 8
+# n_cols: 34
+ROW_ID,IS_MARKER_ROW,SECTION,MB,W,MB_2,MB_3,MB_4,MB_5,MB_6,0K,W_2,MB_7,LC,MB_8,W_3,MB_9,MB_10,0K_2,0K_3,LK,LK_2,W_4,LK_3,MB_11,W_5,MB_12,BG,W_6,BG_2,0K_4,W_7,BG_3,B,W_8,W_9,BG_4
+,,,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,CONSTANT,CONSTANT,VARIABLE,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT,VARIABLE,CONSTANT,CONSTANT,CONSTANT,VARIABLE,CONSTANT,CONSTANT
+1,FALSE,2,13,1,,11,,44,,,8,5,,,,,,,,,,,,,,,,,,,,,,,,
+2,FALSE,3,25,,,,3000,1,108,,10,18,7,308,6,,,10,,,,,,,,,,,,,,,,,,
+3,FALSE,4,,3,,,114,18,,100,,100,3,,8,,,,,,,,,,,,,,,,,,,,,
+4,FALSE,5,,11,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,FALSE,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,FALSE,7,,,1011,1,6,8,25,1,39,1,6,1,1100,1,,1,,7,,3,,7,,111,5,6,11,,1,107,100,,,
+7,FALSE,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,FALSE,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

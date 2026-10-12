@@ -1,0 +1,34 @@
+# khipu_id: 1000406
+# provenance: Valle de Ica Hacienda Callango Ocucaje
+# region: 
+# museum: Museo Regional de Ica 0249-02
+# nickname: 
+# file_format: .flat
+# data_regime: 
+# doc_cluster: 
+# template_id: 
+# segmentation: none
+# n_rows: 21
+# n_cols: 0
+ORDINAL,LEVEL,COLOR1,COLOR2,VALUE,KNOTS
+1,1,GG,AB,20,"E:10,L:33,S:82"
+2,1,W,,34,"E:4,L:19,S:76"
+3,1,KB,W,352,"E:6,L:9,S:59"
+4,1,KB,GG,129,"L:9,S:7"
+5,1,KB,,20,"E:1,L:3,S:21"
+6,1,RB,,,"E:1,L:1,S:4"
+7,1,KB,AB,,?:1
+8,1,W,,66,"L:1,S:6"
+9,1,W,,84,"L:1,S:8"
+10,1,W,,41,"E:1,S:4"
+11,1,AB,,336,"L:1,S:6"
+12,1,AB,W,187,"L:1,S:9"
+13,1,AB,W,25,"L:1,S:2"
+14,1,GG,AB,177,"L:1,S:8"
+15,1,AB,W,42,"L:1,S:4"
+16,1,HB,GG,85,"L:1,S:8"
+17,1,HB,W,391,"E:1,S:12"
+18,1,HB,,,
+19,1,AB,,2941,"E:1,S:15"
+20,1,KB,W,326,"L:1,S:5"
+21,1,KB,W,315,"L:1,S:4"

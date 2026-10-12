@@ -1,0 +1,29 @@
+Decoding 612 khipu...
+  0/612
+  100/612
+  200/612
+  300/612
+  400/612
+  500/612
+  600/612
+Decoded. Analyzing positions...
+
+ADD result position (n=14372):
+  first: 3952 (27.5%)
+  between: 6584 (45.8%)
+  last: 3836 (26.7%)
+
+SUB result position (n=54020):
+  first: 12600 (23.3%)
+  between: 28921 (53.5%)
+  last: 12499 (23.1%)
+
+MUL result position (n=1747):
+  first: 535 (30.6%)
+  between: 789 (45.2%)
+  last: 423 (24.2%)
+
+DIV result position (n=3560):
+  first: 878 (24.7%)
+  between: 1692 (47.5%)
+  last: 990 (27.8%)

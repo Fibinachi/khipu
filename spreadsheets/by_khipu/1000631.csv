@@ -1,0 +1,16 @@
+# khipu_id: 1000631
+# provenance: Incahuasi
+# region: 
+# museum: Proyecto Incahuasi PAI-004-2016
+# nickname: 
+# file_format: .flat
+# data_regime: 
+# doc_cluster: 
+# template_id: 
+# segmentation: none
+# n_rows: 3
+# n_cols: 0
+ORDINAL,LEVEL,COLOR1,COLOR2,VALUE,KNOTS
+1,1,YB,,5700,"L:1,S:33"
+2,1,YB,,,S:5
+3,1,MB,,,"L:1,S:14"

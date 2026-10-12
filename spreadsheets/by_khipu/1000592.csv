@@ -1,0 +1,29 @@
+# khipu_id: 1000592
+# provenance: Pachacamac
+# region: 
+# museum: Museum fur Volkerkunde, Leipzig SAM 12408
+# nickname: 
+# file_format: .flat
+# data_regime: 
+# doc_cluster: 
+# template_id: 
+# segmentation: none
+# n_rows: 16
+# n_cols: 0
+ORDINAL,LEVEL,COLOR1,COLOR2,VALUE,KNOTS
+1,1,W,,,"E:1,L:7,S:23"
+2,1,W,,,"L:6,S:5"
+3,1,W,,21,"E:1,S:2"
+4,1,W,,,S:1
+5,1,W,,,S:1
+6,1,W,,,S:1
+7,1,W,,,S:3
+8,1,W,,,S:3
+9,1,W,,,
+10,1,W,,,
+11,1,W,,,L:1
+12,1,W,,,
+13,1,W,,,L:1
+14,1,W,,,
+15,1,W,,,
+16,1,W,,,

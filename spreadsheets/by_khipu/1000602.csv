@@ -1,0 +1,25 @@
+# khipu_id: 1000602
+# provenance: Incahuasi
+# region: 
+# museum: Proyecto Incahuasi 9228-13C
+# nickname: 
+# file_format: .flat
+# data_regime: 
+# doc_cluster: 
+# template_id: 
+# segmentation: none
+# n_rows: 12
+# n_cols: 0
+ORDINAL,LEVEL,COLOR1,COLOR2,VALUE,KNOTS
+1,1,AB,,,"E:1,S:9"
+2,1,AB,,,
+3,1,AB,,,
+4,1,AB,,,"L:1,S:3"
+5,1,AB,,,"L:1,S:5"
+6,1,AB,,,
+7,1,AB,,,
+8,1,AB,,,S:1
+9,1,MB,,,"L:1,S:7"
+10,1,AB,,,"L:1,S:2"
+11,1,AB,,101,"E:1,L:1,S:1"
+12,1,AB,,,

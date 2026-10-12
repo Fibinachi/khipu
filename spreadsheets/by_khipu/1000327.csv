@@ -1,0 +1,42 @@
+# khipu_id: 1000327
+# provenance: Pachacamac
+# region: 
+# museum: "Museum of Worldculture, Goteborg, Sweden" 16.9.57
+# nickname: 
+# file_format: .flat
+# data_regime: 
+# doc_cluster: 
+# template_id: 
+# segmentation: none
+# n_rows: 29
+# n_cols: 0
+ORDINAL,LEVEL,COLOR1,COLOR2,VALUE,KNOTS
+1,1,GG,MB,5,"E:1,L:5,S:3"
+2,1,AB,,,"L:2,S:6"
+3,1,AB,,,
+4,1,W,,11,"E:1,S:1"
+5,1,AB,,1,E:1
+6,1,W,,,
+7,1,W,,,S:1
+8,1,AB,,,
+9,1,GG,,,
+10,1,W,,,S:1
+11,1,HB,,,
+12,1,W,,7,L:1
+13,1,GG,HB,,
+14,1,W,,7,L:1
+15,1,AB,,,
+16,1,W,,12,"L:1,S:1"
+17,1,MB,,,
+18,1,W,,,
+19,1,AB,,,
+20,1,AB,,,
+21,1,W,,,
+22,1,AB,,,
+23,1,W,,11,"E:1,S:1"
+24,1,AB,,,
+25,1,W,,1,"E:1,L:1"
+26,1,W,,,
+27,1,W,,,
+28,1,W,,,
+29,1,W,,,

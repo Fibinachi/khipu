@@ -1,0 +1,22 @@
+# khipu_id: 1000371
+# provenance: 
+# region: 
+# museum: "O. Nunez del Prado, Cuzco" No. 1
+# nickname: 
+# file_format: .tab
+# data_regime: DC6
+# doc_cluster: deep_hierarchical_grouped
+# template_id: T116
+# segmentation: white_dividers
+# n_rows: 8
+# n_cols: 41
+ROW_ID,IS_MARKER_ROW,SECTION,LB,LB_2,LB_3,DB,LB_4,LB_5,LB_6,LB_7,LB_8,LB_9,DB_2,LB_10,YB,YB_2,YB_3,YB_4,YB_5,YB_6,YB_7,YB_8,YB_9,YB_10,YB_11,YB_12,YB_13,YB_14,YB_15,YB_16,YB_17,YB_18,YB_19,YB_20,YB_21,YB_22,YB_23,YB_24,YB_25,YB_26,YB_27,YB_28,YB_29
+,,,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT
+1,FALSE,1,,56,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,FALSE,2,2,47,5,1,1,5,4,2,1,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,FALSE,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,FALSE,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,FALSE,5,,,,,,,,,,,,,,,,,,,,,,,54,28,86,28,254,54,14,13,17,,,,,,,,,,
+6,FALSE,6,169,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,FALSE,7,46,28,3,244,31,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,FALSE,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

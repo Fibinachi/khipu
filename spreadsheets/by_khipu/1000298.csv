@@ -1,0 +1,71 @@
+# khipu_id: 1000298
+# provenance: "Playa Miller #6, Arica, Chile"
+# region: 
+# museum: "Museo Arqueologico San Miguel de Azapa (MASMA), Arica, Chile" 23284 (A)
+# nickname: 
+# file_format: .flat
+# data_regime: 
+# doc_cluster: 
+# template_id: 
+# segmentation: none
+# n_rows: 58
+# n_cols: 0
+ORDINAL,LEVEL,COLOR1,COLOR2,VALUE,KNOTS
+1,1,AB,,2,"E:26,L:10,S:42"
+2,1,KB,W,,"E:17,L:8,S:61"
+3,1,KB,W,,"E:12,L:8,S:43"
+4,1,KB,W,,"E:5,L:5,S:55"
+5,1,KB,W,4,"E:4,L:6,S:17"
+6,1,KB,W,,"L:1,S:6"
+7,1,KB,W,1,E:1
+8,1,KB,W,1,E:1
+9,1,KB,W,,"E:1,L:1"
+10,1,KB,W,,
+11,1,KB,W,1,E:1
+12,1,KB,W,,
+13,1,KB,W,,"E:1,L:1"
+14,1,KB,W,1,E:1
+15,1,KB,W,1,E:1
+16,1,KB,W,,"E:1,L:1"
+17,1,KB,W,,
+18,1,KB,W,1,E:1
+19,1,W,,1,E:1
+20,1,W,,,
+21,1,KB,W,3,L:1
+22,1,KB,W,1,E:1
+23,1,KB,W,1,E:1
+24,1,KB,W,,"E:1,L:1"
+25,1,KB,W,1,E:1
+26,1,KB,W,2,L:1
+27,1,W,,,
+28,1,W,,,
+29,1,KB,W,,"E:2,L:1"
+30,1,KB,W,1,E:1
+31,1,KB,W,2,L:1
+32,1,KB,W,1,E:1
+33,1,KB,W,4,L:1
+34,1,KB,W,1,E:1
+35,1,KB,W,1,E:1
+36,1,KB,W,,
+37,1,KB,W,,
+38,1,KB,W,,
+39,1,KB,W,,
+40,1,KB,W,,"E:2,L:1"
+41,1,MB,W,,
+42,1,KB,W,1,E:1
+43,1,KB,W,1,E:1
+44,1,KB,W,3,L:1
+45,1,KB,W,1,E:1
+46,1,KB,W,1,E:1
+47,1,KB,W,1,E:1
+48,1,KB,W,,
+49,1,KB,W,1,E:1
+50,1,KB,W,1,E:1
+51,1,KB,W,1,E:1
+52,1,KB,W,1,E:1
+53,1,KB,W,,
+54,1,KB,W,1,E:1
+55,1,KB,W,2,L:1
+56,1,KB,W,2,L:1
+57,1,KB,W,1,E:1
+58,1,KB,W,1,E:1

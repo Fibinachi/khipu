@@ -1,0 +1,28 @@
+# khipu_id: 1000167
+# provenance: 
+# region: 
+# museum: "Niedersächsische Landesmuseum, Hanover, West Germany" 10087
+# nickname: 
+# file_format: .flat
+# data_regime: 
+# doc_cluster: 
+# template_id: 
+# segmentation: none
+# n_rows: 15
+# n_cols: 0
+ORDINAL,LEVEL,COLOR1,COLOR2,VALUE,KNOTS
+1,1,YB,,62,"L:10,S:6"
+2,1,YB,,44,"L:1,S:4"
+3,1,YB,,64,"L:1,S:6"
+4,1,YB,,42,"L:1,S:4"
+5,1,YB,,25,"L:1,S:2"
+6,1,YB,,44,"L:1,S:4"
+7,1,YB,,,S:5
+8,1,YB,,25,"L:1,S:2"
+9,1,YB,,27,"L:1,S:2"
+10,1,YB,,37,"L:1,S:3"
+11,1,YB,,,
+12,1,YB,,,S:7
+13,1,YB,,,
+14,1,YB,,,
+15,1,YB,,,

@@ -1,0 +1,29 @@
+# khipu_id: 1000222
+# provenance: 
+# region: 
+# museum: "Musee de l Homme, Paris, France" 64.19.1.8
+# nickname: 
+# file_format: .flat
+# data_regime: 
+# doc_cluster: 
+# template_id: 
+# segmentation: none
+# n_rows: 16
+# n_cols: 0
+ORDINAL,LEVEL,COLOR1,COLOR2,VALUE,KNOTS
+1,1,BS,,17,"E:6,L:9,S:1"
+2,1,BS,,7,"E:6,L:3"
+3,1,BS,,1,"E:3,L:1"
+4,1,BS,,5,"E:1,L:1"
+5,1,BS,,1,"E:1,L:1"
+6,1,BS,,1,E:1
+7,1,AB,W,6,L:1
+8,1,FB,W,3,L:1
+9,1,W,,1,E:1
+10,1,W,,6,L:1
+11,1,W,,6,L:1
+12,1,W,,5,L:1
+13,1,W,,4,L:1
+14,1,W,,16,"L:1,S:1"
+15,1,G0,,6,L:1
+16,1,BS,0Y,,

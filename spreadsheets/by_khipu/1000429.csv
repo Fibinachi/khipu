@@ -1,0 +1,40 @@
+# khipu_id: 1000429
+# provenance: Pachacamac
+# region: 
+# museum: Museo de Sitio de Pachacamac MSP 1396/RN 43377
+# nickname: HP/AR 010
+# file_format: .flat
+# data_regime: 
+# doc_cluster: 
+# template_id: 
+# segmentation: none
+# n_rows: 27
+# n_cols: 0
+ORDINAL,LEVEL,COLOR1,COLOR2,VALUE,KNOTS
+1,1,W,,8171,"E:1,S:16"
+2,1,W,,619,"L:1,S:7"
+3,1,MB,W,10,S:10
+4,1,?,,60,S:7
+5,1,W,,118,"L:1,S:2"
+6,1,W,,958,"L:1,S:14"
+7,1,W,,131,"E:1,S:4"
+8,1,W,,2151,"E:1,S:8"
+9,1,W,,815,"L:1,S:9"
+10,1,W,,1150,S:11
+11,1,W,,889,"L:1,S:16"
+12,1,GG,AB,1367,"L:1,S:10"
+13,1,GG,AB,,
+14,1,W,,20,S:8
+15,1,W,,2289,"L:1,S:12"
+16,1,W,,3481,"E:1,S:15"
+17,1,MB,W,440,S:10
+18,1,MB,W,113,"L:1,S:2"
+19,1,W,,8364,"L:1,S:17"
+20,1,W,,75,"L:1,S:7"
+21,1,MB,W,1574,"L:1,S:13"
+22,1,GG,AB,676,"L:1,S:13"
+23,1,W,,1356,"L:1,S:9"
+24,1,W,,,
+25,1,W,,2553,"L:1,S:12"
+26,1,W,,3322,"L:1,S:8"
+27,1,W,,977,"L:1,S:16"

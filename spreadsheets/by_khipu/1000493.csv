@@ -1,0 +1,24 @@
+# khipu_id: 1000493
+# provenance: Chuquitanta
+# region: 
+# museum: "American Museum of Natural History, NY" B/8705
+# nickname: 
+# file_format: .tab
+# data_regime: DC3
+# doc_cluster: deep_hierarchical_grouped
+# template_id: T136
+# segmentation: value_marker
+# n_rows: 10
+# n_cols: 12
+ROW_ID,IS_MARKER_ROW,SECTION,W,W_2,W_3,W_4,W_5,W_6,W_7,W_8,W_9,W_10,W_11,W_12
+,,,MARKER,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE
+1,TRUE,1,1,,,,,,,,,,,
+2,FALSE,,30,,60,,200,100,880,800,,80,100,20
+3,FALSE,,4,,316,,10,10,9,5,,7963,347,3006
+4,FALSE,,,3000,4,316,323,5,,,50,100,4,
+5,FALSE,,843,,,117,350,50,2412,266,900,400,600,100
+6,FALSE,4,300,613,,250,73,540,,,350,350,143,6
+7,FALSE,,,15,,,50010,,,,,,,
+8,FALSE,,30,450,530,430,10,,66,,,450,250,116
+9,FALSE,6,30,237,200,,13,14,25,530,766,1417,,
+10,FALSE,,30,54,304,510,100,316,,,,,,

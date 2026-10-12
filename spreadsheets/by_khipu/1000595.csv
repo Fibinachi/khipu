@@ -1,0 +1,23 @@
+# khipu_id: 1000595
+# provenance: Incahuasi
+# region: 
+# museum: Projecto Arqueologico Incahuasi 9228-13
+# nickname: 
+# file_format: .flat
+# data_regime: 
+# doc_cluster: 
+# template_id: 
+# segmentation: none
+# n_rows: 10
+# n_cols: 0
+ORDINAL,LEVEL,COLOR1,COLOR2,VALUE,KNOTS
+1,1,AB,,,"L:2,S:19"
+2,1,AB,,,"E:2,L:1,S:29"
+3,1,AB,,,"L:1,S:17"
+4,1,AB,,20,S:10
+5,1,AB,,221,"E:1,S:4"
+6,1,MB,,6701,"E:2,S:13"
+7,1,MB,,130,S:6
+8,1,AB,,443801,"E:1,L:1,S:19"
+9,1,MB,,233401,"E:1,L:1,S:12"
+10,1,AB,,10,S:5

@@ -1,0 +1,18 @@
+# khipu_id: 1000231
+# provenance: 
+# region: 
+# museum: "Musee d Ethnographie, Geneva, Switzerland" 9570
+# nickname: 
+# file_format: .tab
+# data_regime: DC3
+# doc_cluster: deep_sparse_mixed
+# template_id: T060
+# segmentation: white_dividers
+# n_rows: 4
+# n_cols: 10
+ROW_ID,IS_MARKER_ROW,SECTION,LB,W,W_2,LB_2,LB_3,?,LB_4,LB_5,LB_6,LB_7
+,,,CONSTANT,CONSTANT,CONSTANT,CONSTANT,VARIABLE,CONSTANT,CONSTANT,VARIABLE,CONSTANT,CONSTANT
+1,FALSE,1,,,,,,,,,,
+2,FALSE,2,,,,,,,,,,
+3,FALSE,3,,,,,,,,,,
+4,FALSE,4,,,,,689,,,1,,

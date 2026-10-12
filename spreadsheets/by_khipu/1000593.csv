@@ -1,0 +1,20 @@
+# khipu_id: 1000593
+# provenance: Costa Sur
+# region: 
+# museum: Museo Nacional de Arqueologia, Anthropologia e Histora del Peru MNAAHP 4203
+# nickname: 
+# file_format: .tab
+# data_regime: unclustered
+# doc_cluster: deep_sparse_mixed
+# template_id: T179
+# segmentation: white_dividers
+# n_rows: 6
+# n_cols: 39
+ROW_ID,IS_MARKER_ROW,SECTION,?,MB,W,W_2,RM,W_3,?_2,AB,MB_2,AB_2,AB_3,G,RM_2,AB_4,?_3,AB_5,MB_3,AB_6,W_4,W_5,RM_3,W_6,?_4,?_5,AB_7,AB_8,AB_9,AB_10,AB_11,MB_4,AB_12,AB_13,AB_14,AB_15,AB_16,AB_17,MB_5,?_6,?_7
+,,,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT,VARIABLE,CONSTANT,CONSTANT,CONSTANT,VARIABLE,CONSTANT,VARIABLE,CONSTANT,VARIABLE,CONSTANT,VARIABLE,VARIABLE,VARIABLE,CONSTANT,CONSTANT,VARIABLE,VARIABLE,CONSTANT,CONSTANT,VARIABLE,CONSTANT,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,CONSTANT,VARIABLE,CONSTANT,VARIABLE,CONSTANT,CONSTANT
+1,FALSE,1,,341,,,80,,,,,,,,261,,,,,1,,,,,,,,,,,,,,,,,,,,,
+2,FALSE,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,FALSE,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,FALSE,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,FALSE,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,FALSE,6,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

@@ -1,0 +1,18 @@
+# khipu_id: 1000649
+# provenance: Huaca San Pedro, Armatambo
+# region: 
+# museum: Museo Nac., Pueblo Libre 35268A
+# nickname: 
+# file_format: .tab
+# data_regime: DC1
+# doc_cluster: census_format_paired
+# template_id: T195
+# segmentation: value_marker
+# n_rows: 4
+# n_cols: 10
+ROW_ID,IS_MARKER_ROW,SECTION,MB,YB,HB,HB_2,W,HB_3,HB_4,HB_5,RG,AB
+,,,MARKER,CONSTANT,CONSTANT,CONSTANT,VARIABLE,VARIABLE,CONSTANT,CONSTANT,CONSTANT,CONSTANT
+1,TRUE,1,,,,,,,,,,
+2,FALSE,1,1,,,,1,1,,,,
+3,FALSE,1,1,,,,,,,,,
+4,FALSE,1,1,,,,1,,,,,

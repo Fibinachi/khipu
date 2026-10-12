@@ -1,0 +1,59 @@
+# khipu_id: 1000335
+# provenance: unknown
+# region: 
+# museum: "Museum Fur Volkerkunde, Munich, W. Germany" G.3320
+# nickname: 
+# file_format: .flat
+# data_regime: 
+# doc_cluster: 
+# template_id: 
+# segmentation: none
+# n_rows: 46
+# n_cols: 0
+ORDINAL,LEVEL,COLOR1,COLOR2,VALUE,KNOTS
+1,1,AB,,35,"L:1,S:3"
+2,1,W,,,S:4
+3,1,AB,,,S:1
+4,1,MB,,1,E:1
+5,1,MB,,,
+6,1,MB,,4,L:1
+7,1,W,,6,L:1
+8,1,AB,,33,"L:1,S:3"
+9,1,W,,522,"L:1,S:7"
+10,1,AB,,,
+11,1,MB,,,
+12,1,KB,,4,L:1
+13,1,W,,,
+14,1,AB,,25,"L:1,S:2"
+15,1,W,,20,S:6
+16,1,MB,,,
+17,1,MB,,5,L:1
+18,1,MB,,,
+19,1,W,,,S:1
+20,1,MB,,35,"L:1,S:3"
+21,1,W,,645,"L:1,S:10"
+22,1,AB,,,
+23,1,MB,,,
+24,1,MB,,,
+25,1,MB,,2,L:1
+26,1,W,,7,L:1
+27,1,MB,,55,"L:1,S:5"
+28,1,AB,,40,S:10
+29,1,MB,,,
+30,1,MB,,,
+31,1,MB,,,
+32,1,W,,12,"L:1,S:1"
+33,1,AB,,34,"L:1,S:3"
+34,1,W,,80,S:15
+35,1,AB,,,
+36,1,MB,,,
+37,1,MB,,,
+38,1,MB,,4,L:1
+39,1,W,,7,L:1
+40,1,AB,,23,"L:1,S:2"
+41,1,W,,60,"'':2,S:9"
+42,1,AB,,,
+43,1,MB,,,
+44,1,MB,,,
+45,1,MB,,4,L:1
+46,1,W,,,S:1

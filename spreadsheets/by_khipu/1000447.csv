@@ -1,0 +1,23 @@
+# khipu_id: 1000447
+# provenance: Pachacamac
+# region: 
+# museum: Museo de Sitio de Pachacamac MSP 1423/RN 43404
+# nickname: HP/AR 028
+# file_format: .flat
+# data_regime: 
+# doc_cluster: 
+# template_id: 
+# segmentation: none
+# n_rows: 10
+# n_cols: 0
+ORDINAL,LEVEL,COLOR1,COLOR2,VALUE,KNOTS
+1,1,RM,,,
+2,1,MB,,,
+3,1,MB,,,
+4,1,W,MB,,
+5,1,W,KB,,
+6,1,MB,,,
+7,1,MB,,,
+8,1,MB,,,
+9,1,MB,,,
+10,1,MB,,,

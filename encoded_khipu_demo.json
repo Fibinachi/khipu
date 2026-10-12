@@ -1,0 +1,241 @@
+{
+  "cord_id": "P0",
+  "level": 0,
+  "color": "W",
+  "label": "demo grain ledger",
+  "value": null,
+  "knots": [],
+  "children": [
+    {
+      "cord_id": "P1",
+      "level": 1,
+      "color": "W",
+      "label": "barley",
+      "value": 24000,
+      "knots": [
+        {
+          "position": 3,
+          "digit": 4,
+          "knot_type": "single",
+          "turns": 4
+        },
+        {
+          "position": 4,
+          "digit": 2,
+          "knot_type": "single",
+          "turns": 2
+        }
+      ],
+      "children": [
+        {
+          "cord_id": "P1S1",
+          "level": 2,
+          "color": "W",
+          "label": "barley[0]",
+          "value": 6000,
+          "knots": [
+            {
+              "position": 3,
+              "digit": 6,
+              "knot_type": "single",
+              "turns": 6
+            }
+          ],
+          "children": []
+        },
+        {
+          "cord_id": "P1S2",
+          "level": 2,
+          "color": "W",
+          "label": "barley[1]",
+          "value": 3000,
+          "knots": [
+            {
+              "position": 3,
+              "digit": 3,
+              "knot_type": "single",
+              "turns": 3
+            }
+          ],
+          "children": []
+        },
+        {
+          "cord_id": "P1S3",
+          "level": 2,
+          "color": "W",
+          "label": "barley[2]",
+          "value": 15000,
+          "knots": [
+            {
+              "position": 3,
+              "digit": 5,
+              "knot_type": "single",
+              "turns": 5
+            },
+            {
+              "position": 4,
+              "digit": 1,
+              "knot_type": "single",
+              "turns": 1
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "cord_id": "P2",
+      "level": 1,
+      "color": "B",
+      "label": "wheat",
+      "value": 4400,
+      "knots": [
+        {
+          "position": 2,
+          "digit": 4,
+          "knot_type": "single",
+          "turns": 4
+        },
+        {
+          "position": 3,
+          "digit": 4,
+          "knot_type": "single",
+          "turns": 4
+        }
+      ],
+      "children": [
+        {
+          "cord_id": "P2S1",
+          "level": 2,
+          "color": "B",
+          "label": "wheat[0]",
+          "value": 1200,
+          "knots": [
+            {
+              "position": 2,
+              "digit": 2,
+              "knot_type": "single",
+              "turns": 2
+            },
+            {
+              "position": 3,
+              "digit": 1,
+              "knot_type": "single",
+              "turns": 1
+            }
+          ],
+          "children": []
+        },
+        {
+          "cord_id": "P2S2",
+          "level": 2,
+          "color": "B",
+          "label": "wheat[1]",
+          "value": 800,
+          "knots": [
+            {
+              "position": 2,
+              "digit": 8,
+              "knot_type": "single",
+              "turns": 8
+            }
+          ],
+          "children": []
+        },
+        {
+          "cord_id": "P2S3",
+          "level": 2,
+          "color": "B",
+          "label": "wheat[2]",
+          "value": 2400,
+          "knots": [
+            {
+              "position": 2,
+              "digit": 4,
+              "knot_type": "single",
+              "turns": 4
+            },
+            {
+              "position": 3,
+              "digit": 2,
+              "knot_type": "single",
+              "turns": 2
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "cord_id": "P3",
+      "level": 1,
+      "color": "R",
+      "label": "laborers",
+      "value": 40,
+      "knots": [
+        {
+          "position": 1,
+          "digit": 4,
+          "knot_type": "single",
+          "turns": 4
+        }
+      ],
+      "children": [
+        {
+          "cord_id": "P3S1",
+          "level": 2,
+          "color": "R",
+          "label": "laborers[0]",
+          "value": 12,
+          "knots": [
+            {
+              "position": 0,
+              "digit": 2,
+              "knot_type": "long",
+              "turns": 2
+            },
+            {
+              "position": 1,
+              "digit": 1,
+              "knot_type": "single",
+              "turns": 1
+            }
+          ],
+          "children": []
+        },
+        {
+          "cord_id": "P3S2",
+          "level": 2,
+          "color": "R",
+          "label": "laborers[1]",
+          "value": 8,
+          "knots": [
+            {
+              "position": 0,
+              "digit": 8,
+              "knot_type": "long",
+              "turns": 8
+            }
+          ],
+          "children": []
+        },
+        {
+          "cord_id": "P3S3",
+          "level": 2,
+          "color": "R",
+          "label": "laborers[2]",
+          "value": 20,
+          "knots": [
+            {
+              "position": 1,
+              "digit": 2,
+              "knot_type": "single",
+              "turns": 2
+            }
+          ],
+          "children": []
+        }
+      ]
+    }
+  ]
+}

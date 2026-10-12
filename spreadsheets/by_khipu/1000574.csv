@@ -1,0 +1,61 @@
+# khipu_id: 1000574
+# provenance: Región Sur, Quillagua, Valle de Loa
+# region: 
+# museum: Museo Nacional de Arqueología, Antropología e Historia del Perú MNAAHP 5719
+# nickname: 
+# file_format: .flat
+# data_regime: 
+# doc_cluster: 
+# template_id: 
+# segmentation: none
+# n_rows: 48
+# n_cols: 0
+ORDINAL,LEVEL,COLOR1,COLOR2,VALUE,KNOTS
+1,1,AB,,,"E:4,L:3,S:2"
+2,1,MB,,,"E:1,L:3,S:7"
+3,1,MB,,,"E:1,L:2,S:6"
+4,1,AB,,,
+5,1,MB,,,
+6,1,MB,,,
+7,1,MB,,,
+8,1,MB,,,
+9,1,MB,,,
+10,1,MB,,,"L:1,S:8"
+11,1,AB,,,L:1
+12,1,AB,,,"L:1,S:1"
+13,1,AB,,,
+14,1,MB,,,"L:1,S:1"
+15,1,AB,,21,"E:1,S:2"
+16,1,AB,,,"L:1,S:3"
+17,1,AB,,,
+18,1,AB,,,
+19,1,AB,,,S:1
+20,1,W,MB,,
+21,1,W,MB,,
+22,1,W,MB,,
+23,1,W,MB,,S:1
+24,1,W,MB,,
+25,1,W,MB,,
+26,1,W,MB,1,E:1
+27,1,W,MB,,
+28,1,MB,,,S:1
+29,1,AB,,,"L:1,S:1"
+30,1,AB,,,"L:1,S:1"
+31,1,AB,,11,"E:1,S:1"
+32,1,AB,,,
+33,1,AB,,,
+34,1,AB,,,
+35,1,?,,,
+36,1,?,,,
+37,1,W,AB,,"L:1,S:1"
+38,1,MB,,,
+39,1,?,,,
+40,1,MB,,,L:1
+41,1,W,AB,,L:1
+42,1,W,MB,,L:1
+43,1,AB,,,
+44,1,AB,MB,,
+45,1,KB,,,"L:1,S:2"
+46,1,AB,MB,,"L:1,S:1"
+47,1,AB,MB,,
+48,1,MB,,,S:1

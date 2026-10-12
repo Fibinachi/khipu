@@ -1,0 +1,88 @@
+# khipu_id: 1000538
+# provenance: Pisco
+# region: "South Coast, Peru"
+# museum: "Ethnologisches Museum, Berlin, Germany" VA 44677 a(b)
+# nickname: 
+# file_format: .flat
+# data_regime: 
+# doc_cluster: 
+# template_id: 
+# segmentation: none
+# n_rows: 75
+# n_cols: 0
+ORDINAL,LEVEL,COLOR1,COLOR2,VALUE,KNOTS
+1,1,?,,,
+2,1,PK,AB,73,"L:1,S:7"
+3,1,BG,,,S:7
+4,1,LC,W,,S:2
+5,1,MB,W,,S:7
+6,1,BG,,,S:6
+7,1,MB,W,,S:5
+8,1,BG,,,S:5
+9,1,MB,W,,S:9
+10,1,BG,,,S:9
+11,1,MB,W,,S:1
+12,1,BG,,,S:1
+13,1,MB,W,,S:6
+14,1,BG,,,S:1
+15,1,MB,W,,S:6
+16,1,BG,,,S:6
+17,1,MB,W,,S:1
+18,1,BG,,,S:1
+19,1,MB,W,,S:4
+20,1,BG,,,S:4
+21,1,MB,W,,S:1
+22,1,BG,,,S:9
+23,1,MB,W,,S:6
+24,1,BG,,,S:1
+25,1,MB,AB,,
+26,1,MB,AB,,S:3
+27,1,MB,AB,,S:4
+28,1,AB,W,,S:3
+29,1,MB,AB,,
+30,1,AB,AB,,S:3
+31,1,MB,AB,,S:3
+32,1,MB,AB,,S:4
+33,1,MB,AB,,
+34,1,MB,AB,,S:3
+35,1,BG,W,,S:5
+36,1,AB,W,,S:2
+37,1,KB,BG,,S:4
+38,1,AB,W,,S:3
+39,1,BG,W,,S:1
+40,1,MB,AB,,
+41,1,BG,W,,S:5
+42,1,MB,AB,,S:3
+43,1,BG,W,,S:2
+44,1,AB,W,,
+45,1,BG,W,,S:1
+46,1,AB,W,,S:2
+47,1,BG,W,,S:2
+48,1,AB,W,,S:2
+49,1,BG,W,,
+50,1,AB,W,,S:4
+51,1,BG,W,,
+52,1,AB,W,,
+53,1,BG,W,,
+54,1,MB,AB,,S:3
+55,1,BG,W,,
+56,1,MB,W,,
+57,1,BG,W,,
+58,1,AB,W,,
+59,1,BG,W,,
+60,1,AB,W,,
+61,1,BG,W,,
+62,1,MB,W,,
+63,1,BG,W,,
+64,1,AB,W,,
+65,1,BG,W,,
+66,1,AB,W,,
+67,1,BG,W,,
+68,1,AB,W,,
+69,1,BG,W,,
+70,1,AB,W,,
+71,1,BG,W,,
+72,1,MB,W,,
+73,1,BG,W,,
+74,1,AB,W,,
+75,1,?,,,

@@ -1,0 +1,26 @@
+# khipu_id: 1000582
+# provenance: unknown
+# region: 
+# museum: Museo Nacional de Arqueologia, Anthropologia e Historia del Peru MNAAHP 5726 B
+# nickname: 
+# file_format: .tab
+# data_regime: unclustered
+# doc_cluster: census_format_paired
+# template_id: T177
+# segmentation: color_cycle
+# n_rows: 12
+# n_cols: 4
+ROW_ID,IS_MARKER_ROW,SECTION,MB,W,AB,AB_2
+,,,CONSTANT,VARIABLE,CONSTANT,CONSTANT
+1,FALSE,1,,60,,
+2,FALSE,1,,,,
+3,FALSE,1,,,,
+4,FALSE,1,,,,
+5,FALSE,1,,,,
+6,FALSE,1,,,,
+7,FALSE,1,,,,
+8,FALSE,1,,,,
+9,FALSE,1,,,,
+10,FALSE,1,,,,
+11,FALSE,1,,,,
+12,FALSE,1,,,,

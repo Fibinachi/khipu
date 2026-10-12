@@ -1,0 +1,18 @@
+# khipu_id: 1000505
+# provenance: Ica
+# region: "South Coast, Peru"
+# museum: "Ethnologisches Museum, Berlin, Germany" 47082
+# nickname: 
+# file_format: .tab
+# data_regime: DC6
+# doc_cluster: census_format_paired
+# template_id: T143
+# segmentation: value_marker
+# n_rows: 4
+# n_cols: 13
+ROW_ID,IS_MARKER_ROW,SECTION,MB,MB_2,MB_3,KB,AB,AB_2,MB_4,MB_5,MB_6,MB_7,AB_3,KB_2,KB_3
+,,,MARKER,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,CONSTANT,CONSTANT
+1,TRUE,1,,5,14,19,,,27,11,,53,8,11,17
+2,FALSE,1,25,24,12,,701,9,21,14,,,,,
+3,FALSE,1,25,26,36,32,19,11,53,21,21,12,24,,
+4,FALSE,1,25,8,,,,,,,,,,,

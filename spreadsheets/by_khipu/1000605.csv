@@ -1,0 +1,26 @@
+# khipu_id: 1000605
+# provenance: Incahuasi
+# region: 
+# museum: Proyecto Incahuasi 12703-2014
+# nickname: 
+# file_format: .tab
+# data_regime: unclustered
+# doc_cluster: deep_sparse_mixed
+# template_id: T181
+# segmentation: value_marker
+# n_rows: 12
+# n_cols: 35
+ROW_ID,IS_MARKER_ROW,SECTION,BL,W,AB,AB_2,AB_3,AB_4,W_2,MB,AB_5,AB_6,AB_7,W_3,MB_2,W_4,W_5,W_6,AB_8,W_7,W_8,AB_9,AB_10,AB_11,AB_12,BL_2,KB,MB_3,AB_13,MB_4,MB_5,BL_3,KB_2,MB_6,AB_14,AB_15,AB_16
+,,,MARKER,CONSTANT,CONSTANT,VARIABLE,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT,VARIABLE,CONSTANT,VARIABLE,CONSTANT,CONSTANT,VARIABLE,VARIABLE,VARIABLE,VARIABLE,CONSTANT,VARIABLE,CONSTANT,CONSTANT,CONSTANT,VARIABLE,VARIABLE,VARIABLE,CONSTANT,CONSTANT,VARIABLE,CONSTANT,CONSTANT,CONSTANT,VARIABLE
+1,TRUE,1,,,,,,,,,,,,,,1,,,,,,,,,1,,,,,,,,,,,,
+2,FALSE,1,10,,71,,,,,,,,,,,,,31,,,1,,,,,,,,,,,,,,,,
+3,FALSE,1,10,,,31,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,FALSE,1,10,,,1,51,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,FALSE,1,10,,,,,,,,,,,201,,,,,61,,,,,,,,,,,,,,,,,,
+6,FALSE,1,,1,,,,11,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,
+7,FALSE,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,FALSE,,,,,,,,,,,,,,,121,,,,21,,,,,,,,,,,,,,,,,
+9,FALSE,4,,,,,,,,,,,,,,,,,,,10,,,,,,,,,,,,,,,,
+10,FALSE,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12,FALSE,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

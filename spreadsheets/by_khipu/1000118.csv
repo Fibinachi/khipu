@@ -1,0 +1,28 @@
+# khipu_id: 1000118
+# provenance: Ica
+# region: 
+# museum: "Museum für Völkerkunde, Berlin" VA47096
+# nickname: 
+# file_format: .tab
+# data_regime: DC3
+# doc_cluster: large_value_flat
+# template_id: T030
+# segmentation: color_cycle
+# n_rows: 14
+# n_cols: 3
+ROW_ID,IS_MARKER_ROW,SECTION,B,BB,YG
+,,,VARIABLE,VARIABLE,VARIABLE
+1,FALSE,1,436,1854,
+2,FALSE,1,97357,130,2398
+3,FALSE,1,40,226,
+4,FALSE,1,1856,2511,
+5,FALSE,1,994,4156,
+6,FALSE,1,22469,5343,
+7,FALSE,1,17436,820,
+8,FALSE,1,41883,130,9528
+9,FALSE,1,994,412,
+10,FALSE,1,22149,5716,
+11,FALSE,1,136,16,
+12,FALSE,1,67,49,
+13,FALSE,1,23,76,
+14,FALSE,1,3,10,

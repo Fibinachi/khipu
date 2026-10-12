@@ -1,0 +1,613 @@
+khipu_id,n_cords,n_signatures,n_shared,jaccard,weighted_overlap,has_AB_BG,has_WWW,has_BG_split,combined,provenance,region,museum
+1000331,171,20,20,1.0,1.0,1,1,1,2.7,,,"""Museo Amano, Lima, Peru"""
+1000396,221,52,15,0.2632,0.9591,1,1,1,1.9223,"""Huaura Valley, near Lima, on Santa Rosalia Hacienda""",,"""Museum fur Volkerkunde, Vienna"""
+1000507,132,37,12,0.2667,0.924,1,1,1,1.8907,Pachacamac,"""Central Coast, Peru""","""Ethnologisches Museum, Berlin, Germany"""
+1000321,1227,144,17,0.1156,0.9825,1,1,1,1.7981, , ,Museo Temple Radicati
+1000570,125,38,11,0.234,0.9006,1,1,0,1.6346,unknown,,"Museo Nacional de Arqueología, Antropología, e Historia del Perú"
+1000287,260,59,13,0.197,0.9123,1,1,0,1.6093,Nazca,,"""Museum for World Culture, Goteborg"""
+1000238,326,73,14,0.1772,0.924,1,1,0,1.6012,,,Museo Larco
+1000012,116,37,10,0.2128,0.883,1,1,0,1.5958,Leymebamba,Chachapoyas,"""Centro Mallqui, Leymebamba, Amazonas"""
+1000497,63,27,9,0.2368,0.8538,1,1,0,1.5906,"""Hda. Huando, Chancay""",,"""American Museum of Natural History, NY"""
+1000650,198,69,13,0.1711,0.9006,1,1,0,1.5717,"Huaca San Pedro, Armatambo",,"Museo Nac., Pueblo Libre"
+1000292,866,124,16,0.125,0.9415,1,1,0,1.5665,Nazca,,"""Museum for World Culture, Goteborg"""
+1000020,769,102,14,0.1296,0.9123,1,1,0,1.5419,Leymebamba,Chachapoyas,"""Centro Mallqui, Leymebamba, Amazonas"""
+1000011,44,16,11,0.44,0.8772,0,1,0,1.5172,Leymebamba,Chachapoyas,"""Centro Mallqui, Leymebamba, Amazonas"""
+1000482,30,17,10,0.3704,0.7836,1,0,0,1.454,Chuquitanta,,"""American Museum of Natural History, NY"""
+1000648,216,27,9,0.2368,0.8889,1,0,0,1.4257,"Monte de Cacatilla, Valle de Nazca",,"Museo Nac., Pueblo Libre"
+1000547,233,46,8,0.1379,0.7778,1,1,0,1.4157,Ica,"""South Coast, Peru""","""Ethnologisches Museum, Berlin, Germany"""
+1000587,41,12,9,0.3913,0.8129,0,1,0,1.4042,unknown,,"Museo Nacional de Arqueologia, Anthropologia e Historia del Peru"
+1000316,126,26,11,0.3143,0.883,0,1,0,1.3973,"""Playa Miller #6, Arica, Chile""",,Museo Chileno de Arte Precolombino
+1000567,257,21,10,0.3226,0.8421,0,1,0,1.3647,unknown,,"Museo Nacional de Arqueología, Antropología e Historia de Perú"
+1000505,120,19,9,0.3,0.8596,0,1,0,1.3596,Ica,"""South Coast, Peru""","""Ethnologisches Museum, Berlin, Germany"""
+1000299,256,50,14,0.25,0.9064,0,1,0,1.3564,,,"""Museo Arqueologico San Miguel de Azapa (MASMA), Arica, Chile"""
+1000654,57,33,11,0.2619,0.883,0,1,0,1.3449,"Armatambo, Huaca San Pedro",,"Museo Nac., Pueblo Libre"
+1000008,59,14,8,0.3077,0.8363,0,1,0,1.344,Leymebamba,Chachapoyas,"""Centro Mallqui, Leymebamba, Amazonas"""
+1000280,273,65,14,0.1972,0.9415,0,1,0,1.3387,,,Museo Temple Radicati
+1000593,100,15,8,0.2963,0.8363,0,1,0,1.3326,Costa Sur,,"Museo Nacional de Arqueologia, Anthropologia e Histora del Peru"
+1000387,33,11,8,0.3478,0.7836,0,1,0,1.3314,"""Chancay, Central Coast""",,"""Lowe Art Museum, University of Miami"""
+1000329,304,43,12,0.2353,0.8889,0,1,0,1.3242,Paracas,,"""Museum for World Culture, Goteborg"""
+1000293,321,57,13,0.2031,0.9006,0,1,0,1.3037,Paracas,,"""Museum for World Culture, Goteborg"""
+1000565,367,31,10,0.2439,0.8596,0,1,0,1.3035,Costa Sur,,"Museo Nacional de Arqueología, Antropología e Historia de Perú"
+1000098,49,14,7,0.2593,0.8129,0,1,0,1.2722,Nazca,,"""Peabody Museum, Harvard University"""
+1000609,131,19,9,0.3,0.7719,0,1,0,1.2719,Incahuasi,,Proyecto Incahuasi
+1000586,180,30,10,0.25,0.8129,0,1,0,1.2629,unknown,,"Museo Nacional de Arqueologia, Anthropologia e Historia del Peru"
+1000624,250,33,9,0.2045,0.8538,0,1,0,1.2583,Incahuasi,,Proyecto Incahuasi
+1000332,160,33,8,0.1778,0.5789,1,1,0,1.2567,,,Museo Larco
+1000503,70,24,7,0.1892,0.5673,1,1,0,1.2565,"""Huaca Perez, Lima (a.k.a Hda. Infantas and Tambo Inca)""","""Central Coast, Peru""","""Musee Quai Branly, Paris, France"""
+1000618,133,47,10,0.1754,0.8655,0,1,0,1.2409,Incahuasi,,Proyecto Incahuasi
+1000099,43,11,9,0.4091,0.8304,0,0,0,1.2395,,,"""Peabody Museum, Harvard University"""
+1000622,247,43,10,0.1887,0.8421,0,1,0,1.2308,Incahuasi,,Proyecto Incahuasi
+1000623,322,19,8,0.2581,0.7719,0,1,0,1.23,Incahuasi,,Proyecto Incahuasi
+1000508,236,49,10,0.1695,0.8538,0,1,0,1.2233,Pachacamac,"""Central Coast, Peru""","""Ethnologisches Museum, Berlin, Germany"""
+1000608,88,12,7,0.28,0.7427,0,1,0,1.2227,Incahuasi,,Proyecto Incahuasi
+1000605,213,48,10,0.1724,0.848,0,1,0,1.2204,Incahuasi,,Proyecto Incahuasi
+1000340,230,57,11,0.1667,0.8421,0,1,0,1.2088,unknown,,Museo Temple Radicati
+1000279,588,82,11,0.1209,0.8772,0,1,0,1.1981,Mollepampa,"""Inka, Playa Miller""",Museo Chileno de Arte Precolombino
+1000007,343,81,11,0.1222,0.8655,0,1,0,1.1877,Leymebamba,Chachapoyas,"""Centro Mallqui, Leymebamba, Amazonas"""
+1000495,133,39,9,0.18,0.807,0,1,0,1.187,"""Ica Valley, near Callango""",,"""American Museum of Natural History, NY"""
+1000415,58,20,7,0.2121,0.7719,0,1,0,1.184,Acari,,Museo Regional de Ica
+1000346,74,15,9,0.3462,0.8363,0,0,0,1.1825,,,"""Musee de l Homme, Paris, France"""
+1000659,56,28,9,0.2308,0.2515,1,1,1,1.1823,"Armatambo, Huaca San Pedro",,"Museo Nac., Pueblo Libre"
+1000322,40,17,7,0.2333,0.7427,0,1,0,1.176,Nazca,,"""Museum of Worldculture, Goteborg, Sweden"""
+1000591,92,43,8,0.1455,0.8304,0,1,0,1.1759,Pachacamac,,"Museum fur Volkerkunde, Leipzig"
+1000100,25,12,5,0.1852,0.7836,0,1,0,1.1688,,,"""Peabody Museum, Harvard University"""
+1000386,32,19,6,0.1818,0.7544,0,1,0,1.1362,Cuzco,,"""Lowe Art Museum, University of Miami"""
+1000009,126,48,13,0.2364,0.8889,0,0,0,1.1253,Leymebamba,Chachapoyas,"""Centro Mallqui, Leymebamba, Amazonas"""
+1000010,88,32,10,0.2381,0.8772,0,0,0,1.1153,Leymebamba,Chachapoyas,"""Centro Mallqui, Leymebamba, Amazonas"""
+1000513,113,21,6,0.1714,0.7427,0,1,0,1.1141,Pachacamac,"""Central Coast, Peru""","""Ethnologisches Museum, Berlin, Germany"""
+1000575,66,14,5,0.1724,0.7368,0,1,0,1.1092,unknown,,"Museo Nacional de Arqueologia, Antropologia e Historia del Peru"
+1000273,371,58,9,0.1304,0.7719,0,1,0,1.1023,Santa,,Museo Temple Radicati
+1000592,51,5,4,0.1905,0.7076,0,1,0,1.0981,Pachacamac,,"Museum fur Volkerkunde, Leipzig"
+1000509,369,46,12,0.2222,0.8363,0,0,0,1.0585,"""Santa Clara, Nazca""","""South Coast, Peru""","""Ethnologisches Museum, Berlin, Germany"""
+1000385,98,6,4,0.1818,0.6667,0,1,0,1.0485,,,Banco Central de la Reserva
+1000401,133,42,9,0.1698,0.6784,0,1,0,1.0482,Valle de Ica Hacienda Callango Ocucaje,,Museo Regional de Ica
+1000381,89,16,4,0.125,0.7193,0,1,0,1.0443,,,Museo Temple Radicati
+1000529,62,9,3,0.1154,0.7135,0,1,0,1.0289,Pachacamac,"""Central Coast, Peru""","""Ethnologisches Museum, Berlin, Germany"""
+1000574,82,24,8,0.2222,0.6023,0,1,0,1.0245,"Región Sur, Quillagua, Valle de Loa",,"Museo Nacional de Arqueología, Antropología e Historia del Perú"
+1000165,64,4,3,0.1429,0.6725,0,1,0,1.0154,probably Central Coast Late Period,,"""American Museum of Natural History, NY"""
+1000573,39,14,6,0.2143,0.5906,0,1,0,1.0049,unknown,,"Museo Nacional de Arqueología, Antropología e Historia del Perú"
+1000519,190,42,6,0.1071,0.3977,1,1,0,1.0048,Pachacamac,"""Central Coast, Peru""","""Ethnologisches Museum, Berlin, Germany"""
+1000353,31,26,8,0.2105,0.7836,0,0,0,0.9941,,,Museo Temple Radicati
+1000564,183,47,7,0.1167,0.3626,1,1,0,0.9793,unknown,,"Museo Nacional de Arqueología, Antropología e Historia de Perú"
+1000317,57,29,8,0.1951,0.7836,0,0,0,0.9787,"""Playa Miller #6, Arica, Chile""",,Museo Chileno de Arte Precolombino
+1000496,30,18,5,0.1515,0.5263,1,0,0,0.9778,"""Huando, Chancay, Peru (Gaffron Collection)""",,"""American Museum of Natural History, NY"""
+1000298,275,45,9,0.1607,0.6023,0,1,0,0.963,"""Playa Miller #6, Arica, Chile""",,"""Museo Arqueologico San Miguel de Azapa (MASMA), Arica, Chile"""
+1000268,72,9,5,0.2083,0.7544,0,0,0,0.9627,,,Banco Central de la Reserva
+1000359,149,43,9,0.1667,0.7953,0,0,0,0.962,,,Museo Temple Radicati
+1000304,91,12,8,0.3333,0.6257,0,0,0,0.959,Atarco,Nazca,"""Museum Fur Volkerkunde, Munich, W. Germany"""
+1000506,167,41,11,0.22,0.4211,1,0,0,0.9411,Huacho,"""Central Coast, Peru""","""Ethnologisches Museum, Berlin, Germany"""
+1000301,105,12,8,0.3333,0.5965,0,0,0,0.9298,Lluta Valley,,Museo Chileno de Arte Precolombino
+1000110,21,10,5,0.2,0.7193,0,0,0,0.9193,,,"""Peabody Museum, Harvard University"""
+1000266,54,9,5,0.2083,0.6959,0,0,0,0.9042,,,Banco Central de la Reserva
+1000540,59,19,8,0.2581,0.6199,0,0,0,0.878,Pachacamac,"""Central Coast, Peru""","""Ethnologisches Museum, Berlin, Germany"""
+1000269,105,12,5,0.1852,0.6901,0,0,0,0.8753,,,Banco Central de la Reserva
+1000323,218,32,10,0.2381,0.6316,0,0,0,0.8697,Nazca,,"""Museum of Worldculture, Goteborg, Sweden"""
+1000307,20,7,6,0.2857,0.5789,0,0,0,0.8646,Atarco,Nazca,"""Museum Fur Volkerkunde, Munich, W. Germany"""
+1000488,39,25,5,0.125,0.7368,0,0,0,0.8618,unknown,,"""American Museum of Natural History, NY"""
+1000267,61,16,5,0.1613,0.6959,0,0,0,0.8572,,,Banco Central de la Reserva
+1000355,7,5,3,0.1364,0.7135,0,0,0,0.8499,,,Museo Temple Radicati
+1000021,122,41,7,0.1296,0.5088,0,1,0,0.8384,Leymebamba,Chachapoyas,"""Centro Mallqui, Leymebamba, Amazonas"""
+1000305,75,10,6,0.25,0.5789,0,0,0,0.8289,Atarco,Nazca,"""Museum Fur Volkerkunde, Munich, W. Germany"""
+1000619,125,18,3,0.0857,0.538,0,1,0,0.8237,Incahuasi,,Proyecto Incahuasi
+1000526,268,87,12,0.1263,0.193,1,1,0,0.8193,unknown,unknown,"""Ethnologisches Museum, Berlin, Germany"""
+1000366,96,18,7,0.2258,0.3918,0,1,0,0.8176,,,"""Musee de l Homme, Paris, France"""
+1000543,144,39,3,0.0536,0.462,1,0,0,0.8156,Huacho,"""North-Central Coast, Peru""","""Ethnologisches Museum, Berlin, Germany"""
+1000549,71,22,8,0.2353,0.3801,0,1,0,0.8154,Unknown,unknown,"""Ethnologisches Museum, Berlin, Germany"""
+1000542,134,26,4,0.0952,0.7076,0,0,0,0.8028,Huacho,"""North-Central Coast, Peru""","""Ethnologisches Museum, Berlin, Germany"""
+1000300,89,10,6,0.25,0.5439,0,0,0,0.7939,Lluta Valley,,Museo Chileno de Arte Precolombino
+1000406,125,46,5,0.082,0.5088,0,1,0,0.7908,Valle de Ica Hacienda Callango Ocucaje,,Museo Regional de Ica
+1000598,176,15,6,0.2069,0.5789,0,0,0,0.7858,Incahuasi,,Proyecto Incahuasi
+1000302,100,11,5,0.1923,0.5848,0,0,0,0.7771,Lluta Valley,,Museo Chileno de Arte Precolombino
+1000524,164,49,7,0.1129,0.1579,1,1,0,0.7708,Pachacamac,"""Central Coast, Peru""","""Ethnologisches Museum, Berlin, Germany"""
+1000655,29,22,6,0.1667,0.6023,0,0,0,0.769,"Armatambo, Huaca San Pedro",,"Museo Nac., Pueblo Libre"
+1000585,33,10,5,0.2,0.5673,0,0,0,0.7673,unknown,,"Museo Nacion de Arqueologia, Anthropologia e Historia del Peru"
+1000327,55,17,7,0.2333,0.3333,0,1,0,0.7666,Pachacamac,,"""Museum of Worldculture, Goteborg, Sweden"""
+1000597,90,11,5,0.1923,0.5673,0,0,0,0.7596,Incahuasi,,Projecto Incahuasi
+1000477,151,25,6,0.1538,0.6023,0,0,0,0.7561,"""Ica Valley, near Callango""",,"""American Museum of Natural History, NY"""
+1000658,272,61,8,0.1096,0.1462,1,1,0,0.7558,"Armatambo, Huaca San Pedro",,"Museo Nac., Pueblo Libre"
+1000306,19,4,4,0.2,0.5556,0,0,0,0.7556,Atarco,Nazca,"""Museum Fur Volkerkunde, Munich, W. Germany"""
+1000601,47,10,5,0.2,0.5556,0,0,0,0.7556,Incahuasi,,Proyecto Incahuasi
+1000309,42,5,4,0.1905,0.5614,0,0,0,0.7519,Atarco,Nazca,"""Museum Fur Volkerkunde, Munich, W. Germany"""
+1000324,65,13,6,0.2222,0.3275,0,1,0,0.7497,Pachacamac,,"""Museum of Worldculture, Goteborg, Sweden"""
+1000651,22,15,4,0.129,0.1111,1,1,0,0.7401,"Armatambo, Huaca San Pedro",,"Museo Nac., Pueblo Libre"
+1000612,381,27,8,0.2051,0.3333,0,1,0,0.7384,Incahuasi,,Proyecto Incahuasi
+1000572,11,6,4,0.1818,0.5556,0,0,0,0.7374,unknown,,"Museo Nacional de Arqueología, Antropología e Historia del Perú"
+1000101,28,9,5,0.2083,0.3275,0,1,0,0.7358,"""La puntilla, between Paracas and Pisco""",,"""Peabody Museum, Harvard University"""
+1000455,91,16,5,0.1613,0.5731,0,0,0,0.7344,,"""Inka, Late Horizon""",Dallas Museum of Art
+1000561,19,7,4,0.1739,0.5556,0,0,0,0.7295,Ica,"""South Coast, Peru""","""Ethnologisches Museum, Berlin, Germany"""
+1000018,442,43,9,0.1667,0.3626,0,1,0,0.7293,Leymebamba,Chachapoyas,"""Centro Mallqui, Leymebamba, Amazonas"""
+1000325,44,15,5,0.1667,0.3567,0,1,0,0.7234,Pachacamac,,"""Museum of Worldculture, Goteborg, Sweden"""
+1000637,78,38,7,0.1373,0.5848,0,0,0,0.7221,Incahuasi,,Proyecto Incahuasi
+1000552,86,33,5,0.1042,0.1111,1,1,0,0.7153,Ica,"""South Coast, Peru""","""Ethnologisches Museum, Berlin, Germany"""
+1000515,79,38,5,0.0943,0.117,1,1,0,0.7113,unknown,unknown,"""Ethnologisches Museum, Berlin, Germany"""
+1000337,69,29,6,0.1395,0.5614,0,0,0,0.7009,unknown,,Museo Temple Radicati
+1000606,25,8,4,0.1667,0.5322,0,0,0,0.6989,Incahuasi,,Proyecto Incahuasi
+1000494,90,38,4,0.0741,0.117,1,1,0,0.6911,Chuquitanta,,"""American Museum of Natural History, NY"""
+1000600,15,5,4,0.1905,0.4971,0,0,0,0.6876,Incahuasi,,Proyecto Incahuasi
+1000097,87,20,6,0.1765,0.3099,0,1,0,0.6864,,,"""Peabody Museum, Harvard University"""
+1000604,237,26,5,0.122,0.5614,0,0,0,0.6834,Incahuasi,,Proyecto Incahuasi
+1000514,167,54,6,0.0882,0.0936,1,1,0,0.6818,unknown,unknown,"""Ethnologisches Museum, Berlin, Germany"""
+1000072,13,6,4,0.1818,0.4971,0,0,0,0.6789,Ica,,"""Museum für Völkerkunde, Berlin"""
+1000500,88,24,4,0.1,0.076,1,1,0,0.676,,,"""Musee Quai Branly, Paris, France"""
+1000518,164,67,5,0.061,0.1111,1,1,0,0.6721,unknown,unknown,"""Ethnologisches Museum, Berlin, Germany"""
+1000303,17,5,4,0.1905,0.2807,0,1,0,0.6712,Atarco,Nazca,"""Museum Fur Volkerkunde, Munich, W. Germany"""
+1000057,163,16,5,0.1613,0.2982,0,1,0,0.6595,Between Ica and Pisco,,"""Museum für Völkerkunde, Berlin"""
+1000265,55,10,5,0.2,0.2573,0,1,0,0.6573,,,Banco Central de la Reserva
+1000521,78,19,5,0.1471,0.3041,0,1,0,0.6512,Ica/Pisco,"""South Coast, Peru""","""Ethnologisches Museum, Berlin, Germany"""
+1000615,87,11,4,0.1481,0.2982,0,1,0,0.6463,Incahuasi,,Proyecto Incahuasi
+1000275,288,90,5,0.0476,0.0936,1,1,0,0.6412,Santa,,Museo Temple Radicati
+1000616,124,24,5,0.1282,0.3041,0,1,0,0.6323,Incahuasi,,Proyecto Incahuasi
+1000103,541,31,6,0.1333,0.2924,0,1,0,0.6257,Nazca,,"""Peabody Museum, Harvard University"""
+1000313,95,21,5,0.1389,0.2865,0,1,0,0.6254,Huacho,,"""Museum Fur Volkerkunde, Munich, W. Germany"""
+1000073,11,6,3,0.1304,0.4912,0,0,0,0.6216,Ica,,"""Museum für Völkerkunde, Berlin"""
+1000584,54,23,4,0.1026,0.5146,0,0,0,0.6172,unknown,,"Museo Nacional de Arqueologia, Anthropologia e Historia del Peru"
+1000344,319,34,5,0.102,0.3099,0,1,0,0.6119,,,"""Musee Quai Branly, Paris, France"""
+1000067,13,8,3,0.12,0.4912,0,0,0,0.6112,Ica,,"""American Museum of Natural History, NY"""
+1000351,75,18,4,0.1176,0.4912,0,0,0,0.6088,,,Museo Temple Radicati
+1000068,8,3,3,0.15,0.2573,0,1,0,0.6073,Ica,,"""American Museum of Natural History, NY"""
+1000411,5,4,3,0.1429,0.2573,0,1,0,0.6002,Tambo Colorado,,Museo Regional de Ica
+1000049,22,7,3,0.125,0.2632,0,1,0,0.5882,Ica,,"""Museum für Völkerkunde, Berlin"""
+1000388,5,3,3,0.15,0.2339,0,1,0,0.5839,"""Chancay, Central Coast""",,"""Lowe Art Museum, University of Miami"""
+1000289,12,11,5,0.1923,0.0877,1,0,0,0.58,Paracas,,"""Museum for World Culture, Goteborg"""
+1000023,572,65,11,0.1486,0.2281,0,1,0,0.5767,Leymebamba,Chachapoyas,"""Centro Mallqui, Leymebamba, Amazonas"""
+1000656,35,22,4,0.1053,0.269,0,1,0,0.5743,"Armatambo, Huaca San Pedro",,"Museo Nac., Pueblo Libre"
+1000374,91,5,2,0.087,0.4795,0,0,0,0.5665,Huari,,Universidad de San Martin de Porres
+1000310,97,20,2,0.0526,0.0117,1,1,0,0.5643,Peru,,"""Museum Fur Volkerkunde, Munich, W. Germany"""
+1000330,38,23,3,0.075,0.4854,0,0,0,0.5604,,,Phoebe Hearst Museum of Anthropology
+1000536,47,17,3,0.0882,0.269,0,1,0,0.5572,Pachacamac,"""Central Coast, Peru""","""Ethnologisches Museum, Berlin, Germany"""
+1000375,98,6,2,0.0833,0.4678,0,0,0,0.5511,,,Banco Central de la Reserva del Peru
+1000089,287,20,3,0.0811,0.269,0,1,0,0.5501,Pachacamac,,"""Museum für Völkerkunde, Berlin"""
+1000410,14,3,2,0.0952,0.2515,0,1,0,0.5467,Tambo Colorado,,Museo Regional de Ica
+1000589,49,20,7,0.2121,0.1345,0,1,0,0.5466,unknown,,"Museum fur Volkerkunde, Leipzig"
+1000222,40,19,4,0.1143,0.2281,0,1,0,0.5424,,,"""Musee de l Homme, Paris, France"""
+1000214,45,14,2,0.0625,0.4795,0,0,0,0.542,Hacienda Ullujalla y Callengo,,"""Museo Nacional, Lima, Peru"""
+1000610,169,25,6,0.1538,0.1871,0,1,0,0.5409,Incahuasi,,Proyecto Incahuasi 
+1000501,417,44,9,0.1636,0.1754,0,1,0,0.539,"""Huaca Perez, Lima (a.k.a Hda. Infantas and Tambo Inca)""","""Central Coast, Peru""","""Musee Quai Branly, Paris, France"""
+1000599,48,8,2,0.0769,0.462,0,0,0,0.5389,Incahuasi,,Proyecto Incahuasi
+1000504,226,31,1,0.02,0.0175,1,1,0,0.5375,"""Peru, Fundort: Pachacmac""","""Central Coast, Peru""","""Ethnologisches Museum, Berlin, Germany"""
+1000126,47,7,3,0.125,0.2105,0,1,0,0.5355,Pachacamac,,"""Museum für Völkerkunde, Berlin"""
+1000119,62,6,2,0.0833,0.2515,0,1,0,0.5348,Pachacamac,,"""Museum für Völkerkunde, Berlin"""
+1000274,131,45,4,0.0656,0.269,0,1,0,0.5346,Santa,,Museo Temple Radicati
+1000094,285,23,3,0.075,0.2573,0,1,0,0.5323,Nazca,,"""Museum für Völkerkunde, Berlin"""
+1000577,34,9,5,0.2083,0.1228,0,1,0,0.5311,"Armatambo, Lima, Central Coast",,"Museo Nacional de Arqueologia, Antropologia e Historia del Peru"
+1000148,303,30,3,0.0638,0.2632,0,1,0,0.527,Nazca,,"""Museum für Völkerkunde, Berlin"""
+1000147,338,29,3,0.0652,0.2573,0,1,0,0.5225,Pachacamac,,"""Museum für Völkerkunde, Berlin"""
+1000576,86,21,5,0.1389,0.1754,0,1,0,0.5143,unknown,,"Museo Nacional de Arqueologia, Antropologia e Historia Nacional del Peru"
+1000255,31,11,4,0.1481,0.1637,0,1,0,0.5118,Huaquerones,Puruchuco,Puruchuco Museum
+1000261,35,17,6,0.1935,0.117,0,1,0,0.5105,Huaquerones,Puruchuco,Puruchuco Museum
+1000263,74,25,7,0.1842,0.1228,0,1,0,0.507,Huaquerones,Puruchuco,Puruchuco Museum
+1000363,164,3,2,0.0952,0.2105,0,1,0,0.5057,,,Private Collection: Anna Maria Soldi
+1000326,8,2,2,0.1,0.2047,0,1,0,0.5047,Paracas,,"""Museum of Worldculture, Goteborg, Sweden"""
+1000254,11,10,5,0.2,0.3041,0,0,0,0.5041,Huaquerones,Puruchuco,Puruchuco Museum
+1000493,154,17,0,0.0,0.0,1,1,0,0.5,Chuquitanta,,"""American Museum of Natural History, NY"""
+1000005,62,14,5,0.1724,0.1228,0,1,0,0.4952,Leymebamba,Chachapoyas,"""Centro Mallqui, Leymebamba, Amazonas"""
+1000553,52,27,4,0.093,0.0994,1,0,0,0.4924,unknown,unknown,"""Ethnologisches Museum, Berlin, Germany"""
+1000479,28,8,1,0.037,0.4503,0,0,0,0.4873,,,"""American Museum of Natural History, NY"""
+1000004,176,43,8,0.1455,0.1404,0,1,0,0.4859,Leymebamba,Chachapoyas,"""Centro Mallqui, Leymebamba, Amazonas"""
+1000405,25,11,1,0.0333,0.4503,0,0,0,0.4836,unknown,,Museo Regional de Ica
+1000620,15,8,2,0.0769,0.1988,0,1,0,0.4757,Incahuasi,,Proyecto Incahuasi
+1000320,77,17,5,0.1562,0.117,0,1,0,0.4732,Huacho,,"""Museum of Worldculture, Goteborg, Sweden"""
+1000390,136,27,6,0.1463,0.1228,0,1,0,0.4691,,,"""Lowe Art Museum, University of Miami"""
+1000380,188,42,7,0.1273,0.1345,0,1,0,0.4618,,,"""Museo de la Nacion, Lima, Peru"""
+1000562,28,8,4,0.1667,0.0877,0,1,0,0.4544,"Ullujaya, Ocucaje, Ica",,"Museo Nacional de Arqueología, Antropología e Historia del Perú"
+1000297,24,8,4,0.1667,0.0819,0,1,0,0.4486,,,"""Rijksmuseum fur Volkerkunde, Leiden, Holland"""
+1000548,29,8,4,0.1667,0.0819,0,1,0,0.4486,Pachacamac,"""Central Coast, Peru""","""Ethnologisches Museum, Berlin, Germany"""
+1000164,86,28,2,0.0435,0.2047,0,1,0,0.4482,,,"""American Museum of Natural History, NY"""
+1000527,169,16,4,0.125,0.1228,0,1,0,0.4478,Pachacamac,"""Central Coast, Peru""","""Ethnologisches Museum, Berlin, Germany"""
+1000045,314,18,5,0.1515,0.0936,0,1,0,0.4451,Leymebamba,Chachapoyas,"""Centro Mallqui, Leymebamba, Amazonas"""
+1000163,19,1,1,0.05,0.193,0,1,0,0.443,,,"""American Museum of Natural History, NY"""
+1000290,23,8,4,0.1667,0.076,0,1,0,0.4427,Paracas,,"""Museum for World Culture, Goteborg"""
+1000647,74,39,4,0.0727,0.0643,1,0,0,0.437,Incahuasi,,Proyecto Incahuasi
+1000416,10,4,1,0.0435,0.193,0,1,0,0.4365,Tambo Colorado,,Museo Regional de Ica
+1000109,10,8,4,0.1667,0.269,0,0,0,0.4357,,,"""Peabody Museum, Harvard University"""
+1000580,29,8,3,0.12,0.1111,0,1,0,0.4311,foothills of Cerro Solar,,"Museo Nacional de Arqueologia, Antropologia e Historia del Peru"
+1000528,119,32,5,0.1064,0.1228,0,1,0,0.4292,Ocucaje,"""South Coast, Peru""","""Ethnologisches Museum, Berlin, Germany"""
+1000571,55,15,4,0.129,0.0994,0,1,0,0.4284,unknown,,"Museo Nacional de Arqueología, Antropología, e Historia del Perú"
+1000382,76,10,1,0.0345,0.193,0,1,0,0.4275,,,Museo Temple Radicati
+1000312,89,16,4,0.125,0.0994,0,1,0,0.4244,,,"""Museum Fur Volkerkunde, Munich, W. Germany"""
+1000510,126,16,4,0.125,0.2982,0,0,0,0.4232,Pachacamac,"""Central Coast, Peru""","""Ethnologisches Museum, Berlin, Germany"""
+1000347,9,8,3,0.12,0.0994,0,1,0,0.4194,,,Museo Temple Radicati
+1000437,35,7,3,0.125,0.0936,0,1,0,0.4186,Pachacamac,,Museo de Sitio de Pachacamac
+1000512,137,22,4,0.1053,0.1111,0,1,0,0.4164,Pachacamac,"""Central Coast, Peru""","""Ethnologisches Museum, Berlin, Germany"""
+1000176,38,11,4,0.1481,0.2632,0,0,0,0.4113,,,"""Museo de Ica, Ica, Peru"""
+1000296,38,15,4,0.129,0.0819,0,1,0,0.4109,,,"""Rijksmuseum fur Volkerkunde, Leiden, Holland"""
+1000438,22,7,3,0.125,0.0819,0,1,0,0.4069,Pachacamac,,Museo de Sitio de Pachacamac
+1000408,47,5,3,0.1364,0.0702,0,1,0,0.4066,Valle de Ica Hacienda Callango Ocucaje,,Museo Regional de Ica
+1000614,362,53,6,0.0896,0.117,0,1,0,0.4066,Incahuasi,,Proyecto Incahuasi
+1000125,41,11,3,0.1071,0.0994,0,1,0,0.4065,Ica,,"""Museum für Völkerkunde, Berlin"""
+1000272,61,17,4,0.1212,0.0819,0,1,0,0.4031,Santa,,Museo Temple Radicati
+1000244,25,6,3,0.1304,0.0702,0,1,0,0.4006,,Puruchuco,Puruchuco Museum
+1000611,330,29,4,0.0889,0.1111,0,1,0,0.4,Incahuasi,,Proyecto Incahuasi
+1000172,27,7,3,0.125,0.0702,0,1,0,0.3952,"""Hacienda Copara, Nazca""","""South Coast, Peru""","""Musee Quai Branly, Paris, France"""
+1000414,11,7,3,0.125,0.0702,0,1,0,0.3952,,,Museo Regional de Ica
+1000183,589,32,5,0.1064,0.2865,0,0,0,0.3929,,,"""Museo de Ica, Ica, Peru"""
+1000052,42,8,3,0.12,0.0702,0,1,0,0.3902,Between Ica and Pisco,,"""Museum für Völkerkunde, Berlin"""
+1000588,189,19,3,0.0833,0.1053,0,1,0,0.3886,unknown,,"Museo Nacional de Arqueologia, Anthropologia e Historia del Peru"
+1000629,193,64,6,0.0769,0.1111,0,1,0,0.388,Incahuasi,,Proyecto Incahuasi
+1000538,75,14,2,0.0625,0.0234,1,0,0,0.3859,Pisco,"""South Coast, Peru""","""Ethnologisches Museum, Berlin, Germany"""
+1000352,55,22,2,0.05,0.0351,1,0,0,0.3851,,,Museo Temple Radicati
+1000184,90,18,3,0.0857,0.0936,0,1,0,0.3793,,,"""Niedersächsische Landesmuseum, Hanover, West Germany"""
+1000442,31,18,3,0.0857,0.0936,0,1,0,0.3793,Pachacamac,,Museo de Sitio de Pachacamac
+1000450,48,16,4,0.125,0.0526,0,1,0,0.3776,Pachacamac,,Museo de Sitio de Pachacamac
+1000315,86,22,3,0.0769,0.0994,0,1,0,0.3763,Pachacamac,,"""Museum Fur Volkerkunde, Munich, W. Germany"""
+1000270,102,46,5,0.082,0.0936,0,1,0,0.3756,Santa,,Museo Temple Radicati
+1000533,58,12,3,0.1034,0.0702,0,1,0,0.3736,Ica,"""South Coast, Peru""","""Ethnologisches Museum, Berlin, Germany"""
+1000430,43,21,3,0.0789,0.0936,0,1,0,0.3725,Pachacamac,,Museo de Sitio de Pachacamac
+1000569,24,7,3,0.125,0.0468,0,1,0,0.3718,unknown,,"Museo Nacional de Arqueología, Antropología e Historia del Perú"
+1000578,9,3,2,0.0952,0.076,0,1,0,0.3712,unknown,,"Museo Nacional de Arqueologia, Antropologia e Historia del Peru"
+1000546,149,47,5,0.0806,0.0877,0,1,0,0.3683,unknown,unknown,"""Ethnologisches Museum, Berlin, Germany"""
+1000539,194,43,4,0.0678,0.0994,0,1,0,0.3672,Ica,"""South Coast, Peru""","""Ethnologisches Museum, Berlin, Germany"""
+1000634,374,36,8,0.1667,0.1988,0,0,0,0.3655,Incahuasi,,Proyecto Incahuasi
+1000066,7,3,2,0.0952,0.0702,0,1,0,0.3654,Ica,,"""American Museum of Natural History, NY"""
+1000423,51,18,4,0.1176,0.0468,0,1,0,0.3644,Pachacamac,,Museo de Sitio de Pachacamac
+1000242,6,2,2,0.1,0.0643,0,1,0,0.3643,Huaquerones,Puruchuco,Puruchuco Museum
+1000652,14,7,2,0.08,0.0819,0,1,0,0.3619,"Armatambo, Huaca San Pedro",,"Museo Nac., Pueblo Libre"
+1000234,56,9,2,0.0741,0.0877,0,1,0,0.3618,Peru,,"""Museum Fur Volkerkunde, Munich, W. Germany"""
+1000544,98,9,2,0.0741,0.0877,0,1,0,0.3618,unknown,unknown,"""Ethnologisches Museum, Berlin, Germany"""
+1000446,76,23,3,0.075,0.0819,0,1,0,0.3569,Pachacamac,,Museo de Sitio de Pachacamac
+1000474,40,7,5,0.2273,0.1287,0,0,0,0.356,Ica,,"""American Museum of Natural History, NY"""
+1000169,20,4,2,0.0909,0.0643,0,1,0,0.3552,Hacienda Ullujalla y Callengo,,"""Museo de Ica, Ica, Peru"""
+1000180,105,13,2,0.0645,0.0877,0,1,0,0.3522,,,"""Niedersächsische Landesmuseum, Hanover, West Germany"""
+1000295,42,26,3,0.0698,0.0819,0,1,0,0.3517,,,"""Rijksmuseum fur Volkerkunde, Leiden, Holland"""
+1000246,41,5,2,0.087,0.0643,0,1,0,0.3513,Huaquerones,Puruchuco,Puruchuco Museum
+1000029,253,50,3,0.0448,0.1053,0,1,0,0.3501,,,"""Museum of Science, Buffalo, New York"""
+1000516,50,24,3,0.0732,0.076,0,1,0,0.3492,unknown,unknown,"""Ethnologisches Museum, Berlin, Germany"""
+1000035,36,10,2,0.0714,0.076,0,1,0,0.3474,,,"""owner Leo J. Harris, St. Paul, Minnesota"""
+1000208,45,9,2,0.0741,0.0702,0,1,0,0.3443,,,"""Museo Nacional, Lima, Peru"""
+1000071,55,18,2,0.0556,0.0877,0,1,0,0.3433,Ica,,"""Museum für Völkerkunde, Berlin"""
+1000162,35,12,2,0.0667,0.076,0,1,0,0.3427,Pachacamac,,"""Museum für Völkerkunde, Berlin"""
+1000581,32,10,2,0.0714,0.0702,0,1,0,0.3416,unknown,,"Museo Nacional de Arqueologia, Anthropologia e Historia del Peru"
+1000433,64,22,7,0.2,0.1404,0,0,0,0.3404,Pachacamac,,Museo de Sitio de Pachacamac
+1000108,25,9,2,0.0741,0.0643,0,1,0,0.3384,,,"""Peabody Museum, Harvard University"""
+1000170,49,10,2,0.0714,0.0643,0,1,0,0.3357,Hacienda Ullujalla y Callengo,,"""Museo de Ica, Ica, Peru"""
+1000448,67,22,3,0.0769,0.0526,0,1,0,0.3295,Pachacamac,,Museo de Sitio de Pachacamac
+1000192,75,20,2,0.0526,0.076,0,1,0,0.3286,,,"""University Museum, University of Pennsylvania"""
+1000530,65,26,1,0.0222,0.0058,1,0,0,0.328,Ica,"""South Coast, Peru""","""Ethnologisches Museum, Berlin, Germany"""
+1000271,125,35,3,0.0577,0.0702,0,1,0,0.3279,Santa,,Museo Temple Radicati
+1000230,86,14,2,0.0625,0.0643,0,1,0,0.3268,,,"""Museo Amano, Lima, Peru"""
+1000398,35,15,2,0.0606,0.0643,0,1,0,0.3249,Valle de Ica Hacienda Callango Ocucaje,,Museo Regional de Ica
+1000127,118,38,3,0.0545,0.0702,0,1,0,0.3247,Ica,,"""Museum für Völkerkunde, Berlin"""
+1000555,72,18,2,0.0556,0.0643,0,1,0,0.3199,Pachacamac,"""Central Coast, Peru""","""Ethnologisches Museum, Berlin, Germany"""
+1000369,172,14,2,0.0625,0.0468,0,1,0,0.3093,,,"""O. Nunez del Prado, Cuzco"""
+1000096,1831,43,2,0.0328,0.076,0,1,0,0.3088,Lluta Valley,,"""owner Percy Dauelsberg, Arica, Chile"""
+1000333,179,28,2,0.0435,0.0643,0,1,0,0.3078,Pachacamac,,"""National Museum, Smithsonian, Washington, D.C."""
+1000065,101,3,1,0.0455,0.0585,0,1,0,0.304,Ica,,"""American Museum of Natural History, NY"""
+1000074,20,3,1,0.0455,0.0585,0,1,0,0.304,Pachacamac,,"""Museum für Völkerkunde, Berlin"""
+1000579,7,3,1,0.0455,0.0585,0,1,0,0.304,unknown,,"Museo Nacional de Arqueologia, Antropologia e Historia del Peru"
+1000563,82,17,2,0.0571,0.0468,0,1,0,0.3039,"Ullujaya, Ocucaje, Ica",,"Museo Nacional de Arqueología, Antropología e Historia del Perú"
+1000063,357,33,2,0.0392,0.0643,0,1,0,0.3035,Between Ica and Pisco,,"""Museum für Völkerkunde, Berlin"""
+1000566,32,14,2,0.0625,0.0409,0,1,0,0.3034,"Costa Central, Huacho",,"Museo Nacional de Historia, Archaeología y Antropología de Perú"
+1000054,20,4,1,0.0435,0.0585,0,1,0,0.302,Pachacamac,,"""Museum für Völkerkunde, Berlin"""
+1000132,34,4,1,0.0435,0.0585,0,1,0,0.302,,,"""Museum für Völkerkunde, Berlin"""
+1000216,10,4,1,0.0435,0.0585,0,1,0,0.302,,,"""O. Nunez del Prado, Cuzco"""
+1000451,15,4,1,0.0435,0.0585,0,1,0,0.302,Pachacamac,,Museo de Sitio de Pachacamac
+1000092,13,5,1,0.0417,0.0585,0,1,0,0.3002,Pachacamac,,"""Museum für Völkerkunde, Berlin"""
+1000111,11,6,1,0.04,0.0585,0,1,0,0.2985,,,"""Peabody Museum, Harvard University"""
+1000429,27,6,1,0.04,0.0585,0,1,0,0.2985,Pachacamac,,Museo de Sitio de Pachacamac
+1000532,10,6,1,0.04,0.0585,0,1,0,0.2985,Ica,"""South Coast, Peru""","""Ethnologisches Museum, Berlin, Germany"""
+1000368,404,73,2,0.022,0.076,0,1,0,0.298,,,"""owner Percy Dauelsberg, Arica, Chile"""
+1000030,28,7,1,0.0385,0.0585,0,1,0,0.297,,,"""Museum of Science, Buffalo, New York"""
+1000080,35,7,1,0.0385,0.0585,0,1,0,0.297,Marquez,,"""Museum für Völkerkunde, Berlin"""
+1000178,32,7,1,0.0385,0.0585,0,1,0,0.297,,,"""O. Nunez del Prado, Cuzco"""
+1000404,20,7,1,0.0385,0.0585,0,1,0,0.297,Valle de Ica Hacienda Callango Ocucaje,,Museo Regional de Ica
+1000033,68,8,1,0.037,0.0585,0,1,0,0.2955,,,"""N195161prstkovo Museum, Prague"""
+1000199,28,8,1,0.037,0.0585,0,1,0,0.2955,,,"""University Museum, University of Pennsylvania"""
+1000475,19,9,4,0.16,0.1345,0,0,0,0.2945,Ica,,"""American Museum of Natural History, NY"""
+1000152,35,9,1,0.0357,0.0585,0,1,0,0.2942,Ica,,"""Museum für Völkerkunde, Berlin"""
+1000232,35,9,1,0.0357,0.0585,0,1,0,0.2942,Peru,,"""Museum Fur Volkerkunde, Munich, W. Germany"""
+1000140,362,49,2,0.0299,0.0643,0,1,0,0.2942,Ica,,"""Museum für Völkerkunde, Berlin"""
+1000200,56,10,1,0.0345,0.0585,0,1,0,0.293,,,"""University Museum, University of Pennsylvania"""
+1000228,45,10,1,0.0345,0.0585,0,1,0,0.293,Huacho,,"""Museum fur Volkerkunde, Basel, Switzerland"""
+1000060,27,11,1,0.0333,0.0585,0,1,0,0.2918,Between Ica and Pisco,,"""Museum für Völkerkunde, Berlin"""
+1000037,37,12,1,0.0323,0.0585,0,1,0,0.2908,Nazca,,"""Hood Museum of Art, Dartmouth College, Hanover, New Hampshire"""
+1000058,53,12,1,0.0323,0.0585,0,1,0,0.2908,Between Ica and Pisco,,"""Museum für Völkerkunde, Berlin"""
+1000166,28,12,1,0.0323,0.0585,0,1,0,0.2908,,,"""Niedersächsische Landesmuseum, Hanover, West Germany"""
+1000000,18,13,5,0.1786,0.1111,0,0,0,0.2897,Leymebamba,Chachapoyas,"""Centro Mallqui, Leymebamba, Amazonas"""
+1000041,48,6,2,0.0833,0.2047,0,0,0,0.288,Pachacamac,,"""Museum für Völkerkunde, Berlin"""
+1000006,80,17,6,0.1935,0.0936,0,0,0,0.2871,Leymebamba,Chachapoyas,"""Centro Mallqui, Leymebamba, Amazonas"""
+1000229,80,16,1,0.0286,0.0585,0,1,0,0.2871,,,"""Museo Amano, Lima, Peru"""
+1000371,163,17,1,0.0278,0.0585,0,1,0,0.2863,,,"""O. Nunez del Prado, Cuzco"""
+1000395,15,9,5,0.2083,0.076,0,0,0,0.2843,,,Valle de Ica Hacienda Callango Ocucaje
+1000040,101,20,1,0.0256,0.0585,0,1,0,0.2841,Between Ica and Pisco,,"""Museum für Völkerkunde, Berlin"""
+1000197,77,20,1,0.0256,0.0585,0,1,0,0.2841,,,"""University Museum, University of Pennsylvania"""
+1000259,111,21,6,0.1714,0.1111,0,0,0,0.2825,,Puruchuco,Puruchuco Museum
+1000198,260,25,1,0.0227,0.0585,0,1,0,0.2812,,,"""University Museum, University of Pennsylvania"""
+1000079,94,26,1,0.0222,0.0585,0,1,0,0.2807,Ica,,"""Museum für Völkerkunde, Berlin"""
+1000236,82,26,1,0.0222,0.0585,0,1,0,0.2807,,,"""Museo """"Jijon y Caamano"""", Pontificia Universidad Catolica del Ecuador, Quito, Ecuador"""
+1000032,143,27,1,0.0217,0.0585,0,1,0,0.2802,,,"""Royal Ontario Museum, Toronto"""
+1000345,161,27,1,0.0217,0.0585,0,1,0,0.2802,,,"""Museo Nacional, Lima, Peru"""
+1000235,81,28,1,0.0213,0.0585,0,1,0,0.2798,"""Maranga, Huaca 1""",,"""Museo """"Jijon y Caamano"""", Pontificia Universidad Catolica del Ecuador, Quito, Ecuador"""
+1000159,64,29,1,0.0208,0.0585,0,1,0,0.2793,,,"""Museum für Völkerkunde, Berlin"""
+1000085,289,35,1,0.0185,0.0585,0,1,0,0.277,Nazca,,"""Museum für Völkerkunde, Berlin"""
+1000201,143,35,1,0.0185,0.0585,0,1,0,0.277,Aankoop,,"""Museum Voor Land-en Volkenkunde, Rotterdam, Holland"""
+1000083,157,27,2,0.0444,0.0234,0,1,0,0.2678,Ica,,"""Museum für Völkerkunde, Berlin"""
+1000517,12,9,1,0.0357,0.0292,0,1,0,0.2649,unknown,unknown,"""Ethnologisches Museum, Berlin, Germany"""
+1000239,61,22,5,0.1351,0.1287,0,0,0,0.2638,"""Pueblo Libre, Lima, Peru""",,Museo Larco
+1000338,26,16,2,0.0588,0.2047,0,0,0,0.2635,unknown,,Museo Temple Radicati
+1000251,79,27,6,0.1463,0.117,0,0,0,0.2633,Huaquerones,Puruchuco,Puruchuco Museum
+1000426,27,12,1,0.0323,0.0292,0,1,0,0.2615,Pachacamac,,Museo de Sitio de Pachacamac
+1000241,86,4,1,0.0435,0.0175,0,1,0,0.261,"""Pueblo Libre, Lima, Peru""",,Museo Larco
+1000502,28,12,4,0.1429,0.117,0,0,0,0.2599,"""Huaca Perez, Lima (a.k.a Hda. Infantas and Tambo Inca)""","""Central Coast, Peru""","""Musee Quai Branly, Paris, France"""
+1000209,56,14,1,0.0303,0.0292,0,1,0,0.2595,,,"""Museo Nacional, Lima, Peru"""
+1000444,55,9,4,0.16,0.0994,0,0,0,0.2594,Pachacamac,,Museo de Sitio de Pachacamac
+1000048,21,2,1,0.0476,0.0117,0,1,0,0.2593,Pachacamac,"""Central Coast, Peru""","""Ethnologisches Museum, Berlin, Germany"""
+1000558,15,2,1,0.0476,0.0117,0,1,0,0.2593,Pachacamac,"""Central Coast, Peru""","""Ethnologisches Museum, Berlin, Germany"""
+1000583,47,7,1,0.0385,0.0175,0,1,0,0.256,unknown,,"Museo Nacional de Arqueologia, Antropologia e Historia del Peru"
+1000070,11,4,1,0.0435,0.0117,0,1,0,0.2552,Ica,,"""American Museum of Natural History, NY"""
+1000522,95,20,1,0.0256,0.0292,0,1,0,0.2548,Ica/Pisco,"""South Coast, Peru""","""Ethnologisches Museum, Berlin, Germany"""
+1000342,186,27,5,0.119,0.1345,0,0,0,0.2535,Pachacamac,,"""Musee de l Homme, Paris, France"""
+1000024,573,73,8,0.0941,0.1579,0,0,0,0.252,Leymebamba,Chachapoyas,"""Centro Mallqui, Leymebamba, Amazonas"""
+1000440,9,3,1,0.0455,0.0058,0,1,0,0.2513,Pachacamac,,Museo de Sitio de Pachacamac
+1000523,196,14,4,0.1333,0.117,0,0,0,0.2503,Pachacamac,"""Central Coast, Peru""","""Ethnologisches Museum, Berlin, Germany"""
+1000335,46,11,4,0.1481,0.0994,0,0,0,0.2475,unknown,,"""Museum Fur Volkerkunde, Munich, W. Germany"""
+1000407,104,32,6,0.1304,0.117,0,0,0,0.2474,Valle de Ica Hacienda Callango Ocucaje,,Museo Regional de Ica
+1000022,162,31,7,0.1591,0.0877,0,0,0,0.2468,Leymebamba,Chachapoyas,"""Centro Mallqui, Leymebamba, Amazonas"""
+1000556,34,13,1,0.0312,0.0117,0,1,0,0.2429,Pachacamac,"""Central Coast, Peru""","""Ethnologisches Museum, Berlin, Germany"""
+1000210,14,8,1,0.037,0.0058,0,1,0,0.2428,,,"""Museo Nacional, Lima, Peru"""
+1000220,16,8,1,0.037,0.0058,0,1,0,0.2428,,,"""Musee de l Homme, Paris, France"""
+1000636,30,6,4,0.1818,0.0585,0,0,0,0.2403,Incahuasi,,Proyecto Incahuasi
+1000472,225,24,6,0.1579,0.0819,0,0,0,0.2398,La Molina,Puruchuco,Puruchuco Museum
+1000042,73,11,1,0.0333,0.0058,0,1,0,0.2391,Ica,,"""Museum für Völkerkunde, Berlin"""
+1000449,110,14,1,0.0303,0.0058,0,1,0,0.2361,Pachacamac,,Museo de Sitio de Pachacamac
+1000417,25,3,3,0.15,0.0819,0,0,0,0.2319,Tambo Colorado,,Museo Regional de Ica
+1000075,11,8,1,0.037,0.193,0,0,0,0.23,Pachacamac,,"""Museum für Völkerkunde, Berlin"""
+1000336,107,28,5,0.1163,0.1111,0,0,0,0.2274,,,Museo Temple Radicati
+1000617,94,19,4,0.1143,0.1111,0,0,0,0.2254,Incahuasi,,Proyecto Inahuasi
+1000358,33,18,5,0.1515,0.0702,0,0,0,0.2217,,,Museo Temple Radicati
+1000402,33,17,5,0.1562,0.0643,0,0,0,0.2205,Hacienda Ullujalla y Callengo,,Museo Regional de Ica
+1000456,62,10,4,0.1538,0.0643,0,0,0,0.2181,,"""Inka, Late Horizon""",Dallas Museum of Art
+1000534,80,12,3,0.1034,0.1111,0,0,0,0.2145,Ica,"""South Coast, Peru""","""Ethnologisches Museum, Berlin, Germany"""
+1000260,35,19,4,0.1143,0.0994,0,0,0,0.2137,Huaquerones,Puruchuco,
+1000445,17,8,3,0.12,0.0936,0,0,0,0.2136,Pachacamac,,Museo de Sitio de Pachacamac
+1000413,266,64,6,0.0769,0.1345,0,0,0,0.2114,Hacienda Ullujalla y Callengo,,Museo Regional de Ica
+1000551,30,16,4,0.125,0.0819,0,0,0,0.2069,unknown,unknown,"""Ethnologisches Museum, Berlin, Germany"""
+1000635,126,42,6,0.1071,0.0936,0,0,0,0.2007,Incahuasi,,Proyecto Incahuasi
+1000247,26,6,3,0.1304,0.0702,0,0,0,0.2006,Huaquerones,Puruchuco,Puruchuco Museum
+1000001,6,2,0,0.0,0.0,0,1,0,0.2,Leymebamba,Chachapoyas,"""Centro Mallqui, Leymebamba, Amazonas"""
+1000034,100,20,0,0.0,0.0,0,1,0,0.2,,,"""Joslyn Art Museum, Omaha, Nebraska"""
+1000036,20,7,0,0.0,0.0,0,1,0,0.2,,,"""Hood Museum of Art, Dartmouth College, Hanover, New Hampshire"""
+1000043,21,8,0,0.0,0.0,0,1,0,0.2,Pachacamac,,"""Museum für Völkerkunde, Berlin"""
+1000044,28,8,0,0.0,0.0,0,1,0,0.2,Pachacamac,,"""Museum für Völkerkunde, Berlin"""
+1000046,20,3,0,0.0,0.0,0,1,0,0.2,Pachacamac,,"""Museum für Völkerkunde, Berlin"""
+1000047,71,9,0,0.0,0.0,0,1,0,0.2,Ica,,"""Museum für Völkerkunde, Berlin"""
+1000059,15,10,0,0.0,0.0,0,1,0,0.2,Between Ica and Pisco,,"""Museum für Völkerkunde, Berlin"""
+1000081,28,5,0,0.0,0.0,0,1,0,0.2,Marquez,,"""Museum für Völkerkunde, Berlin"""
+1000082,16,2,0,0.0,0.0,0,1,0,0.2,Pachacamac,,"""Museum für Völkerkunde, Berlin"""
+1000116,20,2,0,0.0,0.0,0,1,0,0.2,Ica,,"""Museum für Völkerkunde, Berlin"""
+1000117,18,4,0,0.0,0.0,0,1,0,0.2,Ica,,"""Museum für Völkerkunde, Berlin"""
+1000128,40,10,0,0.0,0.0,0,1,0,0.2,,,"""Museum für Völkerkunde, Berlin"""
+1000133,18,6,0,0.0,0.0,0,1,0,0.2,Pachacamac,,"""Museum für Völkerkunde, Berlin"""
+1000138,33,10,0,0.0,0.0,0,1,0,0.2,Ica,,"""Museum für Völkerkunde, Berlin"""
+1000141,9,2,0,0.0,0.0,0,1,0,0.2,Pachacamac,,"""Museum für Völkerkunde, Berlin"""
+1000146,59,14,0,0.0,0.0,0,1,0,0.2,Pachacamac,,"""Museum für Völkerkunde, Berlin"""
+1000149,15,4,0,0.0,0.0,0,1,0,0.2,near Lima,,"""Museum für Völkerkunde, Berlin"""
+1000150,30,11,0,0.0,0.0,0,1,0,0.2,near Lima,,"""Museum für Völkerkunde, Berlin"""
+1000168,3,1,0,0.0,0.0,0,1,0,0.2,,,"""Musee de l Homme, Paris, France"""
+1000171,15,5,0,0.0,0.0,0,1,0,0.2,,,"""O. Nunez del Prado, Cuzco"""
+1000173,8,4,0,0.0,0.0,0,1,0,0.2,,,"""O. Nunez del Prado, Cuzco"""
+1000185,75,6,0,0.0,0.0,0,1,0,0.2,,,British Museum
+1000186,12,5,0,0.0,0.0,0,1,0,0.2,,,"""University Museum, University of Pennsylvania"""
+1000211,29,15,0,0.0,0.0,0,1,0,0.2,,,"""Museo Nacional, Lima, Peru"""
+1000223,31,7,0,0.0,0.0,0,1,0,0.2,,,"""O. Nunez del Prado, Cuzco"""
+1000233,58,3,0,0.0,0.0,0,1,0,0.2,Peru,,"""Museum Fur Volkerkunde, Munich, W. Germany"""
+1000243,23,9,0,0.0,0.0,0,1,0,0.2,Huaquerones,Puruchuco,Puruchuco Museum
+1000420,14,1,0,0.0,0.0,0,1,0,0.2,Pachacamac,near Lima,Museo de Sitio de Pachacamac
+1000428,20,10,0,0.0,0.0,0,1,0,0.2,Pachacamac,,Museo de Sitio de Pachacamac
+1000613,92,17,0,0.0,0.0,0,1,0,0.2,Incahuasi,,Proyecto Incahuasi
+1000019,164,37,6,0.1176,0.0819,0,0,0,0.1995,Leymebamba,Chachapoyas,"""Centro Mallqui, Leymebamba, Amazonas"""
+1000250,74,23,5,0.1316,0.0643,0,0,0,0.1959,,Puruchuco,Puruchuco Museum
+1000256,14,7,3,0.125,0.0702,0,0,0,0.1952,Huaquerones,Puruchuco,Puruchuco Museum
+1000520,94,46,4,0.0645,0.1228,0,0,0,0.1873,Pisco,"""South Coast, Peru""","""Ethnologisches Museum, Berlin, Germany"""
+1000487,33,16,3,0.0909,0.0936,0,0,0,0.1845,"""Chancay, Central Coast""",,"""American Museum of Natural History, NY"""
+1000607,174,40,4,0.0714,0.1111,0,0,0,0.1825,Incahuasi,,Proyecto Incahuasi
+1000224,5,4,2,0.0909,0.0877,0,0,0,0.1786,,,"""O. Nunez del Prado, Cuzco"""
+1000436,136,36,4,0.0769,0.0994,0,0,0,0.1763,Pachacamac,,Museo de Sitio de Pachacamac
+1000025,874,68,7,0.0864,0.0877,0,0,0,0.1741,Leymebamba,Chachapoyas,"""Centro Mallqui, Leymebamba, Amazonas"""
+1000258,44,12,3,0.1034,0.0702,0,0,0,0.1736,Huaquerones,Puruchuco,Puruchuco Museum
+1000377,45,9,2,0.0741,0.0994,0,0,0,0.1735,unknown,,"""Museum of Worldculture, Goteborg, Sweden"""
+1000649,32,19,4,0.1143,0.0585,0,0,0,0.1728,"Huaca San Pedro, Armatambo",,"Museo Nac., Pueblo Libre"
+1000285,157,47,6,0.0984,0.0702,0,0,0,0.1686,,,"""Museum for World Culture, Goteborg"""
+1000397,25,12,3,0.1034,0.0643,0,0,0,0.1677,,,Museo Regional de Ica
+1000418,91,12,3,0.1034,0.0643,0,0,0,0.1677,Donation from the collection Belli,,Museo Regional de Ica
+1000452,12,5,3,0.1364,0.0292,0,0,0,0.1656,"""Chancay, Central Coast""",,"""Lowe Art Museum, University of Miami"""
+1000603,490,53,5,0.0735,0.0877,0,0,0,0.1612,Incahuasi,,Proyecto Incahuasi
+1000525,17,11,3,0.1071,0.0526,0,0,0,0.1597,Pachacamac,"""Central Coast, Peru""","""Ethnologisches Museum, Berlin, Germany"""
+1000231,45,7,2,0.08,0.076,0,0,0,0.156,,,"""Musee d Ethnographie, Geneva, Switzerland"""
+1000262,73,18,3,0.0857,0.0702,0,0,0,0.1559,,Puruchuco,Puruchuco Museum
+1000511,86,13,3,0.1,0.0526,0,0,0,0.1526,Pachacamac,"""Central Coast, Peru""","""Ethnologisches Museum, Berlin, Germany"""
+1000319,23,17,3,0.0882,0.0643,0,0,0,0.1525,"""Playa Miller #6, Arica, Chile""",,Museo Chileno de Arte Precolombino
+1000328,22,15,2,0.0606,0.0877,0,0,0,0.1483,Unknown,,"""Museum of Worldculture, Goteborg, Sweden"""
+1000356,28,11,3,0.1071,0.0409,0,0,0,0.148,,,Museo Temple Radicati
+1000361,370,30,3,0.0638,0.0819,0,0,0,0.1457,,,"""owner Ana Maria Soldi, Lima, Peru"""
+1000077,281,7,2,0.08,0.0643,0,0,0,0.1443,Pachacamac,,"""Museum für Völkerkunde, Berlin"""
+1000212,53,18,2,0.0556,0.0877,0,0,0,0.1433,,,"""Museo Nacional, Lima, Peru"""
+1000424,27,15,3,0.0938,0.0468,0,0,0,0.1406,Pachacamac,,Museo de Sitio de Pachacamac
+1000492,68,13,3,0.1,0.0351,0,0,0,0.1351,,,"""American Museum of Natural History, NY"""
+1000139,21,11,2,0.069,0.0643,0,0,0,0.1333,Pachacamac,,"""Museum für Völkerkunde, Berlin"""
+1000221,33,11,2,0.069,0.0643,0,0,0,0.1333,,,"""Musee de l Homme, Paris, France"""
+1000144,125,28,2,0.0435,0.0877,0,0,0,0.1312,Pachacamac,,"""Museum für Völkerkunde, Berlin"""
+1000288,16,12,2,0.0667,0.0643,0,0,0,0.131,Paracas,,"""Museum for World Culture, Goteborg"""
+1000590,75,20,3,0.0811,0.0468,0,0,0,0.1279,unknown,,"Museum fur Volkerkunde, Leipzig"
+1000400,59,18,3,0.0857,0.0409,0,0,0,0.1266,unknown,,Museo Regional de Ica
+1000264,114,35,4,0.0784,0.0468,0,0,0,0.1252,Huaquerones,Puruchuco,Puruchuco Museum
+1000545,194,45,4,0.0656,0.0585,0,0,0,0.1241,unknown,unknown,"""Ethnologisches Museum, Berlin, Germany"""
+1000027,20,8,2,0.0769,0.0468,0,0,0,0.1237,Ica,,"""Lowie Museum, University of California, Berkeley"""
+1000403,66,23,3,0.075,0.0409,0,0,0,0.1159,unknown,,Museo Regional de Ica
+1000248,26,7,2,0.08,0.0351,0,0,0,0.1151,Huaquerones,Puruchuco,Puruchuco Museum
+1000245,33,24,2,0.0476,0.0643,0,0,0,0.1119,Huaquerones,Puruchuco,Puruchuco Museum
+1000431,57,13,2,0.0645,0.0468,0,0,0,0.1113,Pachacamac,,Museo de Sitio de Pachacamac
+1000196,2,1,1,0.05,0.0585,0,0,0,0.1085,,,"""University Museum, University of Pennsylvania"""
+1000602,15,4,2,0.0909,0.0175,0,0,0,0.1084,Incahuasi,,Proyecto Incahuasi
+1000283,43,22,3,0.0769,0.0292,0,0,0,0.1061,,,"""Museum for World Culture, Goteborg"""
+1000453,33,7,2,0.08,0.0234,0,0,0,0.1034,,"""Inka, Late Horizon""",Dallas Museum of Art
+1000389,8,4,1,0.0435,0.0585,0,0,0,0.102,"""Chancay, Central Coast""",,"""Lowe Art Museum, University of Miami"""
+1000441,18,6,2,0.0833,0.0175,0,0,0,0.1008,Pachacamac,,Museo de Sitio de Pachacamac
+1000490,16,8,2,0.0769,0.0234,0,0,0,0.1003,,,"""American Museum of Natural History, NY"""
+1000194,8,5,1,0.0417,0.0585,0,0,0,0.1002,,,"""University Museum, University of Pennsylvania"""
+1000131,65,6,1,0.04,0.0585,0,0,0,0.0985,Pachacamac,,"""Museum für Völkerkunde, Berlin"""
+1000217,7,6,1,0.04,0.0585,0,0,0,0.0985,,,"""O. Nunez del Prado, Cuzco"""
+1000226,6,6,1,0.04,0.0585,0,0,0,0.0985,,,"""Musee de l Homme, Paris, France"""
+1000291,24,7,2,0.08,0.0175,0,0,0,0.0975,Paracas,,"""Museum for World Culture, Goteborg"""
+1000277,39,27,3,0.0682,0.0292,0,0,0,0.0974,,,"""Museo Amano, Lima, Peru"""
+1000056,42,8,1,0.037,0.0585,0,0,0,0.0955,Pachacamac,,"""Museum für Völkerkunde, Berlin"""
+1000378,14,8,1,0.037,0.0585,0,0,0,0.0955,unknown,,"""Museum of Worldculture, Goteborg, Sweden"""
+1000531,9,8,1,0.037,0.0585,0,0,0,0.0955,Ica,"""South Coast, Peru""","""Ethnologisches Museum, Berlin, Germany"""
+1000646,24,8,2,0.0769,0.0175,0,0,0,0.0944,Incahuasi,,Proyecto Incahuasi
+1000393,17,10,1,0.0345,0.0585,0,0,0,0.093,Valle de Ica Hacienda Callango Ocucaje,,Museo Regional de Ica
+1000432,15,10,1,0.0345,0.0585,0,0,0,0.093,Pachacamac,,Museo de Sitio de Pachacamac
+1000003,38,14,2,0.0625,0.0292,0,0,0,0.0917,Leymebamba,Chachapoyas,"""Centro Mallqui, Leymebamba, Amazonas"""
+1000039,64,13,1,0.0312,0.0585,0,0,0,0.0897,Pachacamac,,"""Museum für Völkerkunde, Berlin"""
+1000151,28,13,1,0.0312,0.0585,0,0,0,0.0897,Ica,,"""Museum für Völkerkunde, Berlin"""
+1000633,95,35,3,0.0577,0.0292,0,0,0,0.0869,Incahuasi,,Proyecto Incahuasi
+1000002,30,20,2,0.0526,0.0292,0,0,0,0.0818,Leymebamba,Chachapoyas,"""Centro Mallqui, Leymebamba, Amazonas"""
+1000541,954,57,3,0.0405,0.0409,0,0,0,0.0814,Ica/Pisco,"""South Coast, Peru""","""Ethnologisches Museum, Berlin, Germany"""
+1000554,76,14,2,0.0625,0.0175,0,0,0,0.08,unknown,unknown,"""Ethnologisches Museum, Berlin, Germany"""
+1000357,7,2,1,0.0476,0.0292,0,0,0,0.0768,,,Museo Temple Radicati
+1000114,14,4,1,0.0435,0.0292,0,0,0,0.0727,Pachacamac,,"""Museum für Völkerkunde, Berlin"""
+1000434,9,4,1,0.0435,0.0292,0,0,0,0.0727,"""Cieneguilla, Valle de Lurin""",,Museo de Sitio de Pachacamac
+1000447,10,4,1,0.0435,0.0292,0,0,0,0.0727,Pachacamac,,Museo de Sitio de Pachacamac
+1000435,12,5,1,0.0417,0.0292,0,0,0,0.0709,"""Cieneguilla, Valle de Lurin""",,Museo de Sitio de Pachacamac
+1000661,5,5,1,0.0417,0.0292,0,0,0,0.0709,"Armatambo, Huaca San Pedro",,"Museo Nac., Pueblo Libre"
+1000062,7,6,1,0.04,0.0292,0,0,0,0.0692,Ica,,"""American Museum of Natural History, NY"""
+1000031,14,7,1,0.0385,0.0292,0,0,0,0.0677,,,"""Museum of Science, Buffalo, New York"""
+1000204,16,7,1,0.0385,0.0292,0,0,0,0.0677,,,Brooklyn Museum
+1000399,20,7,1,0.0385,0.0292,0,0,0,0.0677,Valle de Ica Hacienda Callango Ocucaje,,Museo Regional de Ica
+1000582,34,7,1,0.0385,0.0292,0,0,0,0.0677,unknown,,"Museo Nacional de Arqueologia, Anthropologia e Historia del Peru"
+1000088,195,1,1,0.05,0.0175,0,0,0,0.0675,near Lima,,"""Museum für Völkerkunde, Berlin"""
+1000457,57,1,1,0.05,0.0175,0,0,0,0.0675,,"""Inka, Late Horizon""",Dallas Museum of Art
+1000458,18,1,1,0.05,0.0175,0,0,0,0.0675,,"""Inka, Late Horizon""",Dallas Museum of Art
+1000459,89,1,1,0.05,0.0175,0,0,0,0.0675,,"""Inka, Late Horizon""",Dallas Museum of Art
+1000460,21,1,1,0.05,0.0175,0,0,0,0.0675,,"""Inka, Late Horizon""",Dallas Museum of Art
+1000461,160,1,1,0.05,0.0175,0,0,0,0.0675,,"""Inka, Late Horizon""",Dallas Museum of Art
+1000462,45,1,1,0.05,0.0175,0,0,0,0.0675,,"""Inka, Late Horizon""",Dallas Museum of Art
+1000463,120,1,1,0.05,0.0175,0,0,0,0.0675,,"""Inka, Late Horizon""",Dallas Museum of Art
+1000425,13,8,1,0.037,0.0292,0,0,0,0.0662,Pachacamac,,Museo de Sitio de Pachacamac
+1000367,60,2,1,0.0476,0.0175,0,0,0,0.0651,"Rancho San Juan, Ica Valley",,
+1000439,29,9,1,0.0357,0.0292,0,0,0,0.0649,Pachacamac,,Museo de Sitio de Pachacamac
+1000642,13,10,1,0.0345,0.0292,0,0,0,0.0637,Incahuasi,,Proyecto Incahuasi
+1000174,25,3,1,0.0455,0.0175,0,0,0,0.063,"Rancho San Juan, Ica Valley",,
+1000383,115,3,1,0.0455,0.0175,0,0,0,0.063,,,Private Collection: Anna Maria Soldi
+1000376,180,5,1,0.0417,0.0175,0,0,0,0.0592,,,"""Museo Oro, Fundaci195179n Miguel Mujica Gallo"""
+1000535,23,15,1,0.0294,0.0292,0,0,0,0.0586,unknown,unknown,"""Ethnologisches Museum, Berlin, Germany"""
+1000478,40,6,1,0.04,0.0175,0,0,0,0.0575,unknown,,"""American Museum of Natural History, NY"""
+1000537,24,6,1,0.04,0.0175,0,0,0,0.0575,Pisco,"""South Coast, Peru""","""Ethnologisches Museum, Berlin, Germany"""
+1000028,21,7,1,0.0385,0.0175,0,0,0,0.056,,,"""Lowie Museum, University of California, Berkeley"""
+1000177,23,7,1,0.0385,0.0175,0,0,0,0.056,,,"""O. Nunez del Prado, Cuzco"""
+1000207,38,19,1,0.0263,0.0292,0,0,0,0.0555,,,Brooklyn Museum
+1000348,4,4,1,0.0435,0.0117,0,0,0,0.0552,,,Museo Temple Radicati
+1000013,30,9,1,0.0357,0.0175,0,0,0,0.0532,,,"""Lowie Museum, University of California, Berkeley"""
+1000550,7,6,1,0.04,0.0117,0,0,0,0.0517,Pachacamac,"""Central Coast, Peru""","""Ethnologisches Museum, Berlin, Germany"""
+1000015,32,11,1,0.0333,0.0175,0,0,0,0.0508,,,"""Museum of Culture History, University of California, Los Angeles"""
+1000427,18,11,1,0.0333,0.0175,0,0,0,0.0508,Pachacamac,,Museo de Sitio de Pachacamac
+1000188,39,4,1,0.0435,0.0058,0,0,0,0.0493,,,"""University Museum, University of Pennsylvania"""
+1000253,24,4,1,0.0435,0.0058,0,0,0,0.0493,Huaquerones,Puruchuco,Puruchuco Museum
+1000107,15,5,1,0.0417,0.0058,0,0,0,0.0475,,,"""Peabody Museum, Harvard University"""
+1000349,5,5,1,0.0417,0.0058,0,0,0,0.0475,,,Museo Temple Radicati
+1000392,11,6,1,0.04,0.0058,0,0,0,0.0458,,,Valle de Ica Hacienda Callango Ocucaje
+1000638,60,11,1,0.0333,0.0117,0,0,0,0.045,Incahuasi,,Proyecto Incahuasi
+1000422,96,19,1,0.0263,0.0175,0,0,0,0.0438,Pachacamac,,Museo de Sitio de Pachacamac
+1000093,23,8,1,0.037,0.0058,0,0,0,0.0428,Ica,,"""Museum für Völkerkunde, Berlin"""
+1000483,12,8,1,0.037,0.0058,0,0,0,0.0428,,,"""American Museum of Natural History, NY"""
+1000499,78,10,1,0.0345,0.0058,0,0,0,0.0403,,,Musee Quai Branly
+1000087,28,15,1,0.0294,0.0058,0,0,0,0.0352,near Lima,,"""Museum für Völkerkunde, Berlin"""
+1000559,24,15,1,0.0294,0.0058,0,0,0,0.0352,Pachacamac,"""Central Coast, Peru""","""Ethnologisches Museum, Berlin, Germany"""
+1000014,37,7,0,0.0,0.0,0,0,0,0.0,,,"""Lowie Museum, University of California, Berkeley"""
+1000017,39,19,0,0.0,0.0,0,0,0,0.0,,,"""Field Museum of Natural History, Chicago, IL"""
+1000026,18,5,0,0.0,0.0,0,0,0,0.0,Ica,,"""Lowie Museum, University of California, Berkeley"""
+1000038,5,4,0,0.0,0.0,0,0,0,0.0,Nazca,,"""Hood Museum of Art, Dartmouth College, Hanover, New Hampshire"""
+1000051,29,10,0,0.0,0.0,0,0,0,0.0,Marquez,,"""Museum für Völkerkunde, Berlin"""
+1000050,54,16,0,0.0,0.0,0,0,0,0.0,Marquez,,"""Museum für Völkerkunde, Berlin"""
+1000053,287,18,0,0.0,0.0,0,0,0,0.0,Ica,,"""Museum für Völkerkunde, Berlin"""
+1000055,11,2,0,0.0,0.0,0,0,0,0.0,Pachacamac,,"""Museum für Völkerkunde, Berlin"""
+1000061,7,5,0,0.0,0.0,0,0,0,0.0,Ica,,"""American Museum of Natural History, NY"""
+1000064,23,12,0,0.0,0.0,0,0,0,0.0,Between Ica and Pisco,,"""Museum für Völkerkunde, Berlin"""
+1000069,6,3,0,0.0,0.0,0,0,0,0.0,Ica,,"""American Museum of Natural History, NY"""
+1000076,36,6,0,0.0,0.0,0,0,0,0.0,Ica,,"""Museum für Völkerkunde, Berlin"""
+1000078,9,1,0,0.0,0.0,0,0,0,0.0,Lima,,"""Museum für Völkerkunde, Berlin"""
+1000084,6,4,0,0.0,0.0,0,0,0,0.0,Nazca,,"""Museum für Völkerkunde, Berlin"""
+1000086,14,6,0,0.0,0.0,0,0,0,0.0,Ica,,"""Museum für Völkerkunde, Berlin"""
+1000090,15,7,0,0.0,0.0,0,0,0,0.0,Marquez,,"""Museum für Völkerkunde, Berlin"""
+1000091,49,18,0,0.0,0.0,0,0,0,0.0,Marquez,,"""Museum für Völkerkunde, Berlin"""
+1000105,12,4,0,0.0,0.0,0,0,0,0.0,,,"""Peabody Museum, Harvard University"""
+1000106,18,7,0,0.0,0.0,0,0,0,0.0,,,"""Peabody Museum, Harvard University"""
+1000112,4,4,0,0.0,0.0,0,0,0,0.0,Chuquitanta,,"""Museum für Völkerkunde, Berlin"""
+1000113,35,7,0,0.0,0.0,0,0,0,0.0,Ica,,"""Museum für Völkerkunde, Berlin"""
+1000115,190,16,0,0.0,0.0,0,0,0,0.0,Nazca,,"""Museum für Völkerkunde, Berlin"""
+1000118,30,7,0,0.0,0.0,0,0,0,0.0,Ica,,"""Museum für Völkerkunde, Berlin"""
+1000120,90,12,0,0.0,0.0,0,0,0,0.0,Pachacamac,,"""Museum für Völkerkunde, Berlin"""
+1000121,123,15,0,0.0,0.0,0,0,0,0.0,Ica,,"""Museum für Völkerkunde, Berlin"""
+1000122,18,3,0,0.0,0.0,0,0,0,0.0,Ocucaje,,"""Museum für Völkerkunde, Berlin"""
+1000123,20,4,0,0.0,0.0,0,0,0,0.0,Ocucaje,,"""Museum für Völkerkunde, Berlin"""
+1000124,112,13,0,0.0,0.0,0,0,0,0.0,Ocucaje,,"""Museum für Völkerkunde, Berlin"""
+1000129,3,3,0,0.0,0.0,0,0,0,0.0,near Lima,,"""Museum für Völkerkunde, Berlin"""
+1000130,9,5,0,0.0,0.0,0,0,0,0.0,near Lima,,"""Museum für Völkerkunde, Berlin"""
+1000134,8,2,0,0.0,0.0,0,0,0,0.0,Ica,,"""Museum für Völkerkunde, Berlin"""
+1000135,16,7,0,0.0,0.0,0,0,0,0.0,Ica,,"""Museum für Völkerkunde, Berlin"""
+1000136,5,4,0,0.0,0.0,0,0,0,0.0,Ica,,"""Museum für Völkerkunde, Berlin"""
+1000137,27,5,0,0.0,0.0,0,0,0,0.0,Pachacamac,,"""Museum für Völkerkunde, Berlin"""
+1000142,18,8,0,0.0,0.0,0,0,0,0.0,,,"""Museum für Völkerkunde, Berlin"""
+1000143,30,6,0,0.0,0.0,0,0,0,0.0,,,"""Museum für Völkerkunde, Berlin"""
+1000145,24,13,0,0.0,0.0,0,0,0,0.0,Ica,,"""Museum für Völkerkunde, Berlin"""
+1000154,5,5,0,0.0,0.0,0,0,0,0.0,,,"""Museum für Völkerkunde, Berlin"""
+1000155,1,1,0,0.0,0.0,0,0,0,0.0,,,"""Museum für Völkerkunde, Berlin"""
+1000156,7,3,0,0.0,0.0,0,0,0,0.0,,,"""Museum für Völkerkunde, Berlin"""
+1000157,9,5,0,0.0,0.0,0,0,0,0.0,,,"""Museum für Völkerkunde, Berlin"""
+1000158,30,21,0,0.0,0.0,0,0,0,0.0,,,"""Museum für Völkerkunde, Berlin"""
+1000160,3,2,0,0.0,0.0,0,0,0,0.0,Pachacamac,,"""Museum für Völkerkunde, Berlin"""
+1000161,12,4,0,0.0,0.0,0,0,0,0.0,Pachacamac,,"""Museum für Völkerkunde, Berlin"""
+1000167,24,3,0,0.0,0.0,0,0,0,0.0,,,"""Niedersächsische Landesmuseum, Hanover, West Germany"""
+1000179,26,8,0,0.0,0.0,0,0,0,0.0,Hacienda Ullujalla y Callengo,,"""Museo de Ica, Ica, Peru"""
+1000182,3,2,0,0.0,0.0,0,0,0,0.0,Hacienda Ullujalla y Callengo,,"""Museo de Ica, Ica, Peru"""
+1000187,11,6,0,0.0,0.0,0,0,0,0.0,,,"""University Museum, University of Pennsylvania"""
+1000189,10,2,0,0.0,0.0,0,0,0,0.0,,,"""University Museum, University of Pennsylvania"""
+1000190,9,2,0,0.0,0.0,0,0,0,0.0,,,"""University Museum, University of Pennsylvania"""
+1000191,10,3,0,0.0,0.0,0,0,0,0.0,,,"""University Museum, University of Pennsylvania"""
+1000195,3,3,0,0.0,0.0,0,0,0,0.0,,,"""University Museum, University of Pennsylvania"""
+1000205,4,1,0,0.0,0.0,0,0,0,0.0,,,Brooklyn Museum
+1000206,12,5,0,0.0,0.0,0,0,0,0.0,,,Brooklyn Museum
+1000213,36,12,0,0.0,0.0,0,0,0,0.0,,,"""Museo Nacional, Lima, Peru"""
+1000218,5,2,0,0.0,0.0,0,0,0,0.0,,,"""O. Nunez del Prado, Cuzco"""
+1000225,8,2,0,0.0,0.0,0,0,0,0.0,,,"""Musee de l Homme, Paris, France"""
+1000227,51,10,0,0.0,0.0,0,0,0,0.0,Peru,,"""Museum Fur Volkerkunde, Munich, W. Germany"""
+1000240,47,10,0,0.0,0.0,0,0,0,0.0,"""Pueblo Libre, Lima, Peru""",,Museo Larco
+1000249,66,21,0,0.0,0.0,0,0,0,0.0,Huaquerones,Puruchuco,Puruchuco Museum
+1000252,13,2,0,0.0,0.0,0,0,0,0.0,Huaquerones,Puruchuco,Puruchuco Museum
+1000257,7,6,0,0.0,0.0,0,0,0,0.0,Huaquerones,Puruchuco,Puruchuco Museum
+1000276,8,7,0,0.0,0.0,0,0,0,0.0,,,Phoebe Hearst Museum of Anthropology
+1000314,212,19,0,0.0,0.0,0,0,0,0.0,Pachacamac,,"""Museum Fur Volkerkunde, Munich, W. Germany"""
+1000318,22,7,0,0.0,0.0,0,0,0,0.0,"""Playa Miller #6, Arica, Chile""",,Museo Chileno de Arte Precolombino
+1000339,57,41,0,0.0,0.0,0,0,0,0.0,unknown,,Museo Temple Radicati
+1000350,3,3,0,0.0,0.0,0,0,0,0.0,,,Museo Temple Radicati
+1000354,4,1,0,0.0,0.0,0,0,0,0.0,,,Museo Temple Radicati
+1000365,70,5,0,0.0,0.0,0,0,0,0.0,,,"""Museum Fur Volkerkunde, Munich, W. Germany"""
+1000409,33,12,0,0.0,0.0,0,0,0,0.0,,,Museo Regional de Ica
+1000412,7,2,0,0.0,0.0,0,0,0,0.0,,,Museo Regional de Ica
+1000419,96,3,0,0.0,0.0,0,0,0,0.0,Valle de Pisco,,On loan to Ica Museum
+1000421,31,13,0,0.0,0.0,0,0,0,0.0,Pachacamac,,Museo de Sitio de Pachacamac
+1000443,7,7,0,0.0,0.0,0,0,0,0.0,Pachacamac,,Museo de Sitio de Pachacamac
+1000454,39,9,0,0.0,0.0,0,0,0,0.0,,"""Inka, Late Horizon""",Dallas Museum of Art
+1000480,9,7,0,0.0,0.0,0,0,0,0.0,,,"""American Museum of Natural History, NY"""
+1000481,7,5,0,0.0,0.0,0,0,0,0.0,,,"""American Museum of Natural History, NY"""
+1000485,14,2,0,0.0,0.0,0,0,0,0.0,Cajamarquilla,,"""American Museum of Natural History, NY"""
+1000486,12,6,0,0.0,0.0,0,0,0,0.0,Cajamarquilla,,"""American Museum of Natural History, NY"""
+1000489,18,3,0,0.0,0.0,0,0,0,0.0,Cajamarquilla,,"""American Museum of Natural History, NY"""
+1000560,15,12,0,0.0,0.0,0,0,0,0.0,Pachacamac,"""Central Coast, Peru""","""Ethnologisches Museum, Berlin, Germany"""
+1000491,8,4,0,0.0,0.0,0,0,0,0.0,Cajamarquilla,,"""American Museum of Natural History, NY"""
+1000595,14,2,0,0.0,0.0,0,0,0,0.0,Incahuasi,,Projecto Arqueologico Incahuasi
+1000621,21,3,0,0.0,0.0,0,0,0,0.0,Incahuasi,,Proyecto Incahuasi
+1000625,36,16,0,0.0,0.0,0,0,0,0.0,Incahuasi,,Proyecto Incahuasi
+1000626,4,4,0,0.0,0.0,0,0,0,0.0,Incahuasi,,Proyecto Incahuasi
+1000627,8,5,0,0.0,0.0,0,0,0,0.0,Incahuasi,,Proyecto Incahuasi
+1000628,32,20,0,0.0,0.0,0,0,0,0.0,Incahuasi,,Proyecto Incahuasi
+1000630,13,5,0,0.0,0.0,0,0,0,0.0,Incahuasi,,Proyecto Incahuasi
+1000631,6,5,0,0.0,0.0,0,0,0,0.0,Incahuasi,,Proyecto Incahuasi
+1000632,6,3,0,0.0,0.0,0,0,0,0.0,Incahuasi,,Proyecto Incahuasi
+1000639,10,2,0,0.0,0.0,0,0,0,0.0,Incahuasi,,Proyecto Incahuasi
+1000640,9,3,0,0.0,0.0,0,0,0,0.0,Incahuasi,,Proyecto Incahuasi
+1000641,5,1,0,0.0,0.0,0,0,0,0.0,Incahuasi,,Proyecto Incahuasi
+1000643,6,4,0,0.0,0.0,0,0,0,0.0,Incahuasi,,Proyecto Incahuasi
+1000644,4,3,0,0.0,0.0,0,0,0,0.0,Incahuasi,,Proyecto Incahausi
+1000645,11,6,0,0.0,0.0,0,0,0,0.0,Incahuasi,,Proyecto Incahuasi
+1000653,6,6,0,0.0,0.0,0,0,0,0.0,"Armatambo, Huaca San Pedro",,"Museo Nac., Pueblo Libre"
+1000657,8,6,0,0.0,0.0,0,0,0,0.0,"Armatambo, Huaca San Pedro",,"Museo Nac., Pueblo Libre"
+1000660,4,3,0,0.0,0.0,0,0,0,0.0,"Armatambo, Huaca San Pedro",,"Museo Nac., Pueblo Libre"

@@ -1,0 +1,19 @@
+# khipu_id: 1000257
+# provenance: Huaquerones
+# region: Puruchuco
+# museum: Puruchuco Museum 26
+# nickname: 
+# file_format: .flat
+# data_regime: 
+# doc_cluster: 
+# template_id: 
+# segmentation: none
+# n_rows: 6
+# n_cols: 0
+ORDINAL,LEVEL,COLOR1,COLOR2,VALUE,KNOTS
+1,1,GG,AB,4,"E:1,L:1"
+2,1,RB,,,
+3,1,GG,,,
+4,1,RL,,,
+5,1,G,,2,L:1
+6,1,RL,,,

@@ -1,0 +1,35 @@
+# khipu_id: 1000285
+# provenance: 
+# region: 
+# museum: "Museum for World Culture, Goteborg" 1929.26.0157a-b
+# nickname: 
+# file_format: .tab
+# data_regime: DC2
+# doc_cluster: deep_sparse_mixed
+# template_id: T088
+# segmentation: value_marker
+# n_rows: 21
+# n_cols: 7
+ROW_ID,IS_MARKER_ROW,SECTION,MB,MB_2,MB_3,MB_4,MB_5,MB_6,MB_7
+,,,MARKER,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE
+1,TRUE,1,1,1,1,,,9,
+2,FALSE,1,2,6,1,,28,3,
+3,FALSE,1,2,,1,,,,
+4,FALSE,1,2,,,,,,
+5,FALSE,1,2,1,4,,,,
+6,FALSE,1,2,,,1,,,
+7,FALSE,1,2,,,12,,,
+8,FALSE,1,1,1,6,,,,
+9,FALSE,1,15,,1,2,,,
+10,FALSE,1,21,,,6,,,
+11,FALSE,1,1,,,,,,
+12,FALSE,1,2,12,,,,,
+13,FALSE,1,2,1,,,2,4,1
+14,FALSE,1,2,,,,,,
+15,FALSE,1,2,1,,,,,
+16,FALSE,1,2,3,,,,,
+17,FALSE,1,1,5,2,,,,
+18,FALSE,1,1,5,4,2,,,
+19,FALSE,1,1,25,1,6,,,
+20,FALSE,1,7,,,,,,
+21,FALSE,1,,,,,,,

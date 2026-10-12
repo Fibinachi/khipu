@@ -1,0 +1,19 @@
+# khipu_id: 1000164
+# provenance: 
+# region: 
+# museum: "American Museum of Natural History, NY" 41.0/7305A
+# nickname: 
+# file_format: .tab
+# data_regime: DC6
+# doc_cluster: large_value_flat
+# template_id: T043
+# segmentation: white_dividers
+# n_rows: 5
+# n_cols: 20
+ROW_ID,IS_MARKER_ROW,SECTION,MB,MB_2,MB_3,MB_4,MB_5,MB_6,MB_7,FB,FB_2,FB_3,DB,DB_2,MB_8,DB_3,MB_9,MB_10,MB_11,FB_4,FB_5,FB_6
+,,,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT
+1,FALSE,2,,2,13,,2,,33,34,161,,44,18,327,,,,,,,
+2,FALSE,3,55,46,214,57,44,97,513,64,44,55,21,46,53,463,17,,71,21,14,73
+3,FALSE,4,54,,25,489,99,54,67,232,64,71,587,,,,,,,,,
+4,FALSE,5,,84,23,,,,,,,,,,,,,,,,,
+5,FALSE,6,,,17,127,,,,,,,,,,,,,,,,

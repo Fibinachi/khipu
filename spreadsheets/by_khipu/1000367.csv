@@ -1,0 +1,21 @@
+# khipu_id: 1000367
+# provenance: Rancho San Juan, Ica Valley
+# region: 
+# museum:
+# nickname: 
+# file_format: .flat
+# data_regime: 
+# doc_cluster: 
+# template_id: 
+# segmentation: none
+# n_rows: 8
+# n_cols: 0
+ORDINAL,LEVEL,COLOR1,COLOR2,VALUE,KNOTS
+1,-1,?,,40,"L:4,S:135"
+2,-1,?,,,S:24
+3,-1,?,,,S:15
+4,-1,?,,,"L:1,S:18"
+5,-1,?,,50,"L:1,S:26"
+6,-1,?,,50,S:7
+7,-1,?,,,
+8,-1,?,,,

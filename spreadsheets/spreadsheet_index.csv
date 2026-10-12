@@ -1,0 +1,620 @@
+khipu_id,has_spreadsheet,n_rows,n_cols,format,data_regime,template_id,provenance,region,file_path,segmentation
+1000000,True,13,6,.flat,,,Leymebamba,Chachapoyas,by_khipu/1000000.csv,none
+1000001,True,6,6,.flat,,,Leymebamba,Chachapoyas,by_khipu/1000001.csv,none
+1000002,True,24,6,.flat,,,Leymebamba,Chachapoyas,by_khipu/1000002.csv,none
+1000003,True,31,6,.flat,,,Leymebamba,Chachapoyas,by_khipu/1000003.csv,none
+1000004,True,159,6,.flat,,,Leymebamba,Chachapoyas,by_khipu/1000004.csv,none
+1000005,True,49,6,.flat,,,Leymebamba,Chachapoyas,by_khipu/1000005.csv,none
+1000006,True,45,6,.flat,,,Leymebamba,Chachapoyas,by_khipu/1000006.csv,none
+1000007,True,176,6,.flat,,,Leymebamba,Chachapoyas,by_khipu/1000007.csv,none
+1000008,True,24,6,.flat,,,Leymebamba,Chachapoyas,by_khipu/1000008.csv,none
+1000009,True,50,6,.flat,,,Leymebamba,Chachapoyas,by_khipu/1000009.csv,none
+1000010,True,65,6,.flat,,,Leymebamba,Chachapoyas,by_khipu/1000010.csv,none
+1000011,True,23,6,.flat,,,Leymebamba,Chachapoyas,by_khipu/1000011.csv,none
+1000012,True,72,6,.flat,,,Leymebamba,Chachapoyas,by_khipu/1000012.csv,none
+1000013,True,30,6,.flat,,,,,by_khipu/1000013.csv,none
+1000014,True,19,3,.tab,DC2,T002,,,by_khipu/1000014.csv,color_cycle
+1000015,True,30,6,.flat,,,,,by_khipu/1000015.csv,none
+1000017,True,30,6,.flat,,,,,by_khipu/1000017.csv,none
+1000018,True,222,6,.flat,,,Leymebamba,Chachapoyas,by_khipu/1000018.csv,none
+1000019,True,149,6,.flat,,,Leymebamba,Chachapoyas,by_khipu/1000019.csv,none
+1000020,True,281,6,.flat,,,Leymebamba,Chachapoyas,by_khipu/1000020.csv,none
+1000021,True,97,6,.flat,,,Leymebamba,Chachapoyas,by_khipu/1000021.csv,none
+1000022,True,136,6,.flat,,,Leymebamba,Chachapoyas,by_khipu/1000022.csv,none
+1000023,True,407,6,.flat,,,Leymebamba,Chachapoyas,by_khipu/1000023.csv,none
+1000024,True,482,6,.flat,,,Leymebamba,Chachapoyas,by_khipu/1000024.csv,none
+1000025,True,571,6,.flat,,,Leymebamba,Chachapoyas,by_khipu/1000025.csv,none
+1000026,True,10,6,.flat,,,Ica,,by_khipu/1000026.csv,none
+1000027,True,4,4,.tab,unclustered,T003,Ica,,by_khipu/1000027.csv,value_marker
+1000028,True,10,6,.flat,,,,,by_khipu/1000028.csv,none
+1000029,True,3,99,.tab,DC2,T004,,,by_khipu/1000029.csv,white_dividers
+1000030,True,17,6,.flat,,,,,by_khipu/1000030.csv,none
+1000031,True,14,6,.flat,,,,,by_khipu/1000031.csv,none
+1000032,True,3,12,.tab,DC3,T005,,,by_khipu/1000032.csv,white_dividers
+1000033,True,3,9,.tab,DC2,T006,,,by_khipu/1000033.csv,white_dividers
+1000034,True,5,21,.tab,DC2,T007,,,by_khipu/1000034.csv,value_marker
+1000035,True,18,6,.flat,,,,,by_khipu/1000035.csv,none
+1000036,True,20,6,.flat,,,,,by_khipu/1000036.csv,none
+1000037,True,28,6,.flat,,,Nazca,,by_khipu/1000037.csv,none
+1000038,True,2,6,.flat,,,Nazca,,by_khipu/1000038.csv,none
+1000039,True,20,4,.tab,DC2,T008,Pachacamac,,by_khipu/1000039.csv,value_marker
+1000040,True,4,41,.tab,DC6,T009,Between Ica and Pisco,,by_khipu/1000040.csv,white_dividers
+1000041,True,48,6,.flat,,,Pachacamac,,by_khipu/1000041.csv,none
+1000042,True,13,7,.tab,DC2,T010,Ica,,by_khipu/1000042.csv,value_marker
+1000043,True,9,6,.flat,,,Pachacamac,,by_khipu/1000043.csv,none
+1000044,True,16,6,.flat,,,Pachacamac,,by_khipu/1000044.csv,none
+1000045,True,266,6,.flat,,,Leymebamba,Chachapoyas,by_khipu/1000045.csv,none
+1000046,True,18,6,.flat,,,Pachacamac,,by_khipu/1000046.csv,none
+1000047,True,43,6,.flat,,,Ica,,by_khipu/1000047.csv,none
+1000048,True,21,6,.flat,,,Pachacamac,"""Central Coast, Peru""",by_khipu/1000048.csv,none
+1000049,True,12,6,.flat,,,Ica,,by_khipu/1000049.csv,none
+1000050,True,49,6,.flat,,,Marquez,,by_khipu/1000050.csv,none
+1000051,True,29,6,.flat,,,Marquez,,by_khipu/1000051.csv,none
+1000052,True,17,2,.tab,DC2,T011,Between Ica and Pisco,,by_khipu/1000052.csv,color_cycle
+1000053,True,58,10,.tab,DC6,T012,Ica,,by_khipu/1000053.csv,value_marker
+1000054,True,20,6,.flat,,,Pachacamac,,by_khipu/1000054.csv,none
+1000055,True,7,6,.flat,,,Pachacamac,,by_khipu/1000055.csv,none
+1000056,True,42,6,.flat,,,Pachacamac,,by_khipu/1000056.csv,none
+1000057,True,4,63,.tab,DC6,T013,Between Ica and Pisco,,by_khipu/1000057.csv,value_marker
+1000058,True,35,6,.flat,,,Between Ica and Pisco,,by_khipu/1000058.csv,none
+1000059,True,13,6,.flat,,,Between Ica and Pisco,,by_khipu/1000059.csv,none
+1000060,True,7,2,.tab,unclustered,T014,Between Ica and Pisco,,by_khipu/1000060.csv,color_cycle
+1000061,True,3,6,.flat,,,Ica,,by_khipu/1000061.csv,none
+1000062,True,3,6,.flat,,,Ica,,by_khipu/1000062.csv,none
+1000063,True,339,7,.log,DC6,T015,Between Ica and Pisco,,by_khipu/1000063.csv,value_marker
+1000064,True,23,6,.flat,,,Between Ica and Pisco,,by_khipu/1000064.csv,none
+1000065,True,4,34,.tab,DC1,T016,Ica,,by_khipu/1000065.csv,white_dividers
+1000066,True,7,6,.flat,,,Ica,,by_khipu/1000066.csv,none
+1000067,True,10,6,.flat,,,Ica,,by_khipu/1000067.csv,none
+1000068,True,8,6,.flat,,,Ica,,by_khipu/1000068.csv,none
+1000069,True,5,6,.flat,,,Ica,,by_khipu/1000069.csv,none
+1000070,True,9,6,.flat,,,Ica,,by_khipu/1000070.csv,none
+1000071,True,55,6,.flat,,,Ica,,by_khipu/1000071.csv,none
+1000072,True,13,6,.flat,,,Ica,,by_khipu/1000072.csv,none
+1000073,True,11,6,.flat,,,Ica,,by_khipu/1000073.csv,none
+1000074,True,15,6,.flat,,,Pachacamac,,by_khipu/1000074.csv,none
+1000075,True,7,6,.flat,,,Pachacamac,,by_khipu/1000075.csv,none
+1000076,True,32,6,.flat,,,Ica,,by_khipu/1000076.csv,none
+1000077,True,280,6,.flat,,,Pachacamac,,by_khipu/1000077.csv,none
+1000078,True,8,6,.flat,,,Lima,,by_khipu/1000078.csv,none
+1000079,True,70,6,.flat,,,Ica,,by_khipu/1000079.csv,none
+1000080,True,35,6,.flat,,,Marquez,,by_khipu/1000080.csv,none
+1000081,True,23,6,.flat,,,Marquez,,by_khipu/1000081.csv,none
+1000082,True,16,6,.flat,,,Pachacamac,,by_khipu/1000082.csv,none
+1000083,True,104,6,.flat,,,Ica,,by_khipu/1000083.csv,none
+1000084,True,6,6,.flat,,,Nazca,,by_khipu/1000084.csv,none
+1000085,True,67,8,.tab,DC2,T017,Nazca,,by_khipu/1000085.csv,value_marker
+1000086,True,14,6,.flat,,,Ica,,by_khipu/1000086.csv,none
+1000087,True,16,6,.flat,,,near Lima,,by_khipu/1000087.csv,none
+1000088,True,195,6,.flat,,,near Lima,,by_khipu/1000088.csv,none
+1000089,True,5,44,.tab,DC6,T018,Pachacamac,,by_khipu/1000089.csv,value_marker
+1000090,True,11,6,.flat,,,Marquez,,by_khipu/1000090.csv,none
+1000091,True,47,6,.flat,,,Marquez,,by_khipu/1000091.csv,none
+1000092,True,6,4,.tab,unclustered,T019,Pachacamac,,by_khipu/1000092.csv,color_cycle
+1000093,True,22,6,.flat,,,Ica,,by_khipu/1000093.csv,none
+1000094,True,19,10,.tab,DC6,T020,Nazca,,by_khipu/1000094.csv,value_marker
+1000096,True,16,110,.tab,DC4,T021,Lluta Valley,,by_khipu/1000096.csv,value_marker
+1000097,True,5,18,.tab,DC6,T022,,,by_khipu/1000097.csv,value_marker
+1000098,True,19,2,.tab,unclustered,T023,Nazca,,by_khipu/1000098.csv,color_cycle
+1000099,True,7,8,.tab,DC2,T024,,,by_khipu/1000099.csv,value_marker
+1000100,True,25,6,.flat,,,,,by_khipu/1000100.csv,none
+1000101,True,22,6,.flat,,,"""La puntilla, between Paracas and Pisco""",,by_khipu/1000101.csv,none
+1000103,True,415,7,.log,DC2,T025,Nazca,,by_khipu/1000103.csv,value_marker
+1000105,True,12,6,.flat,,,,,by_khipu/1000105.csv,none
+1000106,True,6,6,.tab,unclustered,T026,,,by_khipu/1000106.csv,color_cycle
+1000107,True,8,2,.tab,unclustered,T027,,,by_khipu/1000107.csv,color_cycle
+1000108,True,13,3,.tab,DC2,T028,,,by_khipu/1000108.csv,color_cycle
+1000109,True,4,6,.flat,,,,,by_khipu/1000109.csv,none
+1000110,True,11,2,.tab,DC6,T001,,,by_khipu/1000110.csv,color_cycle
+1000111,True,9,6,.flat,,,,,by_khipu/1000111.csv,none
+1000112,True,4,6,.flat,,,Chuquitanta,,by_khipu/1000112.csv,none
+1000113,True,35,6,.flat,,,Ica,,by_khipu/1000113.csv,none
+1000114,True,13,6,.flat,,,Pachacamac,,by_khipu/1000114.csv,none
+1000115,True,4,68,.tab,DC6,T029,Nazca,,by_khipu/1000115.csv,value_marker
+1000116,True,20,6,.flat,,,Ica,,by_khipu/1000116.csv,none
+1000117,True,12,6,.flat,,,Ica,,by_khipu/1000117.csv,none
+1000118,True,14,3,.tab,DC3,T030,Ica,,by_khipu/1000118.csv,color_cycle
+1000119,True,62,6,.flat,,,Pachacamac,,by_khipu/1000119.csv,none
+1000120,True,16,8,.tab,DC4,T031,Pachacamac,,by_khipu/1000120.csv,value_marker
+1000121,True,21,8,.tab,DC2,T032,Ica,,by_khipu/1000121.csv,value_marker
+1000122,True,18,6,.flat,,,Ocucaje,,by_khipu/1000122.csv,none
+1000123,True,20,6,.flat,,,Ocucaje,,by_khipu/1000123.csv,none
+1000124,True,30,4,.tab,DC3,T033,Ocucaje,,by_khipu/1000124.csv,value_marker
+1000125,True,27,6,.flat,,,Ica,,by_khipu/1000125.csv,none
+1000126,True,23,6,.flat,,,Pachacamac,,by_khipu/1000126.csv,none
+1000127,True,80,6,.flat,,,Ica,,by_khipu/1000127.csv,none
+1000128,True,21,6,.flat,,,,,by_khipu/1000128.csv,none
+1000129,True,3,6,.flat,,,near Lima,,by_khipu/1000129.csv,none
+1000130,True,6,6,.flat,,,near Lima,,by_khipu/1000130.csv,none
+1000131,True,17,4,.tab,DC6,T034,Pachacamac,,by_khipu/1000131.csv,value_marker
+1000132,True,18,6,.flat,,,,,by_khipu/1000132.csv,none
+1000133,True,18,6,.flat,,,Pachacamac,,by_khipu/1000133.csv,none
+1000134,True,8,6,.flat,,,Ica,,by_khipu/1000134.csv,none
+1000135,True,16,6,.flat,,,Ica,,by_khipu/1000135.csv,none
+1000136,True,5,6,.flat,,,Ica,,by_khipu/1000136.csv,none
+1000137,True,6,7,.tab,DC6,T035,Pachacamac,,by_khipu/1000137.csv,value_marker
+1000138,True,22,6,.flat,,,Ica,,by_khipu/1000138.csv,none
+1000139,True,19,6,.flat,,,Pachacamac,,by_khipu/1000139.csv,none
+1000140,True,9,39,.tab,DC6,T036,Ica,,by_khipu/1000140.csv,value_marker
+1000141,True,9,6,.flat,,,Pachacamac,,by_khipu/1000141.csv,none
+1000142,True,18,6,.flat,,,,,by_khipu/1000142.csv,none
+1000143,True,6,8,.tab,DC2,T037,,,by_khipu/1000143.csv,value_marker
+1000144,True,16,15,.tab,DC3,T038,Pachacamac,,by_khipu/1000144.csv,color_cycle
+1000145,True,23,6,.flat,,,Ica,,by_khipu/1000145.csv,none
+1000146,True,32,6,.flat,,,Pachacamac,,by_khipu/1000146.csv,none
+1000147,True,48,5,.tab,DC6,T039,Pachacamac,,by_khipu/1000147.csv,color_cycle
+1000148,True,13,19,.tab,DC6,T040,Nazca,,by_khipu/1000148.csv,value_marker
+1000149,True,15,6,.flat,,,near Lima,,by_khipu/1000149.csv,none
+1000150,True,7,4,.tab,DC2,T041,near Lima,,by_khipu/1000150.csv,color_cycle
+1000151,True,27,6,.flat,,,Ica,,by_khipu/1000151.csv,none
+1000152,True,27,6,.flat,,,Ica,,by_khipu/1000152.csv,none
+1000154,True,5,6,.flat,,,,,by_khipu/1000154.csv,none
+1000155,True,1,6,.flat,,,,,by_khipu/1000155.csv,none
+1000156,True,4,6,.flat,,,,,by_khipu/1000156.csv,none
+1000157,True,9,6,.flat,,,,,by_khipu/1000157.csv,none
+1000158,True,23,6,.flat,,,,,by_khipu/1000158.csv,none
+1000159,True,8,6,.tab,DC2,T042,,,by_khipu/1000159.csv,value_marker
+1000160,True,3,6,.flat,,,Pachacamac,,by_khipu/1000160.csv,none
+1000161,True,12,6,.flat,,,Pachacamac,,by_khipu/1000161.csv,none
+1000162,True,23,6,.flat,,,Pachacamac,,by_khipu/1000162.csv,none
+1000163,True,19,6,.flat,,,,,by_khipu/1000163.csv,none
+1000164,True,5,20,.tab,DC6,T043,,,by_khipu/1000164.csv,white_dividers
+1000165,True,37,6,.flat,,,probably Central Coast Late Period,,by_khipu/1000165.csv,none
+1000166,True,27,6,.flat,,,,,by_khipu/1000166.csv,none
+1000167,True,15,6,.flat,,,,,by_khipu/1000167.csv,none
+1000168,True,3,6,.flat,,,,,by_khipu/1000168.csv,none
+1000169,True,20,6,.flat,,,Hacienda Ullujalla y Callengo,,by_khipu/1000169.csv,none
+1000170,True,20,6,.flat,,,Hacienda Ullujalla y Callengo,,by_khipu/1000170.csv,none
+1000171,True,15,6,.flat,,,,,by_khipu/1000171.csv,none
+1000172,True,6,7,.tab,DC2,T044,"""Hacienda Copara, Nazca""","""South Coast, Peru""",by_khipu/1000172.csv,value_marker
+1000173,True,8,6,.flat,,,,,by_khipu/1000173.csv,none
+1000174,True,25,6,.flat,,,"Rancho San Juan, Ica Valley",,by_khipu/1000174.csv,none
+1000176,True,5,13,.tab,DC2,T045,,,by_khipu/1000176.csv,value_marker
+1000177,True,9,6,.flat,,,,,by_khipu/1000177.csv,none
+1000178,True,8,2,.tab,unclustered,T046,,,by_khipu/1000178.csv,color_cycle
+1000179,True,21,6,.flat,,,Hacienda Ullujalla y Callengo,,by_khipu/1000179.csv,none
+1000180,True,16,6,.tab,DC2,T047,,,by_khipu/1000180.csv,value_marker
+1000182,True,3,6,.flat,,,Hacienda Ullujalla y Callengo,,by_khipu/1000182.csv,none
+1000183,True,559,7,.log,,,,,by_khipu/1000183.csv,none
+1000184,True,5,29,.tab,DC2,T048,,,by_khipu/1000184.csv,white_dividers
+1000185,True,42,6,.flat,,,,,by_khipu/1000185.csv,none
+1000186,True,12,6,.flat,,,,,by_khipu/1000186.csv,none
+1000187,True,7,6,.flat,,,,,by_khipu/1000187.csv,none
+1000188,True,20,6,.flat,,,,,by_khipu/1000188.csv,none
+1000189,True,9,6,.flat,,,,,by_khipu/1000189.csv,none
+1000190,True,9,6,.flat,,,,,by_khipu/1000190.csv,none
+1000191,True,10,6,.flat,,,,,by_khipu/1000191.csv,none
+1000192,True,6,17,.tab,DC6,T049,,,by_khipu/1000192.csv,white_dividers
+1000194,True,7,6,.flat,,,,,by_khipu/1000194.csv,none
+1000195,True,3,6,.flat,,,,,by_khipu/1000195.csv,none
+1000196,True,2,6,.flat,,,,,by_khipu/1000196.csv,none
+1000197,True,3,27,.tab,unclustered,T050,,,by_khipu/1000197.csv,white_dividers
+1000198,True,3,35,.tab,DC2,T051,,,by_khipu/1000198.csv,white_dividers
+1000199,True,4,11,.tab,unclustered,T052,,,by_khipu/1000199.csv,value_marker
+1000200,True,49,6,.flat,,,,,by_khipu/1000200.csv,none
+1000201,True,87,6,.flat,,,Aankoop,,by_khipu/1000201.csv,none
+1000204,True,16,6,.flat,,,,,by_khipu/1000204.csv,none
+1000205,True,4,6,.flat,,,,,by_khipu/1000205.csv,none
+1000206,True,8,6,.flat,,,,,by_khipu/1000206.csv,none
+1000207,True,4,13,.tab,DC2,T053,,,by_khipu/1000207.csv,value_marker
+1000208,True,3,6,.tab,DC6,T054,,,by_khipu/1000208.csv,white_dividers
+1000209,True,32,6,.flat,,,,,by_khipu/1000209.csv,none
+1000210,True,11,6,.flat,,,,,by_khipu/1000210.csv,none
+1000211,True,27,6,.flat,,,,,by_khipu/1000211.csv,none
+1000212,True,40,6,.flat,,,,,by_khipu/1000212.csv,none
+1000213,True,9,8,.tab,DC2,T055,,,by_khipu/1000213.csv,value_marker
+1000214,True,35,6,.flat,,,Hacienda Ullujalla y Callengo,,by_khipu/1000214.csv,none
+1000216,True,9,6,.flat,,,,,by_khipu/1000216.csv,none
+1000217,True,7,6,.flat,,,,,by_khipu/1000217.csv,none
+1000218,True,5,6,.flat,,,,,by_khipu/1000218.csv,none
+1000220,True,15,6,.flat,,,,,by_khipu/1000220.csv,none
+1000221,True,8,6,.tab,DC2,T056,,,by_khipu/1000221.csv,value_marker
+1000222,True,16,6,.flat,,,,,by_khipu/1000222.csv,none
+1000223,True,24,6,.flat,,,,,by_khipu/1000223.csv,none
+1000224,True,5,6,.flat,,,,,by_khipu/1000224.csv,none
+1000225,True,8,6,.flat,,,,,by_khipu/1000225.csv,none
+1000226,True,6,6,.flat,,,,,by_khipu/1000226.csv,none
+1000227,True,6,6,.flat,,,Peru,,by_khipu/1000227.csv,none
+1000228,True,5,14,.tab,DC6,T057,Huacho,,by_khipu/1000228.csv,value_marker
+1000229,True,11,8,.tab,DC2,T058,,,by_khipu/1000229.csv,value_marker
+1000230,True,4,24,.tab,DC2,T059,,,by_khipu/1000230.csv,white_dividers
+1000231,True,4,10,.tab,DC3,T060,,,by_khipu/1000231.csv,white_dividers
+1000232,True,27,6,.flat,,,Peru,,by_khipu/1000232.csv,none
+1000233,True,56,6,.flat,,,Peru,,by_khipu/1000233.csv,none
+1000234,True,8,13,.tab,DC2,T061,Peru,,by_khipu/1000234.csv,value_marker
+1000235,True,74,6,.flat,,,"""Maranga, Huaca 1""",,by_khipu/1000235.csv,none
+1000236,True,5,21,.tab,DC6,T062,,,by_khipu/1000236.csv,white_dividers
+1000238,True,6,56,.tab,DC6,T063,,,by_khipu/1000238.csv,white_dividers
+1000239,True,8,7,.tab,DC2,T064,"""Pueblo Libre, Lima, Peru""",,by_khipu/1000239.csv,value_marker
+1000240,True,47,6,.flat,,,"""Pueblo Libre, Lima, Peru""",,by_khipu/1000240.csv,none
+1000241,True,76,6,.flat,,,"""Pueblo Libre, Lima, Peru""",,by_khipu/1000241.csv,none
+1000242,True,6,6,.flat,,,Huaquerones,Puruchuco,by_khipu/1000242.csv,none
+1000243,True,22,6,.flat,,,Huaquerones,Puruchuco,by_khipu/1000243.csv,none
+1000244,True,8,2,.tab,unclustered,T001,,Puruchuco,by_khipu/1000244.csv,color_cycle
+1000245,True,32,6,.flat,,,Huaquerones,Puruchuco,by_khipu/1000245.csv,none
+1000246,True,4,15,.tab,DC6,T065,Huaquerones,Puruchuco,by_khipu/1000246.csv,value_marker
+1000247,True,26,6,.flat,,,Huaquerones,Puruchuco,by_khipu/1000247.csv,none
+1000248,True,26,6,.flat,,,Huaquerones,Puruchuco,by_khipu/1000248.csv,none
+1000249,True,11,6,.tab,DC2,T066,Huaquerones,Puruchuco,by_khipu/1000249.csv,value_marker
+1000250,True,6,23,.tab,DC2,T067,,Puruchuco,by_khipu/1000250.csv,value_marker
+1000251,True,18,8,.tab,DC2,T068,Huaquerones,Puruchuco,by_khipu/1000251.csv,value_marker
+1000252,True,13,6,.flat,,,Huaquerones,Puruchuco,by_khipu/1000252.csv,none
+1000253,True,5,7,.tab,DC2,T069,Huaquerones,Puruchuco,by_khipu/1000253.csv,value_marker
+1000254,True,11,6,.flat,,,Huaquerones,Puruchuco,by_khipu/1000254.csv,none
+1000255,True,7,5,.tab,DC2,T070,Huaquerones,Puruchuco,by_khipu/1000255.csv,value_marker
+1000256,True,8,2,.tab,unclustered,T071,Huaquerones,Puruchuco,by_khipu/1000256.csv,color_cycle
+1000257,True,6,6,.flat,,,Huaquerones,Puruchuco,by_khipu/1000257.csv,none
+1000258,True,44,6,.flat,,,Huaquerones,Puruchuco,by_khipu/1000258.csv,none
+1000259,True,29,4,.tab,DC2,T072,,Puruchuco,by_khipu/1000259.csv,color_cycle
+1000260,True,32,6,.flat,,,Huaquerones,Puruchuco,by_khipu/1000260.csv,none
+1000261,True,32,6,.flat,,,Huaquerones,Puruchuco,by_khipu/1000261.csv,none
+1000262,True,19,4,.tab,DC4,T073,,Puruchuco,by_khipu/1000262.csv,color_cycle
+1000263,True,19,4,.tab,DC4,T074,Huaquerones,Puruchuco,by_khipu/1000263.csv,color_cycle
+1000264,True,112,6,.flat,,,Huaquerones,Puruchuco,by_khipu/1000264.csv,none
+1000265,True,20,3,.tab,DC3,T075,,,by_khipu/1000265.csv,color_cycle
+1000266,True,18,2,.tab,DC6,T076,,,by_khipu/1000266.csv,color_cycle
+1000267,True,21,3,.tab,DC6,T077,,,by_khipu/1000267.csv,color_cycle
+1000268,True,24,6,.tab,DC6,T078,,,by_khipu/1000268.csv,color_cycle
+1000269,True,17,8,.tab,DC2,T079,,,by_khipu/1000269.csv,value_marker
+1000270,True,3,24,.tab,DC6,T080,Santa,,by_khipu/1000270.csv,white_dividers
+1000271,True,3,42,.tab,DC2,T081,Santa,,by_khipu/1000271.csv,white_dividers
+1000272,True,4,26,.tab,DC2,T082,Santa,,by_khipu/1000272.csv,value_marker
+1000273,True,12,35,.tab,DC2,T083,Santa,,by_khipu/1000273.csv,value_marker
+1000274,True,4,40,.tab,DC6,T084,Santa,,by_khipu/1000274.csv,white_dividers
+1000275,True,6,40,.tab,DC2,T085,Santa,,by_khipu/1000275.csv,value_marker
+1000276,True,7,6,.flat,,,,,by_khipu/1000276.csv,none
+1000277,True,39,6,.flat,,,,,by_khipu/1000277.csv,none
+1000279,True,9,31,.tab,DC5,T086,Mollepampa,"""Inka, Playa Miller""",by_khipu/1000279.csv,white_dividers
+1000280,True,7,51,.tab,DC3,T087,,,by_khipu/1000280.csv,white_dividers
+1000283,True,22,6,.flat,,,,,by_khipu/1000283.csv,none
+1000285,True,21,7,.tab,DC2,T088,,,by_khipu/1000285.csv,value_marker
+1000287,True,17,18,.tab,DC2,T089,Nazca,,by_khipu/1000287.csv,value_marker
+1000288,True,13,6,.flat,,,Paracas,,by_khipu/1000288.csv,none
+1000289,True,11,6,.flat,,,Paracas,,by_khipu/1000289.csv,none
+1000290,True,14,6,.flat,,,Paracas,,by_khipu/1000290.csv,none
+1000291,True,24,6,.flat,,,Paracas,,by_khipu/1000291.csv,none
+1000292,True,4,117,.tab,DC6,T090,Nazca,,by_khipu/1000292.csv,value_marker
+1000293,True,13,14,.tab,DC6,T091,Paracas,,by_khipu/1000293.csv,value_marker
+1000295,True,28,6,.flat,,,,,by_khipu/1000295.csv,none
+1000296,True,38,6,.flat,,,,,by_khipu/1000296.csv,none
+1000297,True,24,6,.flat,,,,,by_khipu/1000297.csv,none
+1000298,True,58,6,.flat,,,"""Playa Miller #6, Arica, Chile""",,by_khipu/1000298.csv,none
+1000299,True,48,6,.flat,,,,,by_khipu/1000299.csv,none
+1000300,True,56,6,.flat,,,Lluta Valley,,by_khipu/1000300.csv,none
+1000301,True,66,6,.flat,,,Lluta Valley,,by_khipu/1000301.csv,none
+1000302,True,10,7,.tab,DC6,T092,Lluta Valley,,by_khipu/1000302.csv,value_marker
+1000303,True,14,6,.flat,,,Atarco,Nazca,by_khipu/1000303.csv,none
+1000304,True,76,6,.flat,,,Atarco,Nazca,by_khipu/1000304.csv,none
+1000305,True,35,6,.flat,,,Atarco,Nazca,by_khipu/1000305.csv,none
+1000306,True,10,6,.flat,,,Atarco,Nazca,by_khipu/1000306.csv,none
+1000307,True,10,6,.flat,,,Atarco,Nazca,by_khipu/1000307.csv,none
+1000309,True,21,6,.flat,,,Atarco,Nazca,by_khipu/1000309.csv,none
+1000310,True,14,10,.tab,DC4,T093,Peru,,by_khipu/1000310.csv,value_marker
+1000312,True,5,20,.tab,DC2,T094,,,by_khipu/1000312.csv,white_dividers
+1000313,True,23,4,.tab,DC2,T095,Huacho,,by_khipu/1000313.csv,value_marker
+1000314,True,43,7,.tab,DC4,T096,Pachacamac,,by_khipu/1000314.csv,value_marker
+1000315,True,77,6,.flat,,,Pachacamac,,by_khipu/1000315.csv,none
+1000316,True,4,7,.tab,DC6,T097,"""Playa Miller #6, Arica, Chile""",,by_khipu/1000316.csv,white_dividers
+1000317,True,9,6,.flat,,,"""Playa Miller #6, Arica, Chile""",,by_khipu/1000317.csv,none
+1000318,True,7,6,.flat,,,"""Playa Miller #6, Arica, Chile""",,by_khipu/1000318.csv,none
+1000319,True,6,6,.flat,,,"""Playa Miller #6, Arica, Chile""",,by_khipu/1000319.csv,none
+1000320,True,3,34,.tab,DC4,T098,Huacho,,by_khipu/1000320.csv,value_marker
+1000321,True,223,6,.cod,DC2,T099,,,by_khipu/1000321.csv,value_marker
+1000322,True,23,6,.flat,,,Nazca,,by_khipu/1000322.csv,none
+1000323,True,72,6,.flat,,,Nazca,,by_khipu/1000323.csv,none
+1000324,True,61,6,.flat,,,Pachacamac,,by_khipu/1000324.csv,none
+1000325,True,43,6,.flat,,,Pachacamac,,by_khipu/1000325.csv,none
+1000326,True,8,6,.flat,,,Paracas,,by_khipu/1000326.csv,none
+1000327,True,29,6,.flat,,,Pachacamac,,by_khipu/1000327.csv,none
+1000328,True,22,6,.flat,,,Unknown,,by_khipu/1000328.csv,none
+1000329,True,25,7,.tab,DC6,T100,Paracas,,by_khipu/1000329.csv,value_marker
+1000330,True,12,7,.tab,DC2,T101,,,by_khipu/1000330.csv,color_cycle
+1000331,True,167,6,.cod,DC2,T102,,,by_khipu/1000331.csv,value_marker
+1000332,True,11,18,.tab,DC2,T103,,,by_khipu/1000332.csv,value_marker
+1000333,True,29,8,.tab,DC2,T104,Pachacamac,,by_khipu/1000333.csv,value_marker
+1000335,True,46,6,.flat,,,unknown,,by_khipu/1000335.csv,none
+1000336,True,10,23,.tab,DC4,T105,,,by_khipu/1000336.csv,value_marker
+1000337,True,25,6,.flat,,,unknown,,by_khipu/1000337.csv,none
+1000338,True,26,6,.flat,,,unknown,,by_khipu/1000338.csv,none
+1000339,True,24,6,.flat,,,unknown,,by_khipu/1000339.csv,none
+1000340,True,5,26,.tab,DC2,T106,unknown,,by_khipu/1000340.csv,white_dividers
+1000342,True,186,6,.flat,,,Pachacamac,,by_khipu/1000342.csv,none
+1000344,True,33,12,.tab,DC5,T107,,,by_khipu/1000344.csv,value_marker
+1000345,True,13,10,.tab,DC6,T108,,,by_khipu/1000345.csv,value_marker
+1000346,True,20,4,.tab,DC2,T109,,,by_khipu/1000346.csv,value_marker
+1000347,True,5,6,.flat,,,,,by_khipu/1000347.csv,none
+1000348,True,4,6,.flat,,,,,by_khipu/1000348.csv,none
+1000349,True,4,6,.flat,,,,,by_khipu/1000349.csv,none
+1000350,True,3,6,.flat,,,,,by_khipu/1000350.csv,none
+1000351,True,16,7,.tab,DC2,T110,,,by_khipu/1000351.csv,value_marker
+1000352,True,10,6,.flat,,,,,by_khipu/1000352.csv,none
+1000353,True,16,6,.flat,,,,,by_khipu/1000353.csv,none
+1000354,True,4,6,.flat,,,,,by_khipu/1000354.csv,none
+1000355,True,7,6,.flat,,,,,by_khipu/1000355.csv,none
+1000356,True,6,7,.tab,DC2,T111,,,by_khipu/1000356.csv,value_marker
+1000357,True,7,6,.flat,,,,,by_khipu/1000357.csv,none
+1000358,True,10,6,.flat,,,,,by_khipu/1000358.csv,none
+1000359,True,8,35,.tab,DC2,T112,,,by_khipu/1000359.csv,value_marker
+1000361,True,313,6,.flat,,,,,by_khipu/1000361.csv,none
+1000363,True,164,6,.flat,,,,,by_khipu/1000363.csv,none
+1000365,True,20,7,.tab,DC2,T113,,,by_khipu/1000365.csv,value_marker
+1000366,True,93,6,.flat,,,,,by_khipu/1000366.csv,none
+1000367,True,8,6,.flat,,,"Rancho San Juan, Ica Valley",,by_khipu/1000367.csv,none
+1000368,True,252,7,.log,DC2,T114,,,by_khipu/1000368.csv,value_marker
+1000369,True,7,51,.tab,DC6,T115,,,by_khipu/1000369.csv,value_marker
+1000371,True,8,41,.tab,DC6,T116,,,by_khipu/1000371.csv,white_dividers
+1000374,True,91,6,.flat,,,Huari,,by_khipu/1000374.csv,none
+1000375,True,25,4,.tab,DC2,T117,,,by_khipu/1000375.csv,value_marker
+1000376,True,180,6,.flat,,,,,by_khipu/1000376.csv,none
+1000377,True,41,6,.flat,,,unknown,,by_khipu/1000377.csv,none
+1000378,True,14,6,.flat,,,unknown,,by_khipu/1000378.csv,none
+1000380,True,87,6,.flat,,,,,by_khipu/1000380.csv,none
+1000381,True,3,68,.tab,DC2,T118,,,by_khipu/1000381.csv,white_dividers
+1000382,True,15,10,.tab,DC2,T119,,,by_khipu/1000382.csv,value_marker
+1000383,True,30,8,.tab,DC2,T120,,,by_khipu/1000383.csv,value_marker
+1000385,True,98,6,.flat,,,,,by_khipu/1000385.csv,none
+1000386,True,22,6,.flat,,,Cuzco,,by_khipu/1000386.csv,none
+1000387,True,21,6,.flat,,,"""Chancay, Central Coast""",,by_khipu/1000387.csv,none
+1000388,True,2,6,.flat,,,"""Chancay, Central Coast""",,by_khipu/1000388.csv,none
+1000389,True,5,6,.flat,,,"""Chancay, Central Coast""",,by_khipu/1000389.csv,none
+1000390,True,7,30,.tab,DC2,T121,,,by_khipu/1000390.csv,white_dividers
+1000392,True,8,6,.flat,,,,,by_khipu/1000392.csv,none
+1000393,True,17,6,.flat,,,Valle de Ica Hacienda Callango Ocucaje,,by_khipu/1000393.csv,none
+1000395,True,15,6,.flat,,,,,by_khipu/1000395.csv,none
+1000396,True,168,6,.cod,DC2,T122,"""Huaura Valley, near Lima, on Santa Rosalia Hacienda""",,by_khipu/1000396.csv,value_marker
+1000397,True,18,6,.flat,,,,,by_khipu/1000397.csv,none
+1000398,True,30,6,.flat,,,Valle de Ica Hacienda Callango Ocucaje,,by_khipu/1000398.csv,none
+1000399,True,20,6,.flat,,,Valle de Ica Hacienda Callango Ocucaje,,by_khipu/1000399.csv,none
+1000400,True,18,4,.tab,DC6,T123,unknown,,by_khipu/1000400.csv,color_cycle
+1000401,True,22,6,.flat,,,Valle de Ica Hacienda Callango Ocucaje,,by_khipu/1000401.csv,none
+1000402,True,24,6,.flat,,,Hacienda Ullujalla y Callengo,,by_khipu/1000402.csv,none
+1000403,True,51,6,.flat,,,unknown,,by_khipu/1000403.csv,none
+1000404,True,12,6,.flat,,,Valle de Ica Hacienda Callango Ocucaje,,by_khipu/1000404.csv,none
+1000405,True,17,6,.flat,,,unknown,,by_khipu/1000405.csv,none
+1000406,True,21,6,.flat,,,Valle de Ica Hacienda Callango Ocucaje,,by_khipu/1000406.csv,none
+1000407,True,102,6,.flat,,,Valle de Ica Hacienda Callango Ocucaje,,by_khipu/1000407.csv,none
+1000408,True,38,6,.flat,,,Valle de Ica Hacienda Callango Ocucaje,,by_khipu/1000408.csv,none
+1000409,True,27,6,.flat,,,,,by_khipu/1000409.csv,none
+1000410,True,5,6,.flat,,,Tambo Colorado,,by_khipu/1000410.csv,none
+1000411,True,5,6,.flat,,,Tambo Colorado,,by_khipu/1000411.csv,none
+1000412,True,7,6,.flat,,,,,by_khipu/1000412.csv,none
+1000413,True,146,6,.flat,,,Hacienda Ullujalla y Callengo,,by_khipu/1000413.csv,none
+1000414,True,7,6,.flat,,,,,by_khipu/1000414.csv,none
+1000415,True,6,7,.tab,DC6,T124,Acari,,by_khipu/1000415.csv,value_marker
+1000416,True,10,6,.flat,,,Tambo Colorado,,by_khipu/1000416.csv,none
+1000417,True,24,6,.flat,,,Tambo Colorado,,by_khipu/1000417.csv,none
+1000418,True,46,6,.flat,,,Donation from the collection Belli,,by_khipu/1000418.csv,none
+1000419,True,96,6,.flat,,,Valle de Pisco,,by_khipu/1000419.csv,none
+1000420,True,14,6,.flat,,,Pachacamac,near Lima,by_khipu/1000420.csv,none
+1000421,True,30,6,.flat,,,Pachacamac,,by_khipu/1000421.csv,none
+1000422,True,17,5,.tab,DC6,T125,Pachacamac,,by_khipu/1000422.csv,value_marker
+1000423,True,13,6,.flat,,,Pachacamac,,by_khipu/1000423.csv,none
+1000424,True,21,6,.flat,,,Pachacamac,,by_khipu/1000424.csv,none
+1000425,True,8,6,.flat,,,Pachacamac,,by_khipu/1000425.csv,none
+1000426,True,24,6,.flat,,,Pachacamac,,by_khipu/1000426.csv,none
+1000427,True,12,6,.flat,,,Pachacamac,,by_khipu/1000427.csv,none
+1000428,True,9,6,.flat,,,Pachacamac,,by_khipu/1000428.csv,none
+1000429,True,27,6,.flat,,,Pachacamac,,by_khipu/1000429.csv,none
+1000430,True,28,6,.flat,,,Pachacamac,,by_khipu/1000430.csv,none
+1000431,True,51,6,.flat,,,Pachacamac,,by_khipu/1000431.csv,none
+1000432,True,12,6,.flat,,,Pachacamac,,by_khipu/1000432.csv,none
+1000433,True,15,7,.tab,DC2,T126,Pachacamac,,by_khipu/1000433.csv,color_cycle
+1000434,True,9,6,.flat,,,"""Cieneguilla, Valle de Lurin""",,by_khipu/1000434.csv,none
+1000435,True,4,6,.flat,,,"""Cieneguilla, Valle de Lurin""",,by_khipu/1000435.csv,none
+1000436,True,20,10,.tab,DC6,T127,Pachacamac,,by_khipu/1000436.csv,value_marker
+1000437,True,28,6,.flat,,,Pachacamac,,by_khipu/1000437.csv,none
+1000438,True,22,6,.flat,,,Pachacamac,,by_khipu/1000438.csv,none
+1000439,True,26,6,.flat,,,Pachacamac,,by_khipu/1000439.csv,none
+1000440,True,8,6,.flat,,,Pachacamac,,by_khipu/1000440.csv,none
+1000441,True,10,2,.tab,unclustered,T128,Pachacamac,,by_khipu/1000441.csv,color_cycle
+1000442,True,20,6,.flat,,,Pachacamac,,by_khipu/1000442.csv,none
+1000443,True,4,6,.flat,,,Pachacamac,,by_khipu/1000443.csv,none
+1000444,True,55,6,.flat,,,Pachacamac,,by_khipu/1000444.csv,none
+1000445,True,17,6,.flat,,,Pachacamac,,by_khipu/1000445.csv,none
+1000446,True,53,6,.flat,,,Pachacamac,,by_khipu/1000446.csv,none
+1000447,True,10,6,.flat,,,Pachacamac,,by_khipu/1000447.csv,none
+1000448,True,63,6,.flat,,,Pachacamac,,by_khipu/1000448.csv,none
+1000449,True,107,6,.flat,,,Pachacamac,,by_khipu/1000449.csv,none
+1000450,True,10,7,.tab,DC2,T129,Pachacamac,,by_khipu/1000450.csv,value_marker
+1000451,True,15,6,.flat,,,Pachacamac,,by_khipu/1000451.csv,none
+1000452,True,3,6,.tab,unclustered,T130,"""Chancay, Central Coast""",,by_khipu/1000452.csv,value_marker
+1000453,True,33,6,.flat,,,,"""Inka, Late Horizon""",by_khipu/1000453.csv,none
+1000454,True,39,6,.flat,,,,"""Inka, Late Horizon""",by_khipu/1000454.csv,none
+1000455,True,7,19,.tab,DC2,T131,,"""Inka, Late Horizon""",by_khipu/1000455.csv,value_marker
+1000456,True,60,6,.flat,,,,"""Inka, Late Horizon""",by_khipu/1000456.csv,none
+1000457,True,57,6,.flat,,,,"""Inka, Late Horizon""",by_khipu/1000457.csv,none
+1000458,True,18,6,.flat,,,,"""Inka, Late Horizon""",by_khipu/1000458.csv,none
+1000459,True,89,6,.flat,,,,"""Inka, Late Horizon""",by_khipu/1000459.csv,none
+1000460,True,21,6,.flat,,,,"""Inka, Late Horizon""",by_khipu/1000460.csv,none
+1000461,True,160,6,.flat,,,,"""Inka, Late Horizon""",by_khipu/1000461.csv,none
+1000462,True,45,6,.flat,,,,"""Inka, Late Horizon""",by_khipu/1000462.csv,none
+1000463,True,120,6,.flat,,,,"""Inka, Late Horizon""",by_khipu/1000463.csv,none
+1000464,False,0,0,.flat,,,,"""Inka, Late Horizon""",by_khipu/1000464.csv,no_cords
+1000465,False,0,0,.flat,,,,"""Inka, Late Horizon""",by_khipu/1000465.csv,no_cords
+1000466,False,0,0,.flat,,,,"""Inka, Late Horizon""",by_khipu/1000466.csv,no_cords
+1000467,False,0,0,.flat,,,,"""Inka, Late Horizon""",by_khipu/1000467.csv,no_cords
+1000468,False,0,0,.flat,,,,"""Inka, Late Horizon""",by_khipu/1000468.csv,no_cords
+1000469,False,0,0,.flat,,,,"""Inka, Late Horizon""",by_khipu/1000469.csv,no_cords
+1000470,False,0,0,.flat,,,,"""Inka, Late Horizon""",by_khipu/1000470.csv,no_cords
+1000472,True,85,6,.flat,,,La Molina,Puruchuco,by_khipu/1000472.csv,none
+1000474,True,20,3,.tab,DC1,T132,Ica,,by_khipu/1000474.csv,color_cycle
+1000475,True,17,6,.flat,,,Ica,,by_khipu/1000475.csv,none
+1000477,True,6,11,.tab,DC2,T133,"""Ica Valley, near Callango""",,by_khipu/1000477.csv,value_marker
+1000478,True,11,4,.tab,unclustered,T134,unknown,,by_khipu/1000478.csv,value_marker
+1000479,True,8,4,.tab,unclustered,T135,,,by_khipu/1000479.csv,value_marker
+1000480,True,8,6,.flat,,,,,by_khipu/1000480.csv,none
+1000481,True,7,6,.flat,,,,,by_khipu/1000481.csv,none
+1000482,True,30,6,.flat,,,Chuquitanta,,by_khipu/1000482.csv,none
+1000483,True,6,6,.flat,,,,,by_khipu/1000483.csv,none
+1000485,True,14,6,.flat,,,Cajamarquilla,,by_khipu/1000485.csv,none
+1000486,True,12,6,.flat,,,Cajamarquilla,,by_khipu/1000486.csv,none
+1000487,True,33,6,.flat,,,"""Chancay, Central Coast""",,by_khipu/1000487.csv,none
+1000488,True,21,6,.flat,,,unknown,,by_khipu/1000488.csv,none
+1000489,True,18,6,.flat,,,Cajamarquilla,,by_khipu/1000489.csv,none
+1000490,True,5,6,.flat,,,,,by_khipu/1000490.csv,none
+1000491,True,8,6,.flat,,,Cajamarquilla,,by_khipu/1000491.csv,none
+1000492,True,68,6,.flat,,,,,by_khipu/1000492.csv,none
+1000493,True,10,12,.tab,DC3,T136,Chuquitanta,,by_khipu/1000493.csv,value_marker
+1000494,True,9,4,.tab,DC4,T137,Chuquitanta,,by_khipu/1000494.csv,value_marker
+1000495,True,54,6,.flat,,,"""Ica Valley, near Callango""",,by_khipu/1000495.csv,none
+1000496,True,30,6,.flat,,,"""Huando, Chancay, Peru (Gaffron Collection)""",,by_khipu/1000496.csv,none
+1000497,True,3,37,.tab,DC6,T138,"""Hda. Huando, Chancay""",,by_khipu/1000497.csv,white_dividers
+1000499,True,14,6,.tab,DC3,T139,,,by_khipu/1000499.csv,value_marker
+1000500,True,4,17,.tab,DC6,T140,,,by_khipu/1000500.csv,white_dividers
+1000501,True,395,7,.log,DC2,T141,"""Huaca Perez, Lima (a.k.a Hda. Infantas and Tambo Inca)""","""Central Coast, Peru""",by_khipu/1000501.csv,value_marker
+1000502,True,23,6,.flat,,,"""Huaca Perez, Lima (a.k.a Hda. Infantas and Tambo Inca)""","""Central Coast, Peru""",by_khipu/1000502.csv,none
+1000503,True,59,6,.flat,,,"""Huaca Perez, Lima (a.k.a Hda. Infantas and Tambo Inca)""","""Central Coast, Peru""",by_khipu/1000503.csv,none
+1000504,True,6,18,.tab,DC4,T142,"""Peru, Fundort: Pachacmac""","""Central Coast, Peru""",by_khipu/1000504.csv,value_marker
+1000505,True,4,13,.tab,DC6,T143,Ica,"""South Coast, Peru""",by_khipu/1000505.csv,value_marker
+1000506,True,35,8,.tab,DC2,T144,Huacho,"""Central Coast, Peru""",by_khipu/1000506.csv,value_marker
+1000507,True,78,6,.cod,DC2,T145,Pachacamac,"""Central Coast, Peru""",by_khipu/1000507.csv,value_marker
+1000508,True,18,13,.tab,DC4,T146,Pachacamac,"""Central Coast, Peru""",by_khipu/1000508.csv,value_marker
+1000509,True,52,8,.tab,DC4,T147,"""Santa Clara, Nazca""","""South Coast, Peru""",by_khipu/1000509.csv,value_marker
+1000510,True,27,9,.tab,DC6,T148,Pachacamac,"""Central Coast, Peru""",by_khipu/1000510.csv,value_marker
+1000511,True,86,6,.flat,,,Pachacamac,"""Central Coast, Peru""",by_khipu/1000511.csv,none
+1000512,True,110,6,.flat,,,Pachacamac,"""Central Coast, Peru""",by_khipu/1000512.csv,none
+1000513,True,14,6,.tab,DC5,T149,Pachacamac,"""Central Coast, Peru""",by_khipu/1000513.csv,value_marker
+1000514,True,8,34,.tab,DC4,T150,unknown,unknown,by_khipu/1000514.csv,white_dividers
+1000515,True,30,6,.flat,,,unknown,unknown,by_khipu/1000515.csv,none
+1000516,True,21,6,.flat,,,unknown,unknown,by_khipu/1000516.csv,none
+1000517,True,8,6,.flat,,,unknown,unknown,by_khipu/1000517.csv,none
+1000518,True,117,6,.flat,,,unknown,unknown,by_khipu/1000518.csv,none
+1000519,True,148,6,.flat,,,Pachacamac,"""Central Coast, Peru""",by_khipu/1000519.csv,none
+1000520,True,5,26,.tab,DC2,T151,Pisco,"""South Coast, Peru""",by_khipu/1000520.csv,value_marker
+1000521,True,23,6,.tab,DC2,T152,Ica/Pisco,"""South Coast, Peru""",by_khipu/1000521.csv,color_cycle
+1000522,True,95,6,.chk,,,Ica/Pisco,"""South Coast, Peru""",by_khipu/1000522.csv,none
+1000523,True,6,45,.tab,DC4,T153,Pachacamac,"""Central Coast, Peru""",by_khipu/1000523.csv,value_marker
+1000524,True,3,69,.tab,DC6,T154,Pachacamac,"""Central Coast, Peru""",by_khipu/1000524.csv,white_dividers
+1000525,True,17,6,.flat,,,Pachacamac,"""Central Coast, Peru""",by_khipu/1000525.csv,none
+1000526,True,7,23,.tab,DC2,T155,unknown,unknown,by_khipu/1000526.csv,value_marker
+1000527,True,32,6,.flat,,,Pachacamac,"""Central Coast, Peru""",by_khipu/1000527.csv,none
+1000528,True,5,25,.tab,DC6,T156,Ocucaje,"""South Coast, Peru""",by_khipu/1000528.csv,white_dividers
+1000529,True,62,6,.flat,,,Pachacamac,"""Central Coast, Peru""",by_khipu/1000529.csv,none
+1000530,True,65,6,.flat,,,Ica,"""South Coast, Peru""",by_khipu/1000530.csv,none
+1000531,True,9,6,.flat,,,Ica,"""South Coast, Peru""",by_khipu/1000531.csv,none
+1000532,True,10,6,.flat,,,Ica,"""South Coast, Peru""",by_khipu/1000532.csv,none
+1000533,True,4,16,.tab,DC2,T157,Ica,"""South Coast, Peru""",by_khipu/1000533.csv,value_marker
+1000534,True,14,9,.tab,DC6,T158,Ica,"""South Coast, Peru""",by_khipu/1000534.csv,value_marker
+1000535,True,23,6,.flat,,,unknown,unknown,by_khipu/1000535.csv,none
+1000536,True,36,6,.flat,,,Pachacamac,"""Central Coast, Peru""",by_khipu/1000536.csv,none
+1000537,True,11,5,.tab,unclustered,T159,Pisco,"""South Coast, Peru""",by_khipu/1000537.csv,color_cycle
+1000538,True,75,6,.flat,,,Pisco,"""South Coast, Peru""",by_khipu/1000538.csv,none
+1000539,True,8,37,.tab,DC6,T160,Ica,"""South Coast, Peru""",by_khipu/1000539.csv,value_marker
+1000540,True,36,6,.flat,,,Pachacamac,"""Central Coast, Peru""",by_khipu/1000540.csv,none
+1000541,True,864,6,.flat,,,Ica/Pisco,"""South Coast, Peru""",by_khipu/1000541.csv,none
+1000542,True,125,6,.flat,,,Huacho,"""North-Central Coast, Peru""",by_khipu/1000542.csv,none
+1000543,True,22,6,.tab,DC6,T161,Huacho,"""North-Central Coast, Peru""",by_khipu/1000543.csv,value_marker
+1000544,True,98,6,.flat,,,unknown,unknown,by_khipu/1000544.csv,none
+1000545,True,20,7,.tab,DC6,T162,unknown,unknown,by_khipu/1000545.csv,value_marker
+1000546,True,18,5,.tab,DC6,T163,unknown,unknown,by_khipu/1000546.csv,color_cycle
+1000547,True,55,6,.tab,DC2,T164,Ica,"""South Coast, Peru""",by_khipu/1000547.csv,value_marker
+1000548,True,5,10,.tab,DC4,T165,Pachacamac,"""Central Coast, Peru""",by_khipu/1000548.csv,value_marker
+1000549,True,4,9,.tab,DC2,T166,Unknown,unknown,by_khipu/1000549.csv,white_dividers
+1000550,True,7,6,.flat,,,Pachacamac,"""Central Coast, Peru""",by_khipu/1000550.csv,none
+1000551,True,30,6,.flat,,,unknown,unknown,by_khipu/1000551.csv,none
+1000552,True,10,8,.tab,DC2,T167,Ica,"""South Coast, Peru""",by_khipu/1000552.csv,value_marker
+1000553,True,50,6,.flat,,,unknown,unknown,by_khipu/1000553.csv,none
+1000554,True,67,6,.flat,,,unknown,unknown,by_khipu/1000554.csv,none
+1000555,True,7,16,.tab,DC2,T168,Pachacamac,"""Central Coast, Peru""",by_khipu/1000555.csv,value_marker
+1000556,True,34,6,.flat,,,Pachacamac,"""Central Coast, Peru""",by_khipu/1000556.csv,none
+1000558,True,15,6,.flat,,,Pachacamac,"""Central Coast, Peru""",by_khipu/1000558.csv,none
+1000559,True,21,6,.flat,,,Pachacamac,"""Central Coast, Peru""",by_khipu/1000559.csv,none
+1000560,True,14,6,.flat,,,Pachacamac,"""Central Coast, Peru""",by_khipu/1000560.csv,none
+1000561,True,19,6,.flat,,,Ica,"""South Coast, Peru""",by_khipu/1000561.csv,none
+1000562,True,3,8,.tab,unclustered,T169,"Ullujaya, Ocucaje, Ica",,by_khipu/1000562.csv,value_marker
+1000563,True,4,31,.tab,unclustered,T170,"Ullujaya, Ocucaje, Ica",,by_khipu/1000563.csv,white_dividers
+1000564,True,81,6,.flat,,,unknown,,by_khipu/1000564.csv,none
+1000565,True,7,11,.tab,unclustered,T171,Costa Sur,,by_khipu/1000565.csv,white_dividers
+1000566,True,26,6,.flat,,,"Costa Central, Huacho",,by_khipu/1000566.csv,none
+1000567,True,30,6,.flat,,,unknown,,by_khipu/1000567.csv,none
+1000569,True,8,4,.tab,unclustered,T172,unknown,,by_khipu/1000569.csv,color_cycle
+1000570,True,4,31,.tab,DC2,T173,unknown,,by_khipu/1000570.csv,white_dividers
+1000571,True,3,32,.tab,DC1,T174,unknown,,by_khipu/1000571.csv,white_dividers
+1000572,True,11,6,.flat,,,unknown,,by_khipu/1000572.csv,none
+1000573,True,15,6,.flat,,,unknown,,by_khipu/1000573.csv,none
+1000574,True,48,6,.flat,,,"Región Sur, Quillagua, Valle de Loa",,by_khipu/1000574.csv,none
+1000575,True,3,15,.tab,DC1,T175,unknown,,by_khipu/1000575.csv,white_dividers
+1000576,True,3,24,.tab,unclustered,T176,unknown,,by_khipu/1000576.csv,white_dividers
+1000577,True,32,6,.flat,,,"Armatambo, Lima, Central Coast",,by_khipu/1000577.csv,none
+1000578,True,8,6,.flat,,,unknown,,by_khipu/1000578.csv,none
+1000579,True,7,6,.flat,,,unknown,,by_khipu/1000579.csv,none
+1000580,True,20,6,.flat,,,foothills of Cerro Solar,,by_khipu/1000580.csv,none
+1000581,True,32,6,.flat,,,unknown,,by_khipu/1000581.csv,none
+1000582,True,12,4,.tab,unclustered,T177,unknown,,by_khipu/1000582.csv,color_cycle
+1000583,True,40,6,.flat,,,unknown,,by_khipu/1000583.csv,none
+1000584,True,50,6,.flat,,,unknown,,by_khipu/1000584.csv,none
+1000585,True,19,6,.flat,,,unknown,,by_khipu/1000585.csv,none
+1000586,True,11,12,.tab,unclustered,T178,unknown,,by_khipu/1000586.csv,white_dividers
+1000587,True,32,6,.flat,,,unknown,,by_khipu/1000587.csv,none
+1000588,True,189,6,.flat,,,unknown,,by_khipu/1000588.csv,none
+1000589,True,30,6,.flat,,,unknown,,by_khipu/1000589.csv,none
+1000590,True,62,6,.flat,,,unknown,,by_khipu/1000590.csv,none
+1000591,True,57,6,.flat,,,Pachacamac,,by_khipu/1000591.csv,none
+1000592,True,16,6,.flat,,,Pachacamac,,by_khipu/1000592.csv,none
+1000593,True,6,39,.tab,unclustered,T179,Costa Sur,,by_khipu/1000593.csv,white_dividers
+1000595,True,10,6,.flat,,,Incahuasi,,by_khipu/1000595.csv,none
+1000597,True,86,6,.flat,,,Incahuasi,,by_khipu/1000597.csv,none
+1000598,True,118,6,.flat,,,Incahuasi,,by_khipu/1000598.csv,none
+1000599,True,41,6,.flat,,,Incahuasi,,by_khipu/1000599.csv,none
+1000600,True,13,6,.flat,,,Incahuasi,,by_khipu/1000600.csv,none
+1000601,True,24,6,.flat,,,Incahuasi,,by_khipu/1000601.csv,none
+1000602,True,12,6,.flat,,,Incahuasi,,by_khipu/1000602.csv,none
+1000603,True,6,31,.tab,unclustered,T180,Incahuasi,,by_khipu/1000603.csv,value_marker
+1000604,True,236,6,.flat,,,Incahuasi,,by_khipu/1000604.csv,none
+1000605,True,12,35,.tab,unclustered,T181,Incahuasi,,by_khipu/1000605.csv,value_marker
+1000606,True,14,6,.flat,,,Incahuasi,,by_khipu/1000606.csv,none
+1000607,True,132,6,.flat,,,Incahuasi,,by_khipu/1000607.csv,none
+1000608,True,4,43,.tab,unclustered,T182,Incahuasi,,by_khipu/1000608.csv,white_dividers
+1000609,True,9,21,.tab,DC3,T183,Incahuasi,,by_khipu/1000609.csv,white_dividers
+1000610,True,9,46,.tab,unclustered,T184,Incahuasi,,by_khipu/1000610.csv,white_dividers
+1000611,True,5,102,.tab,DC3,T185,Incahuasi,,by_khipu/1000611.csv,value_marker
+1000612,True,162,6,.flat,,,Incahuasi,,by_khipu/1000612.csv,none
+1000613,True,32,6,.flat,,,Incahuasi,,by_khipu/1000613.csv,none
+1000614,True,12,20,.tab,unclustered,T186,Incahuasi,,by_khipu/1000614.csv,white_dividers
+1000615,True,83,6,.flat,,,Incahuasi,,by_khipu/1000615.csv,none
+1000616,True,6,34,.tab,DC3,T187,Incahuasi,,by_khipu/1000616.csv,white_dividers
+1000617,True,20,5,.tab,unclustered,T188,Incahuasi,,by_khipu/1000617.csv,value_marker
+1000618,True,101,6,.flat,,,Incahuasi,,by_khipu/1000618.csv,none
+1000619,True,4,71,.tab,unclustered,T189,Incahuasi,,by_khipu/1000619.csv,white_dividers
+1000620,True,5,6,.flat,,,Incahuasi,,by_khipu/1000620.csv,none
+1000621,True,12,6,.flat,,,Incahuasi,,by_khipu/1000621.csv,none
+1000622,True,7,39,.tab,DC6,T190,Incahuasi,,by_khipu/1000622.csv,value_marker
+1000623,True,11,46,.tab,unclustered,T191,Incahuasi,,by_khipu/1000623.csv,value_marker
+1000624,True,37,6,.flat,,,Incahuasi,,by_khipu/1000624.csv,none
+1000625,True,36,6,.flat,,,Incahuasi,,by_khipu/1000625.csv,none
+1000626,True,4,6,.flat,,,Incahuasi,,by_khipu/1000626.csv,none
+1000627,True,8,6,.flat,,,Incahuasi,,by_khipu/1000627.csv,none
+1000628,True,18,6,.flat,,,Incahuasi,,by_khipu/1000628.csv,none
+1000629,True,11,15,.tab,DC2,T192,Incahuasi,,by_khipu/1000629.csv,value_marker
+1000630,True,12,6,.flat,,,Incahuasi,,by_khipu/1000630.csv,none
+1000631,True,3,6,.flat,,,Incahuasi,,by_khipu/1000631.csv,none
+1000632,True,6,6,.flat,,,Incahuasi,,by_khipu/1000632.csv,none
+1000633,True,5,30,.tab,unclustered,T193,Incahuasi,,by_khipu/1000633.csv,value_marker
+1000634,True,160,6,.flat,,,Incahuasi,,by_khipu/1000634.csv,none
+1000635,True,87,6,.flat,,,Incahuasi,,by_khipu/1000635.csv,none
+1000636,True,30,6,.flat,,,Incahuasi,,by_khipu/1000636.csv,none
+1000637,True,10,7,.tab,unclustered,T194,Incahuasi,,by_khipu/1000637.csv,value_marker
+1000638,True,10,6,.flat,,,Incahuasi,,by_khipu/1000638.csv,none
+1000639,True,10,6,.flat,,,Incahuasi,,by_khipu/1000639.csv,none
+1000640,True,9,6,.flat,,,Incahuasi,,by_khipu/1000640.csv,none
+1000641,True,5,6,.flat,,,Incahuasi,,by_khipu/1000641.csv,none
+1000642,True,10,6,.flat,,,Incahuasi,,by_khipu/1000642.csv,none
+1000643,True,3,6,.flat,,,Incahuasi,,by_khipu/1000643.csv,none
+1000644,True,3,6,.flat,,,Incahuasi,,by_khipu/1000644.csv,none
+1000645,True,4,6,.flat,,,Incahuasi,,by_khipu/1000645.csv,none
+1000646,True,12,6,.flat,,,Incahuasi,,by_khipu/1000646.csv,none
+1000647,True,33,6,.flat,,,Incahuasi,,by_khipu/1000647.csv,none
+1000648,True,215,6,.flat,,,"Monte de Cacatilla, Valle de Nazca",,by_khipu/1000648.csv,none
+1000649,True,4,10,.tab,DC1,T195,"Huaca San Pedro, Armatambo",,by_khipu/1000649.csv,value_marker
+1000650,True,10,47,.tab,unclustered,T196,"Huaca San Pedro, Armatambo",,by_khipu/1000650.csv,white_dividers
+1000651,True,22,6,.flat,,,"Armatambo, Huaca San Pedro",,by_khipu/1000651.csv,none
+1000652,True,14,6,.flat,,,"Armatambo, Huaca San Pedro",,by_khipu/1000652.csv,none
+1000653,True,6,6,.flat,,,"Armatambo, Huaca San Pedro",,by_khipu/1000653.csv,none
+1000654,True,3,29,.tab,DC1,T197,"Armatambo, Huaca San Pedro",,by_khipu/1000654.csv,white_dividers
+1000655,True,29,6,.flat,,,"Armatambo, Huaca San Pedro",,by_khipu/1000655.csv,none
+1000656,True,35,6,.flat,,,"Armatambo, Huaca San Pedro",,by_khipu/1000656.csv,none
+1000657,True,8,6,.flat,,,"Armatambo, Huaca San Pedro",,by_khipu/1000657.csv,none
+1000658,True,14,24,.tab,DC2,T198,"Armatambo, Huaca San Pedro",,by_khipu/1000658.csv,value_marker
+1000659,True,52,6,.cod,DC1,T199,"Armatambo, Huaca San Pedro",,by_khipu/1000659.csv,value_marker
+1000660,True,4,6,.flat,,,"Armatambo, Huaca San Pedro",,by_khipu/1000660.csv,none
+1000661,True,5,6,.flat,,,"Armatambo, Huaca San Pedro",,by_khipu/1000661.csv,none

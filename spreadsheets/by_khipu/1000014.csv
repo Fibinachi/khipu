@@ -1,0 +1,33 @@
+# khipu_id: 1000014
+# provenance: 
+# region: 
+# museum: "Lowie Museum, University of California, Berkeley" TK 4/5419
+# nickname: 
+# file_format: .tab
+# data_regime: DC2
+# doc_cluster: census_format_paired
+# template_id: T002
+# segmentation: color_cycle
+# n_rows: 19
+# n_cols: 3
+ROW_ID,IS_MARKER_ROW,SECTION,LB,NB,YB
+,,,VARIABLE,VARIABLE,VARIABLE
+1,FALSE,1,,6,4
+2,FALSE,1,4,,
+3,FALSE,1,,,
+4,FALSE,1,,,
+5,FALSE,1,,,
+6,FALSE,1,,,
+7,FALSE,1,1,,
+8,FALSE,1,,,
+9,FALSE,1,,,
+10,FALSE,1,,,
+11,FALSE,1,,,
+12,FALSE,1,,,
+13,FALSE,1,1,6,4
+14,FALSE,1,4,,
+15,FALSE,1,9,,
+16,FALSE,1,,,
+17,FALSE,1,1,,
+18,FALSE,1,1,,
+19,FALSE,1,1,,

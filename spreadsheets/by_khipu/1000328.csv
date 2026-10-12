@@ -1,0 +1,35 @@
+# khipu_id: 1000328
+# provenance: Unknown
+# region: 
+# museum: "Museum of Worldculture, Goteborg, Sweden" 30.2.16.a
+# nickname: 
+# file_format: .flat
+# data_regime: 
+# doc_cluster: 
+# template_id: 
+# segmentation: none
+# n_rows: 22
+# n_cols: 0
+ORDINAL,LEVEL,COLOR1,COLOR2,VALUE,KNOTS
+1,1,KB,,,
+2,1,KB,,,
+3,1,KB,,3,L:1
+4,1,KB,,2,L:1
+5,1,W,,,
+6,1,W,,,
+7,1,MB,,,
+8,1,MB,,2,L:1
+9,1,MB,,7,L:1
+10,1,VG,,2,L:1
+11,1,VG,,1,E:1
+12,1,KB,,7,L:1
+13,1,GL,W,3,L:1
+14,1,HB,,2,L:1
+15,1,KB,MB,3,L:1
+16,1,KB,MB,2,L:1
+17,1,KB,MB,,
+18,1,KB,MB,,S:9
+19,1,AB,W,5,L:1
+20,1,AB,W,14,"L:1,S:1"
+21,1,AB,W,36,"L:1,S:3"
+22,1,W,,,

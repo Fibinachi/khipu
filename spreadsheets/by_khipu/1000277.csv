@@ -1,0 +1,52 @@
+# khipu_id: 1000277
+# provenance: 
+# region: 
+# museum: "Museo Amano, Lima, Peru"
+# nickname: 
+# file_format: .flat
+# data_regime: 
+# doc_cluster: 
+# template_id: 
+# segmentation: none
+# n_rows: 39
+# n_cols: 0
+ORDINAL,LEVEL,COLOR1,COLOR2,VALUE,KNOTS
+1,1,GG,MB,,
+2,1,GG,AB,16,"L:1,S:1"
+3,1,LC,,15,"L:1,S:1"
+4,1,AB,,,
+5,1,MB,AB,79,"L:1,S:7"
+6,1,AB,,39,"L:1,S:3"
+7,1,MB,AB,,
+8,1,?,,7793,"L:1,S:23"
+9,1,W,DB,15,"L:1,S:1"
+10,1,DB,LG,,S:2
+11,1,MB,LB,,
+12,1,AB,W,297,"L:1,S:11"
+13,1,AB,,,
+14,1,MB,W,,
+15,1,AB,,171,"E:1,S:8"
+16,1,?,,,
+17,1,AB,,,
+18,1,MB,,14,"L:1,S:1"
+19,1,AB,,835,"L:1,S:11"
+20,1,DB,AB,15,"L:1,S:1"
+21,1,AB,W,15,"L:1,S:1"
+22,1,LC,,106,"L:2,S:1"
+23,1,MB,,15,"L:1,S:1"
+24,1,PK,AB,79,"L:1,S:7"
+25,1,AB,,38,"L:1,S:3"
+26,1,MB,,,S:3
+27,1,W,,7793,"L:1,S:23"
+28,1,LC,,185,"L:1,S:9"
+29,1,MB,AB,273,"L:1,S:9"
+30,1,GG,,4,L:1
+31,1,MB,W,104,"L:2,S:1"
+32,1,PK,W,296,"L:1,S:11"
+33,1,MB,,379,"L:1,S:10"
+34,1,DB,W,789,"L:1,S:15"
+35,1,DB,MB,172,"L:1,S:8"
+36,1,AB,,582,"L:1,S:13"
+37,1,MB,AB,371,"E:1,S:10"
+38,1,AB,,836,"L:1,S:11"
+39,1,W,,925,"L:1,S:11"

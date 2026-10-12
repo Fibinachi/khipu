@@ -1,0 +1,31 @@
+# khipu_id: 1000287
+# provenance: Nazca
+# region: 
+# museum: "Museum for World Culture, Goteborg" 37.31.1
+# nickname: 
+# file_format: .tab
+# data_regime: DC2
+# doc_cluster: deep_sparse_mixed
+# template_id: T089
+# segmentation: value_marker
+# n_rows: 17
+# n_cols: 18
+ROW_ID,IS_MARKER_ROW,SECTION,W,W_2,AB,W_3,KB,AB_2,W_4,KB_2,AB_3,W_5,W_6,W_7,W_8,KB_3,AB_4,MB,KB_4,MB_2
+,,,MARKER,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,CONSTANT,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE
+1,TRUE,1,5,4,1,,1,3,,3,2,,,,5,4,,,,
+2,FALSE,1,,,3,6,,,1,4,8,,1,1,,,,,,
+3,FALSE,1,,1,,4,,,,1,1,,,1,,6,9,,,
+4,FALSE,1,7,2,,,,,,,,,,,,,,,,
+5,FALSE,2,,,,,,6,,,,,,,,,,,,
+6,FALSE,3,,,,,,2,,,4,,,6,12,,,,,
+7,FALSE,,,,,,,,,,2,,,2,,,6,,,
+8,FALSE,4,,,,,,,,,,,,2,,,7,,,
+9,FALSE,5,,,,,,,,,,,,,,,3,,,
+10,FALSE,6,,,8,,,,,11,3,2,3,2,,,,,,
+11,FALSE,6,1,,,5,5,,,4,5,4,,,4,1,,,,
+12,FALSE,7,1,,,,,,,,,,,,,,,,,
+13,FALSE,7,1,,3,,6,4,,,,,5,4,,,2,,1,
+14,FALSE,8,1,,,,5,1,,,5,3,4,3,,3,2,1,,2
+15,FALSE,9,1,,1,6,11,3,,,6,5,,,,,,,,
+16,FALSE,10,1,,,,,,,,,,,,,,,,,
+17,FALSE,10,1,,,,,,,,,,,,,,,,,

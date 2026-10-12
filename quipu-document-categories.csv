@@ -1,0 +1,620 @@
+KHIPU_ID,CATEGORY,PROVENANCE,REGION,WHOLE_FORM,N_SECTIONS
+1000000,misc,Leymebamba,Chachapoyas,D: Grouped account,0
+1000001,inventory,Leymebamba,Chachapoyas,A: Tally strip,0
+1000002,inventory,Leymebamba,Chachapoyas,D: Grouped account,0
+1000003,inventory,Leymebamba,Chachapoyas,D: Grouped account,1
+1000004,misc,Leymebamba,Chachapoyas,E: Hierarchical ledger,2
+1000005,inventory,Leymebamba,Chachapoyas,E: Hierarchical ledger,2
+1000006,inventory,Leymebamba,Chachapoyas,F: Deep hierarchy,2
+1000007,inventory,Leymebamba,Chachapoyas,F: Deep hierarchy,4
+1000008,inventory,Leymebamba,Chachapoyas,F: Deep hierarchy,0
+1000009,inventory,Leymebamba,Chachapoyas,F: Deep hierarchy,2
+1000010,inventory,Leymebamba,Chachapoyas,F: Deep hierarchy,4
+1000011,inventory,Leymebamba,Chachapoyas,D: Grouped account,0
+1000012,inventory,Leymebamba,Chachapoyas,F: Deep hierarchy,2
+1000013,misc,,,C: Simple list,1
+1000014,misc,,,C: Simple list,2
+1000015,inventory,,,D: Grouped account,1
+1000017,inventory,,,D: Grouped account,1
+1000018,inventory,Leymebamba,Chachapoyas,F: Deep hierarchy,2
+1000019,misc,Leymebamba,Chachapoyas,E: Hierarchical ledger,4
+1000020,misc,Leymebamba,Chachapoyas,F: Deep hierarchy,3
+1000021,inventory,Leymebamba,Chachapoyas,E: Hierarchical ledger,3
+1000022,misc,Leymebamba,Chachapoyas,E: Hierarchical ledger,3
+1000023,inventory,Leymebamba,Chachapoyas,F: Deep hierarchy,14
+1000024,inventory,Leymebamba,Chachapoyas,F: Deep hierarchy,14
+1000025,misc,Leymebamba,Chachapoyas,F: Deep hierarchy,14
+1000026,inventory,Ica,,D: Grouped account,0
+1000027,misc,Ica,,D: Grouped account,0
+1000028,misc,,,D: Grouped account,0
+1000029,misc,,,F: Deep hierarchy,2
+1000030,inventory,,,D: Grouped account,0
+1000031,misc,,,C: Simple list,0
+1000032,inventory,,,E: Hierarchical ledger,1
+1000033,inventory,,,E: Hierarchical ledger,1
+1000034,inventory,,,E: Hierarchical ledger,1
+1000035,inventory,,,D: Grouped account,0
+1000036,misc,,,B: Flat register,0
+1000037,misc,Nazca,,D: Grouped account,0
+1000038,misc,Nazca,,D: Grouped account,0
+1000039,misc,Pachacamac,,B: Flat register,1
+1000040,misc,Between Ica and Pisco,,E: Hierarchical ledger,1
+1000041,inventory,Pachacamac,,C: Simple list,1
+1000042,inventory,Ica,,E: Hierarchical ledger,2
+1000043,inventory,Pachacamac,,D: Grouped account,0
+1000044,inventory,Pachacamac,,D: Grouped account,0
+1000045,inventory,Leymebamba,Chachapoyas,E: Hierarchical ledger,8
+1000046,inventory,Pachacamac,,D: Grouped account,0
+1000047,inventory,Ica,,E: Hierarchical ledger,1
+1000048,inventory,Pachacamac,"""Central Coast, Peru""",C: Simple list,0
+1000049,inventory,Ica,,D: Grouped account,0
+1000050,inventory,Marquez,,E: Hierarchical ledger,2
+1000051,inventory,Marquez,,B: Flat register,0
+1000052,misc,Between Ica and Pisco,,F: Deep hierarchy,1
+1000053,inventory,Ica,,B: Flat register,6
+1000054,misc,Pachacamac,,C: Simple list,0
+1000055,inventory,Pachacamac,,D: Grouped account,0
+1000056,misc,Pachacamac,,C: Simple list,1
+1000057,inventory,Between Ica and Pisco,,C: Simple list,2
+1000058,inventory,Between Ica and Pisco,,D: Grouped account,1
+1000059,inventory,Between Ica and Pisco,,D: Grouped account,0
+1000060,inventory,Between Ica and Pisco,,F: Deep hierarchy,0
+1000061,inventory,Ica,,F: Deep hierarchy,0
+1000062,inventory,Ica,,F: Deep hierarchy,0
+1000063,misc,Between Ica and Pisco,,E: Hierarchical ledger,8
+1000064,misc,Between Ica and Pisco,,B: Flat register,0
+1000065,misc,Ica,,C: Simple list,1
+1000066,misc,Ica,,A: Tally strip,0
+1000067,misc,Ica,,D: Grouped account,0
+1000068,misc,Ica,,A: Tally strip,0
+1000069,inventory,Ica,,D: Grouped account,0
+1000070,inventory,Ica,,D: Grouped account,0
+1000071,inventory,Ica,,B: Flat register,2
+1000072,inventory,Ica,,C: Simple list,0
+1000073,misc,Ica,,C: Simple list,0
+1000074,inventory,Pachacamac,,D: Grouped account,0
+1000075,inventory,Pachacamac,,D: Grouped account,0
+1000076,inventory,Ica,,D: Grouped account,1
+1000077,misc,Pachacamac,,E: Hierarchical ledger,3
+1000078,inventory,Lima,,D: Grouped account,0
+1000079,inventory,Ica,,E: Hierarchical ledger,2
+1000080,misc,Marquez,,C: Simple list,1
+1000081,inventory,Marquez,,D: Grouped account,0
+1000082,inventory,Pachacamac,,C: Simple list,0
+1000083,inventory,Ica,,F: Deep hierarchy,4
+1000084,inventory,Nazca,,A: Tally strip,0
+1000085,inventory,Nazca,,E: Hierarchical ledger,7
+1000086,inventory,Ica,,B: Flat register,0
+1000087,inventory,near Lima,,D: Grouped account,0
+1000088,misc,near Lima,,C: Simple list,1
+1000089,inventory,Pachacamac,,E: Hierarchical ledger,2
+1000090,misc,Marquez,,D: Grouped account,0
+1000091,inventory,Marquez,,E: Hierarchical ledger,1
+1000092,misc,Pachacamac,,C: Simple list,0
+1000093,inventory,Ica,,D: Grouped account,0
+1000094,inventory,Nazca,,F: Deep hierarchy,3
+1000096,misc,Lluta Valley,,F: Deep hierarchy,40
+1000097,inventory,,,F: Deep hierarchy,2
+1000098,misc,Nazca,,D: Grouped account,1
+1000099,misc,,,C: Simple list,1
+1000100,misc,,,B: Flat register,0
+1000101,inventory,"""La puntilla, between Paracas and Pisco""",,D: Grouped account,0
+1000103,misc,Nazca,,E: Hierarchical ledger,6
+1000105,misc,,,C: Simple list,0
+1000106,misc,,,B: Flat register,0
+1000107,misc,,,C: Simple list,0
+1000108,misc,,,C: Simple list,0
+1000109,inventory,,,F: Deep hierarchy,0
+1000110,misc,,,C: Simple list,0
+1000111,misc,,,D: Grouped account,0
+1000112,inventory,Chuquitanta,,B: Flat register,0
+1000113,inventory,Ica,,B: Flat register,1
+1000114,misc,Pachacamac,,D: Grouped account,0
+1000115,inventory,Nazca,,E: Hierarchical ledger,1
+1000116,inventory,Ica,,C: Simple list,0
+1000117,inventory,Ica,,D: Grouped account,0
+1000118,inventory,Ica,,B: Flat register,1
+1000119,inventory,Pachacamac,,C: Simple list,1
+1000120,inventory,Pachacamac,,E: Hierarchical ledger,4
+1000121,census,Ica,,E: Hierarchical ledger,1
+1000122,inventory,Ocucaje,,C: Simple list,0
+1000123,inventory,Ocucaje,,B: Flat register,0
+1000124,inventory,Ocucaje,,B: Flat register,1
+1000125,inventory,Ica,,F: Deep hierarchy,0
+1000126,inventory,Pachacamac,,F: Deep hierarchy,0
+1000127,inventory,Ica,,E: Hierarchical ledger,2
+1000128,census,,,D: Grouped account,0
+1000129,misc,near Lima,,A: Tally strip,0
+1000130,inventory,near Lima,,D: Grouped account,0
+1000131,inventory,Pachacamac,,B: Flat register,1
+1000132,misc,,,D: Grouped account,0
+1000133,misc,Pachacamac,,C: Simple list,0
+1000134,inventory,Ica,,A: Tally strip,0
+1000135,misc,Ica,,B: Flat register,0
+1000136,inventory,Ica,,A: Tally strip,0
+1000137,misc,Pachacamac,,D: Grouped account,0
+1000138,census,Ica,,D: Grouped account,0
+1000139,misc,Pachacamac,,D: Grouped account,0
+1000140,inventory,Ica,,F: Deep hierarchy,5
+1000141,inventory,Pachacamac,,A: Tally strip,0
+1000142,inventory,,,B: Flat register,0
+1000143,misc,,,C: Simple list,1
+1000144,inventory,Pachacamac,,F: Deep hierarchy,3
+1000145,misc,Ica,,D: Grouped account,0
+1000146,inventory,Pachacamac,,F: Deep hierarchy,2
+1000147,inventory,Pachacamac,,F: Deep hierarchy,3
+1000148,inventory,Nazca,,F: Deep hierarchy,2
+1000149,inventory,near Lima,,C: Simple list,0
+1000150,misc,near Lima,,D: Grouped account,0
+1000151,inventory,Ica,,D: Grouped account,0
+1000152,inventory,Ica,,D: Grouped account,0
+1000154,misc,,,B: Flat register,0
+1000155,inventory,,,A: Tally strip,0
+1000156,inventory,,,D: Grouped account,0
+1000157,misc,,,C: Simple list,0
+1000158,misc,,,F: Deep hierarchy,0
+1000159,inventory,,,D: Grouped account,4
+1000160,inventory,Pachacamac,,A: Tally strip,0
+1000161,inventory,Pachacamac,,C: Simple list,0
+1000162,inventory,Pachacamac,,D: Grouped account,0
+1000163,misc,,,C: Simple list,0
+1000164,inventory,,,E: Hierarchical ledger,4
+1000165,inventory,probably Central Coast Late Period,,D: Grouped account,2
+1000166,misc,,,B: Flat register,0
+1000167,inventory,,,D: Grouped account,0
+1000168,inventory,,,A: Tally strip,0
+1000169,misc,Hacienda Ullujalla y Callengo,,C: Simple list,0
+1000170,misc,Hacienda Ullujalla y Callengo,,D: Grouped account,0
+1000171,misc,,,C: Simple list,0
+1000172,misc,"""Hacienda Copara, Nazca""","""South Coast, Peru""",B: Flat register,0
+1000173,misc,,,A: Tally strip,0
+1000174,misc,"Rancho San Juan, Ica Valley",,C: Simple list,0
+1000176,misc,,,C: Simple list,1
+1000177,misc,,,D: Grouped account,0
+1000178,inventory,,,D: Grouped account,0
+1000179,inventory,Hacienda Ullujalla y Callengo,,D: Grouped account,0
+1000180,inventory,,,E: Hierarchical ledger,3
+1000182,inventory,Hacienda Ullujalla y Callengo,,A: Tally strip,0
+1000183,misc,,,F: Deep hierarchy,5
+1000184,misc,,,C: Simple list,3
+1000185,inventory,,,F: Deep hierarchy,3
+1000186,misc,,,B: Flat register,0
+1000187,misc,,,D: Grouped account,0
+1000188,misc,,,D: Grouped account,0
+1000189,inventory,,,D: Grouped account,0
+1000190,misc,,,A: Tally strip,0
+1000191,inventory,,,C: Simple list,0
+1000192,misc,,,E: Hierarchical ledger,1
+1000194,misc,,,D: Grouped account,0
+1000195,misc,,,C: Simple list,0
+1000196,misc,,,A: Tally strip,0
+1000197,misc,,,E: Hierarchical ledger,2
+1000198,inventory,,,F: Deep hierarchy,2
+1000199,misc,,,D: Grouped account,0
+1000200,misc,,,E: Hierarchical ledger,2
+1000201,inventory,Aankoop,,F: Deep hierarchy,2
+1000204,misc,,,C: Simple list,0
+1000205,inventory,,,A: Tally strip,0
+1000206,inventory,,,D: Grouped account,0
+1000207,inventory,,,D: Grouped account,2
+1000208,inventory,,,F: Deep hierarchy,0
+1000209,inventory,,,F: Deep hierarchy,1
+1000210,misc,,,F: Deep hierarchy,0
+1000211,misc,,,D: Grouped account,0
+1000212,misc,,,D: Grouped account,1
+1000213,misc,,,B: Flat register,1
+1000214,census,Hacienda Ullujalla y Callengo,,D: Grouped account,1
+1000216,misc,,,D: Grouped account,0
+1000217,misc,,,C: Simple list,0
+1000218,inventory,,,C: Simple list,0
+1000220,misc,,,D: Grouped account,0
+1000221,misc,,,B: Flat register,1
+1000222,census,,,D: Grouped account,0
+1000223,misc,,,D: Grouped account,0
+1000224,misc,,,A: Tally strip,0
+1000225,misc,,,A: Tally strip,0
+1000226,misc,,,C: Simple list,0
+1000227,misc,Peru,,F: Deep hierarchy,0
+1000228,inventory,Huacho,,C: Simple list,2
+1000229,inventory,,,E: Hierarchical ledger,1
+1000230,census,,,E: Hierarchical ledger,1
+1000231,misc,,,E: Hierarchical ledger,1
+1000232,misc,Peru,,D: Grouped account,0
+1000233,misc,Peru,,E: Hierarchical ledger,1
+1000234,misc,Peru,,C: Simple list,1
+1000235,inventory,"""Maranga, Huaca 1""",,F: Deep hierarchy,3
+1000236,inventory,,,E: Hierarchical ledger,2
+1000238,inventory,,,F: Deep hierarchy,5
+1000239,misc,"""Pueblo Libre, Lima, Peru""",,F: Deep hierarchy,1
+1000240,misc,"""Pueblo Libre, Lima, Peru""",,B: Flat register,2
+1000241,misc,"""Pueblo Libre, Lima, Peru""",,E: Hierarchical ledger,1
+1000242,misc,Huaquerones,Puruchuco,A: Tally strip,0
+1000243,inventory,Huaquerones,Puruchuco,D: Grouped account,0
+1000244,misc,,Puruchuco,D: Grouped account,0
+1000245,misc,Huaquerones,Puruchuco,D: Grouped account,1
+1000246,inventory,Huaquerones,Puruchuco,C: Simple list,2
+1000247,misc,Huaquerones,Puruchuco,C: Simple list,0
+1000248,misc,Huaquerones,Puruchuco,C: Simple list,0
+1000249,misc,Huaquerones,Puruchuco,E: Hierarchical ledger,1
+1000250,misc,,Puruchuco,C: Simple list,1
+1000251,misc,Huaquerones,Puruchuco,E: Hierarchical ledger,1
+1000252,misc,Huaquerones,Puruchuco,C: Simple list,0
+1000253,misc,Huaquerones,Puruchuco,C: Simple list,0
+1000254,misc,Huaquerones,Puruchuco,C: Simple list,0
+1000255,misc,Huaquerones,Puruchuco,D: Grouped account,1
+1000256,misc,Huaquerones,Puruchuco,C: Simple list,0
+1000257,misc,Huaquerones,Puruchuco,D: Grouped account,0
+1000258,misc,Huaquerones,Puruchuco,C: Simple list,2
+1000259,misc,,Puruchuco,C: Simple list,2
+1000260,inventory,Huaquerones,Puruchuco,D: Grouped account,2
+1000261,inventory,Huaquerones,Puruchuco,D: Grouped account,2
+1000262,misc,,Puruchuco,C: Simple list,2
+1000263,misc,Huaquerones,Puruchuco,E: Hierarchical ledger,2
+1000264,misc,Huaquerones,Puruchuco,E: Hierarchical ledger,3
+1000265,inventory,,,E: Hierarchical ledger,1
+1000266,inventory,,,D: Grouped account,1
+1000267,inventory,,,B: Flat register,1
+1000268,inventory,,,B: Flat register,1
+1000269,inventory,,,E: Hierarchical ledger,1
+1000270,census,Santa,,E: Hierarchical ledger,2
+1000271,census,Santa,,E: Hierarchical ledger,3
+1000272,census,Santa,,E: Hierarchical ledger,1
+1000273,census,Santa,,E: Hierarchical ledger,3
+1000274,census,Santa,,E: Hierarchical ledger,2
+1000275,census,Santa,,E: Hierarchical ledger,3
+1000276,inventory,,,D: Grouped account,0
+1000277,inventory,,,B: Flat register,2
+1000279,inventory,Mollepampa,"""Inka, Playa Miller""",F: Deep hierarchy,7
+1000280,inventory,,,E: Hierarchical ledger,2
+1000283,misc,,,D: Grouped account,0
+1000285,misc,,,F: Deep hierarchy,3
+1000287,misc,Nazca,,E: Hierarchical ledger,5
+1000288,misc,Paracas,,D: Grouped account,0
+1000289,misc,Paracas,,D: Grouped account,0
+1000290,misc,Paracas,,D: Grouped account,0
+1000291,misc,Paracas,,C: Simple list,0
+1000292,census,Nazca,,F: Deep hierarchy,9
+1000293,census,Paracas,,F: Deep hierarchy,4
+1000295,misc,,,D: Grouped account,0
+1000296,misc,,,B: Flat register,1
+1000297,misc,,,C: Simple list,0
+1000298,misc,"""Playa Miller #6, Arica, Chile""",,F: Deep hierarchy,1
+1000299,misc,,,F: Deep hierarchy,2
+1000300,inventory,Lluta Valley,,F: Deep hierarchy,1
+1000301,inventory,Lluta Valley,,F: Deep hierarchy,2
+1000302,inventory,Lluta Valley,,F: Deep hierarchy,2
+1000303,misc,Atarco,Nazca,D: Grouped account,0
+1000304,misc,Atarco,Nazca,E: Hierarchical ledger,1
+1000305,misc,Atarco,Nazca,F: Deep hierarchy,1
+1000306,misc,Atarco,Nazca,D: Grouped account,0
+1000307,misc,Atarco,Nazca,D: Grouped account,0
+1000309,inventory,Atarco,Nazca,D: Grouped account,0
+1000310,inventory,Peru,,E: Hierarchical ledger,3
+1000312,misc,,,B: Flat register,1
+1000313,misc,Huacho,,E: Hierarchical ledger,1
+1000314,misc,Pachacamac,,F: Deep hierarchy,2
+1000315,census,Pachacamac,,E: Hierarchical ledger,2
+1000316,inventory,"""Playa Miller #6, Arica, Chile""",,F: Deep hierarchy,3
+1000317,inventory,"""Playa Miller #6, Arica, Chile""",,D: Grouped account,0
+1000318,inventory,"""Playa Miller #6, Arica, Chile""",,F: Deep hierarchy,0
+1000319,misc,"""Playa Miller #6, Arica, Chile""",,F: Deep hierarchy,0
+1000320,inventory,Huacho,,F: Deep hierarchy,4
+1000321,inventory, , ,F: Deep hierarchy,3
+1000322,inventory,Nazca,,D: Grouped account,0
+1000323,inventory,Nazca,,F: Deep hierarchy,2
+1000324,misc,Pachacamac,,E: Hierarchical ledger,3
+1000325,misc,Pachacamac,,E: Hierarchical ledger,2
+1000326,inventory,Paracas,,A: Tally strip,0
+1000327,misc,Pachacamac,,F: Deep hierarchy,0
+1000328,misc,Unknown,,C: Simple list,0
+1000329,inventory,Paracas,,F: Deep hierarchy,3
+1000330,misc,,,B: Flat register,1
+1000331,misc,,,E: Hierarchical ledger,1
+1000332,inventory,,,E: Hierarchical ledger,4
+1000333,inventory,Pachacamac,,E: Hierarchical ledger,4
+1000335,misc,unknown,,C: Simple list,1
+1000336,inventory,,,B: Flat register,2
+1000337,inventory,unknown,,F: Deep hierarchy,0
+1000338,inventory,unknown,,B: Flat register,0
+1000339,inventory,unknown,,F: Deep hierarchy,0
+1000340,misc,unknown,,F: Deep hierarchy,3
+1000342,misc,Pachacamac,,C: Simple list,5
+1000344,inventory,,,B: Flat register,1
+1000345,census,,,F: Deep hierarchy,2
+1000346,misc,,,C: Simple list,3
+1000347,misc,,,D: Grouped account,0
+1000348,inventory,,,B: Flat register,0
+1000349,misc,,,D: Grouped account,0
+1000350,inventory,,,C: Simple list,0
+1000351,census,,,E: Hierarchical ledger,2
+1000352,misc,,,F: Deep hierarchy,0
+1000353,inventory,,,F: Deep hierarchy,0
+1000354,inventory,,,A: Tally strip,0
+1000355,inventory,,,B: Flat register,0
+1000356,misc,,,D: Grouped account,0
+1000357,inventory,,,A: Tally strip,0
+1000358,misc,,,F: Deep hierarchy,0
+1000359,misc,,,C: Simple list,3
+1000361,inventory,,,E: Hierarchical ledger,5
+1000363,inventory,,,C: Simple list,1
+1000365,misc,,,C: Simple list,2
+1000366,misc,,,E: Hierarchical ledger,2
+1000367,nodata,"Rancho San Juan, Ica Valley",,A: Tally strip,0
+1000368,misc,,,F: Deep hierarchy,4
+1000369,inventory,,,E: Hierarchical ledger,4
+1000371,inventory,,,E: Hierarchical ledger,4
+1000374,inventory,Huari,,C: Simple list,1
+1000375,misc,,,E: Hierarchical ledger,3
+1000376,inventory,,,C: Simple list,1
+1000377,misc,unknown,,E: Hierarchical ledger,1
+1000378,inventory,unknown,,B: Flat register,0
+1000380,inventory,,,F: Deep hierarchy,1
+1000381,misc,,,B: Flat register,2
+1000382,misc,,,B: Flat register,3
+1000383,inventory,,,C: Simple list,1
+1000385,inventory,,,C: Simple list,2
+1000386,inventory,Cuzco,,D: Grouped account,0
+1000387,misc,"""Chancay, Central Coast""",,F: Deep hierarchy,0
+1000388,inventory,"""Chancay, Central Coast""",,F: Deep hierarchy,0
+1000389,inventory,"""Chancay, Central Coast""",,D: Grouped account,0
+1000390,misc,,,E: Hierarchical ledger,3
+1000392,inventory,,,D: Grouped account,0
+1000393,inventory,Valle de Ica Hacienda Callango Ocucaje,,B: Flat register,0
+1000395,inventory,,,C: Simple list,0
+1000396,misc,"""Huaura Valley, near Lima, on Santa Rosalia Hacienda""",,F: Deep hierarchy,1
+1000397,inventory,,,D: Grouped account,0
+1000398,misc,Valle de Ica Hacienda Callango Ocucaje,,D: Grouped account,1
+1000399,inventory,Valle de Ica Hacienda Callango Ocucaje,,C: Simple list,0
+1000400,inventory,unknown,,F: Deep hierarchy,1
+1000401,inventory,Valle de Ica Hacienda Callango Ocucaje,,F: Deep hierarchy,0
+1000402,inventory,Hacienda Ullujalla y Callengo,,D: Grouped account,0
+1000403,inventory,unknown,,F: Deep hierarchy,2
+1000404,inventory,Valle de Ica Hacienda Callango Ocucaje,,D: Grouped account,0
+1000405,misc,unknown,,D: Grouped account,0
+1000406,inventory,Valle de Ica Hacienda Callango Ocucaje,,F: Deep hierarchy,0
+1000407,misc,Valle de Ica Hacienda Callango Ocucaje,,E: Hierarchical ledger,2
+1000408,misc,Valle de Ica Hacienda Callango Ocucaje,,D: Grouped account,1
+1000409,misc,,,D: Grouped account,0
+1000410,misc,Tambo Colorado,,D: Grouped account,0
+1000411,misc,Tambo Colorado,,A: Tally strip,0
+1000412,inventory,,,A: Tally strip,0
+1000413,misc,Hacienda Ullujalla y Callengo,,F: Deep hierarchy,2
+1000414,inventory,,,D: Grouped account,0
+1000415,inventory,Acari,,D: Grouped account,1
+1000416,misc,Tambo Colorado,,B: Flat register,0
+1000417,misc,Tambo Colorado,,D: Grouped account,0
+1000418,inventory,Donation from the collection Belli,,F: Deep hierarchy,2
+1000419,misc,Valle de Pisco,,C: Simple list,1
+1000420,inventory,Pachacamac,near Lima,C: Simple list,0
+1000421,inventory,Pachacamac,,D: Grouped account,2
+1000422,inventory,Pachacamac,,E: Hierarchical ledger,8
+1000423,inventory,Pachacamac,,F: Deep hierarchy,0
+1000424,misc,Pachacamac,,D: Grouped account,0
+1000425,inventory,Pachacamac,,D: Grouped account,0
+1000426,inventory,Pachacamac,,D: Grouped account,0
+1000427,inventory,Pachacamac,,F: Deep hierarchy,0
+1000428,inventory,Pachacamac,,D: Grouped account,0
+1000429,inventory,Pachacamac,,B: Flat register,0
+1000430,inventory,Pachacamac,,D: Grouped account,0
+1000431,misc,Pachacamac,,E: Hierarchical ledger,3
+1000432,inventory,Pachacamac,,F: Deep hierarchy,0
+1000433,misc,Pachacamac,,E: Hierarchical ledger,2
+1000434,misc,"""Cieneguilla, Valle de Lurin""",,A: Tally strip,0
+1000435,misc,"""Cieneguilla, Valle de Lurin""",,D: Grouped account,0
+1000436,inventory,Pachacamac,,E: Hierarchical ledger,4
+1000437,misc,Pachacamac,,D: Grouped account,0
+1000438,misc,Pachacamac,,C: Simple list,0
+1000439,misc,Pachacamac,,D: Grouped account,0
+1000440,inventory,Pachacamac,,D: Grouped account,0
+1000441,misc,Pachacamac,,C: Simple list,0
+1000442,inventory,Pachacamac,,D: Grouped account,0
+1000443,inventory,Pachacamac,,D: Grouped account,0
+1000444,misc,Pachacamac,,C: Simple list,1
+1000445,misc,Pachacamac,,C: Simple list,0
+1000446,inventory,Pachacamac,,E: Hierarchical ledger,7
+1000447,misc,Pachacamac,,C: Simple list,0
+1000448,inventory,Pachacamac,,F: Deep hierarchy,2
+1000449,inventory,Pachacamac,,E: Hierarchical ledger,1
+1000450,misc,Pachacamac,,E: Hierarchical ledger,5
+1000451,misc,Pachacamac,,C: Simple list,0
+1000452,misc,"""Chancay, Central Coast""",,B: Flat register,0
+1000453,misc,,"""Inka, Late Horizon""",C: Simple list,2
+1000454,inventory,,"""Inka, Late Horizon""",C: Simple list,2
+1000455,misc,,"""Inka, Late Horizon""",E: Hierarchical ledger,2
+1000456,misc,,"""Inka, Late Horizon""",E: Hierarchical ledger,1
+1000457,misc,,"""Inka, Late Horizon""",C: Simple list,1
+1000458,misc,,"""Inka, Late Horizon""",C: Simple list,0
+1000459,misc,,"""Inka, Late Horizon""",C: Simple list,1
+1000460,misc,,"""Inka, Late Horizon""",C: Simple list,0
+1000461,misc,,"""Inka, Late Horizon""",C: Simple list,1
+1000462,misc,,"""Inka, Late Horizon""",C: Simple list,1
+1000463,misc,,"""Inka, Late Horizon""",C: Simple list,1
+1000464,nodata,,"""Inka, Late Horizon""",UNCLASSIFIED,0
+1000465,nodata,,"""Inka, Late Horizon""",UNCLASSIFIED,0
+1000466,nodata,,"""Inka, Late Horizon""",UNCLASSIFIED,0
+1000467,nodata,,"""Inka, Late Horizon""",UNCLASSIFIED,0
+1000468,nodata,,"""Inka, Late Horizon""",UNCLASSIFIED,0
+1000469,nodata,,"""Inka, Late Horizon""",UNCLASSIFIED,0
+1000470,nodata,,"""Inka, Late Horizon""",UNCLASSIFIED,0
+1000472,inventory,La Molina,Puruchuco,F: Deep hierarchy,3
+1000474,misc,Ica,,D: Grouped account,1
+1000475,misc,Ica,,D: Grouped account,0
+1000477,inventory,"""Ica Valley, near Callango""",,F: Deep hierarchy,2
+1000478,misc,unknown,,C: Simple list,2
+1000479,misc,,,B: Flat register,0
+1000480,inventory,,,D: Grouped account,0
+1000481,misc,,,B: Flat register,0
+1000482,misc,Chuquitanta,,B: Flat register,1
+1000483,inventory,,,D: Grouped account,0
+1000485,inventory,Cajamarquilla,,C: Simple list,0
+1000486,inventory,Cajamarquilla,,C: Simple list,0
+1000487,inventory,"""Chancay, Central Coast""",,B: Flat register,1
+1000488,inventory,unknown,,F: Deep hierarchy,0
+1000489,inventory,Cajamarquilla,,C: Simple list,0
+1000490,misc,,,D: Grouped account,0
+1000491,inventory,Cajamarquilla,,A: Tally strip,0
+1000492,misc,,,B: Flat register,2
+1000493,inventory,Chuquitanta,,F: Deep hierarchy,1
+1000494,inventory,Chuquitanta,,F: Deep hierarchy,1
+1000495,inventory,"""Ica Valley, near Callango""",,F: Deep hierarchy,3
+1000496,inventory,"""Huando, Chancay, Peru (Gaffron Collection)""",,B: Flat register,1
+1000497,census,"""Hda. Huando, Chancay""",,E: Hierarchical ledger,2
+1000499,inventory,,,E: Hierarchical ledger,1
+1000500,inventory,,,E: Hierarchical ledger,1
+1000501,misc,"""Huaca Perez, Lima (a.k.a Hda. Infantas and Tambo Inca)""","""Central Coast, Peru""",E: Hierarchical ledger,6
+1000502,misc,"""Huaca Perez, Lima (a.k.a Hda. Infantas and Tambo Inca)""","""Central Coast, Peru""",D: Grouped account,0
+1000503,inventory,"""Huaca Perez, Lima (a.k.a Hda. Infantas and Tambo Inca)""","""Central Coast, Peru""",E: Hierarchical ledger,2
+1000504,inventory,"""Peru, Fundort: Pachacmac""","""Central Coast, Peru""",F: Deep hierarchy,1
+1000505,inventory,Ica,"""South Coast, Peru""",F: Deep hierarchy,1
+1000506,misc,Huacho,"""Central Coast, Peru""",E: Hierarchical ledger,2
+1000507,inventory,Pachacamac,"""Central Coast, Peru""",E: Hierarchical ledger,3
+1000508,inventory,Pachacamac,"""Central Coast, Peru""",E: Hierarchical ledger,1
+1000509,census,"""Santa Clara, Nazca""","""South Coast, Peru""",F: Deep hierarchy,4
+1000510,misc,Pachacamac,"""Central Coast, Peru""",B: Flat register,3
+1000511,inventory,Pachacamac,"""Central Coast, Peru""",B: Flat register,2
+1000512,inventory,Pachacamac,"""Central Coast, Peru""",F: Deep hierarchy,2
+1000513,inventory,Pachacamac,"""Central Coast, Peru""",F: Deep hierarchy,1
+1000514,inventory,unknown,unknown,F: Deep hierarchy,1
+1000515,inventory,unknown,unknown,F: Deep hierarchy,1
+1000516,inventory,unknown,unknown,F: Deep hierarchy,0
+1000517,inventory,unknown,unknown,D: Grouped account,0
+1000518,inventory,unknown,unknown,F: Deep hierarchy,3
+1000519,inventory,Pachacamac,"""Central Coast, Peru""",E: Hierarchical ledger,4
+1000520,inventory,Pisco,"""South Coast, Peru""",E: Hierarchical ledger,2
+1000521,misc,Ica/Pisco,"""South Coast, Peru""",E: Hierarchical ledger,1
+1000522,misc,Ica/Pisco,"""South Coast, Peru""",B: Flat register,2
+1000523,misc,Pachacamac,"""Central Coast, Peru""",E: Hierarchical ledger,1
+1000524,inventory,Pachacamac,"""Central Coast, Peru""",F: Deep hierarchy,3
+1000525,misc,Pachacamac,"""Central Coast, Peru""",B: Flat register,0
+1000526,inventory,unknown,unknown,F: Deep hierarchy,4
+1000527,misc,Pachacamac,"""Central Coast, Peru""",F: Deep hierarchy,1
+1000528,inventory,Ocucaje,"""South Coast, Peru""",F: Deep hierarchy,3
+1000529,inventory,Pachacamac,"""Central Coast, Peru""",B: Flat register,2
+1000530,inventory,Ica,"""South Coast, Peru""",B: Flat register,2
+1000531,misc,Ica,"""South Coast, Peru""",B: Flat register,0
+1000532,inventory,Ica,"""South Coast, Peru""",B: Flat register,0
+1000533,census,Ica,"""South Coast, Peru""",E: Hierarchical ledger,1
+1000534,misc,Ica,"""South Coast, Peru""",B: Flat register,1
+1000535,misc,unknown,unknown,B: Flat register,0
+1000536,inventory,Pachacamac,"""Central Coast, Peru""",D: Grouped account,1
+1000537,inventory,Pisco,"""South Coast, Peru""",C: Simple list,0
+1000538,inventory,Pisco,"""South Coast, Peru""",C: Simple list,3
+1000539,inventory,Ica,"""South Coast, Peru""",E: Hierarchical ledger,4
+1000540,inventory,Pachacamac,"""Central Coast, Peru""",F: Deep hierarchy,2
+1000541,census,Ica/Pisco,"""South Coast, Peru""",E: Hierarchical ledger,15
+1000542,misc,Huacho,"""North-Central Coast, Peru""",E: Hierarchical ledger,2
+1000543,inventory,Huacho,"""North-Central Coast, Peru""",E: Hierarchical ledger,3
+1000544,inventory,unknown,unknown,B: Flat register,2
+1000545,inventory,unknown,unknown,F: Deep hierarchy,2
+1000546,inventory,unknown,unknown,F: Deep hierarchy,1
+1000547,inventory,Ica,"""South Coast, Peru""",E: Hierarchical ledger,4
+1000548,misc,Pachacamac,"""Central Coast, Peru""",D: Grouped account,0
+1000549,inventory,Unknown,unknown,F: Deep hierarchy,2
+1000550,misc,Pachacamac,"""Central Coast, Peru""",B: Flat register,0
+1000551,inventory,unknown,unknown,B: Flat register,1
+1000552,inventory,Ica,"""South Coast, Peru""",F: Deep hierarchy,1
+1000553,misc,unknown,unknown,E: Hierarchical ledger,1
+1000554,inventory,unknown,unknown,F: Deep hierarchy,2
+1000555,misc,Pachacamac,"""Central Coast, Peru""",B: Flat register,2
+1000556,inventory,Pachacamac,"""Central Coast, Peru""",B: Flat register,1
+1000558,inventory,Pachacamac,"""Central Coast, Peru""",C: Simple list,0
+1000559,inventory,Pachacamac,"""Central Coast, Peru""",D: Grouped account,0
+1000560,inventory,Pachacamac,"""Central Coast, Peru""",D: Grouped account,0
+1000561,misc,Ica,"""South Coast, Peru""",C: Simple list,0
+1000562,misc,"Ullujaya, Ocucaje, Ica",,D: Grouped account,0
+1000563,census,"Ullujaya, Ocucaje, Ica",,C: Simple list,2
+1000564,inventory,unknown,,E: Hierarchical ledger,10
+1000565,census,Costa Sur,,E: Hierarchical ledger,2
+1000566,inventory,"Costa Central, Huacho",,D: Grouped account,0
+1000567,misc,unknown,,D: Grouped account,1
+1000569,misc,unknown,,D: Grouped account,0
+1000570,inventory,unknown,,F: Deep hierarchy,2
+1000571,misc,unknown,,E: Hierarchical ledger,1
+1000572,misc,unknown,,C: Simple list,0
+1000573,inventory,unknown,,F: Deep hierarchy,0
+1000574,misc,"Región Sur, Quillagua, Valle de Loa",,F: Deep hierarchy,1
+1000575,misc,unknown,,F: Deep hierarchy,1
+1000576,misc,unknown,,F: Deep hierarchy,3
+1000577,inventory,"Armatambo, Lima, Central Coast",,D: Grouped account,2
+1000578,misc,unknown,,A: Tally strip,0
+1000579,misc,unknown,,C: Simple list,0
+1000580,inventory,foothills of Cerro Solar,,D: Grouped account,0
+1000581,misc,unknown,,B: Flat register,1
+1000582,misc,unknown,,C: Simple list,1
+1000583,inventory,unknown,,D: Grouped account,1
+1000584,inventory,unknown,,E: Hierarchical ledger,2
+1000585,misc,unknown,,F: Deep hierarchy,0
+1000586,inventory,unknown,,F: Deep hierarchy,3
+1000587,misc,unknown,,D: Grouped account,1
+1000588,inventory,unknown,,B: Flat register,1
+1000589,misc,unknown,,D: Grouped account,1
+1000590,census,unknown,,F: Deep hierarchy,2
+1000591,inventory,Pachacamac,,F: Deep hierarchy,4
+1000592,inventory,Pachacamac,,F: Deep hierarchy,0
+1000593,inventory,Costa Sur,,B: Flat register,5
+1000595,inventory,Incahuasi,,F: Deep hierarchy,0
+1000597,inventory,Incahuasi,,F: Deep hierarchy,2
+1000598,inventory,Incahuasi,,F: Deep hierarchy,3
+1000599,inventory,Incahuasi,,F: Deep hierarchy,1
+1000600,misc,Incahuasi,,D: Grouped account,0
+1000601,inventory,Incahuasi,,F: Deep hierarchy,0
+1000602,misc,Incahuasi,,D: Grouped account,0
+1000603,inventory,Incahuasi,,F: Deep hierarchy,3
+1000604,misc,Incahuasi,,E: Hierarchical ledger,3
+1000605,inventory,Incahuasi,,E: Hierarchical ledger,3
+1000606,misc,Incahuasi,,F: Deep hierarchy,0
+1000607,inventory,Incahuasi,,F: Deep hierarchy,1
+1000608,inventory,Incahuasi,,E: Hierarchical ledger,1
+1000609,inventory,Incahuasi,,F: Deep hierarchy,1
+1000610,inventory,Incahuasi,,F: Deep hierarchy,2
+1000611,inventory,Incahuasi,,F: Deep hierarchy,3
+1000612,inventory,Incahuasi,,F: Deep hierarchy,3
+1000613,inventory,Incahuasi,,F: Deep hierarchy,2
+1000614,inventory,Incahuasi,,F: Deep hierarchy,4
+1000615,misc,Incahuasi,,E: Hierarchical ledger,1
+1000616,inventory,Incahuasi,,E: Hierarchical ledger,4
+1000617,inventory,Incahuasi,,E: Hierarchical ledger,2
+1000618,inventory,Incahuasi,,F: Deep hierarchy,2
+1000619,inventory,Incahuasi,,E: Hierarchical ledger,1
+1000620,inventory,Incahuasi,,D: Grouped account,0
+1000621,inventory,Incahuasi,,F: Deep hierarchy,0
+1000622,inventory,Incahuasi,,F: Deep hierarchy,5
+1000623,inventory,Incahuasi,,F: Deep hierarchy,3
+1000624,inventory,Incahuasi,,F: Deep hierarchy,1
+1000625,misc,Incahuasi,,B: Flat register,1
+1000626,misc,Incahuasi,,B: Flat register,0
+1000627,misc,Incahuasi,,A: Tally strip,0
+1000628,misc,Incahuasi,,F: Deep hierarchy,0
+1000629,inventory,Incahuasi,,F: Deep hierarchy,4
+1000630,misc,Incahuasi,,D: Grouped account,0
+1000631,inventory,Incahuasi,,D: Grouped account,0
+1000632,misc,Incahuasi,,C: Simple list,0
+1000633,misc,Incahuasi,,F: Deep hierarchy,1
+1000634,misc,Incahuasi,,F: Deep hierarchy,4
+1000635,misc,Incahuasi,,F: Deep hierarchy,2
+1000636,misc,Incahuasi,,C: Simple list,1
+1000637,inventory,Incahuasi,,F: Deep hierarchy,2
+1000638,inventory,Incahuasi,,D: Grouped account,0
+1000639,misc,Incahuasi,,A: Tally strip,0
+1000640,misc,Incahuasi,,A: Tally strip,0
+1000641,inventory,Incahuasi,,A: Tally strip,0
+1000642,inventory,Incahuasi,,D: Grouped account,0
+1000643,inventory,Incahuasi,,D: Grouped account,0
+1000644,inventory,Incahuasi,,D: Grouped account,0
+1000645,inventory,Incahuasi,,D: Grouped account,0
+1000646,misc,Incahuasi,,F: Deep hierarchy,0
+1000647,misc,Incahuasi,,F: Deep hierarchy,1
+1000648,inventory,"Monte de Cacatilla, Valle de Nazca",,E: Hierarchical ledger,2
+1000649,misc,"Huaca San Pedro, Armatambo",,B: Flat register,2
+1000650,inventory,"Huaca San Pedro, Armatambo",,E: Hierarchical ledger,4
+1000651,inventory,"Armatambo, Huaca San Pedro",,B: Flat register,0
+1000652,misc,"Armatambo, Huaca San Pedro",,B: Flat register,0
+1000653,misc,"Armatambo, Huaca San Pedro",,B: Flat register,0
+1000654,misc,"Armatambo, Huaca San Pedro",,E: Hierarchical ledger,3
+1000655,misc,"Armatambo, Huaca San Pedro",,C: Simple list,0
+1000656,misc,"Armatambo, Huaca San Pedro",,B: Flat register,1
+1000657,misc,"Armatambo, Huaca San Pedro",,B: Flat register,0
+1000658,inventory,"Armatambo, Huaca San Pedro",,F: Deep hierarchy,2
+1000659,misc,"Armatambo, Huaca San Pedro",,E: Hierarchical ledger,2
+1000660,inventory,"Armatambo, Huaca San Pedro",,B: Flat register,0
+1000661,inventory,"Armatambo, Huaca San Pedro",,B: Flat register,0

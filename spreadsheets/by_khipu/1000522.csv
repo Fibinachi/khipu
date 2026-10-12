@@ -1,0 +1,109 @@
+# khipu_id: 1000522
+# provenance: Ica/Pisco
+# region: "South Coast, Peru"
+# museum: "Ethnologisches Museum, Berlin, Germany" 16141 b
+# nickname: 
+# file_format: .chk
+# data_regime: 
+# doc_cluster: 
+# template_id: 
+# segmentation: none
+# n_rows: 95
+# n_cols: 0
+# note: TF unary override - pure-tuft cord values are tuft counts, not decimal decodes
+ORDINAL,LEVEL,COLOR1,COLOR2,VALUE,KNOTS
+1,1,W,,4,TF:4
+2,1,W,,2,TF:2
+3,1,W,,2,TF:2
+4,1,W,,4,TF:4
+5,1,W,,2,TF:2
+6,1,W,,2,TF:2
+7,1,W,,2,TF:2
+8,1,KB,,1,TF:1
+9,1,KB,,,
+10,1,KB,,1,TF:1
+11,1,KB,,1,TF:1
+12,1,KB,,1,TF:1
+13,1,MB,,3,TF:3
+14,1,MB,,1,TF:1
+15,1,MB,,2,TF:2
+16,1,MB,,3,TF:3
+17,1,MB,,2,TF:2
+18,1,MB,,1,TF:1
+19,1,MB,,1,TF:1
+20,1,FR,,,
+21,1,FR,,,
+22,1,FR,,1,TF:1
+23,1,FR,,1,TF:1
+24,1,FR,,1,TF:1
+25,1,FR,,1,TF:1
+26,1,GG,AB,3,TF:3
+27,1,GG,AB,2,TF:2
+28,1,GG,AB,2,TF:2
+29,1,GG,AB,3,TF:3
+30,1,GG,AB,1,TF:1
+31,1,GG,AB,1,TF:1
+32,1,GG,AB,1,TF:1
+33,1,W,,1,TF:1
+34,1,W,,1,TF:1
+35,1,W,,1,TF:1
+36,1,RB,,1,TF:1
+37,1,RB,,,
+38,1,RB,,1,TF:1
+39,1,RB,,2,TF:2
+40,1,RB,,1,TF:1
+41,1,RB,,1,TF:1
+42,1,RB,,1,TF:1
+43,1,MB,,3,TF:3
+44,1,MB,,2,TF:2
+45,1,MB,,2,TF:2
+46,1,MB,,3,TF:3
+47,1,MB,,2,TF:2
+48,1,MB,,1,TF:1
+49,1,MB,,2,TF:2
+50,1,KB,,,
+51,1,MB,,,
+52,1,GG,MB,,
+53,1,BG,MB,1,TF:1
+54,1,GG,AB,,
+55,1,GG,AB,1,TF:1
+56,1,GG,MB,1,TF:1
+57,1,GG,MB,,
+58,1,GG,MB,1,TF:1
+59,1,HB,,,
+60,1,HB,,1,TF:1
+61,1,HB,,1,TF:1
+62,1,HB,,1,TF:1
+63,1,HB,,1,TF:1
+64,1,HB,,1,TF:1
+65,1,HB,,1,TF:1
+66,1,W,,4,TF:4
+67,1,MB,W,1,TF:1
+68,1,MB,W,1,TF:1
+69,1,MB,W,1,TF:1
+70,1,MB,W,1,TF:1
+71,1,MB,W,1,TF:1
+72,1,MB,W,1,TF:1
+73,1,MB,W,1,TF:1
+74,1,AB,,1,TF:1
+75,1,AB,,1,TF:1
+76,1,AB,,1,TF:1
+77,1,AB,,1,TF:1
+78,1,AB,,1,TF:1
+79,1,AB,,1,TF:1
+80,1,AB,,1,TF:1
+81,1,AB,,1,TF:1
+82,1,AB,,1,TF:1
+83,1,KB,MB,1,TF:1
+84,1,KB,MB,1,TF:1
+85,1,KB,MB,1,TF:1
+86,1,KB,MB,1,TF:1
+87,1,KB,MB,1,TF:1
+88,1,HB,,4,TF:4
+89,1,HB,,3,TF:3
+90,1,HB,,3,TF:3
+91,1,HB,,,
+92,1,HB,,3,TF:3
+93,1,HB,,,
+94,1,HB,,3,TF:3
+95,1,GG,,1,E:1

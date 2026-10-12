@@ -1,0 +1,74 @@
+# khipu_id: 1000324
+# provenance: Pachacamac
+# region: 
+# museum: "Museum of Worldculture, Goteborg, Sweden" 16.9.56
+# nickname: 
+# file_format: .flat
+# data_regime: 
+# doc_cluster: 
+# template_id: 
+# segmentation: none
+# n_rows: 61
+# n_cols: 0
+ORDINAL,LEVEL,COLOR1,COLOR2,VALUE,KNOTS
+1,1,GG,W,3,L:4
+2,1,GG,W,3,L:2
+3,1,GG,W,3,L:2
+4,1,GG,W,2,L:2
+5,1,GG,W,2,L:2
+6,1,GG,W,3,L:2
+7,1,GG,W,,
+8,1,GG,W,2,L:2
+9,1,AB,W,5,L:1
+10,1,AB,W,5,L:1
+11,1,MB,AB,4,L:1
+12,1,AB,W,13,"L:1,S:1"
+13,1,AB,W,13,"L:1,S:1"
+14,1,AB,W,,S:1
+15,1,AB,W,7,L:1
+16,1,MB,,,
+17,1,AB,W,8,L:1
+18,1,AB,W,6,L:1
+19,1,AB,,,
+20,1,AB,,,
+21,1,AB,,,
+22,1,MB,,,
+23,1,AB,,30,S:7
+24,1,AB,,10,S:3
+25,1,AB,,221,"E:1,S:4"
+26,1,AB,,121,"E:1,S:3"
+27,1,AB,,,
+28,1,AB,,,
+29,1,AB,,,
+30,1,GG,AB,,
+31,1,GG,AB,4,L:1
+32,1,GG,AB,4,L:1
+33,1,GG,AB,4,L:1
+34,1,GG,AB,4,L:1
+35,1,GG,AB,4,L:1
+36,1,GG,AB,4,L:1
+37,1,GG,AB,,
+38,1,GG,AB,5,L:1
+39,1,GG,AB,,
+40,1,AB,W,4,L:1
+41,1,AB,W,4,L:1
+42,1,AB,W,3,L:1
+43,1,AB,W,4,L:1
+44,1,AB,W,4,L:1
+45,1,AB,W,4,L:1
+46,1,AB,W,2,L:1
+47,1,AB,W,2,L:1
+48,1,AB,W,4,L:1
+49,1,AB,,,
+50,1,AB,,,
+51,1,AB,,,
+52,1,W,,,"L:1,S:3"
+53,1,W,,,S:3
+54,1,W,,23,"L:1,S:2"
+55,1,W,,,
+56,1,W,,24,"L:1,S:2"
+57,1,W,,23,"L:1,S:2"
+58,1,W,,23,"L:1,S:2"
+59,1,W,,,S:1
+60,1,W,,15,"L:1,S:1"
+61,1,W,,15,"L:1,S:1"

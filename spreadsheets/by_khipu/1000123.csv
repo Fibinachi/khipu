@@ -1,0 +1,33 @@
+# khipu_id: 1000123
+# provenance: Ocucaje
+# region: 
+# museum: "Museum für Völkerkunde, Berlin" VA44866B
+# nickname: 
+# file_format: .flat
+# data_regime: 
+# doc_cluster: 
+# template_id: 
+# segmentation: none
+# n_rows: 20
+# n_cols: 0
+ORDINAL,LEVEL,COLOR1,COLOR2,VALUE,KNOTS
+1,1,B,,1327,"L:1,S:6"
+2,1,B,,20,S:8
+3,1,B,LC,941,"E:1,S:13"
+4,1,B,,1874,"L:1,S:16"
+5,1,LC,,563,"L:1,S:11"
+6,1,B,,638,"L:1,S:9"
+7,1,LC,,371,"E:1,S:10"
+8,1,B,,428,"L:1,S:6"
+9,1,LC,,198,"L:1,S:10"
+10,1,B,,55,"L:1,S:5"
+11,1,LB,B,195,"L:1,S:10"
+12,1,B,,40,S:13
+13,1,B,,,S:3
+14,1,B,,531,"E:1,S:8"
+15,1,B,,281,"E:1,S:10"
+16,1,B,,332,"L:1,S:6"
+17,1,LB,B,156,"L:1,S:6"
+18,1,LC,,422,"L:1,S:6"
+19,1,B,,125,"L:1,S:3"
+20,1,LC,,599,"L:1,S:14"

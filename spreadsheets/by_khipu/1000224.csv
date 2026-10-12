@@ -1,0 +1,18 @@
+# khipu_id: 1000224
+# provenance: 
+# region: 
+# museum: "O. Nunez del Prado, Cuzco" 10B
+# nickname: 
+# file_format: .flat
+# data_regime: 
+# doc_cluster: 
+# template_id: 
+# segmentation: none
+# n_rows: 5
+# n_cols: 0
+ORDINAL,LEVEL,COLOR1,COLOR2,VALUE,KNOTS
+1,1,MB,,11,"E:1,S:1"
+2,1,MB,,5,L:2
+3,1,MB,,,
+4,1,W,,,
+5,1,W,,,

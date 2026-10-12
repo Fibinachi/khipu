@@ -1,0 +1,24 @@
+# khipu_id: 1000441
+# provenance: Pachacamac
+# region: 
+# museum: Museo de Sitio de Pachacamac MSP 1417/RN 43398
+# nickname: HP/AR 022
+# file_format: .tab
+# data_regime: unclustered
+# doc_cluster: census_format_paired
+# template_id: T128
+# segmentation: color_cycle
+# n_rows: 10
+# n_cols: 2
+ROW_ID,IS_MARKER_ROW,SECTION,W,MB
+,,,VARIABLE,VARIABLE
+1,FALSE,1,173,204
+2,FALSE,1,33,4
+3,FALSE,1,16,3
+4,FALSE,1,25,4
+5,FALSE,1,21,2
+6,FALSE,1,15,1
+7,FALSE,1,11,2
+8,FALSE,1,24,2
+9,FALSE,1,24,
+10,FALSE,1,15,

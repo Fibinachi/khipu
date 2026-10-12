@@ -1,0 +1,19 @@
+# khipu_id: 1000236
+# provenance: 
+# region: 
+# museum: "Museo ""Jijon y Caamano"", Pontificia Universidad Catolica del Ecuador, Quito, Ecuador" P501B
+# nickname: 
+# file_format: .tab
+# data_regime: DC6
+# doc_cluster: deep_sparse_mixed
+# template_id: T062
+# segmentation: white_dividers
+# n_rows: 5
+# n_cols: 21
+ROW_ID,IS_MARKER_ROW,SECTION,LG,BB,W,W_2,BB_2,W_3,BB_3,BB_4,W_4,BB_5,BB_6,W_5,G,?,W_6,G_2,W_7,W_8,BB_7,W_9,BB_8
+,,,CONSTANT,CONSTANT,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,CONSTANT,VARIABLE,VARIABLE,VARIABLE,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT
+1,FALSE,1,,,8,3,18,336,,,,,,,,,,,,,,,
+2,FALSE,2,,,16,10,,4,,,,,,,,,,,,,,,
+3,FALSE,3,,,,,,,,3,,,,,,,,,,,,,
+4,FALSE,4,56,,,,14,6,6,,,17,16,,,16,18,,,,,,
+5,FALSE,5,,,,,,,,,19,4,,,6,,,,,,,,

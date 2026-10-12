@@ -1,0 +1,26 @@
+# khipu_id: 1000000
+# provenance: Leymebamba
+# region: Chachapoyas
+# museum: "Centro Mallqui, Leymebamba, Amazonas" CMA-480/LC1-109.3
+# nickname: 
+# file_format: .flat
+# data_regime: 
+# doc_cluster: 
+# template_id: 
+# segmentation: none
+# n_rows: 13
+# n_cols: 0
+ORDINAL,LEVEL,COLOR1,COLOR2,VALUE,KNOTS
+1,1,AB,,,L:4
+2,1,AB,,,
+3,1,AB,,18,"L:1,S:1"
+4,1,MB,,1,E:1
+5,1,AB,,,
+6,1,KB,,,S:1
+7,1,MB,,1,E:1
+8,1,MB,,,
+9,1,KB,W,28,"L:1,S:2"
+10,1,MB,KB,,S:2
+11,1,W,,,
+12,1,BL,,,
+13,1,BL,,,

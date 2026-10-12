@@ -1,0 +1,43 @@
+# khipu_id: 1000515
+# provenance: unknown
+# region: unknown
+# museum: "Ethnologisches Museum, Berlin, Germany" VA47114c(B)
+# nickname: 
+# file_format: .flat
+# data_regime: 
+# doc_cluster: 
+# template_id: 
+# segmentation: none
+# n_rows: 30
+# n_cols: 0
+ORDINAL,LEVEL,COLOR1,COLOR2,VALUE,KNOTS
+1,1,LK,,1,"E:3,L:18,S:24"
+2,1,G0,,,"E:5,L:3,S:11"
+3,1,MB,,,"E:3,L:2,S:6"
+4,1,W,,17,"L:3,S:1"
+5,1,AB,W,4,L:2
+6,1,AB,GG,36,"L:2,S:3"
+7,1,GG,,48,"L:1,S:5"
+8,1,W,,18,"L:2,S:1"
+9,1,G0,,,S:5
+10,1,AB,,,S:5
+11,1,W,,,
+12,1,G0,,1,"E:1,L:2"
+13,1,AB,W,1,"E:1,L:1"
+14,1,G0,,3,L:1
+15,1,W,,5,L:1
+16,1,AB,,6,L:1
+17,1,MB,,,S:1
+18,1,BG,W,8,L:1
+19,1,W,,12,"L:1,S:1"
+20,1,HB,,,S:3
+21,1,AB,W,3,L:2
+22,1,MB,W,6,L:1
+23,1,RL,,2,L:1
+24,1,KB,W,,S:5
+25,1,G0,,24,"L:1,S:2"
+26,1,RL,,36,"L:1,S:3"
+27,1,W,,202,"E:1,L:1,S:2"
+28,1,W,HB,,
+29,1,AB,,,
+30,1,?,,,

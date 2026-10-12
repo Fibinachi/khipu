@@ -1,0 +1,160 @@
+===========================================================================
+QUIPU SOURCE-CODE TRANSLITERATION
+===========================================================================
+
+LETTER KEY (common alphabet — 99.5% of knots):
+  A=S-knot/S-dir  B=S-knot/Z-dir  C=L-knot/S-dir  D=L-knot/Z-dir (D4=4 turns)
+  E=E-knot/S-dir  F=E-knot/Z-dir
+  B? = S-knot, direction unrecorded (not rare, just incomplete data)
+
+RARE SYMBOLS — marked «» (the 0.5%):
+  «SP» spiral  «TF» tufted  «EE» double fig-8  «LL» long-long  «BL»
+  «D12» = L-knot >9 turns (breaks decimal)  «D0» = L-knot, 0 turns (placeholder)
+  [E] = E-knot in S-direction (valid letter, unusual direction)
+  [---] = knotless cord (gap)
+
+CHARLES'S PATTERN — [KNOWN]«UNKNOWN»[KNOWN]:
+  BRACKETED = rare symbol between two common ones
+  BOUNDARY  = rare symbol at edge of a common run (transition marker)
+  RARE-ONLY = whole cord is rare symbols (dedicated signal cord)
+
+---------------------------------------------------------------------------
+KHIPU 1000271 — Santa census quipu (1000271)
+Medrano & Urton 'Rosetta' set — 6 cords = 1 person. Clean baseline: all common symbols except one «D0» placeholder at cord 30 (6th cord = terminal position of its 6-block).
+---------------------------------------------------------------------------
+ CORD | ATT | COLOR          | KNOTS
+    1 | V   | W              | D4
+    2 | V   | W              | D3
+    3 | V   | W              | D2
+    4 | V   | W              | B B B B D7
+    5 | V   | W              | D5
+    6 | V   | W              | B D2
+    7 | V   | AB             | D4
+    8 | V   | AB             | D2
+    9 | V   | AB             | D5
+   10 | V   | AB             | B B B B B D2
+   11 | V   | AB             | B D2
+   12 | V   | AB             | D8
+   13 | V   | RB             | D4
+   14 | V   | RB             | D5
+   15 | V   | RB             | D5
+   16 | V   | RB             | B B B B B B D4
+   17 | V   | RB             | D6
+   18 | V   | RB             | D8
+   19 | V   | AB             | D4
+   20 | V   | AB             | D7
+   21 | V   | AB             | D5
+   22 | V   | AB             | B B B B B B B
+   23 | V   | AB             | D6
+   24 | V   | AB             | D2
+   25 | V   | MB:W           | D4
+   26 | V   | MB:W           | D9
+   27 | V   | MB:W           | D4
+   28 | V   | MB:W           | B B B B B B D8
+   29 | V   | MB:W           | D2
+   30 | V   | MB:W           | «D0»  <<< RARE-ONLY
+   31 | V   | W              | D4
+   32 | V   | W              | B D3
+   33 | V   | W              | D5
+   34 | V   | W              | B B B B B B B
+   35 | V   | W              | D6
+   36 | V   | W              | D5
+   37 | V   | LK:AB          | D4
+   38 | V   | LK:AB          | B D4
+   39 | V   | LK:AB          | D4
+   40 | V   | LK:AB          | D5
+   41 | V   | LK:AB          | B B B B B B D5
+   42 | V   | LK:AB          | D5
+   43 | V   | RB:W           | D4
+   44 | V   | RB:W           | B D6
+   45 | V   | RB:W           | D2
+   46 | V   | RB:W           | B B B B B B D5
+   47 | V   | RB:W           | B D4
+   48 | V   | RB:W           | D7
+   49 | V   | YB             | D4
+   50 | V   | YB             | B B
+   51 | V   | YB             | D5
+   52 | V   | YB             | B B B B B B B D3
+   53 | V   | YB             | F
+   54 | V   | YB             | D6
+   55 | V   | AB             | [---]
+   56 | V   | AB             | [---]
+   57 | V   | AB             | [---]
+   58 | V   | AB             | [---]
+   59 | V   | AB             | [---]
+   60 | V   | AB             | [---]
+   61 | V   | LK:AB          | [---]
+   62 | V   | LK:AB          | [---]
+   63 | V   | LK:AB          | [---]
+   64 | V   | LK:AB          | [---]
+   65 | V   | LK:AB          | [---]
+   66 | V   | LK:AB          | [---]
+   67 | V   | RB:W           | [---]
+   68 | V   | RB:W           | [---]
+   69 | V   | RB:W           | [---]
+   70 | V   | RB:W           | [---]
+   71 | V   | RB:W           | [---]
+   72 | V   | RB:W           | [---]
+   73 | V   | RL             | [---]
+   74 | V   | RL             | [---]
+   75 | V   | RL             | [---]
+   76 | V   | RL             | [---]
+   77 | V   | RL             | [---]
+   78 | V   | RL             | [---]
+   79 | V   | W              | [---]
+   80 | V   | W              | [---]
+   81 | V   | W              | [---]
+   82 | V   | W              | [---]
+   83 | V   | W              | [---]
+   84 | V   | W              | [---]
+   85 | V   | YB             | [---]
+   86 | V   | YB             | [---]
+   87 | V   | YB             | [---]
+   88 | V   | YB             | [---]
+   89 | V   | YB             | [---]
+   90 | V   | YB             | [---]
+
+---------------------------------------------------------------------------
+KHIPU 1000613 — Inkawasi BEAN quipu (1000613 / UR271)
+Found with black beans. Strong-red (0R) cord carries 8 «SP» spiral knots (RARE-ONLY signal cord). KB-W cords carry «D0» placeholders with one [E] unusual-direction E-knot.
+---------------------------------------------------------------------------
+ CORD | ATT | COLOR          | KNOTS
+    1 | V   | NB             | B B B B
+    2 | V   | YB             | B B B B
+    3 | V   | YB             | B B B B
+    4 | V   | YB             | B B
+    5 | V   | YB             | B B B B B B
+    6 | V   | 0R             | B B B B B B B B B B B B B B
+    7 | V   | 0R             | B B B B B B B B B B B B B B
+    8 | V   | 0R             | B B B B B B B B B B B B B B
+    9 | V   | 0R             | B B B B B B B
+   10 | V   | 0R             | «SP» «SP» «SP» «SP» «SP» «SP» «SP» «SP»  <<< RARE-ONLY
+   11 | V   | KB-W           | «D0»  <<< RARE-ONLY
+   12 | V   | KB-W           | «D0»  <<< RARE-ONLY
+   13 | V   | KB-W           | «D0»  <<< RARE-ONLY
+   14 | V   | KB-W           | «D0»  <<< RARE-ONLY
+   15 | V   | KB-W           | «D0»  <<< RARE-ONLY
+   16 | V   | KB-W           | «D0»  <<< RARE-ONLY
+   17 | V   | KB-W           | [E]  <<< RARE-ONLY
+   18 | V   | KB-W           | «D0»  <<< RARE-ONLY
+   19 | V   | KB-W           | «D0»  <<< RARE-ONLY
+   20 | V   | KB-W           | «D0»  <<< RARE-ONLY
+   21 | V   | KB-W           | «D0»  <<< RARE-ONLY
+   22 | V   | KB-W           | «D0»  <<< RARE-ONLY
+   23 | V   | KB-W           | F
+   24 | V   | KB-W           | «D0»  <<< RARE-ONLY
+   25 | V   | KB-W           | «D0»  <<< RARE-ONLY
+   26 | V   | KB-W           | «D0»  <<< RARE-ONLY
+   27 | V   | KB-W           | «D0»  <<< RARE-ONLY
+   28 | V   | KB-W           | «D0»  <<< RARE-ONLY
+   29 | V   | KB-W           | «D0»  <<< RARE-ONLY
+   30 | V   | KB-NB          | «D0»  <<< RARE-ONLY
+   31 | V   | KB-W           | «D0»  <<< RARE-ONLY
+   32 | V   | KB-W           | «D0»  <<< RARE-ONLY
+
+---------------------------------------------------------------------------
+EE BRACKET EXAMPLES (corpus-wide)
+---------------------------------------------------------------------------
+khipu 1000004 cord 3000204 [V/W]: B B B B «EE» [E]  <<< BOUNDARY
+khipu 1000004 cord 3000247 [R/GG:MB]: B B B «EE» [E]  <<< BOUNDARY
+khipu 1000101 cord 3012517 [R/W]: B B B A «EE»  <<< BOUNDARY

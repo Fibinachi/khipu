@@ -1,0 +1,22 @@
+# khipu_id: 1000159
+# provenance: 
+# region: 
+# museum: "Museum für Völkerkunde, Berlin" unnumbered
+# nickname: 
+# file_format: .tab
+# data_regime: DC2
+# doc_cluster: deep_sparse_mixed
+# template_id: T042
+# segmentation: value_marker
+# n_rows: 8
+# n_cols: 6
+ROW_ID,IS_MARKER_ROW,SECTION,MB,W,LC,R,R_2,YB
+,,,MARKER,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE
+1,TRUE,1,2,8,11,1,,
+2,FALSE,1,2,,,,,
+3,FALSE,1,2,2,1,3,,
+4,FALSE,1,1,55,,6,,
+5,FALSE,1,,,,,,
+6,FALSE,1,2,9,,1,,
+7,FALSE,1,2,,,2,,
+8,FALSE,1,2,1,1,1,1,1

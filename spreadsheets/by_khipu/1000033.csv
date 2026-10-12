@@ -1,0 +1,17 @@
+# khipu_id: 1000033
+# provenance: 
+# region: 
+# museum: "N195161prstkovo Museum, Prague" 45.698
+# nickname: 
+# file_format: .tab
+# data_regime: DC2
+# doc_cluster: census_format_paired
+# template_id: T006
+# segmentation: white_dividers
+# n_rows: 3
+# n_cols: 9
+ROW_ID,IS_MARKER_ROW,SECTION,B,B_2,B_3,B_4,B_5,B_6,B_7,B_8,B_9
+,,,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,CONSTANT
+1,FALSE,2,201,,2,1,,5,2,1,1
+2,FALSE,3,37,2,2,3,5,2,5,2,
+3,FALSE,4,13,6,,4,,,,,

@@ -1,0 +1,39 @@
+# khipu_id: 1000338
+# provenance: unknown
+# region: 
+# museum: Museo Temple Radicati 21
+# nickname: 
+# file_format: .flat
+# data_regime: 
+# doc_cluster: 
+# template_id: 
+# segmentation: none
+# n_rows: 26
+# n_cols: 0
+ORDINAL,LEVEL,COLOR1,COLOR2,VALUE,KNOTS
+1,1,RB,,,
+2,1,W,,66,"L:1,S:6"
+3,1,YB,,2,L:2
+4,1,0B,,7,L:1
+5,1,RB,,16,"L:1,S:1"
+6,1,FB,,102,"L:2,S:1"
+7,1,W,,14,"L:1,S:1"
+8,1,W,MG,12505,"E:1,L:1,S:8"
+9,1,FB,W,13,"L:1,S:1"
+10,1,FB,W,13,"L:1,S:1"
+11,1,FB,W,18,"L:1,S:1"
+12,1,FB,W,,S:2
+13,1,FB,W,25,"L:1,S:2"
+14,1,FB,W,33,"L:1,S:3"
+15,1,YB,,36,"L:1,S:3"
+16,1,PR,,2,L:2
+17,1,PR,,4,L:2
+18,1,PR,,3,L:2
+19,1,PR,,2,L:3
+20,1,PR,,4,L:2
+21,1,HB,W,52,"L:1,S:5"
+22,1,PR,,12,"L:1,S:1"
+23,1,HB,W,3,L:1
+24,1,PR,,6,L:1
+25,1,BS,,4,L:1
+26,1,HB,W,,

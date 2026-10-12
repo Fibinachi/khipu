@@ -1,0 +1,148 @@
+khipu_id,why_unclassified,n_cords,n_colors,max_level,sup_label,cluster,provenance,region
+1000004,anomalous-transcription,176,21,2,?,?,Leymebamba,Chachapoyas
+1000005,anomalous-transcription,62,7,2,?,?,Leymebamba,Chachapoyas
+1000008,anomalous-transcription,59,4,3,?,?,Leymebamba,Chachapoyas
+1000009,anomalous-transcription,126,14,3,?,?,Leymebamba,Chachapoyas
+1000018,anomalous-transcription,442,5,3,?,?,Leymebamba,Chachapoyas
+1000027,anomalous-transcription,20,3,2,census-like,census_format_paired,Ica,
+1000029,sup-unclassified+deep_sparse_mixed;all-U-twist,243,13,3,unclassified,deep_sparse_mixed,,
+1000034,sup-unclassified+deep_sparse_mixed;all-U-twist,95,9,2,unclassified,deep_sparse_mixed,,
+1000038,sup-unclassified+deep_sparse_mixed,5,1,2,unclassified,deep_sparse_mixed,Nazca,
+1000040,sup-unclassified+deep_sparse_mixed,101,6,2,unclassified,deep_sparse_mixed,Between Ica and Pisco,
+1000043,cabinet-no-split-unclassified,21,4,2,census-like,deep_sparse_mixed,Pachacamac,
+1000050,sup-unclassified+deep_sparse_mixed,54,6,2,unclassified,deep_sparse_mixed,Marquez,
+1000052,sup-unclassified+deep_sparse_mixed,42,2,3,unclassified,deep_sparse_mixed,Between Ica and Pisco,
+1000055,sup-unclassified+deep_sparse_mixed,11,3,2,unclassified,deep_sparse_mixed,Pachacamac,
+1000056,sup-unclassified+deep_sparse_mixed,42,7,1,unclassified,deep_sparse_mixed,Pachacamac,
+1000060,sup-unclassified+deep_sparse_mixed;EE-heavy,27,2,3,unclassified,deep_sparse_mixed,Between Ica and Pisco,
+1000077,sup-unclassified+deep_sparse_mixed,281,3,2,unclassified,deep_sparse_mixed,Pachacamac,
+1000083,sup-unclassified+deep_sparse_mixed,157,11,3,unclassified,deep_sparse_mixed,Ica,
+1000087,sup-unclassified+deep_sparse_mixed,28,11,2,unclassified,deep_sparse_mixed,near Lima,
+1000096,rare-knot-type,1831,33,3,unclassified,deep_hierarchical_grouped,Lluta Valley,
+1000098,sup-unclassified+deep_sparse_mixed,49,2,2,unclassified,deep_sparse_mixed,Nazca,
+1000111,sup-unclassified+deep_sparse_mixed,11,3,2,unclassified,deep_sparse_mixed,,
+1000128,sup-unclassified+deep_sparse_mixed,40,4,2,unclassified,deep_sparse_mixed,,
+1000131,sup-unclassified+deep_sparse_mixed;cabinet-no-split-unclassified,65,4,1,unclassified,deep_sparse_mixed,Pachacamac,
+1000142,sup-unclassified+deep_sparse_mixed,18,8,1,unclassified,deep_sparse_mixed,,
+1000144,anomalous-transcription,125,12,3,unclassified,deep_hierarchical_grouped,Pachacamac,
+1000159,EE-heavy,64,7,2,census-like,deep_sparse_mixed,,
+1000165,sup-unclassified+deep_sparse_mixed,64,3,2,unclassified,deep_sparse_mixed,probably Central Coast Late Period,
+1000176,anomalous-transcription,38,3,1,census-like,census_format_paired,,
+1000178,cabinet-no-split-unclassified;anomalous-transcription,32,2,2,census-like,deep_sparse_mixed,,
+1000179,sup-unclassified+deep_sparse_mixed;cabinet-no-split-unclassified,26,8,2,unclassified,deep_sparse_mixed,Hacienda Ullujalla y Callengo,
+1000183,sup-unclassified+deep_sparse_mixed;anomalous-transcription,587,9,3,unclassified,deep_sparse_mixed,,
+1000189,sup-unclassified+deep_sparse_mixed;cabinet-no-split-unclassified,10,2,2,unclassified,deep_sparse_mixed,,
+1000192,sup-unclassified+deep_sparse_mixed,69,8,2,unclassified,deep_sparse_mixed,,
+1000197,anomalous-transcription,77,8,2,census-like,census_format_paired,,
+1000198,anomalous-transcription,260,2,3,unclassified,census_format_paired,,
+1000201,anomalous-transcription,143,12,4,warehouse-like,deep_hierarchical_grouped,Aankoop,
+1000209,sup-unclassified+deep_sparse_mixed,56,6,3,unclassified,deep_sparse_mixed,,
+1000214,sup-unclassified+deep_sparse_mixed,38,4,2,unclassified,deep_sparse_mixed,Hacienda Ullujalla y Callengo,
+1000231,sup-unclassified+deep_sparse_mixed,45,4,2,unclassified,deep_sparse_mixed,,
+1000232,sup-unclassified+deep_sparse_mixed,35,2,2,unclassified,deep_sparse_mixed,Peru,
+1000236,sup-unclassified+deep_sparse_mixed,82,12,2,unclassified,deep_sparse_mixed,,
+1000239,sup-unclassified+deep_sparse_mixed;anomalous-transcription,60,7,3,unclassified,deep_sparse_mixed,"""Pueblo Libre, Lima, Peru""",
+1000240,sup-unclassified+deep_sparse_mixed,43,12,1,unclassified,deep_sparse_mixed,"""Pueblo Libre, Lima, Peru""",
+1000241,sup-unclassified+deep_sparse_mixed,86,2,2,unclassified,deep_sparse_mixed,"""Pueblo Libre, Lima, Peru""",
+1000244,sup-unclassified+deep_sparse_mixed;cabinet-no-split-unclassified,25,2,2,unclassified,deep_sparse_mixed,,Puruchuco
+1000249,sup-unclassified+deep_sparse_mixed;anomalous-transcription,66,12,2,unclassified,deep_sparse_mixed,Huaquerones,Puruchuco
+1000257,sup-unclassified+deep_sparse_mixed,7,5,2,unclassified,deep_sparse_mixed,Huaquerones,Puruchuco
+1000265,sup-unclassified+deep_sparse_mixed,55,4,2,unclassified,deep_sparse_mixed,,
+1000266,sup-unclassified+deep_sparse_mixed,54,3,2,unclassified,deep_sparse_mixed,,
+1000267,sup-unclassified+deep_sparse_mixed,61,4,1,unclassified,deep_sparse_mixed,,
+1000268,sup-unclassified+deep_sparse_mixed,72,5,1,unclassified,deep_sparse_mixed,,
+1000269,sup-unclassified+deep_sparse_mixed,105,3,2,unclassified,deep_sparse_mixed,,
+1000276,sup-unclassified+deep_sparse_mixed,8,7,2,unclassified,deep_sparse_mixed,,
+1000279,rare-knot-type;EE-heavy,588,9,6,unclassified,deep_hierarchical_grouped,Mollepampa,"""Inka, Playa Miller"""
+1000285,sup-unclassified+deep_sparse_mixed,157,6,3,unclassified,deep_sparse_mixed,,
+1000287,sup-unclassified+deep_sparse_mixed,260,32,2,unclassified,deep_sparse_mixed,Nazca,
+1000317,rare-knot-type,57,2,2,census-like,census_format_paired,"""Playa Miller #6, Arica, Chile""",
+1000318,sup-unclassified+deep_sparse_mixed,22,1,3,unclassified,deep_sparse_mixed,"""Playa Miller #6, Arica, Chile""",
+1000319,sup-unclassified+deep_sparse_mixed,23,2,3,unclassified,deep_sparse_mixed,"""Playa Miller #6, Arica, Chile""",
+1000321,sup-unclassified+deep_sparse_mixed,1227,67,3,unclassified,deep_sparse_mixed, , 
+1000327,sup-unclassified+deep_sparse_mixed,55,7,3,unclassified,deep_sparse_mixed,Pachacamac,
+1000331,sup-unclassified+deep_sparse_mixed,171,13,2,unclassified,deep_sparse_mixed,,
+1000340,sup-unclassified+deep_sparse_mixed,230,12,4,unclassified,deep_sparse_mixed,unknown,
+1000344,sup-unclassified+deep_sparse_mixed;anomalous-transcription,319,11,1,unclassified,deep_sparse_mixed,,
+1000345,sup-unclassified+deep_sparse_mixed;all-U-twist,148,7,3,unclassified,deep_sparse_mixed,,
+1000353,sup-unclassified+deep_sparse_mixed,31,15,3,unclassified,deep_sparse_mixed,,
+1000358,sup-unclassified+deep_sparse_mixed,33,4,3,unclassified,deep_sparse_mixed,,
+1000359,sup-unclassified+deep_sparse_mixed,149,22,1,unclassified,deep_sparse_mixed,,
+1000361,sup-unclassified+deep_sparse_mixed;all-U-twist,370,13,2,unclassified,deep_sparse_mixed,,
+1000368,sup-unclassified+deep_sparse_mixed;all-U-twist,404,35,4,unclassified,deep_sparse_mixed,,
+1000382,rare-knot-type,76,6,1,census-like,census_format_paired,,
+1000396,sup-unclassified+deep_sparse_mixed,221,13,3,unclassified,deep_sparse_mixed,"""Huaura Valley, near Lima, on Santa Rosalia Hacienda""",
+1000400,sup-unclassified+deep_sparse_mixed,59,8,3,unclassified,deep_sparse_mixed,unknown,
+1000402,sup-unclassified+deep_sparse_mixed,33,10,2,unclassified,deep_sparse_mixed,Hacienda Ullujalla y Callengo,
+1000404,sup-unclassified+deep_sparse_mixed,20,4,2,unclassified,deep_sparse_mixed,Valle de Ica Hacienda Callango Ocucaje,
+1000407,sup-unclassified+deep_sparse_mixed,104,17,2,unclassified,deep_sparse_mixed,Valle de Ica Hacienda Callango Ocucaje,
+1000413,sup-unclassified+deep_sparse_mixed,266,14,3,unclassified,deep_sparse_mixed,Hacienda Ullujalla y Callengo,
+1000422,sup-unclassified+deep_sparse_mixed,96,8,2,unclassified,deep_sparse_mixed,Pachacamac,
+1000430,sup-unclassified+deep_sparse_mixed,43,16,2,unclassified,deep_sparse_mixed,Pachacamac,
+1000432,sup-unclassified+deep_sparse_mixed,15,6,3,unclassified,deep_sparse_mixed,Pachacamac,
+1000443,sup-unclassified+deep_sparse_mixed,7,4,2,unclassified,deep_sparse_mixed,Pachacamac,
+1000446,sup-unclassified+deep_sparse_mixed;cabinet-no-split-unclassified,76,14,2,unclassified,deep_sparse_mixed,Pachacamac,
+1000450,sup-unclassified+deep_sparse_mixed,48,12,2,unclassified,deep_sparse_mixed,Pachacamac,
+1000454,anomalous-transcription,39,5,1,census-like,census_format_paired,,"""Inka, Late Horizon"""
+1000488,sup-unclassified+deep_sparse_mixed,39,8,3,unclassified,deep_sparse_mixed,unknown,
+1000489,cabinet-no-split-unclassified,18,1,1,census-like,deep_sparse_mixed,Cajamarquilla,
+1000490,sup-unclassified+deep_sparse_mixed,16,1,2,unclassified,deep_sparse_mixed,,
+1000497,sup-unclassified+deep_sparse_mixed,63,11,2,unclassified,deep_sparse_mixed,"""Hda. Huando, Chancay""",
+1000503,sup-unclassified+deep_sparse_mixed,70,11,2,unclassified,deep_sparse_mixed,"""Huaca Perez, Lima (a.k.a Hda. Infantas and Tambo Inca)""","""Central Coast, Peru"""
+1000504,rare-knot-type;anomalous-transcription,226,5,4,unclassified,deep_hierarchical_grouped,"""Peru, Fundort: Pachacmac""","""Central Coast, Peru"""
+1000508,sup-unclassified+deep_sparse_mixed,236,24,2,unclassified,deep_sparse_mixed,Pachacamac,"""Central Coast, Peru"""
+1000509,sup-unclassified+deep_sparse_mixed,369,16,3,unclassified,deep_sparse_mixed,"""Santa Clara, Nazca""","""South Coast, Peru"""
+1000513,sup-unclassified+deep_sparse_mixed,113,10,3,unclassified,deep_sparse_mixed,Pachacamac,"""Central Coast, Peru"""
+1000514,rare-knot-type,167,15,3,unclassified,deep_hierarchical_grouped,unknown,unknown
+1000516,sup-unclassified+deep_sparse_mixed,50,11,3,unclassified,deep_sparse_mixed,unknown,unknown
+1000519,sup-unclassified+deep_sparse_mixed,190,23,2,unclassified,deep_sparse_mixed,Pachacamac,"""Central Coast, Peru"""
+1000521,sup-unclassified+deep_sparse_mixed,78,6,2,unclassified,deep_sparse_mixed,Ica/Pisco,"""South Coast, Peru"""
+1000522,rare-knot-type,95,13,1,census-like,census_format_paired,Ica/Pisco,"""South Coast, Peru"""
+1000526,rare-knot-type,268,14,4,unclassified,deep_hierarchical_grouped,unknown,unknown
+1000528,rare-knot-type,119,13,3,unclassified,deep_hierarchical_grouped,Ocucaje,"""South Coast, Peru"""
+1000530,sup-unclassified+deep_sparse_mixed,65,35,1,unclassified,deep_sparse_mixed,Ica,"""South Coast, Peru"""
+1000533,rare-knot-type,58,4,2,census-like,census_format_paired,Ica,"""South Coast, Peru"""
+1000537,sup-unclassified+deep_sparse_mixed;cabinet-no-split-unclassified,24,3,1,unclassified,deep_sparse_mixed,Pisco,"""South Coast, Peru"""
+1000538,sup-unclassified+deep_sparse_mixed;cabinet-no-split-unclassified,75,12,1,unclassified,deep_sparse_mixed,Pisco,"""South Coast, Peru"""
+1000542,sup-unclassified+deep_sparse_mixed,134,13,2,unclassified,deep_sparse_mixed,Huacho,"""North-Central Coast, Peru"""
+1000545,sup-unclassified+deep_sparse_mixed,194,17,3,unclassified,deep_sparse_mixed,unknown,unknown
+1000553,sup-unclassified+deep_sparse_mixed,52,23,2,unclassified,deep_sparse_mixed,unknown,unknown
+1000554,rare-knot-type,76,7,3,unclassified,deep_hierarchical_grouped,unknown,unknown
+1000555,cabinet-no-split-unclassified,72,6,1,census-like,deep_sparse_mixed,Pachacamac,"""Central Coast, Peru"""
+1000564,sup-unclassified+deep_sparse_mixed,183,14,2,unclassified,deep_sparse_mixed,unknown,
+1000566,sup-unclassified+deep_sparse_mixed,32,12,2,unclassified,deep_sparse_mixed,"Costa Central, Huacho",
+1000567,sup-unclassified+deep_sparse_mixed;cabinet-no-split-unclassified;anomalous-transcription,257,12,2,unclassified,deep_sparse_mixed,unknown,
+1000570,sup-unclassified+deep_sparse_mixed,125,12,3,unclassified,deep_sparse_mixed,unknown,
+1000571,sup-unclassified+deep_sparse_mixed,55,13,2,unclassified,deep_sparse_mixed,unknown,
+1000574,sup-unclassified+deep_sparse_mixed,82,6,5,unclassified,deep_sparse_mixed,"Región Sur, Quillagua, Valle de Loa",
+1000575,sup-unclassified+deep_sparse_mixed,66,4,3,unclassified,deep_sparse_mixed,unknown,
+1000576,sup-unclassified+deep_sparse_mixed,86,6,4,unclassified,deep_sparse_mixed,unknown,
+1000577,sup-unclassified+deep_sparse_mixed;cabinet-no-split-unclassified,34,5,2,unclassified,deep_sparse_mixed,"Armatambo, Lima, Central Coast",
+1000583,sup-unclassified+deep_sparse_mixed;anomalous-transcription,47,2,2,unclassified,deep_sparse_mixed,unknown,
+1000584,sup-unclassified+deep_sparse_mixed,54,14,2,unclassified,deep_sparse_mixed,unknown,
+1000586,sup-unclassified+deep_sparse_mixed,180,14,3,unclassified,deep_sparse_mixed,unknown,
+1000588,sup-unclassified+deep_sparse_mixed,189,12,1,unclassified,deep_sparse_mixed,unknown,
+1000589,sup-unclassified+deep_sparse_mixed,49,9,2,unclassified,deep_sparse_mixed,unknown,
+1000591,sup-unclassified+deep_sparse_mixed,92,16,3,unclassified,deep_sparse_mixed,Pachacamac,
+1000593,sup-unclassified+deep_sparse_mixed,100,7,1,unclassified,deep_sparse_mixed,Costa Sur,
+1000598,rare-knot-type,176,5,4,warehouse,deep_hierarchical_grouped,Incahuasi,
+1000605,rare-knot-type,213,21,2,warehouse,deep_sparse_mixed,Incahuasi,
+1000608,rare-knot-type,88,3,2,warehouse,deep_hierarchical_grouped,Incahuasi,
+1000613,rare-knot-type,92,5,4,warehouse,deep_hierarchical_grouped,Incahuasi,
+1000615,sup-unclassified+deep_sparse_mixed,87,6,2,unclassified,deep_sparse_mixed,Incahuasi,
+1000616,sup-unclassified+deep_sparse_mixed,124,16,2,unclassified,deep_sparse_mixed,Incahuasi,
+1000617,sup-unclassified+deep_sparse_mixed,94,8,2,unclassified,deep_sparse_mixed,Incahuasi,
+1000618,sup-unclassified+deep_sparse_mixed,133,21,3,unclassified,deep_sparse_mixed,Incahuasi,
+1000624,rare-knot-type,250,4,5,unclassified,deep_hierarchical_grouped,Incahuasi,
+1000625,sup-unclassified+deep_sparse_mixed,36,10,1,unclassified,deep_sparse_mixed,Incahuasi,
+1000628,sup-unclassified+deep_sparse_mixed,32,10,3,unclassified,deep_sparse_mixed,Incahuasi,
+1000629,sup-unclassified+deep_sparse_mixed,193,32,3,unclassified,deep_sparse_mixed,Incahuasi,
+1000633,sup-unclassified+deep_sparse_mixed,95,21,3,unclassified,deep_sparse_mixed,Incahuasi,
+1000634,sup-unclassified+deep_sparse_mixed,374,14,4,unclassified,deep_sparse_mixed,Incahuasi,
+1000635,sup-unclassified+deep_sparse_mixed;rare-knot-type,126,25,4,unclassified,deep_sparse_mixed,Incahuasi,
+1000637,sup-unclassified+deep_sparse_mixed,78,25,3,unclassified,deep_sparse_mixed,Incahuasi,
+1000642,sup-unclassified+deep_sparse_mixed,13,6,2,unclassified,deep_sparse_mixed,Incahuasi,
+1000645,sup-unclassified+deep_sparse_mixed;cabinet-no-split-unclassified,11,3,2,unclassified,deep_sparse_mixed,Incahuasi,
+1000647,sup-unclassified+deep_sparse_mixed,74,14,4,unclassified,deep_sparse_mixed,Incahuasi,
+1000654,sup-unclassified+deep_sparse_mixed,57,16,2,unclassified,deep_sparse_mixed,"Armatambo, Huaca San Pedro",
+1000658,sup-unclassified+deep_sparse_mixed,272,22,3,unclassified,deep_sparse_mixed,"Armatambo, Huaca San Pedro",

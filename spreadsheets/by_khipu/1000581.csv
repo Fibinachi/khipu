@@ -1,0 +1,45 @@
+# khipu_id: 1000581
+# provenance: unknown
+# region: 
+# museum: Museo Nacional de Arqueologia, Anthropologia e Historia del Peru MNAAHP 5726 A
+# nickname: 
+# file_format: .flat
+# data_regime: 
+# doc_cluster: 
+# template_id: 
+# segmentation: none
+# n_rows: 32
+# n_cols: 0
+ORDINAL,LEVEL,COLOR1,COLOR2,VALUE,KNOTS
+1,1,MB,,,S:8
+2,1,AB,,,"L:1,S:6"
+3,1,W,,,"L:1,S:1"
+4,1,W,,,"L:1,S:1"
+5,1,W,,,L:1
+6,1,W,,,L:1
+7,1,W,,,L:1
+8,1,W,,,L:1
+9,1,W,,,"L:1,S:1"
+10,1,W,,,L:1
+11,1,W,KB,,S:1
+12,1,R0,,,L:1
+13,1,W,,,
+14,1,W,,,L:2
+15,1,W,,,L:2
+16,1,W,,,L:2
+17,1,W,,,L:2
+18,1,W,,,L:2
+19,1,W,,,"L:1,S:1"
+20,1,W,,,S:1
+21,1,W,,,L:2
+22,1,W,MB,,S:1
+23,1,MB,,,S:1
+24,1,MB,,10,S:2
+25,1,MB,,,L:1
+26,1,MB,,,L:1
+27,1,MB,,1,"E:1,L:1"
+28,1,W,,,L:2
+29,1,W,,,
+30,1,W,,,
+31,1,W,,,
+32,1,W,,,

@@ -1,0 +1,40 @@
+# khipu_id: 1000125
+# provenance: Ica
+# region: 
+# museum: "Museum für Völkerkunde, Berlin" VA47109
+# nickname: 
+# file_format: .flat
+# data_regime: 
+# doc_cluster: 
+# template_id: 
+# segmentation: none
+# n_rows: 27
+# n_cols: 0
+ORDINAL,LEVEL,COLOR1,COLOR2,VALUE,KNOTS
+1,1,MB,,1501,"E:4,L:9,S:16"
+2,1,W,,151,"E:1,S:6"
+3,1,RB,,1101,"E:1,L:1,S:2"
+4,1,W,,475,"L:1,S:11"
+5,1,W,,182,"L:1,S:9"
+6,1,RB,,601,"E:1,L:1,S:6"
+7,1,W,,87,"L:1,S:8"
+8,1,RB,,301,"E:1,L:1,S:3"
+9,1,W,,92,"L:1,S:9"
+10,1,RB,,,S:1
+11,1,W,,56,"L:1,S:5"
+12,1,RB,,2,L:1
+13,1,B,,,S:3
+14,1,RB,,2,L:1
+15,1,B,,28,"L:1,S:2"
+16,1,RB,,2,L:1
+17,1,B,,55,"L:1,S:5"
+18,1,W,,,
+19,1,B,,86,"L:1,S:8"
+20,1,W,,57,"L:1,S:5"
+21,1,B,,,S:1
+22,1,W,,73,"L:1,S:7"
+23,1,W,,145,"L:1,S:5"
+24,1,W,,67,"L:1,S:6"
+25,1,W,,63,"L:1,S:6"
+26,1,W,,37,"L:1,S:3"
+27,1,W,,33,"L:1,S:3"

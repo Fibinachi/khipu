@@ -1,0 +1,57 @@
+primitive_type,symbol,description,count,n_khipu,notes
+color_family,B,brown,32960,560,One of 10 color families; combines with intensity 1-5
+color_family,A,white,14882,454,One of 10 color families; combines with intensity 1-5
+color_family,?,unknown,2880,235,One of 10 color families; combines with intensity 1-5
+color_family,G,green,1987,201,One of 10 color families; combines with intensity 1-5
+color_family,H,blue,1365,134,One of 10 color families; combines with intensity 1-5
+color_family,Z,black,880,65,One of 10 color families; combines with intensity 1-5
+color_family,M,gray,769,84,One of 10 color families; combines with intensity 1-5
+color_family,L,olive,552,80,One of 10 color families; combines with intensity 1-5
+color_family,R,red,298,52,One of 10 color families; combines with intensity 1-5
+color_family,N,orange,220,25,One of 10 color families; combines with intensity 1-5
+color_family,Y,yellow,33,9,One of 10 color families; combines with intensity 1-5
+color,W,Canonical color W,14882,454,"Decomposes to [family, intensity]"
+color,AB,Canonical color AB,9665,347,"Decomposes to [family, intensity]"
+color,MB,Canonical color MB,8007,349,"Decomposes to [family, intensity]"
+color,KB,Canonical color KB,3747,262,"Decomposes to [family, intensity]"
+color,B,Canonical color B,2632,101,"Decomposes to [family, intensity]"
+color,YB,Canonical color YB,2057,120,"Decomposes to [family, intensity]"
+color,?,Canonical color None,1497,173,"Decomposes to [family, intensity]"
+color,LB,Canonical color LB,1480,65,"Decomposes to [family, intensity]"
+color,GG,Canonical color GG,1461,165,"Decomposes to [family, intensity]"
+color,DB,Canonical color DB,1252,66,"Decomposes to [family, intensity]"
+color,NB,Canonical color NB,1104,39,"Decomposes to [family, intensity]"
+color,HB,Canonical color HB,947,107,"Decomposes to [family, intensity]"
+color,RB,Canonical color RB,674,66,"Decomposes to [family, intensity]"
+color,BG,Canonical color BG,652,75,"Decomposes to [family, intensity]"
+color,LK,Canonical color LK,610,44,"Decomposes to [family, intensity]"
+color,RL,Canonical color RL,566,72,"Decomposes to [family, intensity]"
+color,CB,Canonical color CB,467,50,"Decomposes to [family, intensity]"
+color,BB,Canonical color BB,441,32,"Decomposes to [family, intensity]"
+color,BS,Canonical color BS,331,20,"Decomposes to [family, intensity]"
+color,YG,Canonical color YG,296,27,"Decomposes to [family, intensity]"
+knot,S,single/overhand knot (decade unit),74642,532,Atomic
+knot,L,"long knot (ones 2-9, turns=digit)",26291,570,Parameterized
+knot,E,figure-eight (ones=1),8333,466,Atomic
+knot,'',knot type '',253,43,Regional
+knot,SP,special (regional variant),246,10,Regional
+knot,?,knot type ?,152,33,Regional
+knot,TF,tufted (unary tally),128,1,Atomic
+knot,EE,special (regional variant),75,25,Regional
+knot,LL,special (regional variant),17,4,Regional
+knot,BL,special (regional variant),14,4,Regional
+position,L-3,Cord hierarchy level -3,24,1,Unknown/negative
+position,L-2,Cord hierarchy level -2,54,11,Unknown/negative
+position,L-1,Cord hierarchy level -1,154,25,Unknown/negative
+position,L1,Cord hierarchy level 1,38854,611,Nesting depth
+position,L2,Cord hierarchy level 2,13499,403,Nesting depth
+position,L3,Cord hierarchy level 3,1561,144,Nesting depth
+position,L4,Cord hierarchy level 4,232,39,Nesting depth
+position,L5,Cord hierarchy level 5,22,6,Nesting depth
+position,L6,Cord hierarchy level 6,3,1,Nesting depth
+operator,-,barber pole: two colors twisted together,2568,266,Combines colors into compounds
+operator,:,mottled: spun from multiple colors,10644,470,Combines colors into compounds
+operator,*,special: see databooks,423,3,Combines colors into compounds
+operator,**,special: Dauelsberg khipu,28,2,Combines colors into compounds
+operator,*_,special: Dauelsberg khipu,6,1,Combines colors into compounds
+operator,%,con elemento: Peyera descriptions,267,24,Combines colors into compounds

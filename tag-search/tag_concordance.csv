@@ -1,0 +1,58 @@
+signature,khipu_id,n,contexts
+AB//L/S,1000331,71,W/BG/?/? [AB//L/S] W//S/S | W//S/S [AB//L/S] PK/AB/S/S | MB/AB/S/S [AB//L/S] PK/AB/L/S | W//?/? [AB//L/S] AB//L/S
+W//L/S,1000331,33,MB//E/Z [W//L/S] MB/AB/S/S | PK/AB/L/S [W//L/S] W//L/S | W//L/S [W//L/S] W//?/? | MB//L/S [W//L/S] AB//L/S
+MB//L/S,1000331,12,AB//L/S [MB//L/S] W//L/S | AB//L/S [MB//L/S] W//E/S | AB//L/S [MB//L/S] AB//L/S | AB//L/S [MB//L/S] MB//L/S
+W//?/?,1000331,10,W//L/S [W//?/?] AB//L/S | AB//L/S [W//?/?] AB//L/S | W//L/S [W//?/?] AB//L/S | AB//L/S [W//?/?] AB//L/S
+BG//L/S,1000331,7,AB//L/S [BG//L/S] PK/AB/L/S | AB//L/S [BG//L/S] W//L/S | AB//L/S [BG//L/S] W//L/S | AB//L/S [BG//L/S] MB//?/?
+BG//E/Z,1000331,5,AB//L/S [BG//E/Z] AB/PK/L/S | AB//L/S [BG//E/Z] PK/AB/L/S | AB//L/S [BG//E/Z] PK/AB/L/S | AB//L/S [BG//E/Z] AB//L/S
+MB//?/?,1000331,5,AB//L/S [MB//?/?] AB//L/S | BG//L/S [MB//?/?] W//E/Z | AB//L/S [MB//?/?] AB//L/S | AB//E/Z [MB//?/?] AB//L/S
+?//?/?,1000331,3,AB//L/S [?//?/?] W//S/S | AB//S/S [?//?/?] AB//L/S | AB//S/S [?//?/?] W//L/S
+AB//S/S,1000331,3,W//S/S [AB//S/S] MB//L/S | W//L/S [AB//S/S] ?//?/? | MB//E/S [AB//S/S] ?//?/?
+W//S/S,1000331,2,AB//L/S [W//S/S] AB//L/S | ?//?/? [W//S/S] AB//S/S
+AB//E/Z,1000331,2,PK/AB/S/S [AB//E/Z] MB//E/Z | W//L/S [AB//E/Z] MB//?/?
+MB//E/Z,1000331,2,AB//E/Z [MB//E/Z] W//L/S | MB//L/S [MB//E/Z] AB//L/S
+AB//L/S,1000396,36,RL//L/S [AB//L/S] AB//L/S | AB//L/S [AB//L/S] AB//L/S | AB//L/S [AB//L/S] AB//L/S | AB//L/S [AB//L/S] BG//L/S
+MB//L/S,1000396,30,AB//E/Z [MB//L/S] AB/MB/E/Z | KB/W/?/? [MB//L/S] KB//L/S | KB//L/S [MB//L/S] KB//E/Z | MB//S/S [MB//L/S] MB//L/S
+AB//?/?,1000396,15,MB//L/S [AB//?/?] W//S/S | AB//L/S [AB//?/?] W//S/S | MB//L/S [AB//?/?] W//S/S | AB//L/S [AB//?/?] BG/MB/L/S
+W//L/S,1000396,13,KB//E/Z [W//L/S] AB/W/E/S | YB//L/S [W//L/S] MB//E/Z | GG/AB/L/S [W//L/S] W//L/S | W//L/S [W//L/S] W//L/S
+BG//L/S,1000396,9,BG//E/S [BG//L/S] AB/W/E/Z | AB//L/S [BG//L/S] BG//E/Z | AB/MB/E/Z [BG//L/S] BG//E/S | GG/AB/L/S [BG//L/S] MB/BG/L/S
+W//S/S,1000396,7,W//?/? [W//S/S] GG/W/L/S | AB//?/? [W//S/S] GG/W/L/S | AB//?/? [W//S/S] BG/W/L/S | AB//?/? [W//S/S] GG/W/E/Z
+AB//S/S,1000396,7,AB//L/S [AB//S/S] AB//L/S | W//?/? [AB//S/S] GG/W/L/S | MB//E/Z [AB//S/S] YB//?/? | YB//?/? [AB//S/S] GG/W/S/S
+MB//E/Z,1000396,6,W//L/S [MB//E/Z] W//E/Z | AB//L/S [MB//E/Z] MB//E/Z | MB//E/Z [MB//E/Z] MB//L/S | MB//L/S [MB//E/Z] MB//L/S
+W//?/?,1000396,6,AB//L/S [W//?/?] W//S/S | W//L/S [W//?/?] W//L/S | MB//E/S [W//?/?] AB//S/S | AB//S/S [W//?/?] MB//S/S
+BG//E/Z,1000396,4,BG//L/S [BG//E/Z] AB//E/Z | MB/BG/L/S [BG//E/Z] KB//?/? | 0B//E/Z [BG//E/Z] BG//E/Z | BG//E/Z [BG//E/Z] GG/AB/L/S
+W//E/Z,1000396,3,MB//E/Z [W//E/Z] BG/MB/?/? | AB//?/? [W//E/Z] KB/W/L/S | W//L/S [W//E/Z] W//L/S
+AB//E/Z,1000396,1,BG//E/Z [AB//E/Z] MB//L/S
+AB//E/Z,1000507,13,MB//L/S [AB//E/Z] AB//?/? | LC/MB/?/? [AB//E/Z] AB/W/?/? | AB//?/? [AB//E/Z] AB//E/Z | AB//E/Z [AB//E/Z] AB//E/Z
+AB//L/S,1000507,12,KB//?/? [AB//L/S] AB//L/S | AB//L/S [AB//L/S] AB//S/Z | AB//S/Z [AB//L/S] AB//S/Z | KB//L/S [AB//L/S] GL//L/S
+MB//?/?,1000507,10,GG//?/? [MB//?/?] MB//?/? | MB//?/? [MB//?/?] MB//E/Z | AB/W/?/? [MB//?/?] MB/AB/L/S | MB//E/Z [MB//?/?] KB//?/?
+AB//?/?,1000507,7,AB//E/Z [AB//?/?] AB/W/?/? | AB/KB/L/S [AB//?/?] AB//L/S | LC/AB/?/? [AB//?/?] AB/W/?/? | W//E/Z [AB//?/?] AB//E/Z
+W//E/Z,1000507,6,W//L/S [W//E/Z] AB//?/? | AB//E/Z [W//E/Z] W//E/Z | W//E/Z [W//E/Z] W//E/Z | W//E/Z [W//E/Z] W//E/Z
+BG//L/S,1000507,5,MB/W/?/? [BG//L/S] BG//E/Z | BG//E/Z [BG//L/S] BG//L/S | BG//L/S [BG//L/S] BG//L/S | BG//L/S [BG//L/S] GG//?/?
+MB//E/Z,1000507,4,LC/MB/?/? [MB//E/Z] AB/W/?/? | MB//?/? [MB//E/Z] AB/W/?/? | KB//?/? [MB//E/Z] KB//?/? | KB//?/? [MB//E/Z] MB//?/?
+W//L/S,1000507,4,LC/MB/?/? [W//L/S] W//?/? | W//?/? [W//L/S] W//L/S | W//L/S [W//L/S] W//E/Z | AB//L/S [W//L/S] W//?/?
+W//?/?,1000507,4,W//L/S [W//?/?] W//L/S | W//L/S [W//?/?] W//?/? | W//?/? [W//?/?] W//E/Z | W//E/Z [W//?/?] MB//?/?
+MB//L/S,1000507,2,W//S/Z [MB//L/S] MB//L/S | MB//L/S [MB//L/S] AB//E/Z
+BG//E/Z,1000507,1,BG//L/S [BG//E/Z] BG//L/S
+?//?/?,1000507,1,LC/W/?/? [?//?/?] END
+W//?/?,1000321,623,START [W//?/?] W//L/S | W//L/S [W//?/?] W//?/? | W//?/? [W//?/?] W//L/S | W//L/S [W//?/?] W//E/Z
+W//E/Z,1000321,89,W//?/? [W//E/Z] MB/W/L/S | W//?/? [W//E/Z] W//?/? | W//?/? [W//E/Z] W//?/? | W//?/? [W//E/Z] MB/W/L/S
+W//L/S,1000321,67,W//?/? [W//L/S] W//?/? | W//?/? [W//L/S] W//?/? | MB/W/L/S [W//L/S] W//?/? | W//?/? [W//L/S] W//?/?
+BG//?/?,1000321,47,W//?/? [BG//?/?] W//?/? | W//?/? [BG//?/?] W//E/Z | LC//?/? [BG//?/?] LC//?/? | BG//L/S [BG//?/?] VB//?/?
+AB//E/Z,1000321,17,AB//?/? [AB//E/Z] YB//E/Z | W//?/? [AB//E/Z] W//L/S | RL/W/E/Z [AB//E/Z] MB//?/? | GG/MB/E/Z [AB//E/Z] RB/AB/?/?
+AB//?/?,1000321,11,W//?/? [AB//?/?] W//?/? | MB//L/S [AB//?/?] AB//E/Z | RB//L/S [AB//?/?] AB/W/?/? | BY//?/? [AB//?/?] KB/AB/?/?
+W//S/S,1000321,7,MB//L/S [W//S/S] W//?/? | W//?/? [W//S/S] W//?/? | W//?/? [W//S/S] W//?/? | GG/AB/E/Z [W//S/S] RB//E/Z
+BG//L/S,1000321,6,LC//?/? [BG//L/S] BG//?/? | LG//?/? [BG//L/S] BG//?/? | BG//?/? [BG//L/S] BG/W/?/? | BG//?/? [BG//L/S] BG//?/?
+MB//?/?,1000321,6,AB//L/S [MB//?/?] W//?/? | AB//E/Z [MB//?/?] W//E/Z | W//?/? [MB//?/?] B//L/S | RB//?/? [MB//?/?] PR//L/S
+W//E/S,1000321,5,W//?/? [W//E/S] W//L/S | W//?/? [W//E/S] W//?/? | W//?/? [W//E/S] W//?/? | AB//E/Z [W//E/S] 0L//E/Z
+MB//L/S,1000321,5,W//?/? [MB//L/S] W//S/S | W//?/? [MB//L/S] W//L/S | KB/AB/L/S [MB//L/S] AB//?/? | RB//L/S [MB//L/S] MB/W/L/S
+AB//S/S,1000321,3,0L//E/Z [AB//S/S] RB//?/? | YG//E/Z [AB//S/S] AB//E/Z | W//L/S [AB//S/S] DB //L/S
+BG//L/S,1000659,5,AB//E/Z [BG//L/S] GG//E/Z | BB//?/? [BG//L/S] GG//E/Z | KB//E/Z [BG//L/S] GG//E/Z | GB//E/Z [BG//L/S] GG//E/Z
+W//?/?,1000659,2,W//E/Z [W//?/?] KB//?/? | GG//E/Z [W//?/?] GB//?/?
+AB//E/Z,1000659,2,KB//?/? [AB//E/Z] W//S/Z | KB//?/? [AB//E/Z] BG//L/S
+W//E/Z,1000659,1,W/MB/L/S [W//E/Z] W//?/?
+MB//E/Z,1000659,1,W/GB/L/Z [MB//E/Z] GB//?/?
+?//?/?,1000659,1,W//S/Z [?//?/?] KB//?/?
+BG//?/?,1000659,1,NB//?/? [BG//?/?] YG//E/Z
+MB//L/S,1000659,1,GB//?/? [MB//L/S] BG//E/Z
+BG//E/Z,1000659,1,MB//L/S [BG//E/Z] GG//E/Z

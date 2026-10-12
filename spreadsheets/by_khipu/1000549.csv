@@ -1,0 +1,18 @@
+# khipu_id: 1000549
+# provenance: Unknown
+# region: unknown
+# museum: "Ethnologisches Museum, Berlin, Germany" VA 42594
+# nickname: 
+# file_format: .tab
+# data_regime: DC2
+# doc_cluster: census_format_paired
+# template_id: T166
+# segmentation: white_dividers
+# n_rows: 4
+# n_cols: 9
+ROW_ID,IS_MARKER_ROW,SECTION,KB,KB_2,KB_3,KB_4,KB_5,KB_6,KB_7,KB_8,GG
+,,,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE
+1,FALSE,1,,1,2,4,2,,2,5,3
+2,FALSE,2,1,1,1,1,1,6,,,
+3,FALSE,3,,4,4,,3,12,,,
+4,FALSE,4,,,,4,,,,,

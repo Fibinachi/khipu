@@ -1,0 +1,18 @@
+# khipu_id: 1000347
+# provenance: 
+# region: 
+# museum: Museo Temple Radicati 16
+# nickname: 
+# file_format: .flat
+# data_regime: 
+# doc_cluster: 
+# template_id: 
+# segmentation: none
+# n_rows: 5
+# n_cols: 0
+ORDINAL,LEVEL,COLOR1,COLOR2,VALUE,KNOTS
+1,1,FB,,,L:2
+2,1,FB,W,12,"L:2,S:2"
+3,1,PR,,,
+4,1,W,,,"L:1,S:13"
+5,1,MB,,,

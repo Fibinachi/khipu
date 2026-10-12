@@ -1,0 +1,18 @@
+# khipu_id: 1000246
+# provenance: Huaquerones
+# region: Puruchuco
+# museum: Puruchuco Museum 1c Tex 641 Rt 639
+# nickname: 
+# file_format: .tab
+# data_regime: DC6
+# doc_cluster: census_format_paired
+# template_id: T065
+# segmentation: value_marker
+# n_rows: 4
+# n_cols: 15
+ROW_ID,IS_MARKER_ROW,SECTION,W,W_2,W_3,W_4,W_5,W_6,W_7,W_8,W_9,W_10,W_11,W_12,?,W_13,W_14
+,,,MARKER,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,CONSTANT,CONSTANT,CONSTANT,CONSTANT
+1,FALSE,,2,3,11,148,,1,12,77,,1,,,,,
+2,FALSE,,2,12,138,,,,,,,,,,,,
+3,FALSE,,2,3,,71,66,73,74,91,3,12,38,34,37,33,36
+4,FALSE,,2,6,119,29,36,,,,,,,,,,

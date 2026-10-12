@@ -1,0 +1,19 @@
+# khipu_id: 1000340
+# provenance: unknown
+# region: 
+# museum: Museo Temple Radicati 9
+# nickname: 
+# file_format: .tab
+# data_regime: DC2
+# doc_cluster: deep_sparse_mixed
+# template_id: T106
+# segmentation: white_dividers
+# n_rows: 5
+# n_cols: 26
+ROW_ID,IS_MARKER_ROW,SECTION,AB,KB,KB_2,KB_3,KB_4,AB_2,KB_5,KB_6,KB_7,AB_3,AB_4,KB_8,AB_5,B,W,AB_6,KB_9,KB_10,KB_11,MB,AB_7,MB_2,MB_3,MB_4,MB_5,MB_6
+,,,CONSTANT,VARIABLE,VARIABLE,VARIABLE,CONSTANT,CONSTANT,VARIABLE,VARIABLE,VARIABLE,CONSTANT,CONSTANT,CONSTANT,CONSTANT,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT
+1,FALSE,1,,,,,,,1,4,1,,,,,11,4,,,,,,,,,,,
+2,FALSE,2,,1,,,,,,,,,,,,,,,,,,,,,,,,
+3,FALSE,3,,,,,,,1,,,,,,,,,,,,,,,,,,,
+4,FALSE,4,,,,,,,,,,,,,,8,6,5,3,11,8,2,11,3,68,1,2,3
+5,FALSE,5,1,102,5,77,,,,,,,,,,,,,,,,,,,,,,

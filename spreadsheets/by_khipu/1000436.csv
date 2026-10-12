@@ -1,0 +1,34 @@
+# khipu_id: 1000436
+# provenance: Pachacamac
+# region: 
+# museum: Museo de Sitio de Pachacamac MSP 1409/RN 43390
+# nickname: HP/AR 017
+# file_format: .tab
+# data_regime: DC6
+# doc_cluster: deep_hierarchical_grouped
+# template_id: T127
+# segmentation: value_marker
+# n_rows: 20
+# n_cols: 10
+ROW_ID,IS_MARKER_ROW,SECTION,AB,MB,MB_2,W,KB,AB_2,RM,MB_3,W_2,MB_4
+,,,MARKER,VARIABLE,VARIABLE,VARIABLE,VARIABLE,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT
+1,TRUE,1,,,,,,,,,,
+2,FALSE,1,1,32,56,54,,,,,,
+3,FALSE,1,1,37,58,41,,,36,,53,
+4,FALSE,1,1,22,62,53,10,,,,,
+5,FALSE,1,,5,2,,,,,,,
+6,FALSE,1,64,,4,2,1,,,,,
+7,FALSE,1,,114,63,,3,,,,,
+8,FALSE,1,,,1,76,76,,,,,
+9,FALSE,1,,2,,,,,,,,
+10,FALSE,1,1,79,94,2,,,,,,
+11,FALSE,1,1,76,135,2,,,,,,
+12,FALSE,1,1,74,139,2,,,,,,
+13,FALSE,1,1,79,99,1,,,,,,
+14,FALSE,1,1,18,93,,2,,,,,
+15,FALSE,1,1,89,99,,,,,,,
+16,FALSE,1,1,1,69,50,2,,,,,
+17,FALSE,1,,1,78,98,,,,,,
+18,FALSE,1,1,71,83,,1,,,,,
+19,FALSE,1,74,84,3,,,,,,,
+20,FALSE,1,69,,1,,54,,,,,

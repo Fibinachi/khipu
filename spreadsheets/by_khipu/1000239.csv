@@ -1,0 +1,22 @@
+# khipu_id: 1000239
+# provenance: "Pueblo Libre, Lima, Peru"
+# region: 
+# museum: Museo Larco #4
+# nickname: 
+# file_format: .tab
+# data_regime: DC2
+# doc_cluster: deep_sparse_mixed
+# template_id: T064
+# segmentation: value_marker
+# n_rows: 8
+# n_cols: 7
+ROW_ID,IS_MARKER_ROW,SECTION,AB,MB,AB_2,AB_3,MB_2,MB_3,KB
+,,,MARKER,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,CONSTANT
+1,FALSE,1,1,12,,5,2,1,2
+2,FALSE,1,1,25,,,8,1,
+3,FALSE,1,1,,15,,,,
+4,FALSE,1,1,2,,7,,158,2
+5,FALSE,1,1,7,1,2,1,6,
+6,FALSE,1,1,3,2,9,1,6,
+7,FALSE,1,2,13,1,4,2,,
+8,FALSE,1,1,,22,,6,,

@@ -1,0 +1,22 @@
+# khipu_id: 1000070
+# provenance: Ica
+# region: 
+# museum: "American Museum of Natural History, NY" 41.2/6997
+# nickname: 
+# file_format: .flat
+# data_regime: 
+# doc_cluster: 
+# template_id: 
+# segmentation: none
+# n_rows: 9
+# n_cols: 0
+ORDINAL,LEVEL,COLOR1,COLOR2,VALUE,KNOTS
+1,1,W,,5726,"L:1,S:26"
+2,1,W,,581,"E:1,S:13"
+3,1,KB,W,158,"L:1,S:6"
+4,1,KB,W,30,S:6
+5,1,W,,837,"L:1,S:11"
+6,1,W,,1257,"L:1,S:8"
+7,1,W,,1262,"L:1,S:9"
+8,1,W,,117,"L:1,S:2"
+9,1,W,,534,"L:1,S:8"

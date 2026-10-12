@@ -1,0 +1,7 @@
+FORM_TYPE,SECTION_COUNT,PCT_SECTIONS,AVG_LENGTH,MEDIAN_LENGTH,N_QUIPU,N_SITES,TOP_SITES
+A,5,0.6%,4.2,3,5,5,"Lluta Valley(1); Pachacamac(1); Mollepampa(1); ""Playa Miller #6, Arica, Chile""(1); Ica/Pisco(1)"
+B,136,17.1%,40.1,32,91,24,Pachacamac(23); Ica(17); Huaquerones(6); Leymebamba(5); Ica/Pisco(5)
+C,86,10.8%,43.7,28,61,18,Pachacamac(16); Lluta Valley(7); Ica/Pisco(4); Leymebamba(3); Costa Sur(3)
+D,238,29.9%,22.2,21,133,29,Pachacamac(44); Leymebamba(37); Incahuasi(15); Lluta Valley(12); Nazca(10)
+E,147,18.4%,73.1,63,99,22,Lluta Valley(14); Leymebamba(12); Nazca(12); Incahuasi(12); Pachacamac(9)
+F,185,23.2%,51.8,35,107,28,Incahuasi(33); Leymebamba(27); Pachacamac(15); Nazca(10); Ica(9)

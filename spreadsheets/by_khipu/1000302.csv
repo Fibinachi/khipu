@@ -1,0 +1,24 @@
+# khipu_id: 1000302
+# provenance: Lluta Valley
+# region: 
+# museum: Museo Chileno de Arte Precolombino 21163
+# nickname: 
+# file_format: .tab
+# data_regime: DC6
+# doc_cluster: deep_hierarchical_grouped
+# template_id: T092
+# segmentation: value_marker
+# n_rows: 10
+# n_cols: 7
+ROW_ID,IS_MARKER_ROW,SECTION,AB,AB_2,AB_3,AB_4,AB_5,AB_6,AB_7
+,,,MARKER,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,CONSTANT
+1,TRUE,1,766,,2,,,60,
+2,FALSE,1,,,,,,60,
+3,FALSE,1,,,,,563,,
+4,FALSE,1,,,,54,,351,
+5,FALSE,1,,,,,124,111,
+6,FALSE,1,15,,,7,7,1201,
+7,FALSE,1,11,,,,,,
+8,FALSE,1,1,,16,,,4,
+9,FALSE,1,1,15,,225,65,,
+10,FALSE,1,1,2,102,22,21,,

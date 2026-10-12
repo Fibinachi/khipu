@@ -1,0 +1,20 @@
+# khipu_id: 1000415
+# provenance: Acari
+# region: 
+# museum: Museo Regional de Ica 404591-02
+# nickname: 
+# file_format: .tab
+# data_regime: DC6
+# doc_cluster: deep_hierarchical_grouped
+# template_id: T124
+# segmentation: value_marker
+# n_rows: 6
+# n_cols: 7
+ROW_ID,IS_MARKER_ROW,SECTION,W,W_2,MB,MB_2,MB_3,W_3,W_4
+,,,MARKER,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE
+1,TRUE,,152,,,,,,
+2,FALSE,,33,17,248,24,31,146,15
+3,FALSE,,33,20,16,24,454,10,
+4,FALSE,,33,,224,24,44,515,137
+5,FALSE,,,37,152,,32,118,17
+6,FALSE,5,15,10,127,55,,,

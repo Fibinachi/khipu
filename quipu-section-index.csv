@@ -1,0 +1,329 @@
+KHIPU_ID,N_SECTIONS,IS_COMPOSITE,SECTION_FORMS,WHOLE_TYPE,PROVENANCE
+1000003,1,NO,D,D,Leymebamba
+1000004,2,YES,D+E,E,Leymebamba
+1000005,2,YES,D+D,E,Leymebamba
+1000006,2,YES,D+F,F,Leymebamba
+1000007,4,YES,F+F+F+F,F,Leymebamba
+1000009,2,YES,F+F,F,Leymebamba
+1000010,4,YES,F+B+B+B,F,Leymebamba
+1000012,2,YES,E+F,F,Leymebamba
+1000013,1,NO,C,C,
+1000014,2,YES,C+C,C,
+1000015,1,NO,D,D,
+1000017,1,NO,D,D,
+1000018,2,YES,D+F,F,Leymebamba
+1000019,4,YES,D+D+B+E,E,Leymebamba
+1000020,3,YES,F+F+F,F,Leymebamba
+1000021,3,YES,D+E+D,E,Leymebamba
+1000022,3,YES,D+E+D,E,Leymebamba
+1000023,14,YES,F+D+F+D+D+D+D+D+D+F+D+D+E+F,F,Leymebamba
+1000024,14,YES,D+D+D+D+B+F+D+D+E+E+E+E+D+D,F,Leymebamba
+1000025,14,YES,D+F+D+D+F+F+F+F+D+F+F+F+F+D,F,Leymebamba
+1000029,2,YES,D+F,F,
+1000032,1,NO,E,E,
+1000033,1,NO,E,E,
+1000034,1,NO,E,E,
+1000039,1,NO,B,B,Pachacamac
+1000040,1,NO,E,E,Between Ica and Pisco
+1000041,1,NO,C,C,Pachacamac
+1000042,2,YES,D+B,E,Ica
+1000045,8,YES,C+C+C+D+D+E+E+D,E,Leymebamba
+1000047,1,NO,E,E,Ica
+1000050,2,YES,D+D,E,Marquez
+1000052,1,NO,F,F,Between Ica and Pisco
+1000053,6,YES,B+B+B+B+B+B,B,Ica
+1000056,1,NO,B,C,Pachacamac
+1000057,2,YES,B+C,C,Between Ica and Pisco
+1000058,1,NO,D,D,Between Ica and Pisco
+1000063,8,YES,C+D+E+E+B+E+D+E,E,Between Ica and Pisco
+1000065,1,NO,C,C,Ica
+1000071,2,YES,B+B,B,Ica
+1000076,1,NO,D,D,Ica
+1000077,3,YES,C+D+C,E,Pachacamac
+1000079,2,YES,D+E,E,Ica
+1000080,1,NO,C,C,Marquez
+1000083,4,YES,E+C+F+F,F,Ica
+1000085,7,YES,B+B+E+E+E+B+C,E,Nazca
+1000088,1,NO,C,C,near Lima
+1000089,2,YES,D+E,E,Pachacamac
+1000091,1,NO,E,E,Marquez
+1000094,3,YES,E+D+F,F,Nazca
+1000096,40,YES,A+C+D+C+C+D+E+E+C+E+E+C+D+F+D+E+E+D+F+E+B+D+F+E+C+E+D+D+E+C+D+E+D+E+D+E+F+D+E+B,F,Lluta Valley
+1000097,2,YES,F+F,F,
+1000098,1,NO,D,D,Nazca
+1000099,1,NO,C,C,
+1000103,6,YES,E+E+E+E+E+D,E,Nazca
+1000113,1,NO,B,B,Ica
+1000115,1,NO,E,E,Nazca
+1000118,1,NO,B,B,Ica
+1000119,1,NO,C,C,Pachacamac
+1000120,4,YES,C+A+D+D,E,Pachacamac
+1000121,1,NO,E,E,Ica
+1000124,1,NO,B,B,Ocucaje
+1000127,2,YES,D+E,E,Ica
+1000131,1,NO,B,B,Pachacamac
+1000140,5,YES,F+F+F+F+F,F,Ica
+1000143,1,NO,C,C,
+1000144,3,YES,F+F+D,F,Pachacamac
+1000146,2,YES,D+F,F,Pachacamac
+1000147,3,YES,F+F+F,F,Pachacamac
+1000148,2,YES,F+F,F,Nazca
+1000159,4,YES,D+D+D+D,D,
+1000164,4,YES,B+C+D+B,E,
+1000165,2,YES,D+D,D,probably Central Coast Late Period
+1000176,1,NO,C,C,
+1000180,3,YES,D+D+E,E,
+1000183,5,YES,D+E+F+D+D,F,
+1000184,3,YES,B+B+B,C,
+1000185,3,YES,F+F+F,F,
+1000192,1,NO,E,E,
+1000197,2,YES,D+D,E,
+1000198,2,YES,F+F,F,
+1000200,2,YES,D+D,E,
+1000201,2,YES,F+F,F,Aankoop
+1000207,2,YES,D+B,D,
+1000209,1,NO,F,F,
+1000212,1,NO,D,D,
+1000213,1,NO,B,B,
+1000214,1,NO,D,D,Hacienda Ullujalla y Callengo
+1000221,1,NO,B,B,
+1000228,2,YES,C+C,C,Huacho
+1000229,1,NO,E,E,
+1000230,1,NO,E,E,
+1000231,1,NO,E,E,
+1000233,1,NO,E,E,Peru
+1000234,1,NO,C,C,Peru
+1000235,3,YES,D+D+F,F,"""Maranga, Huaca 1"""
+1000236,2,YES,D+E,E,
+1000238,5,YES,D+F+F+F+E,F,
+1000239,1,NO,F,F,"""Pueblo Libre, Lima, Peru"""
+1000240,2,YES,C+B,B,"""Pueblo Libre, Lima, Peru"""
+1000241,1,NO,E,E,"""Pueblo Libre, Lima, Peru"""
+1000245,1,NO,D,D,Huaquerones
+1000246,2,YES,C+C,C,Huaquerones
+1000249,1,NO,E,E,Huaquerones
+1000250,1,NO,B,C,
+1000251,1,NO,E,E,Huaquerones
+1000255,1,NO,D,D,Huaquerones
+1000258,2,YES,B+B,C,Huaquerones
+1000259,2,YES,B+B,C,
+1000260,2,YES,B+D,D,Huaquerones
+1000261,2,YES,B+D,D,Huaquerones
+1000262,2,YES,B+B,C,
+1000263,2,YES,B+E,E,Huaquerones
+1000264,3,YES,E+D+B,E,Huaquerones
+1000265,1,NO,E,E,
+1000266,1,NO,D,D,
+1000267,1,NO,B,B,
+1000268,1,NO,B,B,
+1000269,1,NO,E,E,
+1000270,2,YES,D+D,E,Santa
+1000271,3,YES,D+D+D,E,Santa
+1000272,1,NO,E,E,Santa
+1000273,3,YES,E+E+E,E,Santa
+1000274,2,YES,D+E,E,Santa
+1000275,3,YES,D+D+E,E,Santa
+1000277,2,YES,B+B,B,
+1000279,7,YES,A+F+F+F+F+F+F,F,Mollepampa
+1000280,2,YES,D+E,E,
+1000285,3,YES,F+D+D,F,
+1000287,5,YES,D+D+D+E+E,E,Nazca
+1000292,9,YES,D+F+F+F+F+F+D+D+F,F,Nazca
+1000293,4,YES,F+F+D+F,F,Paracas
+1000296,1,NO,B,B,
+1000298,1,NO,F,F,"""Playa Miller #6, Arica, Chile"""
+1000299,2,YES,F+F,F,
+1000300,1,NO,F,F,Lluta Valley
+1000301,2,YES,F+F,F,Lluta Valley
+1000302,2,YES,F+F,F,Lluta Valley
+1000304,1,NO,E,E,Atarco
+1000305,1,NO,F,F,Atarco
+1000310,3,YES,E+D+D,E,Peru
+1000312,1,NO,B,B,
+1000313,1,NO,E,E,Huacho
+1000314,2,YES,E+F,F,Pachacamac
+1000315,2,YES,D+D,E,Pachacamac
+1000316,3,YES,F+F+A,F,"""Playa Miller #6, Arica, Chile"""
+1000320,4,YES,D+F+D+B,F,Huacho
+1000321,3,YES,D+F+F,F, 
+1000323,2,YES,D+F,F,Nazca
+1000324,3,YES,D+C+C,E,Pachacamac
+1000325,2,YES,C+D,E,Pachacamac
+1000329,3,YES,D+F+E,F,Paracas
+1000330,1,NO,B,B,
+1000331,1,NO,E,E,
+1000332,4,YES,D+D+E+E,E,
+1000333,4,YES,D+D+E+D,E,Pachacamac
+1000335,1,NO,B,C,unknown
+1000336,2,YES,B+B,B,
+1000340,3,YES,F+F+F,F,unknown
+1000342,5,YES,B+B+B+C+C,C,Pachacamac
+1000344,1,NO,B,B,
+1000345,2,YES,D+F,F,
+1000346,3,YES,B+B+C,C,
+1000351,2,YES,D+D,E,
+1000359,3,YES,B+B+B,C,
+1000361,5,YES,E+E+E+E+D,E,
+1000363,1,NO,C,C,
+1000365,2,YES,C+C,C,
+1000366,2,YES,B+D,E,
+1000368,4,YES,B+F+F+F,F,
+1000369,4,YES,C+C+D+C,E,
+1000371,4,YES,D+E+C+D,E,
+1000374,1,NO,C,C,Huari
+1000375,3,YES,D+D+E,E,
+1000376,1,NO,C,C,
+1000377,1,NO,E,E,unknown
+1000380,1,NO,F,F,
+1000381,2,YES,C+B,B,
+1000382,3,YES,C+C+C,B,
+1000383,1,NO,C,C,
+1000385,2,YES,C+C,C,
+1000390,3,YES,D+D+E,E,
+1000396,1,NO,F,F,"""Huaura Valley, near Lima, on Santa Rosalia Hacienda"""
+1000398,1,NO,D,D,Valle de Ica Hacienda Callango Ocucaje
+1000400,1,NO,F,F,unknown
+1000403,2,YES,D+F,F,unknown
+1000407,2,YES,B+D,E,Valle de Ica Hacienda Callango Ocucaje
+1000408,1,NO,D,D,Valle de Ica Hacienda Callango Ocucaje
+1000413,2,YES,F+F,F,Hacienda Ullujalla y Callengo
+1000415,1,NO,D,D,Acari
+1000418,2,YES,D+F,F,Donation from the collection Belli
+1000419,1,NO,C,C,Valle de Pisco
+1000421,2,YES,B+D,D,Pachacamac
+1000422,8,YES,D+D+D+D+D+B+B+B,E,Pachacamac
+1000431,3,YES,C+D+D,E,Pachacamac
+1000433,2,YES,D+D,E,Pachacamac
+1000436,4,YES,D+D+D+E,E,Pachacamac
+1000444,1,NO,B,C,Pachacamac
+1000446,7,YES,D+D+D+D+D+D+C,E,Pachacamac
+1000448,2,YES,B+F,F,Pachacamac
+1000449,1,NO,E,E,Pachacamac
+1000450,5,YES,B+B+D+B+D,E,Pachacamac
+1000453,2,YES,B+B,C,
+1000454,2,YES,B+C,C,
+1000455,2,YES,E+C,E,
+1000456,1,NO,E,E,
+1000457,1,NO,C,C,
+1000459,1,NO,C,C,
+1000461,1,NO,C,C,
+1000462,1,NO,C,C,
+1000463,1,NO,C,C,
+1000472,3,YES,F+F+F,F,La Molina
+1000474,1,NO,D,D,Ica
+1000477,2,YES,F+D,F,"""Ica Valley, near Callango"""
+1000478,2,YES,C+C,C,unknown
+1000482,1,NO,B,B,Chuquitanta
+1000487,1,NO,B,B,"""Chancay, Central Coast"""
+1000492,2,YES,B+C,B,
+1000493,1,NO,F,F,Chuquitanta
+1000494,1,NO,F,F,Chuquitanta
+1000495,3,YES,F+F+D,F,"""Ica Valley, near Callango"""
+1000496,1,NO,B,B,"""Huando, Chancay, Peru (Gaffron Collection)"""
+1000497,2,YES,D+D,E,"""Hda. Huando, Chancay"""
+1000499,1,NO,E,E,
+1000500,1,NO,E,E,
+1000501,6,YES,E+E+B+E+E+E,E,"""Huaca Perez, Lima (a.k.a Hda. Infantas and Tambo Inca)"""
+1000503,2,YES,D+E,E,"""Huaca Perez, Lima (a.k.a Hda. Infantas and Tambo Inca)"""
+1000504,1,NO,F,F,"""Peru, Fundort: Pachacmac"""
+1000505,1,NO,F,F,Ica
+1000506,2,YES,E+E,E,Huacho
+1000507,3,YES,D+E+D,E,Pachacamac
+1000508,1,NO,E,E,Pachacamac
+1000509,4,YES,F+D+E+E,F,"""Santa Clara, Nazca"""
+1000510,3,YES,B+B+B,B,Pachacamac
+1000511,2,YES,C+B,B,Pachacamac
+1000512,2,YES,C+F,F,Pachacamac
+1000513,1,NO,F,F,Pachacamac
+1000514,1,NO,F,F,unknown
+1000515,1,NO,F,F,unknown
+1000518,3,YES,D+F+D,F,unknown
+1000519,4,YES,E+D+D+D,E,Pachacamac
+1000520,2,YES,E+D,E,Pisco
+1000521,1,NO,E,E,Ica/Pisco
+1000522,2,YES,B+B,B,Ica/Pisco
+1000523,1,NO,E,E,Pachacamac
+1000524,3,YES,D+D+F,F,Pachacamac
+1000526,4,YES,F+F+F+E,F,unknown
+1000527,1,NO,F,F,Pachacamac
+1000528,3,YES,D+D+F,F,Ocucaje
+1000529,2,YES,B+B,B,Pachacamac
+1000530,2,YES,B+B,B,Ica
+1000533,1,NO,E,E,Ica
+1000534,1,NO,B,B,Ica
+1000536,1,NO,D,D,Pachacamac
+1000538,3,YES,B+B+B,C,Pisco
+1000539,4,YES,D+E+B+B,E,Ica
+1000540,2,YES,C+F,F,Pachacamac
+1000541,15,YES,C+C+E+A+E+E+E+B+B+E+E+C+E+B+C,E,Ica/Pisco
+1000542,2,YES,D+E,E,Huacho
+1000543,3,YES,E+D+E,E,Huacho
+1000544,2,YES,B+C,B,unknown
+1000545,2,YES,D+F,F,unknown
+1000546,1,NO,F,F,unknown
+1000547,4,YES,D+D+E+B,E,Ica
+1000549,2,YES,F+F,F,Unknown
+1000551,1,NO,B,B,unknown
+1000552,1,NO,F,F,Ica
+1000553,1,NO,E,E,unknown
+1000554,2,YES,D+F,F,unknown
+1000555,2,YES,B+C,B,Pachacamac
+1000556,1,NO,B,B,Pachacamac
+1000563,2,YES,C+B,C,"Ullujaya, Ocucaje, Ica"
+1000564,10,YES,D+D+D+D+D+D+D+D+D+D,E,unknown
+1000565,2,YES,C+E,E,Costa Sur
+1000567,1,NO,D,D,unknown
+1000570,2,YES,F+B,F,unknown
+1000571,1,NO,E,E,unknown
+1000574,1,NO,F,F,"Región Sur, Quillagua, Valle de Loa"
+1000575,1,NO,F,F,unknown
+1000576,3,YES,F+F+B,F,unknown
+1000577,2,YES,B+D,D,"Armatambo, Lima, Central Coast"
+1000581,1,NO,B,B,unknown
+1000582,1,NO,C,C,unknown
+1000583,1,NO,D,D,unknown
+1000584,2,YES,D+B,E,unknown
+1000586,3,YES,F+E+D,F,unknown
+1000587,1,NO,D,D,unknown
+1000588,1,NO,B,B,unknown
+1000589,1,NO,D,D,unknown
+1000590,2,YES,D+F,F,unknown
+1000591,4,YES,F+D+D+F,F,Pachacamac
+1000593,5,YES,B+B+B+C+C,B,Costa Sur
+1000597,2,YES,F+D,F,Incahuasi
+1000598,3,YES,D+F+F,F,Incahuasi
+1000599,1,NO,F,F,Incahuasi
+1000603,3,YES,F+F+F,F,Incahuasi
+1000604,3,YES,B+B+E,E,Incahuasi
+1000605,3,YES,B+E+E,E,Incahuasi
+1000607,1,NO,F,F,Incahuasi
+1000608,1,NO,E,E,Incahuasi
+1000609,1,NO,F,F,Incahuasi
+1000610,2,YES,F+D,F,Incahuasi
+1000611,3,YES,F+E+E,F,Incahuasi
+1000612,3,YES,E+F+F,F,Incahuasi
+1000613,2,YES,F+F,F,Incahuasi
+1000614,4,YES,F+F+F+D,F,Incahuasi
+1000615,1,NO,E,E,Incahuasi
+1000616,4,YES,D+D+D+E,E,Incahuasi
+1000617,2,YES,E+B,E,Incahuasi
+1000618,2,YES,F+F,F,Incahuasi
+1000619,1,NO,E,E,Incahuasi
+1000622,5,YES,D+D+F+F+D,F,Incahuasi
+1000623,3,YES,C+F+D,F,Incahuasi
+1000624,1,NO,F,F,Incahuasi
+1000625,1,NO,B,B,Incahuasi
+1000629,4,YES,D+E+D+F,F,Incahuasi
+1000633,1,NO,F,F,Incahuasi
+1000634,4,YES,F+F+F+F,F,Incahuasi
+1000635,2,YES,D+F,F,Incahuasi
+1000636,1,NO,C,C,Incahuasi
+1000637,2,YES,D+F,F,Incahuasi
+1000647,1,NO,F,F,Incahuasi
+1000648,2,YES,B+E,E,"Monte de Cacatilla, Valle de Nazca"
+1000649,2,YES,B+B,B,"Huaca San Pedro, Armatambo"
+1000650,4,YES,B+E+B+D,E,"Huaca San Pedro, Armatambo"
+1000654,3,YES,D+B+B,E,"Armatambo, Huaca San Pedro"
+1000656,1,NO,B,B,"Armatambo, Huaca San Pedro"
+1000658,2,YES,D+F,F,"Armatambo, Huaca San Pedro"
+1000659,2,YES,B+D,E,"Armatambo, Huaca San Pedro"

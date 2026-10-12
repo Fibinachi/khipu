@@ -1,0 +1,68 @@
+# khipu_id: 1000444
+# provenance: Pachacamac
+# region: 
+# museum: Museo de Sitio de Pachacamac MSP 1420/RN 43401
+# nickname: HP/AR 025
+# file_format: .flat
+# data_regime: 
+# doc_cluster: 
+# template_id: 
+# segmentation: none
+# n_rows: 55
+# n_cols: 0
+ORDINAL,LEVEL,COLOR1,COLOR2,VALUE,KNOTS
+1,1,MB,KB,,
+2,1,MB,W,,
+3,1,W,,,
+4,1,MB,,,
+5,1,RB,AB,,
+6,1,MB,KB,,
+7,1,MB,W,,
+8,1,W,,,
+9,1,MB,,,
+10,1,RB,AB,,
+11,1,AB,,,
+12,1,MB,W,,
+13,1,W,,,
+14,1,MB,,,
+15,1,RB,AB,,
+16,1,YG,,,
+17,1,MB,KB,,
+18,1,AB,W,,
+19,1,MB,W,,
+20,1,MB,KB,,
+21,1,MB,W,,
+22,1,W,,,
+23,1,MB,,,
+24,1,RB,AB,,
+25,1,MB,KB,,
+26,1,MB,W,,
+27,1,W,,,
+28,1,MB,,,
+29,1,RB,AB,,
+30,1,AB,,,
+31,1,MB,W,,
+32,1,W,,,
+33,1,MB,,,
+34,1,RB,AB,,
+35,1,AB,W,,
+36,1,MB,KB,,
+37,1,AB,W,,
+38,1,MB,W,,
+39,1,MB,W,,
+40,1,W,,,
+41,1,MB,,,
+42,1,RB,AB,,
+43,1,MB,W,,
+44,1,W,,,
+45,1,MB,,,
+46,1,MB,AB,,
+47,1,AB,,,
+48,1,MB,W,,
+49,1,W,,,
+50,1,MB,,,
+51,1,RB,AB,,
+52,1,AB,,,
+53,1,MB,KB,,
+54,1,AB,W,,
+55,1,MB,W,,

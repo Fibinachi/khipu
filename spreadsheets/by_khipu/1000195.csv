@@ -1,0 +1,16 @@
+# khipu_id: 1000195
+# provenance: 
+# region: 
+# museum: "University Museum, University of Pennsylvania" SA4036
+# nickname: 
+# file_format: .flat
+# data_regime: 
+# doc_cluster: 
+# template_id: 
+# segmentation: none
+# n_rows: 3
+# n_cols: 0
+ORDINAL,LEVEL,COLOR1,COLOR2,VALUE,KNOTS
+1,1,NB,W,,
+2,1,W,,,"L:1,S:1"
+3,1,LB,,1,E:1

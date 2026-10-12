@@ -1,0 +1,20 @@
+# khipu_id: 1000106
+# provenance: 
+# region: 
+# museum: "Peabody Museum, Harvard University" 41.52.30/293B
+# nickname: 
+# file_format: .tab
+# data_regime: unclustered
+# doc_cluster: census_format_paired
+# template_id: T026
+# segmentation: color_cycle
+# n_rows: 6
+# n_cols: 6
+ROW_ID,IS_MARKER_ROW,SECTION,R,GG,AB,GG_2,GG_3,AB_2
+,,,VARIABLE,VARIABLE,VARIABLE,CONSTANT,CONSTANT,CONSTANT
+1,FALSE,1,7,,,,,
+2,FALSE,1,5,5,7,6,,7
+3,FALSE,1,9,2,3,,,
+4,FALSE,1,3,,5,,,
+5,FALSE,1,3,,3,,,
+6,FALSE,1,2,,,,,

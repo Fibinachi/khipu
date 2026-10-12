@@ -1,0 +1,44 @@
+# khipu_id: 1000383
+# provenance: 
+# region: 
+# museum: Private Collection: Anna Maria Soldi
+# nickname: 
+# file_format: .tab
+# data_regime: DC2
+# doc_cluster: census_format_paired
+# template_id: T120
+# segmentation: value_marker
+# n_rows: 30
+# n_cols: 8
+ROW_ID,IS_MARKER_ROW,SECTION,DB,DB_2,DB_3,DB_4,DB_5,DB_6,DB_7,DB_8
+,,,MARKER,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE
+1,FALSE,1,6,5,7,,,,,
+2,FALSE,1,6,4,4,7,,,,
+3,FALSE,1,6,5,9,,,,,
+4,FALSE,1,7,8,7,7,,,,
+5,FALSE,1,5,,,,,,,
+6,FALSE,1,6,5,5,,,,,
+7,FALSE,1,6,4,4,5,8,,,
+8,FALSE,1,6,8,7,7,5,5,5,5
+9,FALSE,1,6,5,3,7,7,7,4,7
+10,FALSE,1,6,,,,,,,
+11,FALSE,1,6,5,8,5,7,4,5,
+12,FALSE,1,6,5,5,4,,,,
+13,FALSE,1,6,5,5,4,5,5,,
+14,FALSE,1,6,,,,,,,
+15,FALSE,1,6,,,,,,,
+16,FALSE,1,6,5,4,,,,,
+17,FALSE,1,6,5,,,,,,
+18,FALSE,1,6,,,,,,,
+19,FALSE,1,6,5,7,4,,,,
+20,FALSE,1,5,4,7,5,,,,
+21,FALSE,1,4,5,4,5,,,,
+22,FALSE,1,6,5,5,5,5,,,
+23,FALSE,1,6,4,8,8,4,,,
+24,FALSE,1,6,5,,,,,,
+25,FALSE,1,6,5,,,,,,
+26,FALSE,1,6,5,107,,,,,
+27,FALSE,1,6,5,8,,,,,
+28,FALSE,1,6,5,5,7,5,7,8,9
+29,FALSE,1,6,4,5,,,,,
+30,FALSE,1,6,5,4,5,5,,,

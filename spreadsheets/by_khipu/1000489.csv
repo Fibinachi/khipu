@@ -1,0 +1,31 @@
+# khipu_id: 1000489
+# provenance: Cajamarquilla
+# region: 
+# museum: "American Museum of Natural History, NY" B/3453B
+# nickname: 
+# file_format: .flat
+# data_regime: 
+# doc_cluster: 
+# template_id: 
+# segmentation: none
+# n_rows: 18
+# n_cols: 0
+ORDINAL,LEVEL,COLOR1,COLOR2,VALUE,KNOTS
+1,1,KB,GG,,?:5
+2,1,KB,GG,,?:3
+3,1,KB,GG,,?:5
+4,1,KB,GG,,?:4
+5,1,KB,GG,,?:6
+6,1,KB,GG,,?:3
+7,1,KB,GG,,?:4
+8,1,KB,GG,,?:1
+9,1,KB,GG,,
+10,1,KB,GG,,?:1
+11,1,KB,GG,,?:3
+12,1,KB,GG,,?:3
+13,1,KB,GG,,?:4
+14,1,KB,GG,,?:3
+15,1,KB,GG,,?:2
+16,1,KB,GG,,?:2
+17,1,KB,GG,,?:5
+18,1,KB,GG,,

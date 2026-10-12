@@ -1,0 +1,63 @@
+# khipu_id: 1000009
+# provenance: Leymebamba
+# region: Chachapoyas
+# museum: "Centro Mallqui, Leymebamba, Amazonas" CMA-628/LC1-257C
+# nickname: 
+# file_format: .flat
+# data_regime: 
+# doc_cluster: 
+# template_id: 
+# segmentation: none
+# n_rows: 50
+# n_cols: 0
+ORDINAL,LEVEL,COLOR1,COLOR2,VALUE,KNOTS
+1,1,MB,,59,"'':1,E:9,L:28,S:10"
+2,1,MB,,117,"E:2,L:7,S:3"
+3,1,MB,,32,"E:2,L:1,S:5"
+4,1,AB,MB,61,"E:3,L:1,S:7"
+5,1,KB,,7,"'':1,L:4,S:1"
+6,1,MB,,,"L:2,S:1"
+7,1,AB,MB,,S:4
+8,1,AB,W,12,"'':1,L:3,S:1"
+9,1,W,,15,"'':1,L:2,S:1"
+10,1,W,,32,"L:1,S:3"
+11,1,MB,W,22,"L:1,S:2"
+12,1,MB,W,12,"L:1,S:1"
+13,1,BL,W,9,L:1
+14,1,BL,W,,
+15,1,RL,W,48,"L:1,S:4"
+16,1,RL,AB,13,"L:1,S:1"
+17,1,BL,MB,41,"E:1,S:4"
+18,1,BL,AB,23,"L:1,S:2"
+19,1,BL,MB,11,"E:1,S:1"
+20,1,BL,MB,7,L:1
+21,1,AB,W,,
+22,1,MB,,26,"L:1,S:2"
+23,1,W,,,
+24,1,AB,W,3,L:1
+25,1,MB,AB,24,"L:1,S:2"
+26,1,W,,,S:2
+27,1,W,,3,L:1
+28,1,MB,W,14,"L:1,S:1"
+29,1,W,,159,"L:1,S:6"
+30,1,AB,W,1,E:1
+31,1,MB,W,5,L:1
+32,1,W,,,S:1
+33,1,MB,AB,4,L:1
+34,1,MB,AB,17,"L:1,S:1"
+35,1,W,,,
+36,1,MB,,3,L:1
+37,1,MB,AB,19,"L:1,S:1"
+38,1,AB,,10,S:5
+39,1,MB,,2,L:1
+40,1,MB,W,14,"L:1,S:1"
+41,1,MB,AB,,
+42,1,AB,,2,L:2
+43,1,AB,,3,L:2
+44,1,AB,,1,"E:1,L:1"
+45,1,AB,,,
+46,1,AB,,1,E:1
+47,1,AB,,,
+48,1,?,,,
+49,1,?,,,
+50,1,?,,,

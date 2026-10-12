@@ -1,0 +1,20 @@
+# khipu_id: 1000477
+# provenance: "Ica Valley, near Callango"
+# region: 
+# museum: "American Museum of Natural History, NY" 41.2/6995
+# nickname: 
+# file_format: .tab
+# data_regime: DC2
+# doc_cluster: census_format_paired
+# template_id: T133
+# segmentation: value_marker
+# n_rows: 6
+# n_cols: 11
+ROW_ID,IS_MARKER_ROW,SECTION,MB,MB_2,MB_3,MB_4,MB_5,MB_6,MB_7,MB_8,MB_9,MB_10,MB_11
+,,,MARKER,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,VARIABLE,CONSTANT,CONSTANT,CONSTANT
+1,TRUE,1,46,,75,41,,43,2,6,13,6,15
+2,FALSE,1,5,1,8,6,8,4,,,,,
+3,FALSE,1,5,,3,,4,4,,,,,
+4,FALSE,1,5,4,4,3,2,3,3,9,,,
+5,FALSE,1,5,2,4,,,,,,,,
+6,FALSE,1,5,7,4,4,4,4,7,,,,

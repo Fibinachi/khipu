@@ -1,0 +1,18 @@
+# khipu_id: 1000040
+# provenance: Between Ica and Pisco
+# region: 
+# museum: "Museum für Völkerkunde, Berlin" VA16136
+# nickname: 
+# file_format: .tab
+# data_regime: DC6
+# doc_cluster: deep_sparse_mixed
+# template_id: T009
+# segmentation: white_dividers
+# n_rows: 4
+# n_cols: 41
+ROW_ID,IS_MARKER_ROW,SECTION,GG,W,LB,W_2,W_3,GG_2,W_4,LB_2,W_5,DB,LB_3,LB_4,LB_5,LB_6,LB_7,LB_8,GG_3,LB_9,LB_10,LB_11,LB_12,GG_4,LB_13,LB_14,LB_15,DB_2,LB_16,LB_17,LB_18,LB_19,LB_20,LB_21,GG_5,LB_22,LB_23,LB_24,LB_25,GG_6,LB_26,LB_27,LB_28
+,,,VARIABLE,CONSTANT,VARIABLE,CONSTANT,CONSTANT,CONSTANT,VARIABLE,VARIABLE,CONSTANT,VARIABLE,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT,CONSTANT
+1,FALSE,1,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,FALSE,2,,,14,,,,,13,,129,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,FALSE,3,,,11,,,,5,,,116,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,FALSE,4,,,,,,,,5,,118,,,,,,,1,,8,,,2,6,,,,,,,,,,6,23,8,,,2,,4,

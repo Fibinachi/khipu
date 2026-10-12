@@ -1,0 +1,28 @@
+# khipu_id: 1000149
+# provenance: near Lima
+# region: 
+# museum: "Museum für Völkerkunde, Berlin" VA37859(B)
+# nickname: 
+# file_format: .flat
+# data_regime: 
+# doc_cluster: 
+# template_id: 
+# segmentation: none
+# n_rows: 15
+# n_cols: 0
+ORDINAL,LEVEL,COLOR1,COLOR2,VALUE,KNOTS
+1,1,LK,W,,S:2
+2,1,LK,W,24,"L:1,S:2"
+3,1,LK,W,204,"L:2,S:2"
+4,1,LK,W,204,"L:2,S:2"
+5,1,LK,W,304,"L:2,S:3"
+6,1,LK,W,2013,"L:2,S:3"
+7,1,LK,W,22,"L:1,S:2"
+8,1,LK,W,24,"L:1,S:2"
+9,1,LK,W,24,"L:1,S:2"
+10,1,LK,W,24,"L:1,S:2"
+11,1,LK,W,1000,"L:2,S:2"
+12,1,LK,W,18,"L:1,S:1"
+13,1,W,,,S:3
+14,1,W,,,S:5
+15,1,W,,7,L:1

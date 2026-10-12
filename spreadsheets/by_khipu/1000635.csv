@@ -1,0 +1,100 @@
+# khipu_id: 1000635
+# provenance: Incahuasi
+# region: 
+# museum: Proyecto Incahuasi PAI-008-2016
+# nickname: 
+# file_format: .flat
+# data_regime: 
+# doc_cluster: 
+# template_id: 
+# segmentation: none
+# n_rows: 87
+# n_cols: 0
+ORDINAL,LEVEL,COLOR1,COLOR2,VALUE,KNOTS
+1,1,MB,,,"E:11,L:13,S:4"
+2,1,MB,,,L:2
+3,1,HB,,,
+4,1,AB,,,
+5,1,AB,,,L:1
+6,1,HB,,,"L:1,S:1"
+7,1,HB,,,L:1
+8,1,HB,AB,1,E:1
+9,1,MB,AB,,
+10,1,HB,,,S:1
+11,1,BY,,,L:1
+12,1,GG,,,
+13,1,NB,,,
+14,1,HB,,,L:1
+15,1,AB,,,
+16,1,MB,,,L:1
+17,1,AB,,,
+18,1,AB,,,"L:1,S:1"
+19,1,AB,,,
+20,1,MB,,,"L:1,S:2"
+21,1,MB,HB,1,E:1
+22,1,MB,,,
+23,1,MB,,,L:1
+24,1,KB,,,
+25,1,MB,,,
+26,1,AB,,1,E:1
+27,1,MB,,,
+28,1,MB,AB,,
+29,1,MB,AB,,
+30,1,KB,,,L:1
+31,1,AB,,,
+32,1,MB,,,L:1
+33,1,AB,,,L:1
+34,1,MB,,,L:1
+35,1,AB,,,L:1
+36,1,AB,,,L:1
+37,1,AB,,,S:2
+38,1,AB,,,
+39,1,MB,,1,E:1
+40,1,MB,BY,1,E:1
+41,1,MB,AB,1,E:1
+42,1,MB,,1,E:1
+43,1,AB,,1,E:1
+44,1,MB,,,LL:2
+45,1,HB,,,L:1
+46,1,AB,,,L:1
+47,1,MB,,,S:1
+48,1,HB,GB,1,E:1
+49,1,MB,AB,1,E:1
+50,1,YB,,,L:1
+51,1,AB,RL,,L:1
+52,1,HB,,,L:1
+53,1,AB,,,L:1
+54,1,MB,,,L:1
+55,1,MB,,,L:1
+56,1,MB,,,L:1
+57,1,AB,,,L:1
+58,1,AB,,,S:2
+59,1,AB,,,S:1
+60,1,MB,BY,,"L:1,S:1"
+61,1,BY,,1,E:1
+62,1,MB,,1,E:1
+63,1,RL,LG,1,E:1
+64,1,KB,HB,,L:1
+65,1,BY,,,
+66,1,HB,,,L:1
+67,1,GB,,,S:1
+68,1,AB,,1,E:1
+69,1,HB,GB,1,E:1
+70,1,LG,BY,1,E:1
+71,1,MB,,,
+72,1,LG,,,L:1
+73,1,AB,,,L:1
+74,1,RL,,,L:1
+75,1,GB,,,
+76,1,HB,,,L:1
+77,1,BG,,1,E:1
+78,1,LG,,,L:1
+79,1,AB,,,L:1
+80,1,MB,,,L:1
+81,1,MB,AB,,L:1
+82,1,HB,,,S:1
+83,1,AB,,,L:1
+84,1,AB,,,L:1
+85,1,BY,,,"L:1,S:1"
+86,1,AB,,,
+87,1,AB,,,

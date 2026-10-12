@@ -1,0 +1,26 @@
+# khipu_id: 1000072
+# provenance: Ica
+# region: 
+# museum: "Museum für Völkerkunde, Berlin" VA47125
+# nickname: 
+# file_format: .flat
+# data_regime: 
+# doc_cluster: 
+# template_id: 
+# segmentation: none
+# n_rows: 13
+# n_cols: 0
+ORDINAL,LEVEL,COLOR1,COLOR2,VALUE,KNOTS
+1,1,W,,10,S:8
+2,1,SB,,64,"L:1,S:6"
+3,1,W,,84,"L:1,S:8"
+4,1,AB,,37,"L:1,S:3"
+5,1,W,,81,"E:1,S:8"
+6,1,SB,,9,L:1
+7,1,W,,52,"L:1,S:5"
+8,1,SB,,2,L:1
+9,1,W,,26,"L:1,S:2"
+10,1,AB,,2,L:1
+11,1,AB,,27,"L:1,S:2"
+12,1,AB,,2,L:1
+13,1,AB,,,

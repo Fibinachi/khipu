@@ -1,0 +1,21 @@
+# khipu_id: 1000255
+# provenance: Huaquerones
+# region: Puruchuco
+# museum: Puruchuco Museum 22
+# nickname: 
+# file_format: .tab
+# data_regime: DC2
+# doc_cluster: census_format_paired
+# template_id: T070
+# segmentation: value_marker
+# n_rows: 7
+# n_cols: 5
+ROW_ID,IS_MARKER_ROW,SECTION,AB,MB,AB_2,YB,W
+,,,MARKER,VARIABLE,VARIABLE,VARIABLE,VARIABLE
+1,TRUE,1,,3,,,
+2,FALSE,1,2,2,2,3,2
+3,FALSE,2,2,3,3,,
+4,FALSE,2,2,3,5,5,
+5,FALSE,2,,,6,,
+6,FALSE,2,6,7,7,4,6
+7,FALSE,2,49,,,7,
