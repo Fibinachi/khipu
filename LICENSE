@@ -1,0 +1,42 @@
+# License
+
+## Khipu Structural Specification (structural-spec/)
+
+The khipu structural specification, spreadsheet-to-khipu encoder, conformance
+tests, visualizations, and all associated documentation in `structural-spec/`
+(excluding the KDB recovery files listed below) are licensed under the
+
+**Creative Commons Attribution 4.0 International License (CC BY 4.0)**
+
+You are free to:
+
+- **Share** — copy and redistribute the material in any medium or format
+- **Adapt** — remix, transform, and build upon the material for any purpose,
+  including commercially
+
+Under the following terms:
+
+- **Attribution** — You must give appropriate credit, provide a link to the
+  license, and indicate if changes were made. You may do so in any reasonable
+  manner, but not in any way that suggests the licensor endorses you or your use.
+
+Full license text: https://creativecommons.org/licenses/by/4.0/legalcode
+
+Copyright 2026 Charles Prescott.
+
+## A note on commercialization
+
+If you can figure out how to make money turning a spreadsheet into a khipu —
+a product, a service, an art piece, whatever — go do it. You deserve the money.
+The license already allows it. Just give credit.
+
+— Charles Prescott
+
+## KDB Recovery Record (pre-existing files)
+
+The Harvard Khipu Database recovery files (`MANIFEST.csv`,
+`recover_kdb_wayback.py`, `07_kdb_corpus_findings.md`,
+`10_field_sheet_findings.md`, and the recovery README) retain their original
+licensing: `recover_kdb_wayback.py` under the MIT License; all other recovery
+files under CC BY 4.0. See `structural-spec/README.md` for the full rights
+statement. By Edinson Sánchez and Claude.

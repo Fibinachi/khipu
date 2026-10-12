@@ -90,3 +90,9 @@ control — rebuild them from the scripts and source data.
 - Urton, G., & Brezine, C. J. (2005). Khipu Accounting in Ancient Peru. *Science*, 309(5737), 1065–1067.
 - Thompson, K. M. (2025). A Numerical Connection Between Two Khipus. *Ñawpa Pacha*, 45(1), 83–104.
 - Open Khipu Repository: https://github.com/khipulab/open-khipu-repository
+
+## License
+
+The structural spec, encoder, and associated work are **CC BY 4.0** — use it for
+anything, including commercially, with attribution. If you can monetize turning
+a spreadsheet into a khipu, you deserve the money. See [LICENSE](LICENSE).
