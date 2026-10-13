@@ -1,9 +1,9 @@
-# Exploration Failures Log
+# Known Failures Log
 
-**Purpose:** A complete record of hypotheses tested and abandoned, solutions
-tried that did not work, and null results. Every entry closes with what the
-failure taught us. This is the other half of the research record — what we
-tried, not just what survived.
+**Purpose:** A record of hypotheses tested and abandoned, solutions
+tried that did not work, and null results. Reconstructed 2026-10-12 from
+the test reports — this is a retrospective compilation, not a contemporaneous
+lab notebook. Every entry closes with what the failure taught us.
 
 **Date:** 2026-10-12
 **Corpus:** Open Khipu Repository (612 khipu), Khipu Field Guide (66 khipu)
@@ -217,17 +217,49 @@ work, not that the diagram looks plausible.
 
 ---
 
+## Typology note: four document types vs six form types
+
+Two different classifications operate at different levels. The **six form
+types** (A–F: tally strip, flat register, simple list, grouped account,
+hierarchical ledger, deep hierarchy) classify by architectural structure —
+depth, pendant count, color count. The **four document types** (census
+register, bulk tally, custodial warehouse ledger, sparse working ledger)
+classify by inferred function, combining structure with value profiles,
+color-group idioms, and published anchors (Santa, Inkawasi). Form is
+observable; function is inferred. A single form type can serve multiple
+document types and vice versa.
+
+---
+
 ## Methodological caveats (acknowledged, not yet fixed)
 
 1. **Multiple comparisons:** ~40 reports, dozens of tests, no correction.
    Core structural claims (R1–R3) rest on universal quantification, not
    p-values, and are unaffected. The interpretive layer (syntax tests,
    contrast claims) needs permutation baselines.
-2. **Reproducibility:** hardcoded paths, gitignored database, no
+2. **Asymmetric failure attribution:** when R4/R6 fail, the data is blamed
+   (stub records, misattributed IDs); when R1–R3 pass, structure is credited.
+   Without pre-registered data-quality exclusions, any rule can survive this
+   way. The honest fix is to define exclusion criteria before testing, not
+   after inspecting failures. Not yet done.
+3. **R1–R3 circularity risk:** the rules were derived from OKR data and
+   tested on OKR data. The KFG out-of-sample test (n=66) and funerary test
+   (n=22) are the independent evidence, and both samples are small. A larger
+   independent corpus would strengthen this substantially.
+4. **Pre-sized blank untested against size:** primary cord length correlates
+   with pendant count (r=0.67), but more pendants mechanically need more cord.
+   The allocation-metadata reading needs a test controlling for pendant count
+   (e.g., residual length after regressing on count, compared across document
+   types). Not yet done.
+5. **Spreadsheet-model arithmetic scan:** 361/612 khipu (59%) show same-color
+   arithmetic matches, reported without a null baseline. With mostly zero and
+   small values, chance matches should be common. Needs a permutation test
+   before any claim is made from it.
+6. **Reproducibility:** hardcoded paths, gitignored database, no
    requirements file, 60+ one-off scripts. Pipeline is not runnable
    from a clean clone.
-3. **Cluster stability:** six form types have silhouette scores and
+7. **Cluster stability:** six form types have silhouette scores and
    95.6% tree agreement but no bootstrap or alternate-k test.
-4. **Site non-independence:** khipu from the same site/collection are
+8. **Site non-independence:** khipu from the same site/collection are
    not independent observations. KFG out-of-sample replication partially
    mitigates for structural rules; not addressed for interpretive claims.
