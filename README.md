@@ -33,10 +33,15 @@ Full documentation: [`structural-spec/README.md`](structural-spec/README.md)
 **Authors:** Edinson Sánchez (independent researcher, Ecuador) · Claude (AI collaborator).
 `recover_kdb_wayback.py` under MIT; all other recovery files under CC BY 4.0.
 
-### 2. Khipu Structural Specification (v0.2)
+### 2. Document Specification for Inca Accounting Khipu (v0.2)
 
-A formal six-rule structural grammar for khipu, modeled on ECMA-404 (JSON spec).
+A formal document specification for Inca accounting khipu, modeled on ECMA-404 (JSON spec).
 If the spec is complete, we can encode — not just decode.
+
+**Scope:** administrative and accounting khipu only. Funerary khipu (26 in the OKR,
+a distinct document class) are excluded from the structural analysis, as are
+post-conquest phonetic khipu. The claim is about the Inca state's bureaucratic
+record-keeping, not about every knotted cord ever tied.
 
 **The six rules:**
 
@@ -47,10 +52,25 @@ If the spec is complete, we can encode — not just decode.
 | R3 | Subsidiaries do not attach directly to primary | 403/403 (100%) | 49/49 (100%) |
 | R4 | Every cord has recorded color | 439/612 (71.7%) | 66/66 (100%) |
 | R5 | At least one knotted cord | 593/612 (96.9%) | 65/66 (98.5%) |
-| R6 | Proposed top-cord tree | 4/25 (16%) | Not testable |
+| R6 | Top cords form a valid tree above the primary | 4/25 (16%) | Not testable |
 
-R1–R3 replicate at 100% on an independent dataset (Khipu Field Guide, 66 khipu
-absent from the OKR snapshot). R6 remains unresolved.
+R1–R3 are structural universals: they hold at 100% on the OKR corpus and
+replicate at 100% on an independent dataset (Khipu Field Guide, 66 khipu
+absent from the OKR snapshot). They also hold at 100% on 22 Leymebamba
+funerary khipu — a distinct document class excluded from the accounting
+analysis — suggesting the structural core describes khipu construction
+generally, not just bureaucratic convention.
+
+On the failures: every R4/R5 non-conformant specimen examined is an
+incomplete database record, not a structural violation. The worst offenders
+(e.g., 1000088: 195 cords, zero knots, zero colors) are data-entry stubs
+where cord counts were logged but never filled in. R6 failures trace to
+misattributed parent IDs in the source data — top cords on khipu 1000024
+carry PENDANT_FROM values pointing at khipu 1000023, a cross-contamination
+between consecutive records, not a real attachment violation. No examined
+khipu in either corpus violates the structural rules; the non-conformance
+is in the data, not in the khipu. R4–R5 remain reported with rates as a
+data-quality caveat. R6 is unresolved pending source verification.
 
 **Key files** (under `structural-spec/`):
 
@@ -79,7 +99,7 @@ JSON khipu tree plus ASCII visualization, with a spec conformance check.
 **Data sources:**
 
 - Open Khipu Repository (OKR): https://github.com/khipulab/open-khipu-repository
-- Khipu Field Guide: https://khipu-field-guide.example (66 Excel files parsed)
+- Khipu Field Guide: source files parsed via `scripts/download_kfg.py` (66 Excel files)
 
 The SQLite databases (`okr-khipu.db`, `kfg-khipu.db`) are excluded from version
 control — rebuild them from the scripts and source data.
