@@ -2,6 +2,8 @@
 
 Computational khipu research: data recovery, structural grammar, and generative encoding.
 
+Follow the analysis: [GRID Keeper](https://gridkeeper.substack.com/), a 14QBD273 project.
+
 ## What's here
 
 This repository has two main components:
